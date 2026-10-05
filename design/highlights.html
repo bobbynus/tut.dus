@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<title>ТУТ.DUS — обложки «Актуального»</title>
+<link rel="stylesheet" href="brand.css">
+<style>
+  /* Сторис 1080×1920. Instagram вырезает из центра круг, иконка держится в пределах ~560px. */
+  .hl { width: 1080px; height: 1920px; padding: 0; background: var(--red); color: var(--white);
+        display: flex; align-items: center; justify-content: center }
+  .hl svg { width: 640px; height: 640px; fill: none; stroke: var(--white); stroke-width: 34; stroke-linecap: round; stroke-linejoin: round }
+  .hl .txt { font: 900 400px/1 var(--display); letter-spacing: -.03em }
+  .hl .txt small { font-size: 200px }
+</style>
+</head>
+<body>
+
+<!-- О нас: пин-метка -->
+<section class="slide hl" id="hl-about">
+  <svg viewBox="0 0 100 100" style="stroke-width:6"><path d="M50 92 C50 92 20 60 20 40 a30 30 0 0 1 60 0 C80 60 50 92 50 92Z"/><circle cx="50" cy="40" r="10"/></svg>
+</section>
+
+<!-- Афиша: календарь -->
+<section class="slide hl" id="hl-events">
+  <svg viewBox="0 0 100 100" style="stroke-width:6"><rect x="14" y="20" width="72" height="66" rx="10"/><path d="M14 40 H86 M34 12 V28 M66 12 V28"/><circle cx="36" cy="60" r="3" fill="#fff"/><circle cx="50" cy="60" r="3" fill="#fff"/><circle cx="64" cy="60" r="3" fill="#fff"/><circle cx="36" cy="74" r="3" fill="#fff"/></svg>
+</section>
+
+<!-- Бесплатно: 0 € -->
+<section class="slide hl" id="hl-free">
+  <div class="txt">0<small>€</small></div>
+</section>
+
+<!-- С детьми: воздушный шар -->
+<section class="slide hl" id="hl-kids">
+  <svg viewBox="0 0 100 100" style="stroke-width:6"><ellipse cx="50" cy="38" rx="24" ry="28"/><path d="M46 66 L50 72 L54 66 M50 72 C44 80 56 84 50 94"/></svg>
+</section>
+
+<!-- Врачи: медицинский крест -->
+<section class="slide hl" id="hl-doctors">
+  <svg viewBox="0 0 100 100" style="stroke-width:6"><path d="M38 14 H62 V38 H86 V62 H62 V86 H38 V62 H14 V38 H38 Z"/></svg>
+</section>
+
+<!-- Важное: восклицательный знак -->
+<section class="slide hl" id="hl-important">
+  <svg viewBox="0 0 100 100" style="stroke-width:6"><path d="M50 12 L90 84 H10 Z"/><path d="M50 38 V60"/><circle cx="50" cy="72" r="3" fill="#fff"/></svg>
+</section>
+
+<!-- Сотрудничество: @ -->
+<section class="slide hl" id="hl-contact">
+  <div class="txt">@</div>
+</section>
+
+</body>
+</html>
