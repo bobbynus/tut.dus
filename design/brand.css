@@ -1,0 +1,84 @@
+/* ТУТ.DUS — бренд. Холст 1080×1350 (4:5, рекомендованный Instagram для ленты). */
+@import url("node_modules/@fontsource/unbounded/700.css");
+@import url("node_modules/@fontsource/unbounded/900.css");
+@import url("node_modules/@fontsource/golos-text/400.css");
+@import url("node_modules/@fontsource/golos-text/500.css");
+@import url("node_modules/@fontsource/golos-text/700.css");
+
+:root {
+  --red: #e2001a;      /* красный Дюссельдорфа */
+  --ink: #111214;
+  --paper: #f1f2f4;
+  --white: #ffffff;
+  --grey: #6d7178;
+  --display: "Unbounded", sans-serif;
+  --body: "Golos Text", sans-serif;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0 }
+body { background: #888; font-family: var(--body); display: grid; gap: 40px; padding: 40px; justify-content: center }
+
+.slide {
+  width: 1080px; height: 1350px; position: relative; overflow: hidden;
+  padding: 96px 88px; display: flex; flex-direction: column;
+  background: var(--paper); color: var(--ink);
+}
+.slide.red  { background: var(--red);  color: var(--white) }
+.slide.ink  { background: var(--ink);  color: var(--white) }
+.square { width: 1080px; height: 1080px }
+
+/* шапка и подвал на каждом слайде */
+.top, .bottom { display: flex; justify-content: space-between; align-items: center;
+  font: 500 26px/1 var(--body); letter-spacing: .04em }
+.bottom { margin-top: auto }
+.logo { font: 900 30px/1 var(--display); letter-spacing: -.01em }
+.logo i { font-style: normal; opacity: .55 }
+.muted { opacity: .6 }
+
+.eyebrow { font: 700 26px/1 var(--display); letter-spacing: .12em; text-transform: uppercase; color: var(--red); margin-bottom: 40px }
+.red .eyebrow, .ink .eyebrow { color: inherit; opacity: .7 }
+.ink .eyebrow.accent { color: var(--red); opacity: 1 }
+
+h1 { font: 900 84px/1.05 var(--display); letter-spacing: -.02em; text-wrap: balance }
+h2 { font: 700 68px/1.1 var(--display); letter-spacing: -.015em; text-wrap: balance }
+p.lead { font: 400 40px/1.4 var(--body); margin-top: 44px; max-width: 860px }
+p.small { font: 400 32px/1.4 var(--body) }
+
+.content { margin-block: auto; display: flex; flex-direction: column }
+
+/* обложка */
+.wordmark { font: 900 340px/0.8 var(--display); letter-spacing: -.04em; margin-left: -14px }
+.tag {
+  display: inline-flex; align-items: center; gap: 18px; align-self: flex-start;
+  background: var(--ink); color: var(--white); border-radius: 18px;
+  font: 900 92px/1 var(--display); padding: 22px 34px 22px 26px; margin-top: 36px;
+}
+.tag::before { content: ""; width: 26px; height: 26px; border-radius: 50%; background: var(--paper); box-shadow: inset 0 0 0 6px var(--red) }
+.swipe { font: 700 30px/1 var(--display); display: flex; align-items: center; gap: 16px }
+.swipe b { display: inline-grid; place-items: center; width: 72px; height: 72px; border-radius: 50%; background: var(--white); color: var(--red); font-size: 36px }
+
+/* списки */
+.list { display: grid; gap: 44px; margin-top: 64px }
+.item { display: grid; grid-template-columns: 250px 1fr; gap: 32px; align-items: baseline;
+  border-top: 2px solid currentColor; padding-top: 26px; border-color: rgba(255,255,255,.25) }
+.paper .item { border-color: rgba(17,18,20,.15) }
+.item .k { font: 700 23px/1.3 var(--display); text-transform: uppercase; letter-spacing: .06em; color: var(--red) }
+.red .item .k { color: var(--white); opacity: .7 }
+.item .v { font: 500 38px/1.35 var(--body) }
+
+/* чат в директ */
+.chat { display: grid; gap: 20px; margin-top: 64px }
+.bubble { font: 500 34px/1.35 var(--body); padding: 24px 32px; border-radius: 34px; max-width: 760px }
+.bubble.me { justify-self: end; background: var(--ink); color: var(--white); border-bottom-right-radius: 10px }
+.bubble.bot { background: var(--white); border-bottom-left-radius: 10px; box-shadow: 0 2px 0 rgba(0,0,0,.06) }
+.bubble.bot .row { display: flex; justify-content: space-between; gap: 24px; font-size: 30px; padding-top: 12px; border-top: 1px solid #e3e4e7; margin-top: 12px }
+.bubble.bot .row span:last-child { color: var(--red); font-weight: 700; white-space: nowrap }
+.soon { display: inline-block; background: var(--red); color: var(--white); font: 700 24px/1 var(--display); letter-spacing: .1em; padding: 12px 18px; border-radius: 99px; text-transform: uppercase; margin-bottom: 36px; align-self: flex-start }
+
+/* районы — деталь, которая есть только у этого города */
+.districts { display: flex; flex-wrap: wrap; gap: 14px; margin-top: 56px }
+.districts span { font: 500 30px/1 var(--body); padding: 16px 24px; border-radius: 99px; border: 2px solid rgba(17,18,20,.18) }
+.districts span.hot { background: var(--red); border-color: var(--red); color: var(--white) }
+
+.big-close { font: 900 116px/0.95 var(--display); letter-spacing: -.03em; margin-top: 72px }
+.big-close em { font-style: normal; color: var(--red) }
