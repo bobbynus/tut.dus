@@ -37,9 +37,8 @@ def fortuna(report):
                 "description": f"{comp}, {m.get('group', {}).get('groupName', '')}".strip(", "),
                 "source": "OpenLigaDB", "team": "Fortuna", "away": not home,
             })
-        if out:
-            report.append(f"✓ Fortuna ({lg}, сезон {season}): {len(out)} матчей")
-            break
+    leagues = sorted({m["description"].split(",")[0] for m in out})
+    report.append(f"✓ Fortuna (OpenLigaDB, сезон {season}): {len(out)} матчей — {', '.join(leagues)}")
     return out
 
 
@@ -124,4 +123,21 @@ def tidy_deg(events):
         e["team"], e["away"] = "DEG", not home
         e["venue"] = e.get("venue") or ("PSD Bank Dome" if home else "на выезде")
         e["description"] = "DEL2, хоккей"
+    return events
+
+
+def tidy_fortuna(events):
+    """Матчи Fortuna со страницы kicker (через Gemini): кубки, товарищеские — то, чего нет в OpenLigaDB."""
+    for e in events:
+        if e.get("source") != "Fortuna (kicker)":
+            continue
+        m = re.match(r"\s*(.+?)\s+[-–—:]\s+(.+?)\s*$", e.get("title", ""))
+        if not m:
+            continue
+        a, b = m.groups()
+        home = "Düsseldorf" in a or "Fortuna" in a
+        opp = b if home else a
+        e["title"] = f"Fortuna — {opp}" if home else f"{opp} — Fortuna"
+        e["team"], e["away"] = "Fortuna", not home
+        e["category"] = "спорт"
     return events

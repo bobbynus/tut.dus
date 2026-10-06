@@ -173,9 +173,12 @@ def keep(ev):
 def merge(events):
     best = {}
     for ev in events:
-        k = norm(ev["title"])[:32] + ev["date"]
+        k = ("match:" + ev["team"] + ev["date"]) if ev.get("team") else norm(ev["title"])[:32] + ev["date"]
         cur = best.get(k)
-        if not cur or sum(bool(v) for v in ev.values()) > sum(bool(v) for v in cur.values()):
+        better = sum(bool(v) for v in ev.values()) > sum(bool(v) for v in (cur or {}).values())
+        if cur and cur.get("team") and cur.get("source") in ("OpenLigaDB", "DEG iCal"):
+            better = False  # официальные данные не заменяем извлечёнными
+        if not cur or better:
             if cur: ev.setdefault("also_in", []).append(cur["source"])
             best[k] = ev
         else:
@@ -229,11 +232,11 @@ def main():
     report.append("✓ Ежегодные события (annual.json)")
     from traffic import closures
     events += closures(report)
-    from sports import fortuna, deg, tidy_deg
+    from sports import fortuna, deg, tidy_deg, tidy_fortuna
     deg_ical = deg(report)
     if deg_ical:  # официальный календарь точнее — версию Gemini отбрасываем
         events = [e for e in events if e.get("source") != "DEG (расписание)"]
-    events = tidy_deg(events) + fortuna(report) + deg_ical
+    events = tidy_fortuna(tidy_deg(events)) + fortuna(report) + deg_ical
 
     if GEMINI_KEY:  # список моделей не расходует лимит запросов
         try:
