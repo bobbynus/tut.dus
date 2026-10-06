@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T11:48",
+ "generated_at": "2026-10-06T11:50",
  "count": 122,
  "events": [
   {
@@ -1887,6 +1887,7 @@
    "horizon_days": 400,
    "big": true,
    "also_in": [
+    "visitduesseldorf.de",
     "visitduesseldorf.de"
    ]
   },
@@ -1922,6 +1923,7 @@
    "horizon_days": 400,
    "big": true,
    "also_in": [
+    "rheinkirmes-duesseldorf.de",
     "rheinkirmes-duesseldorf.de"
    ]
   },
