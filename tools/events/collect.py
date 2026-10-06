@@ -18,6 +18,9 @@ TODAY = date.today()
 HORIZON = TODAY + timedelta(days=CFG.get("days_ahead", 60))
 LOCALITIES = CFG["localities"]
 report = []
+OTHER_CITIES = (r"\b(köln|koeln|cologne|essen|dortmund|bonn|duisburg|wuppertal|krefeld|bochum|mönchengladbach|aachen|"
+                r"oberhausen|kleve|solingen|remscheid|leverkusen|mülheim|gelsenkirchen|moers|viersen|hagen|"
+                r"bergisch|klingenhalle|obex)\b")
 
 
 def fetch(url):
@@ -181,7 +184,7 @@ def keep(ev):
     if end_d < TODAY or d > HORIZON or not ev.get("title"):
         return False
     place = f"{ev.get('locality','')} {ev.get('address','')} {ev.get('venue','')}".lower()
-    known_city = re.search(r"\b(köln|koeln|cologne|essen|dortmund|bonn|duisburg|wuppertal|krefeld|bochum|mönchengladbach|aachen)\b", place)
+    known_city = re.search(OTHER_CITIES, place)
     return not (known_city and not any(l in place for l in LOCALITIES))
 
 
