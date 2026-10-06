@@ -1,0 +1,55 @@
+{
+ "list": [
+  {
+   "time": "",
+   "title": "The Cinematic Orchestra",
+   "place": "Henkel-Saal"
+  },
+  {
+   "time": "",
+   "title": "Simple Plan, Neck Deep",
+   "place": "Mitsubishi Electric HAL"
+  },
+  {
+   "time": "",
+   "title": "Fünf Sterne Deluxe",
+   "place": "Rheinterrasse"
+  },
+  {
+   "time": "",
+   "title": "Symba",
+   "place": "Rheingold-Saal"
+  },
+  {
+   "time": "",
+   "title": "Apache 207",
+   "place": "PSD Bank Dome"
+  }
+ ],
+ "highlights": [
+  {
+   "title": "The Cinematic Orchestra",
+   "text": "Отличная возможность насладиться живым выступлением коллектива в Henkel-Saal.",
+   "time": "",
+   "place": "Henkel-Saal",
+   "price": "",
+   "tag": "концерт"
+  },
+  {
+   "title": "Simple Plan, Neck Deep",
+   "text": "Концерт популярных рок-групп на большой арене Mitsubishi Electric HALLE.",
+   "time": "",
+   "place": "Mitsubishi Electric HAL",
+   "price": "",
+   "tag": "концерт"
+  },
+  {
+   "title": "Apache 207",
+   "text": "Масштабное концертное шоу известного артиста на площадке PSD Bank Dome.",
+   "time": "",
+   "place": "PSD Bank Dome",
+   "price": "от 110 €",
+   "tag": "концерт"
+  }
+ ]
+}
