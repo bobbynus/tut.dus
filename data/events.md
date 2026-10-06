@@ -1,6 +1,6 @@
 # События Дюссельдорфа
 
-Собрано 06.10.2026 11:48: 122 событий (из 283 найденных до фильтра и удаления дублей).
+Собрано 06.10.2026 11:50: 122 событий (из 283 найденных до фильтра и удаления дублей).
 
 
 ## Чт 06.03
@@ -317,3 +317,4 @@
 - ✓ Autobahn: 7 перекрытий в радиусе 15 км
 - ✓ DEG (iCal): 52 матчей
 - ✓ Fortuna (bl3, сезон 2026): 38 матчей
+- · Доступные модели Flash: gemini-2.5-flash, gemini-2.5-flash-image, gemini-2.5-flash-lite, gemini-2.5-flash-native-audio-latest, gemini-2.5-flash-native-audio-preview-09-2025, gemini-2.5-flash-native-audio-preview-12-2025, gemini-2.5-flash-preview-tts, gemini-3-flash-preview, gemini-3.1-flash-image, gemini-3.1-flash-image-preview, gemini-3.1-flash-lite, gemini-3.1-flash-lite-image, gemini-3.1-flash-lite-preview, gemini-3.1-flash-live-preview, gemini-3.1-flash-tts-preview, gemini-3.5-flash, gemini-3.5-flash-lite, gemini-3.6-flash, gemini-3.7-flash, gemini-3.8-flash, gemini-3.8-flash-lite-tts, gemini-3.8-flash-tts, gemini-flash-latest, gemini-flash-lite-latest, gemini-omni-1.1-flash, gemini-omni-flash-preview
