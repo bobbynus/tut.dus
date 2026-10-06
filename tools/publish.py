@@ -7,7 +7,7 @@
   "status": "scheduled" | "draft",
   "publish_at": "2026-10-06T19:00:00+02:00",
   "caption_file": "caption.txt",
-  "media": ["s1.png", "s2.png"],      # для reel/story — один файл
+  "media": ["s1.png", "s2.png"],      # reel — один файл; story — по сторис на файл
   "cover": "cover.png",               # необязательно, обложка reel
   "share_to_feed": true               # reel: показывать в ленте
 }
@@ -106,8 +106,14 @@ def publish(post_dir, spec):
             p["cover_url"] = public_url(post_dir, spec["cover"])
         container = call("POST", f"{USER}/media", **p)["id"]
     elif kind == "story":
-        p, _ = media_params(post_dir, media[0])
-        container = call("POST", f"{USER}/media", media_type="STORIES", **p)["id"]
+        # несколько файлов — несколько сторис подряд, в указанном порядке
+        ids = []
+        for name in media:
+            p, _ = media_params(post_dir, name)
+            cid = call("POST", f"{USER}/media", media_type="STORIES", **p)["id"]
+            wait_ready(cid, name)
+            ids.append(call("POST", f"{USER}/media_publish", creation_id=cid)["id"])
+        return {"media_ids": ids, "published_at": datetime.now(timezone.utc).isoformat()}
     else:
         raise RuntimeError(f"неизвестный тип поста: {kind}")
 
@@ -148,7 +154,7 @@ def main():
                 continue
             result = publish(post_dir, spec)
             (post_dir / "published.json").write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n")
-            print(f"✓ {post_dir.name}: опубликован {result['permalink']}")
+            print(f"✓ {post_dir.name}: опубликован {result.get('permalink') or ', '.join(result.get('media_ids', []))}")
         except Exception as e:  # продолжаем с остальными постами
             failed = True
             print(f"✗ {post_dir.name}: {e}")
