@@ -1,0 +1,52 @@
+name: Instagram token — get
+
+# Обменивает одноразовый код из входа в Instagram на долгоживущий токен (60 дней)
+# и сам записывает его в секреты IG_ACCESS_TOKEN и IG_USER_ID. Токен нигде не печатается.
+#
+# Нужны секреты: IG_APP_ID, IG_APP_SECRET (Instagram App ID / Secret со страницы
+# «API setup with Instagram login») и GH_PAT (ключ GitHub с правом записи секретов).
+on:
+  workflow_dispatch:
+    inputs:
+      code:
+        description: "Код из адресной строки после входа (всё после code=)"
+        required: true
+
+env:
+  REDIRECT_URI: https://github.com/bobbynus/tut.dus/
+
+jobs:
+  token:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Exchange code for long-lived token
+        env:
+          APP_ID: ${{ secrets.IG_APP_ID }}
+          APP_SECRET: ${{ secrets.IG_APP_SECRET }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+          RAW_CODE: ${{ inputs.code }}
+        run: |
+          set -euo pipefail
+          for v in APP_ID APP_SECRET GH_TOKEN; do [ -n "${!v}" ] || { echo "Секрет для $v не задан"; exit 1; }; done
+          CODE="${RAW_CODE%%#*}"; CODE="${CODE#*code=}"
+          echo "::add-mask::$CODE"
+
+          SHORT=$(curl -sS -X POST https://api.instagram.com/oauth/access_token \
+            -F client_id="$APP_ID" -F client_secret="$APP_SECRET" \
+            -F grant_type=authorization_code -F redirect_uri="$REDIRECT_URI" -F code="$CODE")
+          SHORT_TOKEN=$(echo "$SHORT" | jq -r '.access_token // empty')
+          [ -n "$SHORT_TOKEN" ] || { echo "Обмен кода не удался: $(echo "$SHORT" | jq -c '.error_message // .error // .')"; exit 1; }
+          echo "::add-mask::$SHORT_TOKEN"
+
+          LONG=$(curl -sS "https://graph.instagram.com/access_token?grant_type=ig_exchange_token&client_secret=$APP_SECRET&access_token=$SHORT_TOKEN")
+          TOKEN=$(echo "$LONG" | jq -r '.access_token // empty')
+          [ -n "$TOKEN" ] || { echo "Долгий токен не получен: $(echo "$LONG" | jq -c '.error // .')"; exit 1; }
+          echo "::add-mask::$TOKEN"
+
+          ME=$(curl -sS "https://graph.instagram.com/v23.0/me?fields=user_id,username&access_token=$TOKEN")
+          USER_ID=$(echo "$ME" | jq -r '.user_id // empty')
+          [ -n "$USER_ID" ] || { echo "Не удалось прочитать аккаунт: $(echo "$ME" | jq -c '.error // .')"; exit 1; }
+
+          gh secret set IG_ACCESS_TOKEN --body "$TOKEN" -R "$GITHUB_REPOSITORY"
+          gh secret set IG_USER_ID --body "$USER_ID" -R "$GITHUB_REPOSITORY"
+          echo "Готово: аккаунт @$(echo "$ME" | jq -r .username), токен на $(( $(echo "$LONG" | jq -r .expires_in) / 86400 )) дней сохранён."
