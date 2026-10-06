@@ -1,0 +1,55 @@
+name: Clock
+
+# Надёжные «часы» вместо ненадёжного cron GitHub: один длинный запуск (~5,7 ч),
+# каждые 4 минуты публикует посты, у которых подошло время, и запускает сбор/сторис,
+# если они пропущены. В конце перезапускает сам себя. Остановить: Actions → Clock → Disable workflow.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "41 * * * *"   # страховка, если цепочка оборвётся
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: clock
+  cancel-in-progress: false
+
+jobs:
+  tick:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - uses: actions/checkout@v4
+      - name: Tick every 4 minutes
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHANNEL: ${{ secrets.TG_CHANNEL }}
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "tut.dus bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          end=$(( $(date +%s) + 340*60 ))
+          declare -A dispatched
+          while [ "$(date +%s)" -lt "$end" ]; do
+            git pull -q --rebase || true
+            GITHUB_SHA=$(git rev-parse HEAD) python3 tools/publish.py || echo "::warning::publish: ошибка, повтор на следующем тике"
+            if [ -n "$(git status --porcelain posts)" ]; then
+              git add posts && git commit -qm "Published [skip ci]" && (git pull -q --rebase && git push -q || echo "::warning::push не удался")
+            fi
+            for wf in $(python3 tools/clock.py); do
+              key="$wf-$(TZ=Europe/Berlin date +%F)"
+              if [ -z "${dispatched[$key]:-}" ]; then
+                gh workflow run "$wf" --ref main && echo "▶ запущен $wf" && dispatched[$key]=1
+              fi
+            done
+            sleep 240
+          done
+      - name: Restart myself
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run clock.yml --ref main
