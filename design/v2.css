@@ -1,0 +1,26 @@
+/* ТУТ.DUS v2: город на фоне, красный — только акцент (≤10% кадра). Подключать после brand.css. */
+.v2 { background: var(--ink); color: var(--white); font-family: var(--body) }
+.v2 .bg { position: absolute; inset: 0; background-size: cover; background-position: center }
+.v2 .shade { position: absolute; inset: 0;
+  background: linear-gradient(to bottom, rgba(0,0,0,.40) 0%, rgba(0,0,0,0) 22%, rgba(0,0,0,.10) 42%, rgba(12,13,15,.86) 74%, rgba(12,13,15,.96) 100%) }
+.v2 .shade.full { background: rgba(12,13,15,.72) }
+.v2 > *:not(.bg):not(.shade) { position: relative }
+.v2 .top { font: 500 26px/1 var(--body); opacity: .95 }
+.v2 .logo { font: 900 30px/1 var(--display) } .v2 .logo i { font-style: normal; color: var(--red); opacity: 1 }
+.v2 .low { margin-top: auto; display: flex; flex-direction: column }
+.v2 .tag { display: inline-flex; gap: 12px; align-items: center; align-self: flex-start; font: 600 24px/1 var(--body);
+  letter-spacing: .1em; text-transform: uppercase; margin-bottom: 26px; color: var(--white); opacity: 1 }
+.v2 .tag::before { content: ""; width: 14px; height: 14px; border-radius: 50%; background: var(--red) }
+.v2 h1, .v2 .h { font: 700 76px/1.04 var(--display); letter-spacing: -.025em; text-wrap: balance }
+.v2 .sub { font: 400 34px/1.42 var(--body); opacity: .86; margin-top: 24px; max-width: 880px }
+.v2 .list { display: grid; margin-top: 40px }
+.v2 .it { display: grid; grid-template-columns: 200px 1fr; gap: 24px; padding: 20px 0; border-top: 1px solid rgba(255,255,255,.2); align-items: baseline }
+.v2 .it b { font: 600 28px/1.3 var(--body); color: var(--white) } .v2 .it b::before { content: "● "; color: var(--red) }
+.v2 .it span { font: 400 32px/1.35 var(--body) } .v2 .it small { display: block; opacity: .62; font-size: 26px; margin-top: 4px }
+.v2 .pill { margin-top: 28px; align-self: flex-start; background: rgba(255,255,255,.12); border-left: 6px solid var(--red);
+  padding: 18px 24px; border-radius: 12px; font: 500 28px/1.35 var(--body) }
+.v2 .chips { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 36px }
+.v2 .chips span { font: 500 26px/1 var(--body); padding: 14px 20px; border-radius: 99px; background: rgba(255,255,255,.12) }
+.v2 .chips span.hot { background: var(--red) }
+.v2 .num { font: 700 26px/1 var(--display); color: var(--red) }
+.v2 .page { opacity: .6 }

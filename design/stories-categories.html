@@ -1,74 +1,34 @@
-<!doctype html>
-<html lang="ru"><head><meta charset="utf-8"><title>ТУТ.DUS — сторис категорий</title>
-<link rel="stylesheet" href="brand.css">
-<style>
-  /* Сторис 1080×1920. Сверху ~250px и снизу ~340px занимает интерфейс Instagram — там ничего важного. */
-  .story { height: 1920px; padding: 300px 88px 360px; justify-content: flex-start }
-  .story .icon { width: 200px; height: 200px; border-radius: 50%; border: 6px solid rgba(255,255,255,.9);
-    display: grid; place-items: center; margin-bottom: 64px }
-  .story .icon svg { width: 120px; height: 120px; fill: none; stroke: #fff; stroke-linecap: round; stroke-linejoin: round }
-  .story .icon-txt { font: 900 96px/1 var(--display); letter-spacing: -.03em }
-  .story .icon-txt small { font-size: 50px }
-  .story h1 { font-size: 96px }
-  .story .list { margin-top: 72px }
-  .story .item { grid-template-columns: 1fr; border-color: rgba(255,255,255,.3) }
-  .story .item .v { font-size: 40px }
-  .story .eyebrow { color: #fff; opacity: .75 }
-</style></head><body>
-<section class="slide red story" id="story-about">
-  <div class="icon"><svg viewBox="0 0 100 100" style="stroke-width:6"><path d="M50 92 C50 92 20 60 20 40 a30 30 0 0 1 60 0 C80 60 50 92 50 92Z"/><circle cx="50" cy="40" r="10"/></svg></div>
-  <div class="eyebrow">Актуальное · О нас</div>
-  <h1>ТУТ.DUS</h1>
-  <p class="lead">Дюссельдорф на русском: что происходит сегодня, куда пойти и&nbsp;к&nbsp;кому обратиться.</p>
-  <div class="list"><div class="item"><span class="v">Только про город</span></div><div class="item"><span class="v">Места в рейтингах не продаются</span></div><div class="item"><span class="v">Реклама всегда с пометкой</span></div></div>
-  <div class="bottom"><span class="logo">ТУТ<i>.DUS</i></span><span class="muted">@tut.dus</span></div>
-</section>
-<section class="slide red story" id="story-events">
-  <div class="icon"><svg viewBox="0 0 100 100" style="stroke-width:6"><rect x="14" y="20" width="72" height="66" rx="10"/><path d="M14 40 H86 M34 12 V28 M66 12 V28"/><circle cx="36" cy="60" r="3" fill="#fff"/><circle cx="50" cy="60" r="3" fill="#fff"/><circle cx="64" cy="60" r="3" fill="#fff"/><circle cx="36" cy="74" r="3" fill="#fff"/></svg></div>
-  <div class="eyebrow">Актуальное · Афиша</div>
-  <h1>Главное в&nbsp;городе</h1>
-  <p class="lead">Концерты, выставки, рынки и&nbsp;фестивали. Самое интересное за&nbsp;месяц.</p>
-  <div class="list"><div class="item"><span class="v">Сегодня — в сторис каждый день</span></div><div class="item"><span class="v">Неделя в городе — по понедельникам</span></div></div>
-  <div class="bottom"><span class="logo">ТУТ<i>.DUS</i></span><span class="muted">@tut.dus</span></div>
-</section>
-<section class="slide red story" id="story-free">
-  <div class="icon"><div class="txt icon-txt">0<small>€</small></div></div>
-  <div class="eyebrow">Актуальное · Бесплатно</div>
-  <h1>Город без&nbsp;билетов</h1>
-  <p class="lead">Бесплатные события, музеи и&nbsp;места, куда стоит заглянуть.</p>
-  <div class="list"><div class="item"><span class="v">Дни бесплатных музеев</span></div><div class="item"><span class="v">Праздники и уличные фестивали</span></div></div>
-  <div class="bottom"><span class="logo">ТУТ<i>.DUS</i></span><span class="muted">@tut.dus</span></div>
-</section>
-<section class="slide red story" id="story-kids">
-  <div class="icon"><svg viewBox="0 0 100 100" style="stroke-width:6"><ellipse cx="50" cy="38" rx="24" ry="28"/><path d="M46 66 L50 72 L54 66 M50 72 C44 80 56 84 50 94"/></svg></div>
-  <div class="eyebrow">Актуальное · С детьми</div>
-  <h1>Куда пойти с&nbsp;детьми</h1>
-  <p class="lead">Детские события, площадки, музеи и&nbsp;мастер-классы.</p>
-  <div class="list"><div class="item"><span class="v">По выходным и на каникулах</span></div><div class="item"><span class="v">Что бесплатно, а что по билетам</span></div></div>
-  <div class="bottom"><span class="logo">ТУТ<i>.DUS</i></span><span class="muted">@tut.dus</span></div>
-</section>
-<section class="slide red story" id="story-doctors">
-  <div class="icon"><svg viewBox="0 0 100 100" style="stroke-width:6"><path d="M38 14 H62 V38 H86 V62 H62 V86 H38 V62 H14 V38 H38 Z"/></svg></div>
-  <div class="eyebrow">Актуальное · Врачи</div>
-  <h1>Русско&shy;язычные врачи</h1>
-  <p class="lead">Справочник специалистов с&nbsp;хорошими оценками в&nbsp;Google и&nbsp;Doctolib.</p>
-  <div class="list"><div class="item"><span class="v">Скоро: напиши «врач» в директ</span></div><div class="item"><span class="v">Педиатры, стоматологи, терапевты</span></div></div>
-  <div class="bottom"><span class="logo">ТУТ<i>.DUS</i></span><span class="muted">@tut.dus</span></div>
-</section>
-<section class="slide red story" id="story-important">
-  <div class="icon"><svg viewBox="0 0 100 100" style="stroke-width:6"><path d="M50 12 L90 84 H10 Z"/><path d="M50 38 V60"/><circle cx="50" cy="72" r="3" fill="#fff"/></svg></div>
-  <div class="eyebrow">Актуальное · Важное</div>
-  <h1>Что нужно знать</h1>
-  <p class="lead">Забастовки транспорта, перекрытия, праздники и&nbsp;новые правила.</p>
-  <div class="list"><div class="item"><span class="v">Коротко и вовремя</span></div><div class="item"><span class="v">Только то, что касается жизни в городе</span></div></div>
-  <div class="bottom"><span class="logo">ТУТ<i>.DUS</i></span><span class="muted">@tut.dus</span></div>
-</section>
-<section class="slide red story" id="story-contact">
-  <div class="icon"><div class="txt icon-txt">@</div></div>
-  <div class="eyebrow">Актуальное · Связь</div>
-  <h1>Будем на&nbsp;связи</h1>
-  <p class="lead">Знаешь о&nbsp;событии? Хочешь сотрудничать? Пиши в&nbsp;директ.</p>
-  <div class="list"><div class="item"><span class="v">Организаторам и бизнесу</span></div><div class="item"><span class="v">Реклама всегда с пометкой</span></div></div>
-  <div class="bottom"><span class="logo">ТУТ<i>.DUS</i></span><span class="muted">@tut.dus</span></div>
-</section>
-</body></html>
+<!doctype html><html lang="ru"><head><meta charset="utf-8"><title>ТУТ.DUS — сторис категорий v2</title>
+<link rel="stylesheet" href="brand.css"><link rel="stylesheet" href="v2.css">
+<style> .story.v2 { height: 1920px; padding: 240px 80px 360px } .story.v2 h1 { font-size: 80px }
+  .icon { width: 150px; height: 150px; border-radius: 50%; background: rgba(255,255,255,.1); display:grid; place-items:center; margin-bottom: 40px }
+  .icon svg { width: 84px; height: 84px; fill: none; stroke: #e2001a; stroke-linecap: round; stroke-linejoin: round }
+  .icon .t { font: 900 64px/1 var(--display); color: #e2001a } .icon .t small { font-size: 34px }
+</style></head><body><section class="slide v2 story" id="story-about"><div class="bg" style="background-image:url(../library/photos/commons-rhein.jpg);filter:blur(8px);transform:scale(1.08)"></div><div class="shade full"></div>
+  <div class="top"><span class="logo">ТУТ<i>.DUS</i></span><span>@tut.dus</span></div>
+  <div class="low"><div class="icon"><svg viewBox="0 0 100 100" style="stroke-width:6"><path d="M50 92 C50 92 20 60 20 40 a30 30 0 0 1 60 0 C80 60 50 92 50 92Z"/><circle cx="50" cy="40" r="10"/></svg></div><div class="tag">Актуальное · О нас</div><h1>ТУТ.DUS</h1><p class="sub">Дюссельдорф на русском: что происходит сегодня, куда пойти и&nbsp;к&nbsp;кому обратиться.</p>
+  <div class="list"><div class="it" style="grid-template-columns:1fr"><span>Только про город</span></div><div class="it" style="grid-template-columns:1fr"><span>Места в рейтингах не продаются</span></div><div class="it" style="grid-template-columns:1fr"><span>Реклама всегда с пометкой</span></div></div></div></section>
+<section class="slide v2 story" id="story-events"><div class="bg" style="background-image:url(../library/photos/commons-burgplatz.jpg);filter:blur(8px);transform:scale(1.08)"></div><div class="shade full"></div>
+  <div class="top"><span class="logo">ТУТ<i>.DUS</i></span><span>@tut.dus</span></div>
+  <div class="low"><div class="icon"><svg viewBox="0 0 100 100" style="stroke-width:6"><rect x="14" y="20" width="72" height="66" rx="10"/><path d="M14 40 H86 M34 12 V28 M66 12 V28"/><circle cx="36" cy="60" r="3" fill="#e2001a"/><circle cx="50" cy="60" r="3" fill="#e2001a"/><circle cx="64" cy="60" r="3" fill="#e2001a"/><circle cx="36" cy="74" r="3" fill="#e2001a"/></svg></div><div class="tag">Актуальное · Афиша</div><h1>Главное в&nbsp;городе</h1><p class="sub">Концерты, выставки, рынки и&nbsp;фестивали. Самое интересное за&nbsp;месяц.</p>
+  <div class="list"><div class="it" style="grid-template-columns:1fr"><span>Сегодня — в сторис каждый день</span></div><div class="it" style="grid-template-columns:1fr"><span>Неделя в городе — по понедельникам</span></div></div></div></section>
+<section class="slide v2 story" id="story-free"><div class="bg" style="background-image:url(../library/photos/commons-altstadt.jpg);filter:blur(8px);transform:scale(1.08)"></div><div class="shade full"></div>
+  <div class="top"><span class="logo">ТУТ<i>.DUS</i></span><span>@tut.dus</span></div>
+  <div class="low"><div class="icon"><div class="t">0<small>€</small></div></div><div class="tag">Актуальное · Бесплатно</div><h1>Город без&nbsp;билетов</h1><p class="sub">Бесплатные события, музеи и&nbsp;места, куда стоит заглянуть.</p>
+  <div class="list"><div class="it" style="grid-template-columns:1fr"><span>Дни бесплатных музеев</span></div><div class="it" style="grid-template-columns:1fr"><span>Праздники и уличные фестивали</span></div></div></div></section>
+<section class="slide v2 story" id="story-kids"><div class="bg" style="background-image:url(../library/photos/commons-rhein.jpg);filter:blur(8px);transform:scale(1.08)"></div><div class="shade full"></div>
+  <div class="top"><span class="logo">ТУТ<i>.DUS</i></span><span>@tut.dus</span></div>
+  <div class="low"><div class="icon"><svg viewBox="0 0 100 100" style="stroke-width:6"><ellipse cx="50" cy="38" rx="24" ry="28"/><path d="M46 66 L50 72 L54 66 M50 72 C44 80 56 84 50 94"/></svg></div><div class="tag">Актуальное · С детьми</div><h1>Куда пойти с&nbsp;детьми</h1><p class="sub">Детские события, площадки, музеи и&nbsp;мастер-классы.</p>
+  <div class="list"><div class="it" style="grid-template-columns:1fr"><span>По выходным и на каникулах</span></div><div class="it" style="grid-template-columns:1fr"><span>Что бесплатно, а что по билетам</span></div></div></div></section>
+<section class="slide v2 story" id="story-doctors"><div class="bg" style="background-image:url(../library/photos/commons-burgplatz.jpg);filter:blur(8px);transform:scale(1.08)"></div><div class="shade full"></div>
+  <div class="top"><span class="logo">ТУТ<i>.DUS</i></span><span>@tut.dus</span></div>
+  <div class="low"><div class="icon"><svg viewBox="0 0 100 100" style="stroke-width:6"><path d="M38 14 H62 V38 H86 V62 H62 V86 H38 V62 H14 V38 H38 Z"/></svg></div><div class="tag">Актуальное · Врачи</div><h1>Русско&shy;язычные врачи</h1><p class="sub">Справочник специалистов с&nbsp;хорошими оценками в&nbsp;Google и&nbsp;Doctolib.</p>
+  <div class="list"><div class="it" style="grid-template-columns:1fr"><span>Скоро: напиши «врач» в директ</span></div><div class="it" style="grid-template-columns:1fr"><span>Педиатры, стоматологи, терапевты</span></div></div></div></section>
+<section class="slide v2 story" id="story-important"><div class="bg" style="background-image:url(../library/photos/commons-altstadt.jpg);filter:blur(8px);transform:scale(1.08)"></div><div class="shade full"></div>
+  <div class="top"><span class="logo">ТУТ<i>.DUS</i></span><span>@tut.dus</span></div>
+  <div class="low"><div class="icon"><svg viewBox="0 0 100 100" style="stroke-width:6"><path d="M50 12 L90 84 H10 Z"/><path d="M50 38 V60"/><circle cx="50" cy="72" r="3" fill="#e2001a"/></svg></div><div class="tag">Актуальное · Важное</div><h1>Что нужно знать</h1><p class="sub">Забастовки транспорта, перекрытия, праздники и&nbsp;новые правила.</p>
+  <div class="list"><div class="it" style="grid-template-columns:1fr"><span>Коротко и вовремя</span></div><div class="it" style="grid-template-columns:1fr"><span>Только то, что касается жизни в городе</span></div></div></div></section>
+<section class="slide v2 story" id="story-contact"><div class="bg" style="background-image:url(../library/photos/commons-rhein.jpg);filter:blur(8px);transform:scale(1.08)"></div><div class="shade full"></div>
+  <div class="top"><span class="logo">ТУТ<i>.DUS</i></span><span>@tut.dus</span></div>
+  <div class="low"><div class="icon"><div class="t">@</div></div><div class="tag">Актуальное · Связь</div><h1>Будем на&nbsp;связи</h1><p class="sub">Знаешь о&nbsp;событии? Хочешь сотрудничать? Пиши в&nbsp;директ.</p>
+  <div class="list"><div class="it" style="grid-template-columns:1fr"><span>Организаторам и бизнесу</span></div><div class="it" style="grid-template-columns:1fr"><span>Реклама всегда с пометкой</span></div></div></div></section></body></html>
