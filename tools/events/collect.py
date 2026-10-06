@@ -235,6 +235,14 @@ def main():
         events = [e for e in events if e.get("source") != "DEG (расписание)"]
     events = tidy_deg(events) + fortuna(report) + deg_ical
 
+    if GEMINI_KEY:  # список моделей не расходует лимит запросов
+        try:
+            ms = json.load(urllib.request.urlopen(f"https://generativelanguage.googleapis.com/v1beta/models?key={GEMINI_KEY}&pageSize=200", timeout=30))
+            names = sorted(m["name"].split("/", 1)[1] for m in ms.get("models", []) if "flash" in m["name"])
+            report.append("· Доступные модели Flash: " + ", ".join(names))
+        except Exception as e:
+            report.append(f"· Список моделей: {e}")
+
     total = len(events)
     events = merge([e for e in events if keep(e)])
     out = ROOT / "data"
