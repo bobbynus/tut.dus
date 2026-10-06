@@ -71,6 +71,17 @@ def wait_ready(container_id, label):
     raise RuntimeError(f"{label}: видео не обработалось за 10 минут")
 
 
+def publish_container(container_id, label):
+    """media_publish с повтором: сразу после загрузки Instagram иногда отвечает «Media Not Found»."""
+    for attempt in range(5):
+        try:
+            return call("POST", f"{USER}/media_publish", creation_id=container_id)["id"]
+        except RuntimeError as e:
+            if attempt < 4 and ("2207006" in str(e) or "9007" in str(e) or "Media Not Found" in str(e)):
+                time.sleep(6 * (attempt + 1)); continue
+            raise RuntimeError(f"{label}: {e}") from None
+
+
 def media_params(post_dir, name):
     url = public_url(post_dir, name)
     if Path(name).suffix.lower() in VIDEO_EXT:
@@ -108,18 +119,26 @@ def publish(post_dir, spec):
         container = call("POST", f"{USER}/media", **p)["id"]
     elif kind == "story":
         # несколько файлов — несколько сторис подряд, в указанном порядке
-        ids = []
+        # уже вышедшие сторис запоминаем сразу — при сбое посередине повтор не создаст дублей
+        partial = post_dir / "partial.json"
+        done = json.loads(partial.read_text()) if partial.exists() else {}
         for name in media:
+            if name in done:
+                continue
             p, _ = media_params(post_dir, name)
             cid = call("POST", f"{USER}/media", media_type="STORIES", **p)["id"]
             wait_ready(cid, name)
-            ids.append(call("POST", f"{USER}/media_publish", creation_id=cid)["id"])
-        return {"media_ids": ids, "published_at": datetime.now(timezone.utc).isoformat()}
+            time.sleep(3)
+            done[name] = publish_container(cid, name)
+            partial.write_text(json.dumps(done, indent=1))
+        partial.unlink(missing_ok=True)
+        return {"media_ids": [done[n] for n in media], "published_at": datetime.now(timezone.utc).isoformat()}
     else:
         raise RuntimeError(f"неизвестный тип поста: {kind}")
 
     wait_ready(container, post_dir.name)
-    media_id = call("POST", f"{USER}/media_publish", creation_id=container)["id"]
+    time.sleep(3)
+    media_id = publish_container(container, post_dir.name)
     info = call("GET", media_id, fields="permalink,timestamp")
     return {"media_id": media_id, "permalink": info.get("permalink"),
             "published_at": info.get("timestamp") or datetime.now(timezone.utc).isoformat()}
