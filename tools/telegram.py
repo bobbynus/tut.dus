@@ -38,12 +38,13 @@ def publish(kind, urls, caption=""):
     caption = clean_caption(caption)
     short = caption if len(caption) <= 1024 else ""  # лимит подписи к медиа — 1024 символа
     ids = []
-    if kind == "reel":
+    is_video = lambda u: u.lower().split("?")[0].endswith((".mp4", ".mov"))
+    if kind == "reel" or (len(urls) == 1 and is_video(urls[0])):
         ids.append(api("sendVideo", chat_id=CHANNEL, video=urls[0], caption=short, supports_streaming="true")["message_id"])
     elif len(urls) == 1:
         ids.append(api("sendPhoto", chat_id=CHANNEL, photo=urls[0], caption=short)["message_id"])
     else:
-        media = [{"type": "photo", "media": u} for u in urls[:10]]
+        media = [{"type": "video" if is_video(u) else "photo", "media": u} for u in urls[:10]]
         if short:
             media[0]["caption"] = short
         ids += [m["message_id"] for m in api("sendMediaGroup", chat_id=CHANNEL, media=media)]

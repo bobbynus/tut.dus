@@ -17,6 +17,7 @@ TZ = ZoneInfo("Europe/Berlin")
 TODAY = date.fromisoformat(os.environ["DAILY_DATE"]) if os.environ.get("DAILY_DATE") else datetime.now(TZ).date() + timedelta(days=1)
 KEY = os.environ.get("GEMINI_API_KEY", "")
 sys.path.insert(0, str(ROOT / "tools" / "events"))
+sys.path.insert(0, str(ROOT / "tools" / "stories"))
 WD = ["Понедельник", "Вторник", "Среда", "Четверг", "Пятница", "Суббота", "Воскресенье"]
 MONTHS = ["января", "февраля", "марта", "апреля", "мая", "июня", "июля", "августа", "сентября", "октября", "ноября", "декабря"]
 
@@ -202,6 +203,12 @@ def main():
         {"type": "story", "status": "scheduled", "publish_at": publish_at, "media": media, "auto": True},
         ensure_ascii=False, indent=2))
     print(f"✓ {post_dir.name}: {len(media)} сторис на {publish_at}")
+    # к картинкам через API музыку не добавить — делаем из сторис короткие видео с треком
+    from to_video import convert
+    try:
+        convert(post_dir)
+    except Exception as e:
+        print(f"Видео не собралось ({e}) — останутся картинки")
 
 
 if __name__ == "__main__":

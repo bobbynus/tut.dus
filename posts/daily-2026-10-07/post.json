@@ -3,10 +3,11 @@
   "status": "scheduled",
   "publish_at": "2026-10-07T08:00:00+02:00",
   "media": [
-    "d0.png",
-    "d1.png",
-    "d2.png",
-    "d3.png"
+    "d0.mp4",
+    "d1.mp4",
+    "d2.mp4",
+    "d3.mp4"
   ],
-  "auto": true
+  "auto": true,
+  "music": "upbeat-sub_clair-background-music-591220.mp3"
 }
