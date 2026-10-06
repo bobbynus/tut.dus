@@ -36,6 +36,8 @@ jobs:
           UA="tut.dus footage fetcher (https://github.com/bobbynus/tut.dus)"
           Q=$(jq -rn --arg q "filetype:video $QUERY" '$q|@uri')
           curl -sS -A "$UA" "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=$Q&gsrlimit=40&prop=imageinfo&iiprop=url|size|mime|extmetadata" > res.json
+          echo "Найдено файлов: $(jq '.query.pages // {} | length' res.json)"
+          jq -r '.query.pages // {} | .[] | "  - \(.title) | \(.imageinfo[0].width)px | \(.imageinfo[0].extmetadata.LicenseShortName.value // "?")"' res.json | head -20
           slug=$(echo "$QUERY" | iconv -f utf8 -t ascii//TRANSLIT | tr '[:upper:]' '[:lower:]' | tr -cs 'a-z0-9' '-' | sed 's/^-//;s/-$//')
           mkdir -p library/footage
           n=0
