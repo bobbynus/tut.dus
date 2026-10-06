@@ -84,6 +84,12 @@
       "url": "https://www.mrduesseldorf.de/feed/",
       "llm": true,
       "rss": true
+    },
+    {
+      "name": "Borussia Düsseldorf (настольный теннис)",
+      "url": "https://www.borussia-duesseldorf.com/",
+      "llm": true,
+      "category": "спорт"
     }
   ],
   "localities": [

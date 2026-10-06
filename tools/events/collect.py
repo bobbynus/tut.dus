@@ -183,6 +183,8 @@ def keep(ev):
         end_d = d
     if end_d < TODAY or d > HORIZON or not ev.get("title"):
         return False
+    if ev.get("team"):  # матчи наших команд показываем и на выезде
+        return True
     place = f"{ev.get('locality','')} {ev.get('address','')} {ev.get('venue','')}".lower()
     known_city = re.search(OTHER_CITIES, place)
     return not (known_city and not any(l in place for l in LOCALITIES))
@@ -235,6 +237,9 @@ def main():
                 report.append(f"✗ Gemini: {e}")
     elif llm_batch:
         report.append("· GEMINI_API_KEY не задан — страницы без разметки пропущены")
+
+    from sports import fortuna, deg
+    events += fortuna(report) + deg(report)
 
     total = len(events)
     events = merge([e for e in events if keep(e)])
