@@ -30,7 +30,7 @@ def load_today():
     from collect import keep
     data = json.loads((ROOT / "data" / "events.json").read_text())
     data["events"] = [e for e in data["events"] if keep(e) or e.get("source") == "Messe Düsseldorf"]
-    today, ongoing, fairs, games = [], [], [], []
+    today, ongoing, fairs, games, important = [], [], [], [], []
     for e in data["events"]:
         try:
             d = date.fromisoformat(e["date"])
@@ -39,13 +39,15 @@ def load_today():
             continue
         if e.get("team") and d == TODAY:
             games.append(e)
+        elif e.get("category") == "важное" and d <= TODAY <= end:
+            important.append(e)
         elif e.get("source") == "Messe Düsseldorf":
             if d <= TODAY <= end: fairs.append(e)
         elif d == TODAY:
             today.append(e)
         elif d < TODAY <= end:
             ongoing.append(e)
-    return today, ongoing, fairs, games
+    return today, ongoing, fairs, games, important
 
 
 def game_rows(games):
@@ -127,7 +129,7 @@ def build_html(pick, fairs, notes=(), games=()):
     if fairs:
         names = ", ".join(sorted({f["title"] for f in fairs}))[:60]
         banners.append(f"На Messe сегодня {names}: на дорогах к Messe и в U78 будет многолюдно")
-    fair = "".join(f'<div class="fair">{esc(b)}</div>' for b in banners[:2])
+    fair = "".join(f'<div class="fair">{esc(b)}</div>' for b in banners[:3])
     slides = [f'''<section class="slide red story" id="d0">
   <div class="top"><span class="logo">ТУТ<i>.DUS</i></span><span>{TODAY:%d.%m}</span></div>
   <div class="content">
@@ -179,8 +181,11 @@ def main():
     if (post_dir / "post.json").exists():
         print(f"{post_dir.name} уже есть"); return
     from calendar_de import notices
-    today, ongoing, fairs, games = load_today()
+    today, ongoing, fairs, games, important = load_today()
     notes = notices(TODAY)
+    for e in important[:2]:  # демонстрации, перекрытия — плашкой
+        when = f" с {e['time']}" if e.get("time") and e["time"] != "00:00" else ""
+        notes.append(f"Внимание{when}: {e['title']}" + (f" ({e['venue']})" if e.get("venue") else ""))
     if not today and not ongoing and not games and not notes:
         print("На сегодня событий нет — сторис не делаем"); return
     try:
