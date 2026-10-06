@@ -52,8 +52,8 @@ jobs:
             id=$(echo "$v" | jq -r '.title' | md5sum | cut -c1-8)
             out="library/footage/${slug}-wm${id}.mp4"
             [ -f "$out" ] && continue
-            curl -sSL -A "$UA" "$(echo "$v" | jq -r .url)" -o src.bin
-            if ffmpeg -hide_banner -loglevel error -y -i src.bin -t "$MAXS" -an \
+            curl -sSL -A "$UA" "$(echo "$v" | jq -r .url)" -o src.bin < /dev/null
+            if ffmpeg -nostdin -hide_banner -loglevel error -y -i src.bin -t "$MAXS" -an \
                  -vf "scale=-2:'min(1920,ih)'" -c:v libx264 -preset veryfast -crf 20 -pix_fmt yuv420p -movflags +faststart "$out"; then
               echo "$v" | jq '{source: "Wikimedia Commons", title, page, author, license, width: .w, height: .h,
                                credit: ("Видео: " + (if .author == "" then "Wikimedia Commons" else .author end) + ", " + .license)}' > "${out%.mp4}.json"
