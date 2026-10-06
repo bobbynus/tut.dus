@@ -1,0 +1,36 @@
+name: Instagram API check
+
+# Проверяет, что секреты IG_ACCESS_TOKEN и IG_USER_ID заданы и токен рабочий.
+# Ничего не публикует.
+on:
+  workflow_dispatch:
+  push:
+    paths: [".github/workflows/ig-check.yml"]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Secrets present
+        env:
+          TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          USER_ID: ${{ secrets.IG_USER_ID }}
+        run: |
+          [ -n "$TOKEN" ] && echo "IG_ACCESS_TOKEN: задан (${#TOKEN} симв.)" || echo "IG_ACCESS_TOKEN: НЕ задан"
+          [ -n "$USER_ID" ] && echo "IG_USER_ID: задан ($USER_ID)" || echo "IG_USER_ID: НЕ задан"
+          [ -n "$TOKEN" ] && [ -n "$USER_ID" ]
+
+      - name: Account
+        env:
+          TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+        run: |
+          curl -sS "https://graph.instagram.com/v23.0/me?fields=user_id,username,account_type,media_count&access_token=$TOKEN"
+          echo
+
+      - name: Publishing quota
+        env:
+          TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          USER_ID: ${{ secrets.IG_USER_ID }}
+        run: |
+          curl -sS "https://graph.instagram.com/v23.0/$USER_ID/content_publishing_limit?fields=quota_usage,config&access_token=$TOKEN"
+          echo
