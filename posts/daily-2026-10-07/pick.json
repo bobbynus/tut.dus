@@ -1,0 +1,60 @@
+{
+ "list": [
+  {
+   "time": "10:00",
+   "title": "Спектакль Das grüne Königreich",
+   "place": "Central 2"
+  },
+  {
+   "time": "17:00",
+   "title": "Йога Move it!",
+   "place": "Schauspielhaus, Foyer"
+  },
+  {
+   "time": "19:00",
+   "title": "Квиз STRANDQUIZ - Open Air",
+   "place": "Tonhallenufer"
+  },
+  {
+   "time": "19:30",
+   "title": "Спектакль Bernarda Albas Haus",
+   "place": "Schauspielhaus"
+  },
+  {
+   "time": "20:30",
+   "title": "Джаз-концерт Creole Night Birds",
+   "place": "Em Pöötzke"
+  },
+  {
+   "time": "",
+   "title": "Тыквенный фестиваль Kürbispark",
+   "place": "Gertrudenhof"
+  }
+ ],
+ "highlights": [
+  {
+   "title": "Джаз Creole Night Birds",
+   "text": "Живой новоорлеанский джаз в легендарном баре, от которого ноги сами пускаются в пляс.",
+   "time": "20:30",
+   "place": "Em Pöötzke",
+   "price": "бесплатно",
+   "tag": "концерт"
+  },
+  {
+   "title": "Квиз STRANDQUIZ",
+   "text": "Интеллектуальная игра под открытым небом на берегу Рейна для отличного вечера среды.",
+   "time": "19:00",
+   "place": "Tonhallenufer",
+   "price": "бесплатно",
+   "tag": "бесплатно"
+  },
+  {
+   "title": "Детский спектакль",
+   "text": "Волшебная театральная постановка для детей по книге Корнелии Функе.",
+   "time": "10:00",
+   "place": "Central 2",
+   "price": "",
+   "tag": "детям"
+  }
+ ]
+}
