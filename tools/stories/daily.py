@@ -68,26 +68,32 @@ def gemini_pick(today, ongoing):
                            today=json.dumps(slim(today), ensure_ascii=False), ongoing=json.dumps(slim(ongoing), ensure_ascii=False))
     body = {"contents": [{"role": "user", "parts": [{"text": prompt}]}],
             "generationConfig": {"responseMimeType": "application/json", "temperature": 0.4}}
-    last = None
-    for model in gemini_models()[:3]:
-        req = urllib.request.Request(
-            f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={KEY}",
-            data=json.dumps(body).encode(), headers={"Content-Type": "application/json"}, method="POST")
-        try:
-            resp = json.load(urllib.request.urlopen(req, timeout=180))
-            out = "".join(p.get("text", "") for p in resp["candidates"][0]["content"]["parts"])
-            return json.loads(out)
-        except Exception as e:
-            last = e
-    raise RuntimeError(f"Gemini недоступен: {last}")
+    import time
+    last, deadline = None, time.time() + int(os.environ.get("GEMINI_WAIT", "1200"))
+    models = gemini_models()[:3]
+    while True:  # перегрузки у Gemini обычно короткие — повторяем по кругу до дедлайна
+        for model in models:
+            req = urllib.request.Request(
+                f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={KEY}",
+                data=json.dumps(body).encode(), headers={"Content-Type": "application/json"}, method="POST")
+            try:
+                resp = json.load(urllib.request.urlopen(req, timeout=180))
+                out = "".join(p.get("text", "") for p in resp["candidates"][0]["content"]["parts"])
+                pick = json.loads(out)
+                print(f"Gemini: {model}")
+                return pick
+            except Exception as e:
+                last = f"{model}: {e}"
+        if time.time() > deadline:
+            raise RuntimeError(f"Gemini недоступен: {last}")
+        print(f"Gemini занят ({last}), повтор через 90 с")
+        time.sleep(90)
 
 
 def simple_pick(today, ongoing):
     evs = sorted(today, key=lambda e: e.get("time") or "99")[:6] or ongoing[:4]
     lst = [{"time": e.get("time", ""), "title": short(e["title"], 42), "place": short(e.get("venue", ""), 26)} for e in evs]
-    hl = [{"title": short(e["title"], 34), "text": "", "time": e.get("time", ""), "place": e.get("venue", ""),
-           "price": e.get("price", ""), "tag": e.get("category", "")} for e in evs[:2]]
-    return {"list": lst, "highlights": hl}
+    return {"list": lst, "highlights": []}
 
 
 def esc(s):
@@ -101,7 +107,7 @@ def fit(s, base, long_at, small):
 def build_html(pick, fairs):
     day_title = f"{WD[TODAY.weekday()]}, {TODAY.day} {MONTHS[TODAY.month-1]}"
     rows = "".join(
-        f'<div class="ev"><span class="t">{esc(i.get("time")) or "весь день"}</span>'
+        f'<div class="ev"><span class="t">{esc(i.get("time")) if i.get("time") not in ("", "00:00") else "весь день"}</span>'
         f'<span class="n">{esc(i.get("title"))}<small>{esc(i.get("place"))}</small></span></div>'
         for i in pick["list"][:6])
     fair = ""
@@ -120,7 +126,7 @@ def build_html(pick, fairs):
     for n, h in enumerate(pick.get("highlights", [])[:3], 1):
         cls = "ink" if n % 2 else "red"
         title = h.get("title", "")
-        meta = " · ".join(x for x in [h.get("time"), h.get("place")] if x)
+        meta = " · ".join(x for x in [h.get("time") if h.get("time") != "00:00" else "весь день", h.get("place")] if x)
         slides.append(f'''<section class="slide {cls} story" id="d{n}">
   <div class="top"><span class="logo">ТУТ<i>.DUS</i></span><span>Сегодня · {n}/{len(pick["highlights"][:3])}</span></div>
   <div class="content">
