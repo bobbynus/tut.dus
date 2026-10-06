@@ -1,0 +1,13 @@
+{
+  "output": "reel.mp4",
+  "transition": 0.4,
+  "segments": [
+    {"video": "../../library/footage/jousting-wma4650f5c.mp4", "start": 6, "duration": 3.4, "overlay": "o1.png"},
+    {"image": "r2.png", "duration": 3.2},
+    {"video": "../../library/footage/jousting-wmccf3324f.mp4", "start": 5.5, "duration": 3.0, "overlay": "o2.png"},
+    {"image": "r4.png", "duration": 3.4},
+    {"video": "../../library/footage/jousting-wmccf3324f.mp4", "start": 10.5, "duration": 3.0, "overlay": "o3.png"}
+  ],
+  "music": "../../library/music/epic-kiravale-medieval-music-593694.mp3",
+  "music_start": 8
+}
