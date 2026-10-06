@@ -6,7 +6,7 @@
 3. Фильтрует по городу и датам, убирает дубли.
 Без ключа Gemini работают только источники с разметкой.
 """
-import html as htmllib, json, os, re, sys, unicodedata, urllib.request, urllib.error
+import html as htmllib, json, os, re, sys, time, unicodedata, urllib.request, urllib.error
 from datetime import date, datetime, timedelta
 from pathlib import Path
 
@@ -141,23 +141,22 @@ def gemini_extract(batch):
     pages = "\n\n".join(f"{head(s)}\n{t[:45000]}" for s, t in batch)
     body = {"contents": [{"role": "user", "parts": [{"text": PROMPT.format(today=TODAY, horizon=HORIZON, pages=pages)}]}],
             "generationConfig": {"responseMimeType": "application/json", "temperature": 0.1}}
-    errors = []
-    for model in gemini_models()[:3]:
-        for attempt in range(2):
-            req = urllib.request.Request(
-                f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={GEMINI_KEY}",
-                data=json.dumps(body).encode(), headers={"Content-Type": "application/json"}, method="POST")
-            try:
-                resp = json.load(urllib.request.urlopen(req, timeout=300))
-                break
-            except urllib.error.HTTPError as e:
-                errors.append(f"{model}: {e.code}")
-                if e.code in (429, 500, 503) and attempt == 0:
-                    time.sleep(20); continue
-                resp = None; break
-        if resp: break
-    else:
-        raise RuntimeError("все модели недоступны: " + ", ".join(errors))
+    errors, deadline = [], time.time() + int(os.environ.get("GEMINI_WAIT", "600"))
+    while True:
+      for model in gemini_models()[:3]:
+        req = urllib.request.Request(
+            f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={GEMINI_KEY}",
+            data=json.dumps(body).encode(), headers={"Content-Type": "application/json"}, method="POST")
+        try:
+            resp = json.load(urllib.request.urlopen(req, timeout=300))
+            break
+        except urllib.error.HTTPError as e:
+            errors.append(f"{model}: {e.code}"); resp = None
+      if resp or time.time() > deadline:
+          break
+      time.sleep(60)
+    if not resp:
+        raise RuntimeError("все модели недоступны: " + ", ".join(errors[-4:]))
     out = "".join(p.get("text", "") for p in resp["candidates"][0]["content"]["parts"])
     items = json.loads(out)
     if isinstance(items, dict): items = items.get("events", [])
@@ -233,6 +232,10 @@ def main():
         else:
             report.append(f"· {src['name']}: событий не найдено")
 
+    try:
+        previous = json.loads((ROOT / "data" / "events.json").read_text())["events"]
+    except Exception:
+        previous = []
     if llm_batch and GEMINI_KEY:
         # по 5 страниц за запрос — укладываемся в бесплатный лимит
         for i in range(0, len(llm_batch), 5):
@@ -242,10 +245,17 @@ def main():
                 events += items
                 report.append(f"✓ Gemini ({model}): {len(items)} событий из {', '.join(s['name'] for s, _ in chunk)}")
             except Exception as e:
-                report.append(f"✗ Gemini: {e}")
+                names = {s["name"] for s, _ in chunk}
+                kept = [e2 for e2 in previous if e2.get("source") in names]
+                events += kept
+                report.append(f"✗ Gemini: {e} — оставлены прошлые данные ({len(kept)} событий)")
     elif llm_batch:
         report.append("· GEMINI_API_KEY не задан — страницы без разметки пропущены")
 
+    for a in json.loads((Path(__file__).parent / "annual.json").read_text())["events"]:
+        events.append({**{k: "" for k in ("time", "end_date", "address", "locality", "price", "url", "description")},
+                       **a, "big": True, "horizon_days": 400})
+    report.append("✓ Ежегодные события (annual.json)")
     from sports import fortuna, deg, tidy_deg
     deg_ical = deg(report)
     if deg_ical:  # официальный календарь точнее — версию Gemini отбрасываем

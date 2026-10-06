@@ -1,0 +1,21 @@
+{
+  "_comment": "Большие ежегодные события с проверенными датами. Обновлять, когда объявлены новые даты. source — где проверено.",
+  "events": [
+    {"title": "Рождественские рынки Дюссельдорфа (7 рынков)", "date": "2026-11-19", "end_date": "2026-12-30", "time": "11:00",
+     "venue": "Altstadt, Kö-Bogen, Schadowstraße, Rheinufer", "category": "фестиваль",
+     "description": "Закрыты 22.11 (Totensonntag) и 25.12", "source": "nrw-tourismus.de, weihnachten-in-duesseldorf.de"},
+    {"title": "Hoppeditz-Erwachen — старт карнавального сезона", "date": "2026-11-11", "time": "11:11",
+     "venue": "Marktplatz у Rathaus", "category": "фестиваль", "source": "традиция, каждый год 11.11 в 11:11"},
+    {"title": "Шествия Св. Мартина в районах", "date": "2026-11-02", "end_date": "2026-11-13", "time": "",
+     "venue": "почти каждый вечер в одном из районов", "category": "детям",
+     "description": "Список шествий публикует город (Ordnungsamt)", "source": "duesseldorf.de"},
+    {"title": "Altweiberfastnacht — уличный карнавал", "date": "2027-02-04", "time": "11:11", "venue": "Altstadt", "category": "фестиваль", "source": "расчёт от Пасхи"},
+    {"title": "Kö-Treiben — карнавал на Кё", "date": "2027-02-07", "time": "", "venue": "Königsallee", "category": "фестиваль", "source": "расчёт от Пасхи"},
+    {"title": "Rosenmontagszug — большой карнавальный парад", "date": "2027-02-08", "time": "", "venue": "центр города", "category": "фестиваль", "source": "расчёт от Пасхи"},
+    {"title": "Uniper Düsseldorf Marathon", "date": "2027-04-18", "time": "", "venue": "по городу, перекрытия", "category": "спорт", "source": "marathon.de, ahotu.com"},
+    {"title": "Landpartie Grafenberg", "date": "2027-04-30", "end_date": "2027-05-02", "time": "", "venue": "Galopprennbahn Grafenberg", "category": "фестиваль", "source": "messeninfo.de"},
+    {"title": "Düsseldorfer Frankreichfest", "date": "2027-07-02", "end_date": "2027-07-04", "time": "", "venue": "Königsallee", "category": "фестиваль", "source": "visitduesseldorf.de"},
+    {"title": "Rheinkirmes", "date": "2027-07-16", "end_date": "2027-07-25", "time": "", "venue": "Rheinwiesen Oberkassel", "category": "фестиваль", "source": "rheinkirmes-duesseldorf.de"},
+    {"title": "Фейерверк Rheinkirmes", "date": "2027-07-23", "time": "22:30", "venue": "над Рейном", "category": "фестиваль", "source": "rheinkirmes-duesseldorf.de"}
+  ]
+}
