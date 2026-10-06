@@ -1,0 +1,49 @@
+name: Prepare media
+
+# Обрабатывает загруженные в library/inbox/ фото и видео: у видео удаляется звук,
+# у фото — метаданные (в том числе GPS). Результат — library/footage и library/photos.
+on:
+  push:
+    paths: ["library/inbox/**", "!library/inbox/README.md"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: prepare-media
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install tools
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg imagemagick >/dev/null
+      - name: Process
+        run: |
+          set -euo pipefail
+          shopt -s nullglob nocaseglob
+          mkdir -p library/footage library/photos
+          slug() { basename "$1" | sed 's/\.[^.]*$//' | iconv -f utf8 -t ascii//TRANSLIT | tr '[:upper:]' '[:lower:]' | tr -cs 'a-z0-9' '-' | sed 's/^-//;s/-$//'; }
+          for f in library/inbox/*.{mp4,mov,m4v,webm,avi,mkv}; do
+            out="library/footage/own-$(slug "$f").mp4"
+            ffmpeg -nostdin -hide_banner -loglevel error -y -i "$f" -an -map_metadata -1 \
+              -vf "scale='if(gt(iw,ih),-2,min(1080,iw))':'if(gt(iw,ih),min(1080,ih),-2)'" \
+              -c:v libx264 -preset medium -crf 21 -pix_fmt yuv420p -movflags +faststart "$out"
+            git rm -q --cached "$f" 2>/dev/null || true; rm -f "$f"
+            echo "🎬 $out (без звука)"
+          done
+          for f in library/inbox/*.{jpg,jpeg,png,heic,webp}; do
+            out="library/photos/own-$(slug "$f").jpg"
+            convert "$f" -auto-orient -resize '2160x2160>' -strip -quality 86 "$out"
+            git rm -q --cached "$f" 2>/dev/null || true; rm -f "$f"
+            echo "🖼  $out (без метаданных)"
+          done
+      - name: Commit
+        run: |
+          if [ -n "$(git status --porcelain library)" ]; then
+            git config user.name "tut.dus bot"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add -A library && git commit -m "Media: processed uploads [skip ci]" && git pull --rebase -q && git push
+          fi

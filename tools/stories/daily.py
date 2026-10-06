@@ -102,57 +102,51 @@ def fit(s, base, long_at, small):
     return small if len(s or "") > long_at else base
 
 
+def photos():
+    """Фоны: ваши фото из library/photos (и кадры с Commons, пока своих мало)."""
+    d = ROOT / "library" / "photos"
+    own = sorted(p.name for p in d.glob("*") if p.suffix.lower() in (".jpg", ".jpeg", ".png") and not p.name.startswith("commons-"))
+    return own or sorted(p.name for p in d.glob("commons-*.jpg"))
+
+
 def build_html(pick, fairs, notes=(), games=()):
+    """Стиль v2: город на фоне, красный — только акцент."""
+    bgs = photos()
+    bg = lambda i: f"../library/photos/{bgs[(TODAY.toordinal() + i) % len(bgs)]}" if bgs else ""
     day_title = f"{WD[TODAY.weekday()]}, {TODAY.day} {MONTHS[TODAY.month-1]}"
-    rows = "".join(
-        f'<div class="ev"><span class="t">{esc(i.get("time")) if i.get("time") not in ("", "00:00") else "весь день"}</span>'
-        f'<span class="n">{esc(i.get("title"))}<small>{esc(i.get("place"))}</small></span></div>'
-        for i in sorted(game_rows(games) + [x for x in pick["list"] if not (games and re.search(r"Fortuna|DEG|Düsseldorfer EG", x.get("title", "")))],
-                        key=lambda x: x.get("time") if x.get("time") not in ("", "00:00") else "99")[:6])
+    rows = sorted(game_rows(games) + [x for x in pick["list"] if not (games and re.search(r"Fortuna|DEG|Düsseldorfer EG", x.get("title", "")))],
+                  key=lambda x: x.get("time") if x.get("time") not in ("", "00:00") else "99")[:6]
+    items = "".join(
+        f'<div class="it"><b>{esc(i.get("time")) if i.get("time") not in ("", "00:00") else "весь день"}</b>'
+        f'<span>{esc(i.get("title"))}<small>{esc(i.get("place"))}</small></span></div>' for i in rows)
     banners = list(notes)
     if fairs:
         names = ", ".join(sorted({f["title"] for f in fairs}))[:60]
         banners.append(f"На Messe сегодня {names}: на дорогах к Messe и в U78 будет многолюдно")
-    fair = "".join(f'<div class="fair">{esc(b)}</div>' for b in banners[:3])
-    slides = [f'''<section class="slide red story" id="d0">
+    pills = "".join(f'<div class="pill">{esc(b)}</div>' for b in banners[:3])
+    slides = [f'''<section class="slide v2 story" id="d0"><div class="bg" style="background-image:url({bg(0)})"></div><div class="shade list-shade"></div>
   <div class="top"><span class="logo">ТУТ<i>.DUS</i></span><span>{TODAY:%d.%m}</span></div>
-  <div class="content">
-    <span class="chip">СЕГОДНЯ</span>
-    <h1>{esc(day_title)}</h1>
-    <div class="evs">{rows}</div>
-    {fair}
-  </div>
+  <div class="low"><div class="tag">Сегодня в городе</div><h1>{esc(day_title)}</h1>
+    <div class="list">{items}</div>{pills}</div>
 </section>''']
-    for n, h in enumerate(pick.get("highlights", [])[:3], 1):
-        cls = "ink" if n % 2 else "red"
+    hls = pick.get("highlights", [])[:3]
+    for n, h in enumerate(hls, 1):
         title = h.get("title", "")
-        meta = " · ".join(x for x in [h.get("time") if h.get("time") != "00:00" else "весь день", h.get("place")] if x)
-        slides.append(f'''<section class="slide {cls} story" id="d{n}">
-  <div class="top"><span class="logo">ТУТ<i>.DUS</i></span><span>Сегодня · {n}/{len(pick["highlights"][:3])}</span></div>
-  <div class="content">
-    <span class="chip">{esc((h.get("tag") or "событие").upper())}</span>
-    <h1 style="font-size:{fit(title, 104, 22, 84)}px">{esc(title)}</h1>
-    <p class="lead">{esc(h.get("text"))}</p>
-    <div class="meta">{esc(meta)}</div>
-    {f'<div class="price">{esc(h.get("price"))}</div>' if h.get("price") else ""}
-  </div>
+        meta = "".join(f'<div class="it"><b>{k}</b><span>{esc(v)}</span></div>' for k, v in (
+            ("Когда", h.get("time") if h.get("time") not in ("", "00:00") else "весь день"), ("Где", h.get("place")), ("Цена", h.get("price"))) if v)
+        slides.append(f'''<section class="slide v2 story" id="d{n}"><div class="bg" style="background-image:url({bg(n)})"></div><div class="shade"></div>
+  <div class="top"><span class="logo">ТУТ<i>.DUS</i></span><span>Сегодня · {n}/{len(hls)}</span></div>
+  <div class="low"><div class="tag">{esc(h.get("tag") or "событие")}</div>
+    <h1 style="font-size:{fit(title, 88, 22, 72)}px">{esc(title)}</h1>
+    <p class="sub">{esc(h.get("text"))}</p><div class="list">{meta}</div></div>
 </section>''')
     return f'''<!doctype html><html lang="ru"><head><meta charset="utf-8"><title>daily</title>
-<link rel="stylesheet" href="brand.css"><style>
-  .story {{ height: 1920px; padding: 260px 88px 380px }}
-  .story h1 {{ font-size: 96px; margin-bottom: 8px }}
-  .chip {{ display:inline-block; background: var(--white); color: var(--red); font: 700 30px/1 var(--display);
-          padding: 16px 24px; border-radius: 99px; align-self: flex-start; margin-bottom: 36px; letter-spacing: .06em }}
-  .ink .chip {{ background: var(--red); color: var(--white) }}
-  .evs {{ display: grid; gap: 0; margin-top: 48px }}
-  .ev {{ display: grid; grid-template-columns: 170px 1fr; gap: 24px; padding: 22px 0; border-top: 2px solid rgba(255,255,255,.3) }}
-  .ev .t {{ font: 700 36px/1.2 var(--display) }}
-  .ev .n {{ font: 600 38px/1.2 var(--body); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden }}
-  .ev .n small {{ display: block; font: 400 30px/1.3 var(--body); opacity: .8; margin-top: 6px }}
-  .fair + .fair {{ margin-top: 16px }}
-  .fair {{ margin-top: 36px; font: 500 30px/1.35 var(--body); background: rgba(0,0,0,.18); padding: 22px 26px; border-radius: 18px }}
-  .meta {{ margin-top: 48px; font: 700 40px/1.3 var(--display) }}
-  .price {{ margin-top: 20px; font: 500 36px/1.3 var(--body); opacity: .85 }}
+<link rel="stylesheet" href="brand.css"><link rel="stylesheet" href="v2.css"><style>
+  .story.v2 {{ height: 1920px; padding: 240px 80px 340px }}
+  .story.v2 h1 {{ font-size: 84px }}
+  .v2 .it span {{ display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden }}
+  .v2 .pill + .pill {{ margin-top: 14px }}
+  .v2 .shade.list-shade {{ background: linear-gradient(to bottom, rgba(12,13,15,.55) 0%, rgba(12,13,15,.70) 30%, rgba(12,13,15,.92) 70%, rgba(12,13,15,.97) 100%) }}
 </style></head><body>
 {chr(10).join(slides)}
 </body></html>'''
