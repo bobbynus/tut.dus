@@ -1,0 +1,15 @@
+{
+  "type": "story",
+  "status": "scheduled",
+  "publish_at": "2026-10-06T19:20:00+02:00",
+  "media": [
+    "story-about.png",
+    "story-events.png",
+    "story-free.png",
+    "story-kids.png",
+    "story-doctors.png",
+    "story-important.png",
+    "story-contact.png"
+  ],
+  "note": "После публикации собрать из них «Актуальное» в приложении: каждую сторис в свою категорию, обложки в profile/highlights/"
+}
