@@ -105,6 +105,11 @@ def fit(s, base, long_at, small):
 def photos():
     """Фоны: ваши фото из library/photos (и кадры с Commons, пока своих мало)."""
     d = ROOT / "library" / "photos"
+    listed = d / "backgrounds.txt"
+    if listed.exists():
+        names = [l.strip() for l in listed.read_text().splitlines() if l.strip() and not l.startswith("#") and (d / l.strip()).exists()]
+        if names:
+            return names
     own = sorted(p.name for p in d.glob("*") if p.suffix.lower() in (".jpg", ".jpeg", ".png") and not p.name.startswith("commons-"))
     return own or sorted(p.name for p in d.glob("commons-*.jpg"))
 

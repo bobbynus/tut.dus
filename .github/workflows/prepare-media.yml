@@ -4,7 +4,7 @@ name: Prepare media
 # у фото — метаданные (в том числе GPS). Результат — library/footage и library/photos.
 on:
   push:
-    paths: ["library/inbox/**", "!library/inbox/README.md"]
+    paths: ["library/inbox/**", "library/photos/**", "library/footage/**", "!library/inbox/README.md"]
   workflow_dispatch:
 
 permissions:
@@ -26,6 +26,11 @@ jobs:
           shopt -s nullglob nocaseglob
           mkdir -p library/footage library/photos
           slug() { basename "$1" | sed 's/\.[^.]*$//' | iconv -f utf8 -t ascii//TRANSLIT | tr '[:upper:]' '[:lower:]' | tr -cs 'a-z0-9' '-' | sed 's/^-//;s/-$//'; }
+          # файлы, загруженные мимо inbox прямо в photos/footage, тоже обрабатываем
+          for f in library/photos/*.{jpg,jpeg,png,heic,webp} library/footage/*.{mp4,mov,m4v,webm}; do
+            b=$(basename "$f"); case "$b" in own-*|commons-*|*-wm*|jousting-*|knight-*|dusseldorf-*) continue;; esac
+            mv "$f" library/inbox/
+          done
           for f in library/inbox/*.{mp4,mov,m4v,webm,avi,mkv}; do
             out="library/footage/own-$(slug "$f").mp4"
             ffmpeg -nostdin -hide_banner -loglevel error -y -i "$f" -an -map_metadata -1 \
