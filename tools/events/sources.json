@@ -90,6 +90,12 @@
       "url": "https://www.borussia-duesseldorf.com/",
       "llm": true,
       "category": "спорт"
+    },
+    {
+      "name": "DEG (расписание)",
+      "url": "https://www.deg-eishockey.de/saison/spielplan/",
+      "llm": true,
+      "category": "спорт"
     }
   ],
   "localities": [

@@ -69,10 +69,23 @@ def deg(report):
         links += re.findall(r'(webcal://[^"\s<]+)', page)
         if not links:
             report.append("· DEG: ссылка на iCal не найдена"); return []
-        url = links[0].replace("webcal://", "https://")
-        if url.startswith("/"): url = "https://www.deg-eishockey.de" + url
+        from urllib.parse import urljoin, urlparse
+        ics, tried = None, []
+        for link in dict.fromkeys(links):
+            url = urljoin("https://www.deg-eishockey.de/saison/spielplan/", link.replace("webcal://", "https://").replace("&amp;", "&"))
+            if not urlparse(url).netloc:
+                continue
+            tried.append(url)
+            try:
+                body = _get(url)
+                if "BEGIN:VEVENT" in body:
+                    ics = body; break
+            except Exception:
+                pass
+        if not ics:
+            report.append(f"✗ DEG: iCal не прочитан ({', '.join(tried[:2]) or links[:2]})"); return []
         out = []
-        for f in _ics_events(_get(url)):
+        for f in _ics_events(ics):
             if "DTSTART" not in f: continue
             kick = _ics_dt(f.get("DTSTART_RAW", ""), f["DTSTART"])
             summ, loc = f.get("SUMMARY", ""), f.get("LOCATION", "")
