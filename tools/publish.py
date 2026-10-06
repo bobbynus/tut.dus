@@ -124,6 +124,20 @@ def publish(post_dir, spec):
             "published_at": info.get("timestamp") or datetime.now(timezone.utc).isoformat()}
 
 
+def telegram_mirror(post_dir, spec):
+    """Тот же пост в Telegram-канал. Для сторис — альбом и текстовая сводка (telegram.txt)."""
+    sys.path.insert(0, str(ROOT / "tools"))
+    import telegram
+    if not telegram.enabled() or (post_dir / "telegram.json").exists():
+        return None
+    text_file = post_dir / ("telegram.txt" if (post_dir / "telegram.txt").exists() else spec.get("caption_file", ""))
+    caption = text_file.read_text().strip() if spec.get("caption_file") or text_file.name == "telegram.txt" else ""
+    urls = [public_url(post_dir, n) for n in spec["media"]]
+    ids = telegram.publish(spec["type"], urls, caption)
+    (post_dir / "telegram.json").write_text(json.dumps({"message_ids": ids, "published_at": datetime.now(timezone.utc).isoformat()}) + "\n")
+    return ids
+
+
 def main():
     if not DRY and not (TOKEN and USER):
         sys.exit("Нет IG_ACCESS_TOKEN / IG_USER_ID")
@@ -135,6 +149,13 @@ def main():
             continue
         spec = json.loads(spec_file.read_text())
         if (post_dir / "published.json").exists():
+            pub = json.loads((post_dir / "published.json").read_text())
+            age = now - datetime.fromisoformat(pub["published_at"].replace("Z", "+00:00").replace("+0000", "+00:00"))
+            if not DRY and age.total_seconds() < 86400:
+                try:
+                    if telegram_mirror(post_dir, spec): print(f"✓ {post_dir.name}: Telegram (догнали)")
+                except Exception as e:
+                    failed = True; print(f"✗ {post_dir.name}: Telegram: {e}")
             continue
         if not ONLY:
             if spec.get("status") != "scheduled":
@@ -155,6 +176,10 @@ def main():
             result = publish(post_dir, spec)
             (post_dir / "published.json").write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n")
             print(f"✓ {post_dir.name}: опубликован {result.get('permalink') or ', '.join(result.get('media_ids', []))}")
+            try:
+                if telegram_mirror(post_dir, spec): print(f"✓ {post_dir.name}: Telegram")
+            except Exception as e:  # Telegram не должен ломать Instagram
+                failed = True; print(f"✗ {post_dir.name}: Telegram: {e}")
         except Exception as e:  # продолжаем с остальными постами
             failed = True
             print(f"✗ {post_dir.name}: {e}")
