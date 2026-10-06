@@ -1,0 +1,61 @@
+name: Fetch footage
+
+# Скачивает вертикальные футажи с Pexels (бесплатная лицензия, можно в коммерческих целях,
+# указывать автора не обязательно) в library/footage/ и коммитит их.
+# Нужен секрет PEXELS_API_KEY (бесплатно: https://www.pexels.com/api/).
+on:
+  workflow_dispatch:
+    inputs:
+      query:
+        description: "Что искать (лучше по-английски): Düsseldorf, Rhine river, medieval market…"
+        required: true
+      count:
+        description: "Сколько роликов"
+        default: "3"
+      max_seconds:
+        description: "Максимальная длина ролика, сек"
+        default: "20"
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download from Pexels
+        env:
+          KEY: ${{ secrets.PEXELS_API_KEY }}
+          QUERY: ${{ inputs.query }}
+          COUNT: ${{ inputs.count }}
+          MAXS: ${{ inputs.max_seconds }}
+        run: |
+          set -euo pipefail
+          [ -n "$KEY" ] || { echo "Нет секрета PEXELS_API_KEY"; exit 1; }
+          Q=$(jq -rn --arg q "$QUERY" '$q|@uri')
+          curl -sS -H "Authorization: $KEY" \
+            "https://api.pexels.com/videos/search?query=$Q&orientation=portrait&size=medium&per_page=40" > res.json
+          slug=$(echo "$QUERY" | tr '[:upper:]' '[:lower:]' | tr -cs 'a-z0-9' '-' | sed 's/^-//;s/-$//')
+          mkdir -p library/footage
+          jq -c --argjson max "$MAXS" '.videos[] | select(.duration <= $max)
+              | {id, duration, user: .user.name, page: .url,
+                 file: ([.video_files[] | select(.height >= 1280 and .height <= 2160 and .file_type == "video/mp4")]
+                        | sort_by(.height) | .[0])}
+              | select(.file != null)' res.json | head -n "$COUNT" | while read -r v; do
+            id=$(echo "$v" | jq -r .id)
+            out="library/footage/${slug}-${id}.mp4"
+            [ -f "$out" ] && continue
+            curl -sSL "$(echo "$v" | jq -r .file.link)" -o "$out"
+            echo "$v" | jq '{source: "Pexels", page, author: .user, duration, height: .file.height}' > "${out%.mp4}.json"
+            echo "↓ $out ($(echo "$v" | jq -r .duration) с, автор $(echo "$v" | jq -r .user))"
+          done
+      - name: Commit
+        run: |
+          if [ -n "$(git status --porcelain library)" ]; then
+            git config user.name "tut.dus bot"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add library && git commit -m "Footage: ${{ inputs.query }} [skip ci]" && git push
+          else
+            echo "Новых роликов не найдено"
+          fi

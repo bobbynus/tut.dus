@@ -23,15 +23,30 @@ node render.cjs 01-intro.html ../posts/01-intro
 
 ## Публикация
 
-**Сейчас (вручную):** Meta Business Suite → «Создать публикацию» → загрузить слайды по порядку,
-вставить текст из `caption.md`, опубликовать или запланировать.
+Публикует GitHub Actions, токены лежат в секретах репозитория.
 
-**Потом (автоматически):** Instagram Graph API (Content Publishing).
-Нужно один раз:
-1. Перевести аккаунт в «Профессиональный» (Автор или Бизнес).
-2. Привязать его к странице Facebook.
-3. Создать приложение в [Meta for Developers](https://developers.facebook.com/), получить долгоживущий токен
-   с правами `instagram_basic`, `instagram_content_publish`.
-4. Сохранить токен в секретах GitHub. Публикацией по расписанию займётся GitHub Actions.
+1. Пост — папка `posts/NN-name/` со слайдами или видео, `caption.txt` и `post.json`
+   (формат описан в начале `tools/publish.py`).
+2. `"status": "scheduled"` и время в `publish_at` → workflow **Publish** (запускается каждые 15 минут)
+   опубликует пост и положит рядом `published.json` со ссылкой.
+3. `"status": "draft"` — пост не публикуется.
 
-Пароль от аккаунта для этого не нужен и передавать его никому не нужно.
+Ручной запуск: Actions → Publish → Run workflow (можно указать папку поста и режим проверки).
+
+## Reels с футажами и музыкой
+
+```bash
+python3 tools/make_reel.py posts/NN-name/reel.json
+```
+
+Футажи и музыка лежат в `library/` (см. `library/README.md`). Стоковые футажи скачивает workflow
+**Fetch footage** (нужен секрет `PEXELS_API_KEY`).
+
+## Workflows
+
+| Workflow | Что делает |
+|---|---|
+| Publish | Публикует посты по расписанию |
+| Fetch footage | Скачивает вертикальные футажи с Pexels |
+| Instagram API check | Проверяет, что токен рабочий |
+| Instagram token — get / refresh | Получает токен и продлевает его 1-го и 15-го числа |
