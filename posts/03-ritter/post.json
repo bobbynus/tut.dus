@@ -1,0 +1,11 @@
+{
+  "type": "reel",
+  "status": "scheduled",
+  "publish_at": "2026-10-07T18:00:00+02:00",
+  "caption_file": "caption.txt",
+  "media": [
+    "reel.mp4"
+  ],
+  "cover": "r1.png",
+  "share_to_feed": true
+}
