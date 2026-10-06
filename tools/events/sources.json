@@ -136,6 +136,44 @@
       "hint": "Бери анонсы событий и изменений для жителей: шествия Св. Мартина, карнавал, рождественские рынки, перекрытия, праздники, концерты на открытом воздухе.",
       "rss": true,
       "rss_items": 25
+    },
+    {
+      "name": "Kunstpalast",
+      "url": "https://www.kunstpalast.de/de/",
+      "llm": true,
+      "category": "выставка",
+      "horizon_days": 120,
+      "hint": "Бери выставки, которые идут сейчас или скоро откроются, с датами начала и окончания (date — начало, end_date — конец)."
+    },
+    {
+      "name": "Kunstsammlung NRW (K20/K21)",
+      "url": "https://www.kunstsammlung.de/",
+      "llm": true,
+      "category": "выставка",
+      "horizon_days": 120,
+      "hint": "Бери выставки, которые идут сейчас или скоро откроются, с датами начала и окончания (date — начало, end_date — конец)."
+    },
+    {
+      "name": "NRW-Forum",
+      "url": "https://www.nrw-forum.de/",
+      "llm": true,
+      "category": "выставка",
+      "horizon_days": 120,
+      "hint": "Бери выставки, которые идут сейчас или скоро откроются, с датами начала и окончания (date — начало, end_date — конец)."
+    },
+    {
+      "name": "Aquazoo Löbbecke",
+      "url": "https://www.duesseldorf.de/aquazoo",
+      "llm": true,
+      "category": "детям",
+      "horizon_days": 90
+    },
+    {
+      "name": "Rheinbahn",
+      "url": "https://www.rheinbahn.de/",
+      "llm": true,
+      "category": "важное",
+      "hint": "Бери только объявленные перекрытия, изменения маршрутов, замены трамваев автобусами и забастовки с датами. Рекламу и тарифы пропускай."
     }
   ],
   "localities": [

@@ -1,14 +1,14 @@
 name: Daily stories
 
-# Утренние сторис «Сегодня в Дюссельдорфе». Собирает события, готовит сторис на 08:00 (Берлин);
+# Утренние сторис «Сегодня в Дюссельдорфе». Вечером готовит сторис на завтра, 08:00 (Берлин);
 # публикует их workflow Publish. Пауза: положить файл AUTOPOST_PAUSED в корень репозитория.
 on:
   schedule:
-    - cron: "20 5 * * *"   # 07:20 по Берлину летом / 06:20 зимой
+    - cron: "30 18 * * *"   # 20:30 по Берлину летом / 19:30 зимой — сторис на завтра
   workflow_dispatch:
     inputs:
       date:
-        description: "Дата сторис (YYYY-MM-DD). Пусто — сегодня"
+        description: "Дата сторис (YYYY-MM-DD). Пусто — завтра"
         required: false
 
 permissions:
@@ -29,13 +29,6 @@ jobs:
           npm i -g playwright@1.56.1 >/dev/null
           npx playwright install --with-deps chromium >/dev/null
           cd design && npm ci --silent
-      - name: Fresh events
-        env: { GEMINI_API_KEY: "${{ secrets.GEMINI_API_KEY }}" }
-        run: |
-          # если утренний сбор ещё не отработал сегодня — собрать сейчас
-          if [ "$(jq -r .generated_at data/events.json | cut -c1-10)" != "$(TZ=Europe/Berlin date +%F)" ]; then
-            python3 tools/events/collect.py
-          fi
       - name: Build stories
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
