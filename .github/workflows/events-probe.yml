@@ -1,0 +1,11 @@
+name: Events — probe sources
+
+on:
+  workflow_dispatch:
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/events/probe.py tools/events/candidates.txt
