@@ -1,0 +1,23 @@
+{
+  "_comment": "Источники событий. Сначала ищем разметку schema.org (JSON-LD); если её нет и llm=true — страницу разбирает нейросеть.",
+  "sources": [
+    {"name": "allevents: все",          "url": "https://allevents.in/dusseldorf/all",          "llm": false},
+    {"name": "allevents: концерты",     "url": "https://allevents.in/dusseldorf/concerts",     "llm": false},
+    {"name": "allevents: живая музыка", "url": "https://allevents.in/dusseldorf/live-music",   "llm": false},
+    {"name": "allevents: выходные",     "url": "https://allevents.in/dusseldorf/this-weekend", "llm": false},
+    {"name": "Messe Düsseldorf",        "url": "https://www.messe-duesseldorf.de/",            "llm": false, "category": "выставка"},
+    {"name": "Блошиные рынки (MFT)",    "url": "https://meine-flohmarkt-termine.de/ort/duesseldorf", "llm": true, "category": "рынок"},
+    {"name": "Рынок Aachener Platz",    "url": "https://www.troedelmarkt-aachenerplatz.de/",   "llm": true, "category": "рынок"},
+    {"name": "Radschlägermarkt",        "url": "https://www.radschlaegermarkt-duesseldorf.de/", "llm": true, "category": "рынок"},
+    {"name": "Visit Düsseldorf",        "url": "https://www.visitduesseldorf.de/en/experience/events", "llm": true},
+    {"name": "Prinz",                   "url": "https://prinz.de/duesseldorf/events/",         "llm": true},
+    {"name": "D'haus (Schauspielhaus)", "url": "https://www.dhaus.de/programm/",               "llm": true, "category": "театр"},
+    {"name": "Tonhalle",                "url": "https://www.tonhalle.de/",                     "llm": true, "category": "концерт"},
+    {"name": "zakk",                    "url": "https://www.zakk.de/",                         "llm": true},
+    {"name": "StadtStrand",             "url": "https://www.stadtstrand-duesseldorf.de/events", "llm": true},
+    {"name": "Mr. Düsseldorf (RSS)",    "url": "https://www.mrduesseldorf.de/feed/",           "llm": true, "rss": true}
+  ],
+  "localities": ["düsseldorf", "dusseldorf", "duesseldorf", "neuss", "ratingen", "hilden", "meerbusch",
+                 "erkrath", "mettmann", "langenfeld", "monheim", "kaarst", "haan"],
+  "days_ahead": 60
+}
