@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T11:13",
+ "generated_at": "2026-10-06T11:18",
  "count": 282,
  "events": [
   {
@@ -8,12 +8,12 @@
    "time": "07:00",
    "end_date": "",
    "venue": "Düsseldorf Franziusstraße",
-   "address": "Franziusstraße",
+   "address": "",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://prinz.de/events/stadtrallye-duesseldorf-dreister-diebstahl-im-medienhafen-die-flossis-sind-weg-2/2026-10-06/",
    "category": "экскурсия",
-   "description": "Führungen, Touren & Freizeit in Düsseldorf.",
+   "description": "Stadtrallye Düsseldorf | Dreister Diebstahl im Medienhafen | Die Flossis sind weg!",
    "source": "Prinz"
   },
   {
@@ -27,7 +27,7 @@
    "price": "",
    "url": "https://prinz.de/events/sonne-mond-und-sterne/2026-10-06/",
    "category": "событие",
-   "description": "Sonstiges Event in Monheim am Rhein.",
+   "description": "Sonne, Mond und Sterne in Monheim am Rhein.",
    "source": "Prinz",
    "also_in": [
     "Prinz",
@@ -40,12 +40,12 @@
    "time": "10:00",
    "end_date": "",
    "venue": "Bolker Straße",
-   "address": "Bolker Straße",
+   "address": "",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://prinz.de/events/altstadt-kneipentour-mit-allen-bier-kneipengeschichten-auf-deinem-smartphone/2026-10-06/",
    "category": "экскурсия",
-   "description": "Führungen, Touren & Freizeit in Düsseldorf.",
+   "description": "Altstadt Kneipentour mit allen Bier- & Kneipengeschichten auf deinem Smartphone.",
    "source": "Prinz"
   },
   {
@@ -110,12 +110,12 @@
    "time": "11:00",
    "end_date": "",
    "venue": "Schauspielhaus, Kleines Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/",
    "category": "театр",
-   "description": "Die besten Szenen, Monologe und Lieder | Die Studierenden des Düsseldorfer Schauspielstudios legen ihre Bühnenreifeprüfung ab",
+   "description": "Die besten Szenen, Monologe und Lieder | Die Studierenden des Düsseldorfer Schauspielstudios legen ihre Bühnenreifeprüfung ab.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -124,12 +124,12 @@
    "time": "12:00",
    "end_date": "",
    "venue": "U-Bahnhof Heinrich-Heine-Alle (Ausgang Heinrich-Heine-Platz)",
-   "address": "Heinrich-Heine-Platz",
+   "address": "",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://prinz.de/events/duesseldorf-altstadt-und-altbier-tour-adventure-world-tours/2026-10-06/",
    "category": "экскурсия",
-   "description": "Düsseldorf Altstadt und Altbier Tour.",
+   "description": "Düsseldorf Altstadt und Altbier Tour | Adventure World Tours.",
    "source": "Prinz"
   },
   {
@@ -143,7 +143,7 @@
    "price": "",
    "url": "https://prinz.de/events/aquazoo-loebbecke-museum-duesseldorf/2026-10-06/",
    "category": "экскурсия",
-   "description": "Führungen, Touren & Freizeit in Düsseldorf.",
+   "description": "Aquazoo Löbbecke Museum Düsseldorf.",
    "source": "Prinz"
   },
   {
@@ -157,7 +157,7 @@
    "price": "",
    "url": "https://prinz.de/events/ido-festival-2026/2026-10-06/",
    "category": "фестиваль",
-   "description": "Festivals, Feste & Open Airs in Düsseldorf.",
+   "description": "IDO-Festival 2026 in Düsseldorf.",
    "source": "Prinz"
   },
   {
@@ -171,7 +171,7 @@
    "price": "",
    "url": "https://prinz.de/events/schumann-in-love-galakonzert-der-robert-schumann-hochschule/2026-10-06/",
    "category": "концерт",
-   "description": "Galakonzert der Robert Schumann Hochschule.",
+   "description": "Schumann in love – Galakonzert der Robert Schumann Hochschule.",
    "source": "Prinz"
   },
   {
@@ -185,8 +185,8 @@
    "price": "",
    "url": "https://www.zakk.de/event-detail?event=16141",
    "category": "спорт",
-   "description": "WingTsun - Selbstverteidigung für Alle!",
-   "source": "zakk | https://www.zakk.de/"
+   "description": "Selbstverteidigung für Alle!",
+   "source": "zakk"
   },
   {
    "title": "Backstreet Boys: Into the Millennium - Homecoming: Live in Germany",
@@ -199,7 +199,7 @@
    "price": "from 109,75 €",
    "url": "https://www.visitduesseldorf.de/en/calendar-of-events/backstreet-boys-into-the-millennium-homecoming-live-in-germany-ccc735ad0c",
    "category": "концерт",
-   "description": "Rock & pop concert Backstreet Boys: Into the Millennium - Homecoming: Live in Germany in Düsseldorf.",
+   "description": "Rock & pop concert Backstreet Boys: Into the Millennium - Homecoming: Live in Germany.",
    "source": "Visit Düsseldorf",
    "also_in": [
     "Prinz"
@@ -216,7 +216,7 @@
    "price": "",
    "url": "https://prinz.de/events/bibiza-live-2026/2026-10-06/",
    "category": "концерт",
-   "description": "Bibiza – Live 2026 in Düsseldorf.",
+   "description": "Bibiza – Live 2026.",
    "source": "Prinz"
   },
   {
@@ -229,8 +229,8 @@
    "locality": "Neuss",
    "price": "",
    "url": "https://prinz.de/events/comedyflash-die-stand-up-comedy-show-in-neuss/2026-10-06/",
-   "category": "событие",
-   "description": "Die Stand Up Comedy Show in Neuss.",
+   "category": "театр",
+   "description": "Comedyflash – Die Stand Up Comedy Show in Neuss.",
    "source": "Prinz"
   },
   {
@@ -244,7 +244,7 @@
    "price": "",
    "url": "https://prinz.de/events/harry-potter-quiz-abend/2026-10-06/",
    "category": "событие",
-   "description": "Harry Potter Quiz Abend in Düsseldorf.",
+   "description": "Harry Potter Quiz Abend.",
    "source": "Prinz"
   },
   {
@@ -257,8 +257,8 @@
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://prinz.de/events/rebellcomedy-open-mic-comedy/2026-10-06/",
-   "category": "событие",
-   "description": "Open Mic Comedy in Düsseldorf.",
+   "category": "театр",
+   "description": "RebellComedy – Open Mic Comedy.",
    "source": "Prinz"
   },
   {
@@ -269,11 +269,11 @@
    "venue": "zakk",
    "address": "",
    "locality": "Düsseldorf",
-   "price": "22,50",
+   "price": "€ 22,50",
    "url": "https://www.zakk.de/event-detail?event=15322",
    "category": "концерт",
    "description": "Tour 2026",
-   "source": "zakk | https://www.zakk.de/"
+   "source": "zakk"
   },
   {
    "title": "Backstreet Boys Düsseldorf Tickets",
@@ -327,7 +327,7 @@
    "source": "Messe Düsseldorf"
   },
   {
-   "title": "Kürbispark auf dem Gertrudenhof",
+   "title": "Kürbispark",
    "date": "2026-10-06",
    "time": "",
    "end_date": "2026-11-09",
@@ -338,7 +338,7 @@
    "url": "https://www.instagram.com/reel/DdZTJUjq0Tb/",
    "category": "фестиваль",
    "description": "Vom 5. September bis 9. November 2026 verwandelt sich das Erlebnisgelände wieder in einen riesigen Kürbispark rund um die berühmte Kürbispyramide.",
-   "source": "Mr. Düsseldorf (RSS) | https://www.mrduesseldorf.de/feed/"
+   "source": "Mr. Düsseldorf (RSS)"
   },
   {
    "title": "New Fall Festival 2026",
@@ -360,12 +360,12 @@
    "time": "10:00",
    "end_date": "2026-10-07",
    "venue": "Central 2",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/das-gruene-koenigreich/2921/",
    "category": "детям",
-   "description": "von Cornelia Funke und Tammi Hartung Regie Leonie Rohlfing",
+   "description": "von Cornelia Funke und Tammi Hartung Regie Leonie Rohlfing.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -374,7 +374,7 @@
    "time": "17:00",
    "end_date": "2026-10-07",
    "venue": "Schauspielhaus, Foyer",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/move-it/2919/",
@@ -394,7 +394,7 @@
    "url": "https://www.zakk.de/",
    "category": "событие",
    "description": "Kneipen Mittwoch",
-   "source": "zakk | https://www.zakk.de/"
+   "source": "zakk"
   },
   {
    "title": "Freestyle Session Space",
@@ -402,12 +402,12 @@
    "time": "19:00",
    "end_date": "2026-10-07",
    "venue": "Central Brücke",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/freestyle-session-space/2995/",
-   "category": "детям",
-   "description": "Freies Training für urbane Tänzer:innen",
+   "category": "событие",
+   "description": "Freies Training für urbane Tänzer:innen.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -422,7 +422,7 @@
    "url": "https://www.stadtstrand-duesseldorf.de/events/strandquiz---open-air-pubquiz-3",
    "category": "событие",
    "description": "STRANDQUIZ - Open Air Pubquiz",
-   "source": "StadtStrand | https://www.stadtstrand-duesseldorf.de/events"
+   "source": "StadtStrand"
   },
   {
    "title": "Bernarda Albas Haus",
@@ -430,12 +430,12 @@
    "time": "19:30",
    "end_date": "2026-10-07",
    "venue": "Schauspielhaus, Großes Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/bernarda-albas-haus/2918/",
    "category": "театр",
-   "description": "von Alice Birch nach Federico García Lorca Regie Lucia Bihler",
+   "description": "von Alice Birch nach Federico García Lorca Regie Lucia Bihler.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -444,12 +444,12 @@
    "time": "20:00",
    "end_date": "2026-10-07",
    "venue": "Schauspielhaus, Kleines Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/eva-menasse/2920/",
    "category": "событие",
-   "description": "Zu Gast im Literarischen Salon von Mithu Sanyal und Navid Kermani",
+   "description": "Zu Gast im Literarischen Salon von Mithu Sanyal und Navid Kermani.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -463,7 +463,7 @@
    "price": "Eintritt frei!",
    "url": "https://www.troedelmarkt-aachenerplatz.de/",
    "category": "концерт",
-   "description": "Erlebt echten New Orleans Spirit, pure Lebensfreude und jede Menge Swing!",
+   "description": "Foot tapping, finger snapping – echter New-Orleans-Jazz live.",
    "source": "Рынок Aachener Platz"
   },
   {
@@ -529,9 +529,9 @@
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.zakk.de/event-detail?event=15336",
-   "category": "театр",
+   "category": "событие",
    "description": "aktivistische Satire",
-   "source": "zakk | https://www.zakk.de/"
+   "source": "zakk"
   },
   {
    "title": "Gemeinsam gegen die weibliche Genitalbeschneidung",
@@ -541,11 +541,11 @@
    "venue": "zakk",
    "address": "",
    "locality": "Düsseldorf",
-   "price": "23,10",
+   "price": "€ 23,10",
    "url": "https://www.zakk.de/event-detail?event=16203",
    "category": "событие",
    "description": "Informationsveranstaltung",
-   "source": "zakk | https://www.zakk.de/"
+   "source": "zakk"
   },
   {
    "title": "Wolf",
@@ -553,12 +553,12 @@
    "time": "10:00",
    "end_date": "2026-10-08",
    "venue": "Central 1",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/wolf/2922/",
    "category": "детям",
-   "description": "Ein Stück über Mut und Freundschaft von Saša Stanišić Regie Carmen Schwarz",
+   "description": "Ein Stück über Mut und Freundschaft von Saša Stanišić Regie Carmen Schwarz.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -567,12 +567,12 @@
    "time": "18:00",
    "end_date": "2026-10-08",
    "venue": "Central Brücke",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/theaterbar/2923/",
-   "category": "событие",
-   "description": "Drag-Bingo mit Effi Biest DRINKS, LIEBLINGSTEXTE, SCHOWEINLAGEN UND LIVE-MUSIK",
+   "category": "вечеринка",
+   "description": "Drag-Bingo mit Effi Biest DRINKS, LIEBLINGSTEXTE, SCHOWEINLAGEN UND LIVE-MUSIK.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -587,7 +587,7 @@
    "url": "https://www.stadtstrand-duesseldorf.de/events/bingo-am-strand---der-andersgeartete-bingo-abend-4",
    "category": "событие",
    "description": "BINGO AM STRAND - der andersgeartete Bingo-Abend",
-   "source": "StadtStrand | https://www.stadtstrand-duesseldorf.de/events"
+   "source": "StadtStrand"
   },
   {
    "title": "The Cinematic Orchestra in Düsseldorf",
@@ -683,9 +683,9 @@
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.zakk.de/event-detail?event=15800",
-   "category": "театр",
+   "category": "событие",
    "description": "Neues Programm",
-   "source": "zakk | https://www.zakk.de/"
+   "source": "zakk"
   },
   {
    "title": "Wolf",
@@ -693,12 +693,12 @@
    "time": "10:00",
    "end_date": "2026-10-09",
    "venue": "Central 1",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/wolf/2926/",
    "category": "детям",
-   "description": "Ein Stück über Mut und Freundschaft von Saša Stanišić Regie Carmen Schwarz",
+   "description": "Ein Stück über Mut und Freundschaft von Saša Stanišić Regie Carmen Schwarz.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -707,12 +707,12 @@
    "time": "19:00",
    "end_date": "2026-10-09",
    "venue": "Schauspielhaus, Kleines Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/fanny-und-alexander-2026/2925/",
    "category": "театр",
-   "description": "von Ingmar Bergman Regie Thorleifur Örn Arnarsson",
+   "description": "von Ingmar Bergman Regie Thorleifur Örn Arnarsson.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -727,7 +727,7 @@
    "url": "https://www.stadtstrand-duesseldorf.de/events/murasaki-waves---japanischer-city-pop-2",
    "category": "концерт",
    "description": "MURASAKI WAVES - japanischer City-Pop",
-   "source": "StadtStrand | https://www.stadtstrand-duesseldorf.de/events"
+   "source": "StadtStrand"
   },
   {
    "title": "Der Schneesturm",
@@ -735,27 +735,29 @@
    "time": "19:30",
    "end_date": "2026-10-09",
    "venue": "Schauspielhaus, Großes Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/der-schneesturm/2924/",
    "category": "театр",
-   "description": "nach Vladimir Sorokin | in einer Bühnenfassung von Kirill Serebrennikov Regie Kirill Serebrennikov",
+   "description": "nach Vladimir Sorokin | in einer Bühnenfassung von Kirill Serebrennikov Regie Kirill Serebrennikov.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
-   "title": "Spieltag 7: LFX - DEG",
+   "title": "Weißwasser - DEG",
    "date": "2026-10-09",
    "time": "19:30",
    "end_date": "",
-   "venue": "",
+   "venue": "на выезде",
    "address": "",
    "locality": "",
    "price": "",
-   "url": "https://www.deg-eishockey.de/saison/spielplan/",
+   "url": "https://www.deg-eishockey.de/",
    "category": "спорт",
-   "description": "Spielplan der DEL2 Saison 2026/27.",
-   "source": "DEG (расписание)"
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": true
   },
   {
    "title": "Glen Hansard",
@@ -836,7 +838,7 @@
    "url": "https://www.zakk.de/event-detail?event=16270",
    "category": "вечеринка",
    "description": "am 2. Freitag",
-   "source": "zakk | https://www.zakk.de/"
+   "source": "zakk"
   },
   {
    "title": "Der Rockclub",
@@ -850,7 +852,7 @@
    "url": "https://www.zakk.de/event-detail?event=16271",
    "category": "вечеринка",
    "description": "jeden 2. Freitag",
-   "source": "zakk | https://www.zakk.de/"
+   "source": "zakk"
   },
   {
    "title": "Trödel- und Antikmarkt am Aachener Platz",
@@ -863,7 +865,7 @@
    "price": "",
    "url": "https://www.troedelmarkt-aachenerplatz.de/",
    "category": "рынок",
-   "description": "Der Trödel- und Antikmarkt am Aachener Platz in Düsseldorf-Bilk ist eine charmante Mischung aus Pariser Flair und Made in Germany.",
+   "description": "Der Trödel- und Antikmarkt am Aachener Platz in Düsseldorf-Bilk.",
    "source": "Рынок Aachener Platz"
   },
   {
@@ -886,12 +888,12 @@
    "time": "16:00",
    "end_date": "2026-10-10",
    "venue": "Schauspielhaus, Foyer",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/taste-it/3051/",
    "category": "событие",
-   "description": "Food. Drinks. Ensemble",
+   "description": "Food. Drinks. Ensemble.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -900,12 +902,12 @@
    "time": "18:00",
    "end_date": "2026-10-10",
    "venue": "Central 1",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/samurai-x/2929/",
-   "category": "детям",
-   "description": "von Takao Baba & Ensemble frei nach dem Film Die sieben Samurai von Akira Kurosawa Regie Takao Baba",
+   "category": "театр",
+   "description": "von Takao Baba & Ensemble frei nach dem Film Die sieben Samurai von Akira Kurosawa Regie Takao Baba.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -920,7 +922,7 @@
    "url": "https://www.stadtstrand-duesseldorf.de/events/the-fina-shout---das-grosse-saisonabschlusskonzert",
    "category": "концерт",
    "description": "THE FINAL SHOUT - das große Saisonabschlusskonzert",
-   "source": "StadtStrand | https://www.stadtstrand-duesseldorf.de/events"
+   "source": "StadtStrand"
   },
   {
    "title": "Der Schneesturm",
@@ -928,12 +930,12 @@
    "time": "19:30",
    "end_date": "2026-10-10",
    "venue": "Schauspielhaus, Großes Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/der-schneesturm/2927/",
    "category": "театр",
-   "description": "nach Vladimir Sorokin | in einer Bühnenfassung von Kirill Serebrennikov Regie Kirill Serebrennikov",
+   "description": "nach Vladimir Sorokin | in einer Bühnenfassung von Kirill Serebrennikov Regie Kirill Serebrennikov.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -942,12 +944,12 @@
    "time": "20:00",
    "end_date": "2026-10-10",
    "venue": "Schauspielhaus, Kleines Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/romeo-und-julia/2928/",
    "category": "театр",
-   "description": "frei nach William Shakespeare Regie Bassam Ghazi",
+   "description": "frei nach William Shakespeare Regie Bassam Ghazi.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -1140,7 +1142,7 @@
    "url": "https://www.zakk.de/event-detail?event=16252",
    "category": "событие",
    "description": "Menschenwürde und Gleichberechtigung im Blick",
-   "source": "zakk | https://www.zakk.de/"
+   "source": "zakk"
   },
   {
    "title": "Ein Abend mit Olga Tokarczuk",
@@ -1152,9 +1154,9 @@
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.zakk.de/event-detail?event=16235",
-   "category": "театр",
+   "category": "событие",
    "description": "Literaturtage Düsseldorf 2026",
-   "source": "zakk | https://www.zakk.de/"
+   "source": "zakk"
   },
   {
    "title": "Kürbisschnitzen auf Gut Hixholz",
@@ -1168,7 +1170,7 @@
    "url": "https://www.gut-hixholz.de/Kuerbisschnitzen-2023---Kuerbiswerkstaetten-Gut-Hixholz_5117.aspx",
    "category": "детям",
    "description": "An den Oktober-Samstagen lädt der Bauernhof offiziell zum Kürbisschnitzen ein.",
-   "source": "Mr. Düsseldorf (RSS) | https://www.mrduesseldorf.de/feed/"
+   "source": "Mr. Düsseldorf (RSS)"
   },
   {
    "title": "Radschlägermarkt Düsseldorf",
@@ -1178,7 +1180,7 @@
    "venue": "METRO Düsseldorf",
    "address": "Walter-Eucken-Straße",
    "locality": "Düsseldorf",
-   "price": "5,- Euro",
+   "price": "",
    "url": "https://www.radschlaegermarkt-duesseldorf.de/",
    "category": "рынок",
    "description": "Der nächste RADSCHLÄGERMARKT findet statt rund um die METRO Düsseldorf.",
@@ -1190,7 +1192,7 @@
    "time": "14:00",
    "end_date": "2026-10-11",
    "venue": "Central Brücke",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/gastgeberin-am-stadtkollektiv/3142/",
@@ -1204,12 +1206,12 @@
    "time": "15:00",
    "end_date": "",
    "venue": "Schauspielhaus, Großes Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/boy-kaiser-quartett/2991/",
    "category": "концерт",
-   "description": "Konzert im Rahmen des New Fall Festival 2026",
+   "description": "Konzert im Rahmen des New Fall Festival 2026.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -1218,16 +1220,16 @@
    "time": "16:00",
    "end_date": "2026-10-11",
    "venue": "Schauspielhaus, Kleines Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/tyll/2930/",
    "category": "театр",
-   "description": "von Daniel Kehlmann Regie André Kaczmarczyk",
+   "description": "von Daniel Kehlmann Regie André Kaczmarczyk.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
-   "title": "Spieltag 8: DEG - DRE",
+   "title": "DEG - Dresden",
    "date": "2026-10-11",
    "time": "17:00",
    "end_date": "",
@@ -1235,10 +1237,12 @@
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.deg-eishockey.de/saison/spielplan/",
+   "url": "https://www.deg-eishockey.de/",
    "category": "спорт",
-   "description": "Spielplan der DEL2 Saison 2026/27.",
-   "source": "DEG (расписание)"
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": false
   },
   {
    "title": "Drei Schwestern",
@@ -1246,12 +1250,12 @@
    "time": "18:00",
    "end_date": "2026-10-11",
    "venue": "Central 2",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/drei-schwestern/2931/",
    "category": "театр",
-   "description": "von Katharina Bill / Anton Tschechow Regie Katharina Bill",
+   "description": "von Katharina Bill / Anton Tschechow Regie Katharina Bill.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -1266,7 +1270,7 @@
    "url": "https://www.stadtstrand-duesseldorf.de/events/fischmarkt-sundown---drinks-beats-zum-wochenendausklang-5",
    "category": "вечеринка",
    "description": "FISCHMARKT SUNDOWN - Drinks & Beats zum Wochenendausklang",
-   "source": "StadtStrand | https://www.stadtstrand-duesseldorf.de/events"
+   "source": "StadtStrand"
   },
   {
    "title": "Fortuna — SC Verl",
@@ -1290,12 +1294,12 @@
    "time": "20:00",
    "end_date": "",
    "venue": "Schauspielhaus, Großes Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/skinshape/2869/",
    "category": "концерт",
-   "description": "Konzert im Rahmen des New Fall Festival 2026",
+   "description": "Konzert im Rahmen des New Fall Festival 2026.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -1402,7 +1406,7 @@
    "url": "https://www.zakk.de/event-detail?event=16113",
    "category": "экскурсия",
    "description": "Edelweißpiratenfestival 2026",
-   "source": "zakk | https://www.zakk.de/"
+   "source": "zakk"
   },
   {
    "title": "Die Spur des Geldes",
@@ -1416,7 +1420,7 @@
    "url": "https://www.zakk.de/event-detail?event=16261",
    "category": "экскурсия",
    "description": "Ein interaktiver Stadtrundgang",
-   "source": "zakk | https://www.zakk.de/"
+   "source": "zakk"
   },
   {
    "title": "Vergrabene Geheimnisse - \"Thammena mystika\" - Θαμμένα μυστικά",
@@ -1430,7 +1434,7 @@
    "url": "https://www.zakk.de/event-detail?event=16283",
    "category": "событие",
    "description": "Deutsch-Griechischer Literatursalon",
-   "source": "zakk | https://www.zakk.de/"
+   "source": "zakk"
   },
   {
    "title": "Wir lesen uns: Social Reading in der Fliese mit lit.liebe",
@@ -1440,11 +1444,11 @@
    "venue": "zakk",
    "address": "",
    "locality": "Düsseldorf",
-   "price": "9,50",
+   "price": "€ 9,50",
    "url": "https://www.zakk.de/event-detail?event=16236",
    "category": "событие",
    "description": "Literaturtage Düsseldorf 2026",
-   "source": "zakk | https://www.zakk.de/"
+   "source": "zakk"
   },
   {
    "title": "Tobias Lehmkuhl: \"Keine von uns – Das Leben der Irmgard Keun\"",
@@ -1454,11 +1458,11 @@
    "venue": "zakk",
    "address": "",
    "locality": "Düsseldorf",
-   "price": "11,50",
+   "price": "€ 11,50",
    "url": "https://www.zakk.de/event-detail?event=16237",
-   "category": "театр",
+   "category": "событие",
    "description": "Literaturtage Düsseldorf 2026",
-   "source": "zakk | https://www.zakk.de/"
+   "source": "zakk"
   },
   {
    "title": "Science Slam on Sunday",
@@ -1470,9 +1474,9 @@
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.zakk.de/event-detail?event=15785",
-   "category": "театр",
+   "category": "событие",
    "description": "Die Wissenschaft schlägt zu...",
-   "source": "zakk | https://www.zakk.de/"
+   "source": "zakk"
   },
   {
    "title": "Samurai X",
@@ -1480,12 +1484,12 @@
    "time": "11:00",
    "end_date": "2026-10-12",
    "venue": "Central 1",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/samurai-x/2964/",
-   "category": "детям",
-   "description": "von Takao Baba & Ensemble frei nach dem Film Die sieben Samurai von Akira Kurosawa Regie Takao Baba",
+   "category": "театр",
+   "description": "von Takao Baba & Ensemble frei nach dem Film Die sieben Samurai von Akira Kurosawa Regie Takao Baba.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -1494,12 +1498,12 @@
    "time": "18:00",
    "end_date": "",
    "venue": "Central Brücke",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/von-pommes-socken-und-traeumen/2996/",
-   "category": "театр",
-   "description": "All-abled Theaterclub für alle zwischen 16 und 96 Jahren",
+   "category": "событие",
+   "description": "All-abled Theaterclub für alle zwischen 16 und 96 Jahren.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -1510,11 +1514,11 @@
    "venue": "zakk",
    "address": "",
    "locality": "Düsseldorf",
-   "price": "16,50",
+   "price": "€ 16,50",
    "url": "https://www.zakk.de/event-detail?event=16286",
-   "category": "театр",
+   "category": "событие",
    "description": "Literaturtage Düsseldorf 2026",
-   "source": "zakk | https://www.zakk.de/"
+   "source": "zakk"
   },
   {
    "title": "Jule Weber: Ich zeichne meinen Standort auf die Haut",
@@ -1524,11 +1528,11 @@
    "venue": "zakk",
    "address": "",
    "locality": "Düsseldorf",
-   "price": "9,50",
+   "price": "€ 9,50",
    "url": "https://www.zakk.de/event-detail?event=15793",
-   "category": "театр",
+   "category": "событие",
    "description": "Literaturtage Düsseldorf 2026",
-   "source": "zakk | https://www.zakk.de/"
+   "source": "zakk"
   },
   {
    "title": "Bin gleich fertig!",
@@ -1536,12 +1540,12 @@
    "time": "10:00",
    "end_date": "2026-10-13",
    "venue": "Central 2",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/bin-gleich-fertig/2936/",
    "category": "детям",
-   "description": "nach dem Bilderbuch von Martin Baltscheit und Anne-Kathrin Behl Regie und Choreografie Barbara Fuchs",
+   "description": "nach dem Bilderbuch von Martin Baltscheit und Anne-Kathrin Behl Regie und Choreografie Barbara Fuchs.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -1625,9 +1629,9 @@
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.zakk.de/event-detail?event=16238",
-   "category": "театр",
+   "category": "событие",
    "description": "Literaturtage Düsseldorf 2026",
-   "source": "zakk | https://www.zakk.de/"
+   "source": "zakk"
   },
   {
    "title": "WingTsun - Selbstverteidigung für Alle!",
@@ -1641,7 +1645,7 @@
    "url": "https://www.zakk.de/event-detail?event=16142",
    "category": "спорт",
    "description": "Kostenloses Kennenlerntraining",
-   "source": "zakk | https://www.zakk.de/"
+   "source": "zakk"
   },
   {
    "title": "Tupoka Ogette: \"Trotzdem Zuhause. Ein Memoir\"",
@@ -1651,11 +1655,11 @@
    "venue": "zakk",
    "address": "",
    "locality": "Düsseldorf",
-   "price": "26,40",
+   "price": "€ 26,40",
    "url": "https://www.zakk.de/event-detail?event=16083",
-   "category": "театр",
+   "category": "событие",
    "description": "Literaturtage Düsseldorf 2026",
-   "source": "zakk | https://www.zakk.de/"
+   "source": "zakk"
   },
   {
    "title": "Bin gleich fertig!",
@@ -1663,12 +1667,12 @@
    "time": "10:00",
    "end_date": "2026-10-14",
    "venue": "Central 2",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/bin-gleich-fertig/2937/",
    "category": "детям",
-   "description": "nach dem Bilderbuch von Martin Baltscheit und Anne-Kathrin Behl Regie und Choreografie Barbara Fuchs",
+   "description": "nach dem Bilderbuch von Martin Baltscheit und Anne-Kathrin Behl Regie und Choreografie Barbara Fuchs.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -1677,7 +1681,7 @@
    "time": "17:00",
    "end_date": "2026-10-14",
    "venue": "Schauspielhaus, Foyer",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/move-it/2997/",
@@ -1691,12 +1695,12 @@
    "time": "18:00",
    "end_date": "",
    "venue": "Schauspielhaus, Großes Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/die-moewe/2998/",
    "category": "театр",
-   "description": "von Anton Tschechow Regie Barbara Frey",
+   "description": "von Anton Tschechow Regie Barbara Frey.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -1711,7 +1715,7 @@
    "url": "https://www.stadtstrand-duesseldorf.de/events/sunset-dance---line-dance-fur-jedermann--frau-west-coast-swing-special-2",
    "category": "вечеринка",
    "description": "SUNSET DANCE - Line Dance für Jedermann/-frau (West Coast Swing-Special)",
-   "source": "StadtStrand | https://www.stadtstrand-duesseldorf.de/events"
+   "source": "StadtStrand"
   },
   {
    "title": "Freestyle Session Space",
@@ -1719,12 +1723,12 @@
    "time": "19:00",
    "end_date": "2026-10-14",
    "venue": "Central Brücke",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/freestyle-session-space/2999/",
-   "category": "детям",
-   "description": "Freies Training für urbane Tänzer:innen",
+   "category": "событие",
+   "description": "Freies Training für urbane Tänzer:innen.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -1754,7 +1758,7 @@
    "price": "Eintritt frei!",
    "url": "https://www.troedelmarkt-aachenerplatz.de/",
    "category": "концерт",
-   "description": "Erlebt echten New Orleans Spirit, pure Lebensfreude und jede Menge Swing!",
+   "description": "Foot tapping, finger snapping – echter New-Orleans-Jazz live.",
    "source": "Рынок Aachener Platz"
   },
   {
@@ -1769,7 +1773,7 @@
    "url": "https://www.zakk.de/event-detail?event=16229",
    "category": "событие",
    "description": "1001 Plateau",
-   "source": "zakk | https://www.zakk.de/"
+   "source": "zakk"
   },
   {
    "title": "Gemischte Tüte",
@@ -1783,7 +1787,7 @@
    "url": "https://www.zakk.de/event-detail?event=16290",
    "category": "событие",
    "description": "einmal im Monat",
-   "source": "zakk | https://www.zakk.de/"
+   "source": "zakk"
   },
   {
    "title": "Hannis Schachabend",
@@ -1797,7 +1801,7 @@
    "url": "https://www.zakk.de/event-detail?event=16291",
    "category": "событие",
    "description": "bei gutem Wetter im Biergarten!",
-   "source": "zakk | https://www.zakk.de/"
+   "source": "zakk"
   },
   {
    "title": "1984 – Dystopie 2.0",
@@ -1805,12 +1809,12 @@
    "time": "11:00",
    "end_date": "2026-10-15",
    "venue": "Central 1",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/1984-dystopie-2-0/2959/",
-   "category": "детям",
-   "description": "von Kim Langner nach dem Roman von George Orwell Regie Katharina Birch",
+   "category": "театр",
+   "description": "von Kim Langner nach dem Roman von George Orwell Regie Katharina Birch.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -1819,12 +1823,12 @@
    "time": "17:00",
    "end_date": "",
    "venue": "Schauspielhaus, Lounge",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/klima-cafe/3001/",
    "category": "событие",
-   "description": "Psychologists4Future laden ein",
+   "description": "Psychologists4Future laden ein.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -1833,12 +1837,12 @@
    "time": "18:30",
    "end_date": "",
    "venue": "Central Brücke",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/offenes-impro-training-mit-den-dimpronauten/3002/",
    "category": "театр",
-   "description": "Anmelden, vorbeikommen, mitmachen",
+   "description": "Anmelden, vorbeikommen, mitmachen.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -1847,12 +1851,12 @@
    "time": "19:30",
    "end_date": "2026-10-15",
    "venue": "Schauspielhaus, Großes Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/bernarda-albas-haus/3000/",
    "category": "театр",
-   "description": "von Alice Birch nach Federico García Lorca Regie Lucia Bihler",
+   "description": "von Alice Birch nach Federico García Lorca Regie Lucia Bihler.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -1956,7 +1960,7 @@
    "url": "https://www.zakk.de/event-detail?event=16245",
    "category": "событие",
    "description": "Literaturtage Düsseldorf 2026",
-   "source": "zakk | https://www.zakk.de/"
+   "source": "zakk"
   },
   {
    "title": "Von wegen Sokrates - Philosophisches Café",
@@ -1966,11 +1970,11 @@
    "venue": "zakk",
    "address": "",
    "locality": "Düsseldorf",
-   "price": "11,50",
+   "price": "€ 11,50",
    "url": "https://www.zakk.de/event-detail?event=15478",
    "category": "событие",
    "description": "Moderation: Jost Guido Freese",
-   "source": "zakk | https://www.zakk.de/"
+   "source": "zakk"
   },
   {
    "title": "Selim Özdoğan: \"Ihr kriegt uns hier nicht raus\"",
@@ -1982,9 +1986,9 @@
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.zakk.de/event-detail?event=16246",
-   "category": "театр",
+   "category": "событие",
    "description": "Literaturtage Düsseldorf 2026",
-   "source": "zakk | https://www.zakk.de/"
+   "source": "zakk"
   },
   {
    "title": "1984 – Dystopie 2.0",
@@ -1992,12 +1996,12 @@
    "time": "11:00",
    "end_date": "2026-10-16",
    "venue": "Central 1",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/1984-dystopie-2-0/2960/",
-   "category": "детям",
-   "description": "von Kim Langner nach dem Roman von George Orwell Regie Katharina Birch",
+   "category": "театр",
+   "description": "von Kim Langner nach dem Roman von George Orwell Regie Katharina Birch.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -2012,7 +2016,7 @@
    "url": "https://www.stadtstrand-duesseldorf.de/events/open-air-salsa-xxl---tanzworkshop-und-fiesta",
    "category": "вечеринка",
    "description": "NOCHE DE SALSA - Tanzworkshop und Fiesta",
-   "source": "StadtStrand | https://www.stadtstrand-duesseldorf.de/events"
+   "source": "StadtStrand"
   },
   {
    "title": "FANNY UND ALEXANDER",
@@ -2020,12 +2024,12 @@
    "time": "19:00",
    "end_date": "2026-10-16",
    "venue": "Schauspielhaus, Kleines Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/fanny-und-alexander-2026/3004/",
    "category": "театр",
-   "description": "von Ingmar Bergman Regie Thorleifur Örn Arnarsson",
+   "description": "von Ingmar Bergman Regie Thorleifur Örn Arnarsson.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -2034,12 +2038,12 @@
    "time": "19:00",
    "end_date": "",
    "venue": "Central 2",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/das-orakel-spricht/3005/",
-   "category": "театр",
-   "description": "von Liv Strömquist Regie Jessica Glause",
+   "category": "событие",
+   "description": "von Liv Strömquist Regie Jessica Glause.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -2048,16 +2052,16 @@
    "time": "19:30",
    "end_date": "",
    "venue": "Schauspielhaus, Großes Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/die-moewe/3003/",
    "category": "театр",
-   "description": "von Anton Tschechow Regie Barbara Frey",
+   "description": "von Anton Tschechow Regie Barbara Frey.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
-   "title": "Spieltag 9: DEG - FRB",
+   "title": "DEG - Freiburg",
    "date": "2026-10-16",
    "time": "19:30",
    "end_date": "",
@@ -2065,10 +2069,12 @@
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.deg-eishockey.de/saison/spielplan/",
+   "url": "https://www.deg-eishockey.de/",
    "category": "спорт",
-   "description": "Spielplan der DEL2 Saison 2026/27.",
-   "source": "DEG (расписание)"
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": false
   },
   {
    "title": "Trödel- und Antikmarkt am Aachener Platz",
@@ -2081,7 +2087,7 @@
    "price": "",
    "url": "https://www.troedelmarkt-aachenerplatz.de/",
    "category": "рынок",
-   "description": "Der Trödel- und Antikmarkt am Aachener Platz in Düsseldorf-Bilk ist eine charmante Mischung aus Pariser Flair und Made in Germany.",
+   "description": "Der Trödel- und Antikmarkt am Aachener Platz in Düsseldorf-Bilk.",
    "source": "Рынок Aachener Platz"
   },
   {
@@ -2095,7 +2101,7 @@
    "price": "Eintritt frei",
    "url": "https://www.troedelmarkt-aachenerplatz.de/musikprogramm/2026-10-17-los-apartamentos/",
    "category": "концерт",
-   "description": "Mento live im Antik- und Trödelzelt.",
+   "description": "Mento live am Aachener Platz.",
    "source": "Рынок Aachener Platz"
   },
   {
@@ -2104,12 +2110,12 @@
    "time": "14:00",
    "end_date": "2026-10-17",
    "venue": "Schauspielhaus, Foyer",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/kleidertauschparty/3006/",
    "category": "вечеринка",
-   "description": "Stadt:Kollektiv Kleidertauschparty",
+   "description": "Stadt:Kollektiv Kleidertauschparty.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -2140,7 +2146,7 @@
    "url": "https://www.stadtstrand-duesseldorf.de/events/drinks-beats---sunset-sips-grooves",
    "category": "вечеринка",
    "description": "DRINKS & BEATS - Sunset Sips & Grooves",
-   "source": "StadtStrand | https://www.stadtstrand-duesseldorf.de/events"
+   "source": "StadtStrand"
   },
   {
    "title": "PRINZ FRIEDRICH VON HOMBURG",
@@ -2148,12 +2154,12 @@
    "time": "19:00",
    "end_date": "2026-10-17",
    "venue": "Schauspielhaus, Großes Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/prinz-friedrich-von-homburg/3007/",
    "category": "театр",
-   "description": "Ein Schauspiel von Heinrich von Kleist Regie Ulrich Rasche",
+   "description": "Ein Schauspiel von Heinrich von Kleist Regie Ulrich Rasche.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -2162,12 +2168,12 @@
    "time": "20:00",
    "end_date": "2026-10-17",
    "venue": "Schauspielhaus, Kleines Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/die-verwandlung/3008/",
    "category": "театр",
-   "description": "nach Franz Kafka | in einer Bearbeitung von Dorle Trachternach, Kamilė Gudmonaitė und Ensemble Regie Kamilė Gudmonaitė",
+   "description": "nach Franz Kafka | in einer Bearbeitung von Dorle Trachternach, Kamilė Gudmonaitė und Ensemble Regie Kamilė Gudmonaitė.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -2256,7 +2262,7 @@
    "url": "https://www.gut-hixholz.de/Kuerbisschnitzen-2023---Kuerbiswerkstaetten-Gut-Hixholz_5117.aspx",
    "category": "детям",
    "description": "An den Oktober-Samstagen lädt der Bauernhof offiziell zum Kürbisschnitzen ein.",
-   "source": "Mr. Düsseldorf (RSS) | https://www.mrduesseldorf.de/feed/"
+   "source": "Mr. Düsseldorf (RSS)"
   },
   {
    "title": "PRINZ FRIEDRICH VON HOMBURG",
@@ -2264,12 +2270,12 @@
    "time": "16:00",
    "end_date": "2026-10-18",
    "venue": "Schauspielhaus, Großes Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/prinz-friedrich-von-homburg/3009/",
    "category": "театр",
-   "description": "Ein Schauspiel von Heinrich von Kleist Regie Ulrich Rasche",
+   "description": "Ein Schauspiel von Heinrich von Kleist Regie Ulrich Rasche.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -2278,12 +2284,12 @@
    "time": "16:00",
    "end_date": "2026-10-18",
    "venue": "Central 1",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/1984-dystopie-2-0/2961/",
-   "category": "детям",
-   "description": "von Kim Langner nach dem Roman von George Orwell Regie Katharina Birch",
+   "category": "театр",
+   "description": "von Kim Langner nach dem Roman von George Orwell Regie Katharina Birch.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -2298,21 +2304,23 @@
    "url": "https://www.stadtstrand-duesseldorf.de/events/drinks-beats---sunset-sips-grooves-2",
    "category": "вечеринка",
    "description": "DRINKS & BEATS - Sunset Sips & Grooves",
-   "source": "StadtStrand | https://www.stadtstrand-duesseldorf.de/events"
+   "source": "StadtStrand"
   },
   {
-   "title": "Spieltag 10: SCB - DEG",
+   "title": "Bietigheim - DEG",
    "date": "2026-10-18",
    "time": "17:00",
    "end_date": "",
-   "venue": "",
+   "venue": "на выезде",
    "address": "",
    "locality": "",
    "price": "",
-   "url": "https://www.deg-eishockey.de/saison/spielplan/",
+   "url": "https://www.deg-eishockey.de/",
    "category": "спорт",
-   "description": "Spielplan der DEL2 Saison 2026/27.",
-   "source": "DEG (расписание)"
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": true
   },
   {
    "title": "Tyll",
@@ -2320,12 +2328,12 @@
    "time": "18:00",
    "end_date": "2026-10-18",
    "venue": "Schauspielhaus, Kleines Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/tyll/3010/",
    "category": "театр",
-   "description": "von Daniel Kehlmann Regie André Kaczmarczyk",
+   "description": "von Daniel Kehlmann Regie André Kaczmarczyk.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -2334,12 +2342,12 @@
    "time": "19:00",
    "end_date": "",
    "venue": "Central 2",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/paradise-lost-all-over-again-2026/3012/",
    "category": "театр",
-   "description": "7 TODSÜNDEN: NEID von Yeşim Nela Keim Schaub, Lisa Pottstock Regie Yeşim Nela Keim Schaub, Lisa Pottstock",
+   "description": "7 TODSÜNDEN: NEID von Yeşim Nela Keim Schaub, Lisa Pottstock Regie Yeşim Nela Keim Schaub, Lisa Pottstock.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -2348,12 +2356,12 @@
    "time": "19:00",
    "end_date": "",
    "venue": "Central",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/7-todsuenden7-kuenstlerinnen7-orte/3011/",
    "category": "театр",
-   "description": "EINE GEGENWARTSERKUNDUNG Theaterparcours",
+   "description": "EINE GEGENWARTSERKUNDUNG Theaterparcours.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -2463,12 +2471,12 @@
    "time": "10:00",
    "end_date": "2026-10-21",
    "venue": "Central 1",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/das-neinhorn/2945/",
    "category": "детям",
-   "description": "von Marc-Uwe Kling und Astrid Henn Regie Philipp Alfons Heitmann, Matts Johan Leenders",
+   "description": "von Marc-Uwe Kling und Astrid Henn Regie Philipp Alfons Heitmann, Matts Johan Leenders.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -2477,7 +2485,7 @@
    "time": "17:00",
    "end_date": "2026-10-21",
    "venue": "Schauspielhaus, Foyer",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/move-it/3014/",
@@ -2491,12 +2499,12 @@
    "time": "19:00",
    "end_date": "2026-10-21",
    "venue": "Central Brücke",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/freestyle-session-space/3015/",
-   "category": "детям",
-   "description": "Freies Training für urbane Tänzer:innen",
+   "category": "событие",
+   "description": "Freies Training für urbane Tänzer:innen.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -2505,12 +2513,12 @@
    "time": "19:30",
    "end_date": "",
    "venue": "Schauspielhaus, Großes Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/die-moewe/3013/",
    "category": "театр",
-   "description": "von Anton Tschechow Regie Barbara Frey",
+   "description": "von Anton Tschechow Regie Barbara Frey.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -2524,7 +2532,7 @@
    "price": "Eintritt frei!",
    "url": "https://www.troedelmarkt-aachenerplatz.de/",
    "category": "концерт",
-   "description": "Erlebt echten New Orleans Spirit, pure Lebensfreude und jede Menge Swing!",
+   "description": "Foot tapping, finger snapping – echter New-Orleans-Jazz live.",
    "source": "Рынок Aachener Platz"
   },
   {
@@ -2533,12 +2541,12 @@
    "time": "10:00",
    "end_date": "2026-10-22",
    "venue": "Central 1",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/das-neinhorn/2946/",
    "category": "детям",
-   "description": "von Marc-Uwe Kling und Astrid Henn Regie Philipp Alfons Heitmann, Matts Johan Leenders",
+   "description": "von Marc-Uwe Kling und Astrid Henn Regie Philipp Alfons Heitmann, Matts Johan Leenders.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -2547,12 +2555,12 @@
    "time": "17:00",
    "end_date": "2026-10-22",
    "venue": "Schauspielhaus, Foyer",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/sing-it/3016/",
    "category": "событие",
-   "description": "Afterwork-Singen",
+   "description": "Afterwork-Singen.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -2561,12 +2569,12 @@
    "time": "18:00",
    "end_date": "2026-10-22",
    "venue": "Central Brücke",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/theaterbar/3018/",
-   "category": "событие",
-   "description": "A Gathering of One Hundred Supernatural Tales DRINKS, LIEBLINGSTEXTE, SCHOWEINLAGEN UND LIVE-MUSIK",
+   "category": "вечеринка",
+   "description": "A Gathering of One Hundred Supernatural Tales DRINKS, LIEBLINGSTEXTE, SCHOWEINLAGEN UND LIVE-MUSIK.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -2575,12 +2583,12 @@
    "time": "19:30",
    "end_date": "",
    "venue": "Schauspielhaus, Kleines Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/ein-uebertritt/3017/",
    "category": "театр",
-   "description": "von Elfriede Jelinek Regie Jossi Wieler",
+   "description": "von Elfriede Jelinek Regie Jossi Wieler.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -2595,7 +2603,7 @@
    "url": "https://www.stadtstrand-duesseldorf.de/events/noche-de-bachata--tanzworkshop-fiesta-zur-herbstkirmes",
    "category": "вечеринка",
    "description": "NOCHE DE BACHATA -Tanzworkshop & Fiesta zur Herbstkirmes",
-   "source": "StadtStrand | https://www.stadtstrand-duesseldorf.de/events"
+   "source": "StadtStrand"
   },
   {
    "title": "BERNARDA ALBAS HAUS",
@@ -2603,27 +2611,29 @@
    "time": "19:30",
    "end_date": "2026-10-23",
    "venue": "Schauspielhaus, Großes Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/bernarda-albas-haus/3019/",
    "category": "театр",
-   "description": "von Alice Birch nach Federico García Lorca Regie Lucia Bihler",
+   "description": "von Alice Birch nach Federico García Lorca Regie Lucia Bihler.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
-   "title": "Spieltag 11: EBR - DEG",
+   "title": "Regensburg - DEG",
    "date": "2026-10-23",
    "time": "20:00",
    "end_date": "",
-   "venue": "",
+   "venue": "на выезде",
    "address": "",
    "locality": "",
    "price": "",
-   "url": "https://www.deg-eishockey.de/saison/spielplan/",
+   "url": "https://www.deg-eishockey.de/",
    "category": "спорт",
-   "description": "Spielplan der DEL2 Saison 2026/27.",
-   "source": "DEG (расписание)"
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": true
   },
   {
    "title": "Trödel- und Antikmarkt am Aachener Platz",
@@ -2636,7 +2646,7 @@
    "price": "",
    "url": "https://www.troedelmarkt-aachenerplatz.de/",
    "category": "рынок",
-   "description": "Der Trödel- und Antikmarkt am Aachener Platz in Düsseldorf-Bilk ist eine charmante Mischung aus Pariser Flair und Made in Germany.",
+   "description": "Der Trödel- und Antikmarkt am Aachener Platz in Düsseldorf-Bilk.",
    "source": "Рынок Aachener Platz"
   },
   {
@@ -2650,7 +2660,7 @@
    "price": "Eintritt frei",
    "url": "https://www.troedelmarkt-aachenerplatz.de/musikprogramm/2026-10-24-red-onion-hot-jazz/",
    "category": "концерт",
-   "description": "Vintage Jazz live im Antik- und Trödelzelt.",
+   "description": "Vintage Jazz live am Aachener Platz.",
    "source": "Рынок Aachener Platz"
   },
   {
@@ -2681,7 +2691,7 @@
    "url": "https://www.stadtstrand-duesseldorf.de/events/fiesta-latina-caribbean-feeling---karibisches-urlaubsfeelng-am-rheinufer-4",
    "category": "вечеринка",
    "description": "FIESTA LATINA: Caribbean Feeling - karibisches Urlaubsfeelng am Rheinufer",
-   "source": "StadtStrand | https://www.stadtstrand-duesseldorf.de/events"
+   "source": "StadtStrand"
   },
   {
    "title": "Abba jetzt!",
@@ -2689,12 +2699,12 @@
    "time": "19:30",
    "end_date": "",
    "venue": "Schauspielhaus, Großes Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/abba-jetzt/3020/",
    "category": "концерт",
-   "description": "Das unverschämte Tribut an die schwedischen Popgötter",
+   "description": "Das unverschämte Tribut an die schwedischen Popgötter.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -2703,12 +2713,12 @@
    "time": "19:30",
    "end_date": "",
    "venue": "Central 2",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/a-clockwork-orange-revisited/3022/",
    "category": "театр",
-   "description": "Eine Theaterclub-Inszenierung frei nach Motiven von »A Clockwork Orange«",
+   "description": "Eine Theaterclub-Inszenierung frei nach Motiven von »A Clockwork Orange«.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -2717,12 +2727,12 @@
    "time": "20:00",
    "end_date": "2026-10-24",
    "venue": "Schauspielhaus, Kleines Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/wenn-ich-mir-was-wuenschen-duerfte-/3021/",
    "category": "театр",
-   "description": "Mit den Studierenden des Düsseldorfer Schauspielstudios Texte und Musik aus dem Kabarett Friedrich Hollaenders",
+   "description": "Mit den Studierenden des Düsseldorfer Schauspielstudios Texte und Musik aus dem Kabarett Friedrich Hollaenders.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -2804,7 +2814,7 @@
    "url": "https://www.gut-hixholz.de/Kuerbisschnitzen-2023---Kuerbiswerkstaetten-Gut-Hixholz_5117.aspx",
    "category": "детям",
    "description": "An den Oktober-Samstagen lädt der Bauernhof offiziell zum Kürbisschnitzen ein.",
-   "source": "Mr. Düsseldorf (RSS) | https://www.mrduesseldorf.de/feed/"
+   "source": "Mr. Düsseldorf (RSS)"
   },
   {
    "title": "Führung hinter die Kulissen des Central",
@@ -2812,16 +2822,16 @@
    "time": "14:00",
    "end_date": "",
    "venue": "Central Brücke",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/fuehrung-durch-das-dhaus/3025/",
    "category": "экскурсия",
-   "description": "Führung hinter die Kulissen des Central",
+   "description": "Führung hinter die Kulissen des Central.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
-   "title": "Spieltag 12: DEG - ECN",
+   "title": "DEG - Bad Nauheim",
    "date": "2026-10-25",
    "time": "15:00",
    "end_date": "",
@@ -2829,10 +2839,12 @@
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.deg-eishockey.de/saison/spielplan/",
+   "url": "https://www.deg-eishockey.de/",
    "category": "спорт",
-   "description": "Spielplan der DEL2 Saison 2026/27.",
-   "source": "DEG (расписание)"
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": false
   },
   {
    "title": "EIN ÜBERTRITT",
@@ -2840,12 +2852,12 @@
    "time": "16:00",
    "end_date": "",
    "venue": "Schauspielhaus, Kleines Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/ein-uebertritt/3024/",
    "category": "театр",
-   "description": "von Elfriede Jelinek Regie Jossi Wieler",
+   "description": "von Elfriede Jelinek Regie Jossi Wieler.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -2854,12 +2866,12 @@
    "time": "16:00",
    "end_date": "2026-10-25",
    "venue": "Central 1",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/das-neinhorn/2947/",
    "category": "детям",
-   "description": "von Marc-Uwe Kling und Astrid Henn Regie Philipp Alfons Heitmann, Matts Johan Leenders",
+   "description": "von Marc-Uwe Kling und Astrid Henn Regie Philipp Alfons Heitmann, Matts Johan Leenders.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -2874,7 +2886,7 @@
    "url": "https://www.stadtstrand-duesseldorf.de/events/drinks-beats---sunset-sips-grooves-zur-herbstkirmes",
    "category": "вечеринка",
    "description": "DRINKS & BEATS - Sunset Sips & Grooves zur Herbstkirmes",
-   "source": "StadtStrand | https://www.stadtstrand-duesseldorf.de/events"
+   "source": "StadtStrand"
   },
   {
    "title": "KIEZFÜHRUNG MIT RESTAURANTBESUCH",
@@ -2882,12 +2894,12 @@
    "time": "17:00",
    "end_date": "2026-10-25",
    "venue": "Vor dem Central",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/kiezfuehrung-mit-restaurantbesuch/3026/",
    "category": "экскурсия",
-   "description": "Geschichten vom KAP1 bis zum Worringer Platz",
+   "description": "Geschichten vom KAP1 bis zum Worringer Platz.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -2896,12 +2908,12 @@
    "time": "18:00",
    "end_date": "",
    "venue": "Schauspielhaus, Großes Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/die-moewe/3023/",
    "category": "театр",
-   "description": "von Anton Tschechow Regie Barbara Frey",
+   "description": "von Anton Tschechow Regie Barbara Frey.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -2933,7 +2945,7 @@
    "source": "Блошиные рынки (MFT)"
   },
   {
-   "title": "Kürbis Schnitzen in der D-Schänke",
+   "title": "Kürbis Schnitzen",
    "date": "2026-10-25",
    "time": "",
    "end_date": "",
@@ -2944,7 +2956,7 @@
    "url": "https://www.d-schaenke.de/",
    "category": "событие",
    "description": "Am 25. Oktober lädt die D-Schänke wieder zum Kürbis Schnitzen ein und bringt damit ordentlich Herbststimmung ins Viertel.",
-   "source": "Mr. Düsseldorf (RSS) | https://www.mrduesseldorf.de/feed/"
+   "source": "Mr. Düsseldorf (RSS)"
   },
   {
    "title": "Romeo und Julia",
@@ -2952,12 +2964,12 @@
    "time": "20:00",
    "end_date": "2026-10-26",
    "venue": "Schauspielhaus, Kleines Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/romeo-und-julia/3027/",
    "category": "театр",
-   "description": "frei nach William Shakespeare Regie Bassam Ghazi",
+   "description": "frei nach William Shakespeare Regie Bassam Ghazi.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -2983,12 +2995,12 @@
    "time": "10:00",
    "end_date": "2026-10-27",
    "venue": "Central 2",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/bin-gleich-fertig/2938/",
    "category": "детям",
-   "description": "nach dem Bilderbuch von Martin Baltscheit und Anne-Kathrin Behl Regie und Choreografie Barbara Fuchs",
+   "description": "nach dem Bilderbuch von Martin Baltscheit und Anne-Kathrin Behl Regie und Choreografie Barbara Fuchs.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -2997,12 +3009,12 @@
    "time": "10:00",
    "end_date": "2026-10-28",
    "venue": "Central 2",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/bin-gleich-fertig/2939/",
    "category": "детям",
-   "description": "nach dem Bilderbuch von Martin Baltscheit und Anne-Kathrin Behl Regie und Choreografie Barbara Fuchs",
+   "description": "nach dem Bilderbuch von Martin Baltscheit und Anne-Kathrin Behl Regie und Choreografie Barbara Fuchs.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -3011,7 +3023,7 @@
    "time": "17:00",
    "end_date": "2026-10-28",
    "venue": "Schauspielhaus, Foyer",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/move-it/3029/",
@@ -3025,12 +3037,12 @@
    "time": "19:00",
    "end_date": "",
    "venue": "Schauspielhaus, Großes Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/inter-alia/3028/",
    "category": "театр",
-   "description": "von Suzie Miller Regie Anna Stiepani",
+   "description": "von Suzie Miller Regie Anna Stiepani.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -3039,12 +3051,12 @@
    "time": "19:00",
    "end_date": "2026-10-28",
    "venue": "Central Brücke",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/freestyle-session-space/3030/",
-   "category": "детям",
-   "description": "Freies Training für urbane Tänzer:innen",
+   "category": "событие",
+   "description": "Freies Training für urbane Tänzer:innen.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -3058,7 +3070,7 @@
    "price": "Eintritt frei!",
    "url": "https://www.troedelmarkt-aachenerplatz.de/",
    "category": "концерт",
-   "description": "Erlebt echten New Orleans Spirit, pure Lebensfreude und jede Menge Swing!",
+   "description": "Foot tapping, finger snapping – echter New-Orleans-Jazz live.",
    "source": "Рынок Aachener Platz"
   },
   {
@@ -3067,12 +3079,12 @@
    "time": "18:30",
    "end_date": "",
    "venue": "Central Brücke",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
-   "price": "",
+   "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/play-it/3032/",
    "category": "театр",
-   "description": "Offenes Theatertraining",
+   "description": "Offenes Theatertraining.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -3081,12 +3093,12 @@
    "time": "20:00",
    "end_date": "",
    "venue": "Schauspielhaus, Kleines Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/blutbuch/3031/",
    "category": "театр",
-   "description": "von Kim de l’Horizon von und mit Lucia Kotikova nach einer Fassung und Inszenierung von Sebastian Schug",
+   "description": "von Kim de l’Horizon von und mit Lucia Kotikova nach einer Fassung und Inszenierung von Sebastian Schug.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -3101,7 +3113,7 @@
    "url": "https://www.stadtstrand-duesseldorf.de/events/drinks-beats---sunset-sips-grooves-zur-herbstkirmes-2",
    "category": "вечеринка",
    "description": "DRINKS & BEATS - Sunset Sips & Grooves zur Herbstkirmes",
-   "source": "StadtStrand | https://www.stadtstrand-duesseldorf.de/events"
+   "source": "StadtStrand"
   },
   {
    "title": "FANNY UND ALEXANDER",
@@ -3109,12 +3121,12 @@
    "time": "19:00",
    "end_date": "2026-10-30",
    "venue": "Schauspielhaus, Kleines Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/fanny-und-alexander-2026/3034/",
    "category": "театр",
-   "description": "von Ingmar Bergman Regie Thorleifur Örn Arnarsson",
+   "description": "von Ingmar Bergman Regie Thorleifur Örn Arnarsson.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -3123,12 +3135,12 @@
    "time": "19:00",
    "end_date": "2026-10-30",
    "venue": "Central 1",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/samurai-x/2965/",
-   "category": "детям",
-   "description": "von Takao Baba & Ensemble frei nach dem Film Die sieben Samurai von Akira Kurosawa Regie Takao Baba",
+   "category": "театр",
+   "description": "von Takao Baba & Ensemble frei nach dem Film Die sieben Samurai von Akira Kurosawa Regie Takao Baba.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -3153,16 +3165,16 @@
    "time": "19:30",
    "end_date": "",
    "venue": "Schauspielhaus, Großes Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/die-moewe/3033/",
    "category": "театр",
-   "description": "von Anton Tschechow Regie Barbara Frey",
+   "description": "von Anton Tschechow Regie Barbara Frey.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
-   "title": "Spieltag 13: DEG - ECK",
+   "title": "DEG - Kassel",
    "date": "2026-10-30",
    "time": "19:30",
    "end_date": "",
@@ -3170,10 +3182,12 @@
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.deg-eishockey.de/saison/spielplan/",
+   "url": "https://www.deg-eishockey.de/",
    "category": "спорт",
-   "description": "Spielplan der DEL2 Saison 2026/27.",
-   "source": "DEG (расписание)"
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": false
   },
   {
    "title": "Danger Dan in Düsseldorf",
@@ -3203,7 +3217,7 @@
    "price": "",
    "url": "https://www.troedelmarkt-aachenerplatz.de/",
    "category": "рынок",
-   "description": "Der Trödel- und Antikmarkt am Aachener Platz in Düsseldorf-Bilk ist eine charmante Mischung aus Pariser Flair und Made in Germany.",
+   "description": "Der Trödel- und Antikmarkt am Aachener Platz in Düsseldorf-Bilk.",
    "source": "Рынок Aachener Platz"
   },
   {
@@ -3217,22 +3231,22 @@
    "price": "Eintritt frei",
    "url": "https://www.troedelmarkt-aachenerplatz.de/musikprogramm/2026-10-31-blue-rose-new-orleans-jazzband/",
    "category": "концерт",
-   "description": "Vintage Jazz live im Antik- und Trödelzelt.",
+   "description": "Vintage Jazz live am Aachener Platz.",
    "source": "Рынок Aachener Platz"
   },
   {
-   "title": "Kürbisschnitzen für Groß und Klein",
+   "title": "Traditionelles Kürbisschnitzen für Groß und Klein",
    "date": "2026-10-31",
    "time": "15:00",
    "end_date": "",
    "venue": "Carlsplatz",
-   "address": "Carlsplatz",
+   "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.carlsplatz-markt.de/termine",
+   "url": "https://www.carlsplatz-markt.de/",
    "category": "детям",
    "description": "Traditionell findet am 31. Oktober 2026 ab 15 Uhr auf dem Obermarkt das traditionelle Kürbisschnitzen für Groß und Klein statt.",
-   "source": "Mr. Düsseldorf (RSS) | https://www.mrduesseldorf.de/feed/"
+   "source": "Mr. Düsseldorf (RSS)"
   },
   {
    "title": "INTER ALIA",
@@ -3240,12 +3254,12 @@
    "time": "19:30",
    "end_date": "",
    "venue": "Schauspielhaus, Großes Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/inter-alia/3035/",
    "category": "театр",
-   "description": "von Suzie Miller Regie Anna Stiepani",
+   "description": "von Suzie Miller Regie Anna Stiepani.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -3254,12 +3268,12 @@
    "time": "20:00",
    "end_date": "",
    "venue": "Schauspielhaus, Kleines Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/ein-uebertritt/3036/",
    "category": "театр",
-   "description": "von Elfriede Jelinek Regie Jossi Wieler",
+   "description": "von Elfriede Jelinek Regie Jossi Wieler.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -3288,7 +3302,7 @@
    "url": "https://www.gut-hixholz.de/Kuerbisschnitzen-2023---Kuerbiswerkstaetten-Gut-Hixholz_5117.aspx",
    "category": "детям",
    "description": "An den Oktober-Samstagen lädt der Bauernhof offiziell zum Kürbisschnitzen ein.",
-   "source": "Mr. Düsseldorf (RSS) | https://www.mrduesseldorf.de/feed/"
+   "source": "Mr. Düsseldorf (RSS)"
   },
   {
    "title": "Verbrennungen",
@@ -3296,12 +3310,12 @@
    "time": "16:00",
    "end_date": "2026-11-01",
    "venue": "Schauspielhaus, Kleines Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/verbrennungen/3037/",
    "category": "театр",
-   "description": "von Wajdi Mouawad Regie Bassam Ghazi",
+   "description": "von Wajdi Mouawad Regie Bassam Ghazi.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -3310,27 +3324,29 @@
    "time": "16:00",
    "end_date": "2026-11-01",
    "venue": "Central 2",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/die-tuer/2940/",
    "category": "детям",
-   "description": "von Gregory Caers und Ensemble Regie Gregory Caers",
+   "description": "von Gregory Caers und Ensemble Regie Gregory Caers.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
-   "title": "Spieltag 14: EPC - DEG",
+   "title": "Crimmitschau - DEG",
    "date": "2026-11-01",
    "time": "17:00",
    "end_date": "",
-   "venue": "",
+   "venue": "на выезде",
    "address": "",
    "locality": "",
    "price": "",
-   "url": "https://www.deg-eishockey.de/saison/spielplan/",
+   "url": "https://www.deg-eishockey.de/",
    "category": "спорт",
-   "description": "Spielplan der DEL2 Saison 2026/27.",
-   "source": "DEG (расписание)"
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": true
   },
   {
    "title": "INTER ALIA",
@@ -3338,12 +3354,12 @@
    "time": "18:00",
    "end_date": "",
    "venue": "Schauspielhaus, Großes Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/inter-alia/3038/",
    "category": "театр",
-   "description": "von Suzie Miller Regie Anna Stiepani",
+   "description": "von Suzie Miller Regie Anna Stiepani.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -3352,12 +3368,12 @@
    "time": "10:00",
    "end_date": "2026-11-02",
    "venue": "Central 2",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/die-tuer/2941/",
    "category": "детям",
-   "description": "von Gregory Caers und Ensemble Regie Gregory Caers",
+   "description": "von Gregory Caers und Ensemble Regie Gregory Caers.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -3366,12 +3382,12 @@
    "time": "10:00",
    "end_date": "2026-11-03",
    "venue": "Central 2",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/die-tuer/2942/",
    "category": "детям",
-   "description": "von Gregory Caers und Ensemble Regie Gregory Caers",
+   "description": "von Gregory Caers und Ensemble Regie Gregory Caers.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -3380,12 +3396,12 @@
    "time": "11:00",
    "end_date": "2026-11-03",
    "venue": "Central 1",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/samurai-x/2966/",
-   "category": "детям",
-   "description": "von Takao Baba & Ensemble frei nach dem Film Die sieben Samurai von Akira Kurosawa Regie Takao Baba",
+   "category": "театр",
+   "description": "von Takao Baba & Ensemble frei nach dem Film Die sieben Samurai von Akira Kurosawa Regie Takao Baba.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -3394,7 +3410,7 @@
    "time": "17:00",
    "end_date": "2026-11-04",
    "venue": "Schauspielhaus, Foyer",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/move-it/3054/",
@@ -3408,12 +3424,12 @@
    "time": "19:00",
    "end_date": "2026-11-04",
    "venue": "Central Brücke",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/freestyle-session-space/3055/",
-   "category": "детям",
-   "description": "Freies Training für urbane Tänzer:innen",
+   "category": "событие",
+   "description": "Freies Training für urbane Tänzer:innen.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -3422,12 +3438,12 @@
    "time": "20:00",
    "end_date": "2026-11-04",
    "venue": "Schauspielhaus, Kleines Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/die-verwandlung/3039/",
    "category": "театр",
-   "description": "nach Franz Kafka | in einer Bearbeitung von Dorle Trachternach, Kamilė Gudmonaitė und Ensemble Regie Kamilė Gudmonaitė",
+   "description": "nach Franz Kafka | in einer Bearbeitung von Dorle Trachternach, Kamilė Gudmonaitė und Ensemble Regie Kamilė Gudmonaitė.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -3441,7 +3457,7 @@
    "price": "Eintritt frei!",
    "url": "https://www.troedelmarkt-aachenerplatz.de/",
    "category": "концерт",
-   "description": "Erlebt echten New Orleans Spirit, pure Lebensfreude und jede Menge Swing!",
+   "description": "Foot tapping, finger snapping – echter New-Orleans-Jazz live.",
    "source": "Рынок Aachener Platz"
   },
   {
@@ -3450,12 +3466,12 @@
    "time": "11:00",
    "end_date": "2026-11-05",
    "venue": "Central 1",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "address": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/1984-dystopie-2-0/2962/",
-   "category": "детям",
-   "description": "von Kim Langner nach dem Roman von George Orwell Regie Katharina Birch",
+   "category": "театр",
+   "description": "von Kim Langner nach dem Roman von George Orwell Regie Katharina Birch.",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -3469,7 +3485,7 @@
    "price": "",
    "url": "https://www.troedelmarkt-aachenerplatz.de/",
    "category": "рынок",
-   "description": "Der Trödel- und Antikmarkt am Aachener Platz in Düsseldorf-Bilk ist eine charmante Mischung aus Pariser Flair und Made in Germany.",
+   "description": "Der Trödel- und Antikmarkt am Aachener Platz in Düsseldorf-Bilk.",
    "source": "Рынок Aachener Platz"
   },
   {
@@ -3538,7 +3554,7 @@
    "venue": "METRO Düsseldorf",
    "address": "Walter-Eucken-Straße",
    "locality": "Düsseldorf",
-   "price": "5,- Euro",
+   "price": "",
    "url": "https://www.radschlaegermarkt-duesseldorf.de/",
    "category": "рынок",
    "description": "Der nächste RADSCHLÄGERMARKT findet statt rund um die METRO Düsseldorf.",
@@ -3625,7 +3641,7 @@
    "price": "Eintritt frei!",
    "url": "https://www.troedelmarkt-aachenerplatz.de/",
    "category": "концерт",
-   "description": "Erlebt echten New Orleans Spirit, pure Lebensfreude und jede Menge Swing!",
+   "description": "Foot tapping, finger snapping – echter New-Orleans-Jazz live.",
    "source": "Рынок Aachener Platz"
   },
   {
@@ -3640,7 +3656,7 @@
    "url": "https://www.borussia-duesseldorf.com/",
    "category": "спорт",
    "description": "Zuvor tritt die Borussia am 12. November zum Hinspiel in Frankreich an.",
-   "source": "Borussia Düsseldorf (настольный теннис) | https://www.borussia-duesseldorf.com/"
+   "source": "Borussia Düsseldorf (настольный теннис)"
   },
   {
    "title": "BINGO AM STRAND - die Winteredition jetzt im Klonkk",
@@ -3654,21 +3670,23 @@
    "url": "https://www.stadtstrand-duesseldorf.de/events/bingo-am-strand---die-winteredition-jetzt-im-klonkk",
    "category": "событие",
    "description": "BINGO AM STRAND - die Winteredition jetzt im Klonkk",
-   "source": "StadtStrand | https://www.stadtstrand-duesseldorf.de/events"
+   "source": "StadtStrand"
   },
   {
-   "title": "Spieltag 15: MEM - DEG",
+   "title": "Memmingen - DEG",
    "date": "2026-11-13",
    "time": "20:00",
    "end_date": "",
-   "venue": "",
+   "venue": "на выезде",
    "address": "",
    "locality": "",
    "price": "",
-   "url": "https://www.deg-eishockey.de/saison/spielplan/",
+   "url": "https://www.deg-eishockey.de/",
    "category": "спорт",
-   "description": "Spielplan der DEL2 Saison 2026/27.",
-   "source": "DEG (расписание)"
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": true
   },
   {
    "title": "Trödel- und Antikmarkt am Aachener Platz",
@@ -3681,7 +3699,7 @@
    "price": "",
    "url": "https://www.troedelmarkt-aachenerplatz.de/",
    "category": "рынок",
-   "description": "Der Trödel- und Antikmarkt am Aachener Platz in Düsseldorf-Bilk ist eine charmante Mischung aus Pariser Flair und Made in Germany.",
+   "description": "Der Trödel- und Antikmarkt am Aachener Platz in Düsseldorf-Bilk.",
    "source": "Рынок Aachener Platz"
   },
   {
@@ -3727,7 +3745,7 @@
    "source": "Блошиные рынки (MFT)"
   },
   {
-   "title": "Spieltag 16: DEG - RVT",
+   "title": "DEG - Ravensburg",
    "date": "2026-11-15",
    "time": "17:00",
    "end_date": "",
@@ -3735,10 +3753,12 @@
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.deg-eishockey.de/saison/spielplan/",
+   "url": "https://www.deg-eishockey.de/",
    "category": "спорт",
-   "description": "Spielplan der DEL2 Saison 2026/27.",
-   "source": "DEG (расписание)"
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": false
   },
   {
    "title": "COMPAMED",
@@ -3769,7 +3789,7 @@
    "source": "Messe Düsseldorf"
   },
   {
-   "title": "Spieltag 17: DEG - SBR",
+   "title": "DEG - Rosenheim",
    "date": "2026-11-17",
    "time": "19:30",
    "end_date": "",
@@ -3777,10 +3797,12 @@
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.deg-eishockey.de/saison/spielplan/",
+   "url": "https://www.deg-eishockey.de/",
    "category": "спорт",
-   "description": "Spielplan der DEL2 Saison 2026/27.",
-   "source": "DEG (расписание)"
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": false
   },
   {
    "title": "Creole Night Birds @EmPöötzke",
@@ -3793,7 +3815,7 @@
    "price": "Eintritt frei!",
    "url": "https://www.troedelmarkt-aachenerplatz.de/",
    "category": "концерт",
-   "description": "Erlebt echten New Orleans Spirit, pure Lebensfreude und jede Menge Swing!",
+   "description": "Foot tapping, finger snapping – echter New-Orleans-Jazz live.",
    "source": "Рынок Aachener Platz"
   },
   {
@@ -3811,18 +3833,20 @@
    "source": "Visit Düsseldorf"
   },
   {
-   "title": "Spieltag 18: DRE - DEG",
+   "title": "Dresden - DEG",
    "date": "2026-11-20",
-   "time": "19:30",
+   "time": "17:00",
    "end_date": "",
-   "venue": "",
+   "venue": "на выезде",
    "address": "",
    "locality": "",
    "price": "",
-   "url": "https://www.deg-eishockey.de/saison/spielplan/",
+   "url": "https://www.deg-eishockey.de/",
    "category": "спорт",
-   "description": "Spielplan der DEL2 Saison 2026/27.",
-   "source": "DEG (расписание)"
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": true
   },
   {
    "title": "Trödel- und Antikmarkt am Aachener Platz",
@@ -3835,7 +3859,7 @@
    "price": "",
    "url": "https://www.troedelmarkt-aachenerplatz.de/",
    "category": "рынок",
-   "description": "Der Trödel- und Antikmarkt am Aachener Platz in Düsseldorf-Bilk ist eine charmante Mischung aus Pariser Flair und Made in Germany.",
+   "description": "Der Trödel- und Antikmarkt am Aachener Platz in Düsseldorf-Bilk.",
    "source": "Рынок Aachener Platz"
   },
   {
@@ -3869,7 +3893,7 @@
    "source": "Блошиные рынки (MFT)"
   },
   {
-   "title": "Spieltag 19: DEG - LFX",
+   "title": "DEG - Weißwasser",
    "date": "2026-11-22",
    "time": "18:30",
    "end_date": "",
@@ -3877,10 +3901,12 @@
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.deg-eishockey.de/saison/spielplan/",
+   "url": "https://www.deg-eishockey.de/",
    "category": "спорт",
-   "description": "Spielplan der DEL2 Saison 2026/27.",
-   "source": "DEG (расписание)"
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": false
   },
   {
    "title": "Muse – The Wow! Signal European Tour",
@@ -3893,7 +3919,7 @@
    "price": "from 78,80 €",
    "url": "https://www.visitduesseldorf.de/en/calendar-of-events/muse-the-wow-signal-european-tour-0b90d267df",
    "category": "концерт",
-   "description": "Rock concert Muse – The Wow! Signal European Tour in Düsseldorf.",
+   "description": "Rock concert Muse – The Wow! Signal European Tour.",
    "source": "Visit Düsseldorf"
   },
   {
@@ -3907,22 +3933,24 @@
    "price": "Eintritt frei!",
    "url": "https://www.troedelmarkt-aachenerplatz.de/",
    "category": "концерт",
-   "description": "Erlebt echten New Orleans Spirit, pure Lebensfreude und jede Menge Swing!",
+   "description": "Foot tapping, finger snapping – echter New-Orleans-Jazz live.",
    "source": "Рынок Aachener Platz"
   },
   {
-   "title": "Spieltag 20: FRB - DEG",
+   "title": "Freiburg - DEG",
    "date": "2026-11-27",
    "time": "19:30",
    "end_date": "",
-   "venue": "",
+   "venue": "на выезде",
    "address": "",
    "locality": "",
    "price": "",
-   "url": "https://www.deg-eishockey.de/saison/spielplan/",
+   "url": "https://www.deg-eishockey.de/",
    "category": "спорт",
-   "description": "Spielplan der DEL2 Saison 2026/27.",
-   "source": "DEG (расписание)"
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": true
   },
   {
    "title": "Trödel- und Antikmarkt am Aachener Platz",
@@ -3935,7 +3963,7 @@
    "price": "",
    "url": "https://www.troedelmarkt-aachenerplatz.de/",
    "category": "рынок",
-   "description": "Der Trödel- und Antikmarkt am Aachener Platz in Düsseldorf-Bilk ist eine charmante Mischung aus Pariser Flair und Made in Germany.",
+   "description": "Der Trödel- und Antikmarkt am Aachener Platz in Düsseldorf-Bilk.",
    "source": "Рынок Aachener Platz"
   },
   {
@@ -3966,7 +3994,7 @@
    "url": "https://www.stadtstrand-duesseldorf.de/events/saturday-night-pubquiz-im-klonkk",
    "category": "событие",
    "description": "SATURDAY NIGHT PUBQUIZ im Klonkk",
-   "source": "StadtStrand | https://www.stadtstrand-duesseldorf.de/events"
+   "source": "StadtStrand"
   },
   {
    "title": "Sunday Shopping",
@@ -3983,7 +4011,7 @@
    "source": "Visit Düsseldorf"
   },
   {
-   "title": "Spieltag 21: DEG - SCB",
+   "title": "DEG - Bietigheim",
    "date": "2026-11-29",
    "time": "17:00",
    "end_date": "",
@@ -3991,13 +4019,15 @@
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.deg-eishockey.de/saison/spielplan/",
+   "url": "https://www.deg-eishockey.de/",
    "category": "спорт",
-   "description": "Spielplan der DEL2 Saison 2026/27.",
-   "source": "DEG (расписание)"
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": false
   },
   {
-   "title": "Spieltag 22: DEG - EVL",
+   "title": "DEG - Landshut",
    "date": "2026-12-01",
    "time": "19:30",
    "end_date": "",
@@ -4005,10 +4035,12 @@
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.deg-eishockey.de/saison/spielplan/",
+   "url": "https://www.deg-eishockey.de/",
    "category": "спорт",
-   "description": "Spielplan der DEL2 Saison 2026/27.",
-   "source": "DEG (расписание)"
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": false
   },
   {
    "title": "VALVE WORLD EXPO",
@@ -4035,7 +4067,7 @@
    "price": "from 18,00 €",
    "url": "https://www.visitduesseldorf.de/en/calendar-of-events/titanic-an-immersive-journey-77af14e2dc",
    "category": "выставка",
-   "description": "Exhibition Titanic: An Immersive Journey in Düsseldorf.",
+   "description": "Exhibition Titanic: An Immersive Journey.",
    "source": "Visit Düsseldorf"
   },
   {
@@ -4049,7 +4081,7 @@
    "price": "Eintritt frei!",
    "url": "https://www.troedelmarkt-aachenerplatz.de/",
    "category": "концерт",
-   "description": "Erlebt echten New Orleans Spirit, pure Lebensfreude und jede Menge Swing!",
+   "description": "Foot tapping, finger snapping – echter New-Orleans-Jazz live.",
    "source": "Рынок Aachener Platz"
   },
   {
@@ -4067,7 +4099,7 @@
    "source": "Messe Düsseldorf"
   },
   {
-   "title": "Spieltag 23: DEG - EBR",
+   "title": "DEG - Regensburg",
    "date": "2026-12-04",
    "time": "19:30",
    "end_date": "",
@@ -4075,10 +4107,12 @@
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.deg-eishockey.de/saison/spielplan/",
+   "url": "https://www.deg-eishockey.de/",
    "category": "спорт",
-   "description": "Spielplan der DEL2 Saison 2026/27.",
-   "source": "DEG (расписание)"
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": false
   },
   {
    "title": "Trödel- und Antikmarkt am Aachener Platz",
@@ -4091,7 +4125,7 @@
    "price": "",
    "url": "https://www.troedelmarkt-aachenerplatz.de/",
    "category": "рынок",
-   "description": "Der Trödel- und Antikmarkt am Aachener Platz in Düsseldorf-Bilk ist eine charmante Mischung aus Pariser Flair und Made in Germany.",
+   "description": "Der Trödel- und Antikmarkt am Aachener Platz in Düsseldorf-Bilk.",
    "source": "Рынок Aachener Platz"
   },
   {
