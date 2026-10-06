@@ -40,7 +40,9 @@ def load_today():
         if e.get("team") and d == TODAY:
             games.append(e)
         elif e.get("category") == "важное" and d <= TODAY <= end:
-            important.append(e)
+            # долгие стройки на автобанах не повторяем каждый день: только новые и короткие
+            if not e.get("traffic") or d >= TODAY - timedelta(days=1) or (end - d).days <= 3:
+                important.append(e)
         elif e.get("source") == "Messe Düsseldorf":
             if d <= TODAY <= end: fairs.append(e)
         elif d == TODAY:
