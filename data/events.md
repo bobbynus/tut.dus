@@ -1,7 +1,23 @@
 # События Дюссельдорфа
 
-Собрано 06.10.2026 11:38: 106 событий (из 265 найденных до фильтра и удаления дублей).
+Собрано 06.10.2026 11:48: 122 событий (из 283 найденных до фильтра и удаления дублей).
 
+
+## Чт 06.03
+
+- **A44:  Düsseldorf -> Essen** — 00:00 · A44 | Düsseldorf-Flughafen - Ratingen-Schwarzbach · важное — [ссылка](https://www.autobahn.de/)
+- **A44:  Essen -> Düsseldorf** — 00:00 · A44 | Ratingen-Schwarzbach - Düsseldorf-Flughafen · важное — [ссылка](https://www.autobahn.de/)
+
+## Чт 01.10
+
+- **A44:  AK Meerbusch (aus Richtung Bovert)** — 00:00 · A57 6-streifiger Ausbau zw. AK Meerbusch und AS KR-Oppum · важное — [ссылка](https://www.autobahn.de/)
+- **A44:  Düsseldorf -> Mönchengladbach** — 00:00 · A57 6-streifiger Ausbau zw. AK Meerbusch und AS KR-Oppum · важное — [ссылка](https://www.autobahn.de/)
+
+## Пт 02.10
+
+- **A59:  AD Düsseldorf-Süd (aus Richtung Düsseldorf-Benrath)** — 09:00 · Grundhafte Sanierung · важное — [ссылка](https://www.autobahn.de/)
+- **A59:  AS Düsseldorf-Benrath (aus Richtung Düsseldorf-Garath)** — 09:00 · Grundhafte Sanierung · важное — [ссылка](https://www.autobahn.de/)
+- **A59:  AS Düsseldorf-Garath (aus Richtung Wolfhagen)** — 09:00 · Grundhafte Sanierung · важное — [ссылка](https://www.autobahn.de/)
 
 ## Вт 06.10
 
@@ -137,6 +153,10 @@
 
 - **Crimmitschau - DEG** — 17:00 · на выезде · спорт — [ссылка](https://www.deg-eishockey.de/)
 
+## Пн 02.11
+
+- **Шествия Св. Мартина в районах** — почти каждый вечер в одном из районов · детям
+
 ## Сб 07.11
 
 - **FC Ingolstadt 04 — Fortuna** — 14:00 · на выезде (FC Ingolstadt 04) · спорт — [ссылка](https://www.f95.de/)
@@ -151,6 +171,10 @@
 - **Fischmarkt RheinLust in Düsseldorf** — Tonhallenufer · рынок — [ссылка](https://meine-flohmarkt-termine.de/fischmarkt-rheinlust-in-dusseldorf/23703550/details)
 - **Mädelsflohmarkt-Weiberkram Düsseldorf RheinRiff** — RheinRiff · рынок — [ссылка](https://meine-flohmarkt-termine.de/madelsflohmarkt-weiberkram-dusseldorf-rheinriff/23826031/details)
 - **Trödelmarkt Düsseldorf Reisholz Kirmesplatz** — Kirmesplatz Reisholz Spangerstra&szlig;e · рынок — [ссылка](https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-reisholz-kirmesplatz/23706559/details)
+
+## Ср 11.11
+
+- **Hoppeditz-Erwachen — старт карнавального сезона** — 11:11 · Marktplatz у Rathaus · фестиваль
 
 ## Пт 13.11
 
@@ -174,6 +198,10 @@
 ## Вт 17.11
 
 - **DEG - Rosenheim** — 19:30 · PSD Bank Dome · спорт — [ссылка](https://www.deg-eishockey.de/)
+
+## Чт 19.11
+
+- **Рождественские рынки Дюссельдорфа (7 рынков)** — 11:00 · Altstadt, Kö-Bogen, Schadowstraße, Rheinufer · фестиваль
 
 ## Пт 20.11
 
@@ -217,6 +245,26 @@
 
 - **Fortuna — SV Wehen Wiesbaden** — 14:00 · Merkur Spiel-Arena · спорт — [ссылка](https://www.f95.de/)
 
+## Чт 04.02
+
+- **Altweiberfastnacht — уличный карнавал** — 11:11 · Altstadt · фестиваль
+
+## Вс 07.02
+
+- **Kö-Treiben — карнавал на Кё** — Königsallee · фестиваль
+
+## Пн 08.02
+
+- **Rosenmontagszug — большой карнавальный парад** — центр города · фестиваль
+
+## Вс 18.04
+
+- **Uniper Düsseldorf Marathon** — по городу, перекрытия · спорт
+
+## Пт 30.04
+
+- **Landpartie Grafenberg** — Galopprennbahn Grafenberg · фестиваль
+
 ## Пт 02.07
 
 - **Düsseldorfer Frankreichfest** — Altstadt und an der Rheinuferpromenade · фестиваль — [ссылка](https://destination-duesseldorf.de/grossveranstaltungen/)
@@ -228,6 +276,10 @@
 ## Пт 16.07
 
 - **Rheinkirmes** — фестиваль — [ссылка](https://rheinkirmes-duesseldorf.de/termine-rheinkirmes/)
+
+## Пт 23.07
+
+- **Фейерверк Rheinkirmes** — 22:30 · над Рейном · фестиваль
 
 ## Источники
 
@@ -252,9 +304,16 @@
 - … Rheinkirmes: в очередь нейросети
 - … Скачки Grafenberg: в очередь нейросети
 - … Полиция Дюссельдорфа (пресс-релизы): в очередь нейросети
-- ✗ Пресс-служба города: HTTP Error 404: Not Found
-- ✗ Gemini: все модели недоступны: gemini-3.5-flash: 503, gemini-3.5-flash: 503, gemini-3.8-flash: 503, gemini-3.8-flash: 503, gemini-3.7-flash: 503, gemini-3.7-flash: 503
-- ✗ Gemini: все модели недоступны: gemini-3.5-flash: 503, gemini-3.5-flash: 503, gemini-3.8-flash: 503, gemini-3.8-flash: 503, gemini-3.7-flash: 503, gemini-3.7-flash: 503
-- ✓ Gemini (gemini-3.5-flash): 20 событий из DEG (расписание), Großveranstaltungen (город), Rheinkirmes, Скачки Grafenberg, Полиция Дюссельдорфа (пресс-релизы)
+- … Пресс-служба города: в очередь нейросети
+- … Kunstpalast: в очередь нейросети
+- … Kunstsammlung NRW (K20/K21): в очередь нейросети
+- … NRW-Forum: в очередь нейросети
+- … Aquazoo Löbbecke: в очередь нейросети
+- … Rheinbahn: в очередь нейросети
+- ✗ Gemini: NO_LLM=1 — нейросеть отключена для этого запуска — оставлены прошлые данные (0 событий)
+- ✗ Gemini: NO_LLM=1 — нейросеть отключена для этого запуска — оставлены прошлые данные (3 событий)
+- ✗ Gemini: NO_LLM=1 — нейросеть отключена для этого запуска — оставлены прошлые данные (0 событий)
+- ✓ Ежегодные события (annual.json)
+- ✓ Autobahn: 7 перекрытий в радиусе 15 км
 - ✓ DEG (iCal): 52 матчей
 - ✓ Fortuna (bl3, сезон 2026): 38 матчей
