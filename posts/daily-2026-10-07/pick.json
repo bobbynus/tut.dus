@@ -1,0 +1,52 @@
+{
+ "list": [
+  {
+   "time": "00:00",
+   "title": "New Fall Festival 2026",
+   "place": "Rheinterrasse"
+  },
+  {
+   "time": "10:00",
+   "title": "Das grüne Königreich",
+   "place": "Central 2"
+  },
+  {
+   "time": "17:00",
+   "title": "Move it!",
+   "place": "Schauspielhaus, Foyer"
+  },
+  {
+   "time": "18:00",
+   "title": "Kneipen Mittwoch",
+   "place": "zakk"
+  },
+  {
+   "time": "19:00",
+   "title": "Freestyle Session Space",
+   "place": "Central Brücke"
+  },
+  {
+   "time": "19:00",
+   "title": "STRANDQUIZ - Open Air Pubquiz",
+   "place": "Tonhallenufer"
+  }
+ ],
+ "highlights": [
+  {
+   "title": "New Fall Festival 2026",
+   "text": "",
+   "time": "00:00",
+   "place": "Rheinterrasse",
+   "price": "50,00 €",
+   "tag": "фестиваль"
+  },
+  {
+   "title": "Das grüne Königreich",
+   "text": "",
+   "time": "10:00",
+   "place": "Central 2",
+   "price": "",
+   "tag": "детям"
+  }
+ ]
+}
