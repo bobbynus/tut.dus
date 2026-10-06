@@ -8,13 +8,13 @@ posts/daily-YYYY-MM-DD/ со статусом scheduled на 08:00 по Берл
 Пауза: файл AUTOPOST_PAUSED в корне репозитория — сторис не создаются.
 """
 import html, json, os, re, subprocess, sys, urllib.request, urllib.error
-from datetime import date, datetime, time as dtime
+from datetime import date, datetime, timedelta, time as dtime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parents[2]
 TZ = ZoneInfo("Europe/Berlin")
-TODAY = date.fromisoformat(os.environ["DAILY_DATE"]) if os.environ.get("DAILY_DATE") else datetime.now(TZ).date()
+TODAY = date.fromisoformat(os.environ["DAILY_DATE"]) if os.environ.get("DAILY_DATE") else datetime.now(TZ).date() + timedelta(days=1)
 KEY = os.environ.get("GEMINI_API_KEY", "")
 sys.path.insert(0, str(ROOT / "tools" / "events"))
 WD = ["Понедельник", "Вторник", "Среда", "Четверг", "Пятница", "Суббота", "Воскресенье"]
@@ -76,32 +76,14 @@ ongoing: {ongoing}"""
 
 
 def gemini_pick(today, ongoing):
-    from collect import gemini_models  # тот же выбор модели и запасные варианты
+    sys.path.insert(0, str(ROOT / "tools"))
+    import gemini
     slim = lambda evs: [{k: e.get(k, "") for k in ("title", "time", "venue", "price", "category", "description")} for e in evs][:60]
     prompt = PROMPT.format(day=f"{WD[TODAY.weekday()]}, {TODAY.day} {MONTHS[TODAY.month-1]}",
                            today=json.dumps(slim(today), ensure_ascii=False), ongoing=json.dumps(slim(ongoing), ensure_ascii=False))
-    body = {"contents": [{"role": "user", "parts": [{"text": prompt}]}],
-            "generationConfig": {"responseMimeType": "application/json", "temperature": 0.4}}
-    import time
-    last, deadline = None, time.time() + int(os.environ.get("GEMINI_WAIT", "1200"))
-    models = gemini_models()[:3]
-    while True:  # перегрузки у Gemini обычно короткие — повторяем по кругу до дедлайна
-        for model in models:
-            req = urllib.request.Request(
-                f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={KEY}",
-                data=json.dumps(body).encode(), headers={"Content-Type": "application/json"}, method="POST")
-            try:
-                resp = json.load(urllib.request.urlopen(req, timeout=180))
-                out = "".join(p.get("text", "") for p in resp["candidates"][0]["content"]["parts"])
-                pick = json.loads(out)
-                print(f"Gemini: {model}")
-                return pick
-            except Exception as e:
-                last = f"{model}: {e}"
-        if time.time() > deadline:
-            raise RuntimeError(f"Gemini недоступен: {last}")
-        print(f"Gemini занят ({last}), повтор через 90 с")
-        time.sleep(90)
+    model, out = gemini.call(prompt, kind="copy", temperature=0.4)
+    print(f"Gemini: {model}")
+    return json.loads(out)
 
 
 def simple_pick(today, ongoing):
@@ -183,13 +165,14 @@ def main():
     from calendar_de import notices
     today, ongoing, fairs, games, important = load_today()
     notes = notices(TODAY)
+    important.sort(key=lambda e: e.get("source") == "Autobahn GmbH")  # сначала полиция и город, потом автобаны
     for e in important[:2]:  # демонстрации, перекрытия — плашкой
         when = f" с {e['time']}" if e.get("time") and e["time"] != "00:00" else ""
         notes.append(f"Внимание{when}: {e['title']}" + (f" ({e['venue']})" if e.get("venue") else ""))
     if not today and not ongoing and not games and not notes:
         print("На сегодня событий нет — сторис не делаем"); return
     try:
-        pick = (gemini_pick(today, ongoing) if KEY else simple_pick(today, ongoing)) if (today or ongoing) else {"list": [], "highlights": []}
+        pick = gemini_pick(today, ongoing) if (today or ongoing) else {"list": [], "highlights": []}
     except Exception as e:
         print(f"Gemini: {e} — простой отбор"); pick = simple_pick(today, ongoing)
     if not pick.get("list") and not games and not notes:

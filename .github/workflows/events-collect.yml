@@ -3,8 +3,13 @@ name: Events — collect
 # Каждое утро собирает события в data/events.json и data/events.md
 on:
   schedule:
-    - cron: "7 4 * * *"   # ~6:07 по Берлину летом, 5:07 зимой
+    - cron: "15 8 * * *"   # ~10:15 по Берлину: после сброса дневного лимита Gemini (полночь по Тихоокеанскому)
   workflow_dispatch:
+    inputs:
+      no_llm:
+        description: "Без нейросети (тест, не тратит лимит Gemini)"
+        type: boolean
+        default: true
 
 permissions:
   contents: write
@@ -20,6 +25,7 @@ jobs:
       - name: Collect
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          NO_LLM: ${{ inputs.no_llm && '1' || '' }}
         run: python3 tools/events/collect.py
       - name: Commit
         run: |
