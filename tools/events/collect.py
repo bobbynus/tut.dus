@@ -105,17 +105,17 @@ def clean_page(raw, is_rss=False):
 
 
 # ---------- Gemini ----------
-def gemini_model():
-    want = os.environ.get("GEMINI_MODEL", "")
+def gemini_models():
+    """Модели по порядку: GEMINI_MODEL (по умолчанию gemini-3.5-flash), затем остальные Flash, от новых к старым."""
+    want = os.environ.get("GEMINI_MODEL") or "gemini-3.5-flash"
     data = json.load(urllib.request.urlopen(
         f"https://generativelanguage.googleapis.com/v1beta/models?key={GEMINI_KEY}&pageSize=200", timeout=30))
     names = [m["name"].split("/", 1)[1] for m in data.get("models", [])
              if "generateContent" in m.get("supportedGenerationMethods", [])]
-    if want and want in names: return want
     flash = [n for n in names if "flash" in n and not re.search(r"lite|image|tts|live|audio|thinking|exp|preview", n)]
-    flash = flash or [n for n in names if "flash" in n]
-    ver = lambda n: [float(x) for x in re.findall(r"\d+(?:\.\d+)?", n)[:1]] or [0]
-    return sorted(flash, key=ver, reverse=True)[0]
+    ver = lambda n: float((re.findall(r"\d+(?:\.\d+)?", n) or ["0"])[0])
+    flash.sort(key=ver, reverse=True)
+    return ([want] if want in names else []) + [n for n in flash if n != want]
 
 
 PROMPT = """Ниже тексты страниц с афишами событий в Дюссельдорфе и окрестностях. Сегодня {today}.
@@ -131,17 +131,27 @@ description (1 предложение по-немецки или по-англи
 
 
 def gemini_extract(batch):
-    model = gemini_model()
+    import time
     pages = "\n\n".join(f"=== {s['name']} | {s['url']} ===\n{t[:45000]}" for s, t in batch)
     body = {"contents": [{"role": "user", "parts": [{"text": PROMPT.format(today=TODAY, horizon=HORIZON, pages=pages)}]}],
             "generationConfig": {"responseMimeType": "application/json", "temperature": 0.1}}
-    req = urllib.request.Request(
-        f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={GEMINI_KEY}",
-        data=json.dumps(body).encode(), headers={"Content-Type": "application/json"}, method="POST")
-    try:
-        resp = json.load(urllib.request.urlopen(req, timeout=300))
-    except urllib.error.HTTPError as e:
-        raise RuntimeError(f"Gemini {model}: {e.code} {e.read().decode()[:300]}") from None
+    errors = []
+    for model in gemini_models()[:3]:
+        for attempt in range(2):
+            req = urllib.request.Request(
+                f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={GEMINI_KEY}",
+                data=json.dumps(body).encode(), headers={"Content-Type": "application/json"}, method="POST")
+            try:
+                resp = json.load(urllib.request.urlopen(req, timeout=300))
+                break
+            except urllib.error.HTTPError as e:
+                errors.append(f"{model}: {e.code}")
+                if e.code in (429, 500, 503) and attempt == 0:
+                    time.sleep(20); continue
+                resp = None; break
+        if resp: break
+    else:
+        raise RuntimeError("все модели недоступны: " + ", ".join(errors))
     out = "".join(p.get("text", "") for p in resp["candidates"][0]["content"]["parts"])
     items = json.loads(out)
     if isinstance(items, dict): items = items.get("events", [])
