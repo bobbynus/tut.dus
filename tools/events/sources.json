@@ -96,6 +96,44 @@
       "url": "https://www.deg-eishockey.de/saison/spielplan/",
       "llm": true,
       "category": "спорт"
+    },
+    {
+      "name": "Großveranstaltungen (город)",
+      "url": "https://destination-duesseldorf.de/grossveranstaltungen/",
+      "llm": true,
+      "horizon_days": 400,
+      "big": true,
+      "category": "фестиваль"
+    },
+    {
+      "name": "Rheinkirmes",
+      "url": "https://rheinkirmes-duesseldorf.de/termine-rheinkirmes/",
+      "llm": true,
+      "horizon_days": 400,
+      "big": true,
+      "category": "фестиваль"
+    },
+    {
+      "name": "Скачки Grafenberg",
+      "url": "https://www.duesseldorf-galopp.de/con-termine/termine_renntage.php",
+      "llm": true,
+      "horizon_days": 400,
+      "category": "спорт"
+    },
+    {
+      "name": "Полиция Дюссельдорфа (пресс-релизы)",
+      "url": "https://www.presseportal.de/rss/dienststelle_13248.rss2",
+      "llm": true,
+      "rss": true,
+      "rss_items": 25,
+      "category": "важное",
+      "hint": "Из пресс-релизов полиции бери ТОЛЬКО анонсы будущих демонстраций, шествий, крупных мероприятий и перекрытий, которые помешают движению. Происшествия и криминал пропускай."
+    },
+    {
+      "name": "Пресс-служба города",
+      "url": "https://www.duesseldorf.de/medienportal/pressedienst",
+      "llm": true,
+      "hint": "Бери анонсы событий и изменений для жителей: шествия Св. Мартина, карнавал, рождественские рынки, перекрытия, праздники, концерты на открытом воздухе."
     }
   ],
   "localities": [

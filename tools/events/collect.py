@@ -88,9 +88,9 @@ def guess_category(schema_type, title):
 
 
 # ---------- Очистка HTML для нейросети ----------
-def clean_page(raw, is_rss=False):
+def clean_page(raw, is_rss=False, rss_items=6):
     if is_rss:
-        items = re.findall(r"<item>(.*?)</item>", raw, re.S)[:6]
+        items = re.findall(r"<item>(.*?)</item>", raw, re.S)[:rss_items]
         parts = []
         for it in items:
             title = re.search(r"<title>(.*?)</title>", it, re.S)
@@ -122,20 +122,23 @@ def gemini_models():
 
 
 PROMPT = """Ниже тексты страниц с афишами событий в Дюссельдорфе и окрестностях. Сегодня {today}.
-Извлеки ВСЕ конкретные события с датами в промежутке {today} — {horizon}.
+Извлеки ВСЕ конкретные события с датами от {today} до горизонта, указанного в заголовке каждого источника (по умолчанию {horizon}). Следуй указаниям под заголовком, если они есть.
 Повторяющиеся (например, рынок каждую субботу) разверни в отдельные даты.
 Не выдумывай: если поля нет в тексте, оставь пустую строку. Ссылку бери из текста (в квадратных скобках), относительные ссылки дополни доменом источника.
 Верни JSON-массив объектов с полями:
 title, date (YYYY-MM-DD), time (HH:MM или ""), end_date (YYYY-MM-DD или ""), venue, address, locality (город),
-price (как в тексте, "frei"/"kostenlos" если бесплатно), url, category (одно из: концерт, театр, выставка, рынок, фестиваль, детям, вечеринка, спорт, экскурсия, событие),
-description (1 предложение по-немецки или по-английски, как в источнике), source (имя источника из заголовка === ... ===).
+price (как в тексте, "frei"/"kostenlos" если бесплатно), url, category (одно из: концерт, театр, выставка, рынок, фестиваль, детям, вечеринка, спорт, экскурсия, важное, событие; «важное» — демонстрации, перекрытия, забастовки),
+description (1 предложение по-немецки или по-английски, как в источнике), source (имя источника из заголовка === ... ===, только имя до первого «|»).
 
 {pages}"""
 
 
 def gemini_extract(batch):
     import time
-    pages = "\n\n".join(f"=== {s['name']} | {s['url']} ===\n{t[:45000]}" for s, t in batch)
+    def head(s):
+        hz = TODAY + timedelta(days=s.get("horizon_days", CFG.get("days_ahead", 60)))
+        return f"=== {s['name']} | {s['url']} | горизонт до {hz} ===" + (f"\nУказание: {s['hint']}" if s.get("hint") else "")
+    pages = "\n\n".join(f"{head(s)}\n{t[:45000]}" for s, t in batch)
     body = {"contents": [{"role": "user", "parts": [{"text": PROMPT.format(today=TODAY, horizon=HORIZON, pages=pages)}]}],
             "generationConfig": {"responseMimeType": "application/json", "temperature": 0.1}}
     errors = []
@@ -160,8 +163,12 @@ def gemini_extract(batch):
     if isinstance(items, dict): items = items.get("events", [])
     by_name = {s["name"]: s for s, _ in batch}
     for it in items:
-        src = by_name.get(it.get("source", ""))
-        if src and src.get("category") and not it.get("category"): it["category"] = src["category"]
+        src = by_name.get(it.get("source", "").split("|")[0].strip())
+        if not src: continue
+        it["source"] = src["name"]
+        if src.get("category") and not it.get("category"): it["category"] = src["category"]
+        if src.get("horizon_days"): it["horizon_days"] = src["horizon_days"]
+        if src.get("big"): it["big"] = True
     return model, items
 
 
@@ -181,7 +188,8 @@ def keep(ev):
         end_d = date.fromisoformat(end)
     except ValueError:
         end_d = d
-    if end_d < TODAY or d > HORIZON or not ev.get("title"):
+    horizon = TODAY + timedelta(days=ev["horizon_days"]) if ev.get("horizon_days") else HORIZON
+    if end_d < TODAY or d > horizon or not ev.get("title"):
         return False
     if ev.get("team"):  # матчи наших команд показываем и на выезде
         return True
@@ -220,7 +228,7 @@ def main():
             events += evs
             report.append(f"✓ {src['name']}: {len(evs)} (разметка)")
         elif src.get("llm"):
-            llm_batch.append((src, clean_page(raw, src.get("rss"))))
+            llm_batch.append((src, clean_page(raw, src.get("rss"), src.get("rss_items", 6))))
             report.append(f"… {src['name']}: в очередь нейросети")
         else:
             report.append(f"· {src['name']}: событий не найдено")
