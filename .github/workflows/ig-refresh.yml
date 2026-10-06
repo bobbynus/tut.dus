@@ -1,0 +1,24 @@
+name: Instagram token — refresh
+
+# Долгоживущий токен живёт 60 дней. Продлеваем его 1-го и 15-го числа.
+on:
+  schedule:
+    - cron: "17 6 1,15 * *"
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Refresh token
+        env:
+          TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          set -euo pipefail
+          R=$(curl -sS "https://graph.instagram.com/refresh_access_token?grant_type=ig_refresh_token&access_token=$TOKEN")
+          NEW=$(echo "$R" | jq -r '.access_token // empty')
+          [ -n "$NEW" ] || { echo "Продление не удалось: $(echo "$R" | jq -c '.error // .')"; exit 1; }
+          echo "::add-mask::$NEW"
+          gh secret set IG_ACCESS_TOKEN --body "$NEW" -R "$GITHUB_REPOSITORY"
+          echo "Токен продлён на $(( $(echo "$R" | jq -r .expires_in) / 86400 )) дней."
