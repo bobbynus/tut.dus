@@ -1,0 +1,71 @@
+name: Fetch footage (Wikimedia Commons)
+
+# Ищет свободные видео на Wikimedia Commons, режет до max_seconds, переводит в mp4 без звука
+# и кладёт в library/footage/ вместе с .json (автор, лицензия, ссылка).
+# Ключ не нужен. Лицензии CC BY / CC BY-SA требуют указать автора в подписи к посту.
+on:
+  workflow_dispatch:
+    inputs:
+      query:
+        description: "Что искать: Düsseldorf, Rheinturm, Medienhafen, Ritterturnier…"
+        required: true
+      count:
+        description: "Сколько роликов"
+        default: "4"
+      max_seconds:
+        description: "Сколько секунд оставить от каждого ролика"
+        default: "20"
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install ffmpeg
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
+      - name: Search and download
+        env:
+          QUERY: ${{ inputs.query }}
+          COUNT: ${{ inputs.count }}
+          MAXS: ${{ inputs.max_seconds }}
+        run: |
+          set -euo pipefail
+          UA="tut.dus footage fetcher (https://github.com/bobbynus/tut.dus)"
+          Q=$(jq -rn --arg q "filetype:video $QUERY" '$q|@uri')
+          curl -sS -A "$UA" "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=$Q&gsrlimit=40&prop=imageinfo&iiprop=url|size|mime|extmetadata" > res.json
+          slug=$(echo "$QUERY" | iconv -f utf8 -t ascii//TRANSLIT | tr '[:upper:]' '[:lower:]' | tr -cs 'a-z0-9' '-' | sed 's/^-//;s/-$//')
+          mkdir -p library/footage
+          n=0
+          jq -c '.query.pages // {} | to_entries[] | .value | {title, ii: .imageinfo[0]}
+                 | select(.ii.width >= 1000 and (.ii.size // 0) < 400000000)
+                 | {title, url: .ii.url, page: .ii.descriptionurl, w: .ii.width, h: .ii.height,
+                    license: (.ii.extmetadata.LicenseShortName.value // ""),
+                    author: ((.ii.extmetadata.Artist.value // "") | gsub("<[^>]*>"; "") | gsub("\\s+"; " ") | ltrimstr(" ") | rtrimstr(" "))}
+                 | select(.license | test("CC0|Public domain|CC BY"; "i"))
+                 | select(.license | test("NC|ND") | not)' res.json | while read -r v; do
+            [ "$n" -ge "$COUNT" ] && break
+            id=$(echo "$v" | jq -r '.title' | md5sum | cut -c1-8)
+            out="library/footage/${slug}-wm${id}.mp4"
+            [ -f "$out" ] && continue
+            curl -sSL -A "$UA" "$(echo "$v" | jq -r .url)" -o src.bin
+            if ffmpeg -hide_banner -loglevel error -y -i src.bin -t "$MAXS" -an \
+                 -vf "scale=-2:'min(1920,ih)'" -c:v libx264 -preset veryfast -crf 20 -pix_fmt yuv420p -movflags +faststart "$out"; then
+              echo "$v" | jq '{source: "Wikimedia Commons", title, page, author, license, width: .w, height: .h,
+                               credit: ("Видео: " + (if .author == "" then "Wikimedia Commons" else .author end) + ", " + .license)}' > "${out%.mp4}.json"
+              echo "↓ $out — $(echo "$v" | jq -r '.license + ", " + .author')"
+              n=$((n+1))
+            fi
+            rm -f src.bin
+          done
+      - name: Commit
+        run: |
+          if [ -n "$(git status --porcelain library)" ]; then
+            git config user.name "tut.dus bot"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add library && git commit -m "Footage (Commons): ${{ inputs.query }} [skip ci]" && git push
+          else
+            echo "Подходящих роликов не найдено"
+          fi
