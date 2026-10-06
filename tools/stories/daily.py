@@ -185,6 +185,19 @@ def main():
     (ROOT / "design" / "_daily.html").unlink()
     media = sorted(p.name for p in post_dir.glob("d*.png"))
     publish_at = datetime.combine(TODAY, dtime(8, 0), TZ).isoformat()
+    lines = [f"Сегодня в Дюссельдорфе — {WD[TODAY.weekday()].lower()}, {TODAY.day} {MONTHS[TODAY.month-1]}", ""]
+    for b in notes:
+        lines.append(f"⚠️ {b}")
+    if notes: lines.append("")
+    rows = game_rows(games) + [x for x in pick["list"] if not (games and re.search(r"Fortuna|DEG|Düsseldorfer EG", x.get("title", "")))]
+    for r in sorted(rows, key=lambda x: x.get("time") if x.get("time") not in ("", "00:00") else "99"):
+        t = r.get("time") if r.get("time") not in ("", "00:00") else "весь день"
+        lines.append(f"{t} — {r.get('title')}" + (f" ({r['place']})" if r.get("place") else ""))
+    for h in pick.get("highlights", [])[:3]:
+        if h.get("text"):
+            lines += ["", f"▫️ {h['title']}: {h['text']}" + (f" {h['price'].capitalize()}." if h.get("price") else "")]
+    lines += ["", "Instagram: instagram.com/tut.dus"]
+    (post_dir / "telegram.txt").write_text("\n".join(lines) + "\n")
     (post_dir / "pick.json").write_text(json.dumps(pick, ensure_ascii=False, indent=1))
     (post_dir / "post.json").write_text(json.dumps(
         {"type": "story", "status": "scheduled", "publish_at": publish_at, "media": media, "auto": True},

@@ -1,0 +1,27 @@
+name: Telegram check
+
+# Проверяет бота и доступ к каналу. Ничего не публикует.
+on:
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Bot and channel
+        env:
+          TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          CHANNEL: ${{ secrets.TG_CHANNEL }}
+        run: |
+          set -e
+          [ -n "$TOKEN" ] || { echo "TG_BOT_TOKEN не задан"; exit 1; }
+          [ -n "$CHANNEL" ] || { echo "TG_CHANNEL не задан"; exit 1; }
+          me=$(curl -sS "https://api.telegram.org/bot$TOKEN/getMe")
+          echo "Бот: $(echo "$me" | jq -r '.result.username // .description')"
+          chat=$(curl -sS "https://api.telegram.org/bot$TOKEN/getChat" --data-urlencode "chat_id=$CHANNEL")
+          echo "Канал: $(echo "$chat" | jq -r '.result.title // .description') ($(echo "$chat" | jq -r '.result.username // ""'))"
+          bot_id=$(echo "$me" | jq -r .result.id)
+          member=$(curl -sS "https://api.telegram.org/bot$TOKEN/getChatMember" --data-urlencode "chat_id=$CHANNEL" -d "user_id=$bot_id")
+          status=$(echo "$member" | jq -r '.result.status // .description'); post=$(echo "$member" | jq -r '.result.can_post_messages // false')
+          echo "Бот в канале: $status, может публиковать: $post"
+          [ "$status" = "administrator" ] && [ "$post" = "true" ]
