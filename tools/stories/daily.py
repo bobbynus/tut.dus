@@ -30,20 +30,32 @@ def load_today():
     from collect import keep
     data = json.loads((ROOT / "data" / "events.json").read_text())
     data["events"] = [e for e in data["events"] if keep(e) or e.get("source") == "Messe Düsseldorf"]
-    today, ongoing, fairs = [], [], []
+    today, ongoing, fairs, games = [], [], [], []
     for e in data["events"]:
         try:
             d = date.fromisoformat(e["date"])
             end = date.fromisoformat(e.get("end_date") or e["date"])
         except ValueError:
             continue
-        if e.get("source") == "Messe Düsseldorf":
+        if e.get("team") and d == TODAY:
+            games.append(e)
+        elif e.get("source") == "Messe Düsseldorf":
             if d <= TODAY <= end: fairs.append(e)
         elif d == TODAY:
             today.append(e)
         elif d < TODAY <= end:
             ongoing.append(e)
-    return today, ongoing, fairs
+    return today, ongoing, fairs, games
+
+
+def game_rows(games):
+    """Матчи Fortuna/DEG — всегда в списке дня, отдельно от выбора Gemini."""
+    rows = []
+    for g in games:
+        place = g["venue"] if not g.get("away") else "выезд · " + g["venue"].replace("на выезде", "").strip(" ()")
+        icon = "⚽" if g["team"] == "Fortuna" else "🏒"
+        rows.append({"time": g.get("time", ""), "title": f"{icon} {g['title']}", "place": place.strip(" ·")})
+    return rows
 
 
 PROMPT = """Ты редактор Instagram-аккаунта ТУТ.DUS — «Дюссельдорф на русском» для русскоязычных жителей.
@@ -104,16 +116,18 @@ def fit(s, base, long_at, small):
     return small if len(s or "") > long_at else base
 
 
-def build_html(pick, fairs):
+def build_html(pick, fairs, notes=(), games=()):
     day_title = f"{WD[TODAY.weekday()]}, {TODAY.day} {MONTHS[TODAY.month-1]}"
     rows = "".join(
         f'<div class="ev"><span class="t">{esc(i.get("time")) if i.get("time") not in ("", "00:00") else "весь день"}</span>'
         f'<span class="n">{esc(i.get("title"))}<small>{esc(i.get("place"))}</small></span></div>'
-        for i in pick["list"][:6])
-    fair = ""
+        for i in sorted(game_rows(games) + [x for x in pick["list"] if not (games and re.search(r"Fortuna|DEG|Düsseldorfer EG", x.get("title", "")))],
+                        key=lambda x: x.get("time") if x.get("time") not in ("", "00:00") else "99")[:6])
+    banners = list(notes)
     if fairs:
         names = ", ".join(sorted({f["title"] for f in fairs}))[:60]
-        fair = f'<div class="fair">На Messe сегодня {esc(names)}: на дорогах к Messe и в U78 будет многолюдно</div>'
+        banners.append(f"На Messe сегодня {names}: на дорогах к Messe и в U78 будет многолюдно")
+    fair = "".join(f'<div class="fair">{esc(b)}</div>' for b in banners[:2])
     slides = [f'''<section class="slide red story" id="d0">
   <div class="top"><span class="logo">ТУТ<i>.DUS</i></span><span>{TODAY:%d.%m}</span></div>
   <div class="content">
@@ -149,6 +163,7 @@ def build_html(pick, fairs):
   .ev .t {{ font: 700 36px/1.2 var(--display) }}
   .ev .n {{ font: 600 38px/1.2 var(--body); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden }}
   .ev .n small {{ display: block; font: 400 30px/1.3 var(--body); opacity: .8; margin-top: 6px }}
+  .fair + .fair {{ margin-top: 16px }}
   .fair {{ margin-top: 36px; font: 500 30px/1.35 var(--body); background: rgba(0,0,0,.18); padding: 22px 26px; border-radius: 18px }}
   .meta {{ margin-top: 48px; font: 700 40px/1.3 var(--display) }}
   .price {{ margin-top: 20px; font: 500 36px/1.3 var(--body); opacity: .85 }}
@@ -163,16 +178,18 @@ def main():
     post_dir = ROOT / "posts" / f"daily-{TODAY:%Y-%m-%d}"
     if (post_dir / "post.json").exists():
         print(f"{post_dir.name} уже есть"); return
-    today, ongoing, fairs = load_today()
-    if not today and not ongoing:
+    from calendar_de import notices
+    today, ongoing, fairs, games = load_today()
+    notes = notices(TODAY)
+    if not today and not ongoing and not games and not notes:
         print("На сегодня событий нет — сторис не делаем"); return
     try:
-        pick = gemini_pick(today, ongoing) if KEY else simple_pick(today, ongoing)
+        pick = (gemini_pick(today, ongoing) if KEY else simple_pick(today, ongoing)) if (today or ongoing) else {"list": [], "highlights": []}
     except Exception as e:
         print(f"Gemini: {e} — простой отбор"); pick = simple_pick(today, ongoing)
-    if not pick.get("list"):
+    if not pick.get("list") and not games and not notes:
         print("Нечего показать"); return
-    (ROOT / "design" / "_daily.html").write_text(build_html(pick, fairs))
+    (ROOT / "design" / "_daily.html").write_text(build_html(pick, fairs, notes, games))
     post_dir.mkdir(parents=True, exist_ok=True)
     subprocess.run(["node", "render.cjs", "_daily.html", str(post_dir)], cwd=ROOT / "design", check=True)
     (ROOT / "design" / "_daily.html").unlink()
