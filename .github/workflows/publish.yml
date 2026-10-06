@@ -1,0 +1,45 @@
+name: Publish
+
+# Каждые 15 минут публикует посты из posts/, у которых наступило publish_at.
+# Вручную: Run workflow → можно указать конкретный пост и/или режим проверки.
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+    inputs:
+      post:
+        description: "Папка поста (например 01-intro). Пусто — все, у кого подошло время"
+        required: false
+      dry_run:
+        description: "Только проверить, не публиковать"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Publish due posts
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          POST: ${{ inputs.post }}
+          DRY_RUN: ${{ inputs.dry_run && '1' || '' }}
+        run: python3 tools/publish.py
+      - name: Save published state
+        if: always()
+        run: |
+          if [ -n "$(git status --porcelain posts)" ]; then
+            git config user.name "tut.dus bot"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add posts && git commit -m "Published: $(git status --porcelain posts | wc -l) post(s) [skip ci]"
+            git pull --rebase -q && git push
+          fi
