@@ -238,8 +238,11 @@ def main():
     elif llm_batch:
         report.append("· GEMINI_API_KEY не задан — страницы без разметки пропущены")
 
-    from sports import fortuna, deg
-    events += fortuna(report) + deg(report)
+    from sports import fortuna, deg, tidy_deg
+    deg_ical = deg(report)
+    if deg_ical:  # официальный календарь точнее — версию Gemini отбрасываем
+        events = [e for e in events if e.get("source") != "DEG (расписание)"]
+    events = tidy_deg(events) + fortuna(report) + deg_ical
 
     total = len(events)
     events = merge([e for e in events if keep(e)])
