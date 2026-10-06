@@ -71,7 +71,8 @@ def deg(report):
             report.append("· DEG: ссылка на iCal не найдена"); return []
         from urllib.parse import urljoin, urlparse
         ics, tried = None, []
-        for link in dict.fromkeys(links):
+        import html as _html
+        for link in dict.fromkeys(_html.unescape(l) for l in links):
             url = urljoin("https://www.deg-eishockey.de/saison/spielplan/", link.replace("webcal://", "https://").replace("&amp;", "&"))
             if not urlparse(url).netloc:
                 continue
@@ -102,3 +103,25 @@ def deg(report):
     except Exception as e:
         report.append(f"✗ DEG: {e}")
         return []
+
+
+DEL2 = {"DEG": "DEG", "DRE": "Dresdner Eislöwen", "LFX": "Lausitzer Füchse", "ECK": "Kassel Huskies",
+        "RVT": "Ravensburg Towerstars", "MEM": "Memmingen Indians", "SBR": "Starbulls Rosenheim",
+        "EBR": "Eisbären Regensburg", "EPC": "Eispiraten Crimmitschau", "SCB": "Bietigheim Steelers",
+        "ECN": "EC Bad Nauheim", "FRB": "EHC Freiburg", "KRE": "Krefeld Pinguine", "LAN": "EV Landshut",
+        "WEI": "Blue Devils Weiden", "SEL": "Selber Wölfe"}
+
+
+def tidy_deg(events):
+    """Матчи DEG, извлечённые Gemini со страницы расписания: «Spieltag 8: DEG - DRE» → понятный вид."""
+    for e in events:
+        m = re.search(r"([A-Z]{2,4})\s*[-–]\s*([A-Z]{2,4})\s*$", e.get("title", ""))
+        if e.get("source") != "DEG (расписание)" or not m:
+            continue
+        a, b = m.groups()
+        home = a == "DEG"
+        e["title"] = f"DEG — {DEL2.get(b, b)}" if home else f"{DEL2.get(a, a)} — DEG"
+        e["team"], e["away"] = "DEG", not home
+        e["venue"] = e.get("venue") or ("PSD Bank Dome" if home else "на выезде")
+        e["description"] = "DEL2, хоккей"
+    return events
