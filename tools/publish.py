@@ -9,7 +9,8 @@
   "caption_file": "caption.txt",
   "media": ["s1.png", "s2.png"],      # reel — один файл; story — по сторис на файл
   "cover": "cover.png",               # необязательно, обложка reel
-  "share_to_feed": true               # reel: показывать в ленте
+  "share_to_feed": true,              # reel: показывать в ленте
+  "telegram": false                   # не дублировать в Telegram (по умолчанию дублируется)
 }
 После публикации рядом появляется published.json — повторно пост не выйдет.
 
@@ -128,7 +129,7 @@ def telegram_mirror(post_dir, spec):
     """Тот же пост в Telegram-канал. Для сторис — альбом и текстовая сводка (telegram.txt)."""
     sys.path.insert(0, str(ROOT / "tools"))
     import telegram
-    if not telegram.enabled() or (post_dir / "telegram.json").exists():
+    if not telegram.enabled() or spec.get("telegram") is False or (post_dir / "telegram.json").exists():
         return None
     text_file = post_dir / ("telegram.txt" if (post_dir / "telegram.txt").exists() else spec.get("caption_file", ""))
     caption = text_file.read_text().strip() if spec.get("caption_file") or text_file.name == "telegram.txt" else ""
