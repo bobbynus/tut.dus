@@ -9,7 +9,7 @@ on:
       no_llm:
         description: "Без нейросети (тест, не тратит лимит Gemini)"
         type: boolean
-        default: true
+        default: false   # «Часы» запускают сбор вручную — по умолчанию он должен быть полноценным
 
 permissions:
   contents: write
