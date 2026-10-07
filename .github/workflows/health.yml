@@ -1,0 +1,43 @@
+name: Health
+
+# Раз в день проверяет, нужно ли внимание человека (tools/health.py).
+# Проблема → issue с меткой «внимание» и упоминанием владельца: GitHub присылает письмо.
+# Проблема ушла → issue закрывается сам. Запускается cron'ом и страховочно из Clock.
+on:
+  schedule:
+    - cron: "20 7 * * *"   # 09:20 по Берлину летом
+  workflow_dispatch:
+    inputs:
+      test:
+        description: "Открыть тестовое issue (проверить, что письмо приходит)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  issues: write
+  actions: read
+
+concurrency:
+  group: health
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Label
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh label create "внимание" --color e2001a --description "Нужно внимание человека" --force -R "$GITHUB_REPOSITORY"
+      - name: Check
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          HEALTH_TEST: ${{ inputs.test }}
+        run: python3 tools/health.py
+      - name: Commit
+        run: |
+          git config user.name "tut.dus bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/health.json && git commit -qm "Health check [skip ci]" && git pull -q --rebase && git push -q || true

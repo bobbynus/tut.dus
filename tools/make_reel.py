@@ -7,7 +7,7 @@
   "output": "reel.mp4",
   "transition": 0.4,                       # длительность перехода, сек
   "segments": [
-    {"image": "t1.png", "duration": 3, "bg": "0xe2001a"},       # картинка с лёгким наездом, поля цвета bg
+    {"image": "t1.png", "duration": 3, "bg": "0xe2001a"},       # неподвижная картинка, поля цвета bg ("zoom": true — наезд)
     {"video": "../../library/footage/rhein.mp4", "start": 2, "duration": 3,
      "overlay": "o2.png"}                                       # футаж + прозрачный PNG с текстом (по центру)
   ],
@@ -15,9 +15,15 @@
   "music_start": 0,                         # с какой секунды трека начинать
   "volume": 1.0
 }
+Какие футажи куда ушли, записывается в data/footage-usage.json (см. tools/footage.py).
 """
 import json, subprocess, sys, tempfile
+from datetime import date
 from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+FOOTAGE = ROOT / "library" / "footage"
+LEDGER = ROOT / "data" / "footage-usage.json"
 
 W, H, FPS = 1080, 1920, 30
 ENC = ["-c:v", "libx264", "-preset", "medium", "-crf", "18", "-pix_fmt", "yuv420p", "-r", str(FPS)]
@@ -50,6 +56,26 @@ def render_segment(seg, base, out):
         else:
             fc = f"[0:v]{fill},setsar=1,fps={FPS}[out]"
         run([*inputs, "-filter_complex", fc, "-map", "[out]", *ENC, "-an", str(out)])
+
+
+def record_usage(segs, base):
+    """Учёт футажей: для каждого поста — какие фрагменты и когда. Пересборка поста перезаписывает его запись."""
+    clips = []
+    for seg in segs:
+        if "video" not in seg:
+            continue
+        f = (base / seg["video"]).resolve()
+        if f.parent == FOOTAGE:
+            clips.append({"file": f.name, "start": seg.get("start", 0), "duration": seg["duration"]})
+    if not clips or not base.is_relative_to(ROOT):
+        return
+    try:
+        when = json.loads((base / "post.json").read_text())["publish_at"][:10]
+    except Exception:
+        when = date.today().isoformat()
+    ledger = json.loads(LEDGER.read_text()) if LEDGER.exists() else {}
+    ledger[str(base.relative_to(ROOT))] = {"date": when, "clips": clips}
+    LEDGER.write_text(json.dumps(dict(sorted(ledger.items())), ensure_ascii=False, indent=1) + "\n")
 
 
 def main(spec_path):
@@ -95,6 +121,7 @@ def main(spec_path):
         else:
             fc, maps = vchain, ["-map", vlabel]
         run([*args, "-filter_complex", fc, *maps, *ENC, "-t", f"{total:.3f}", "-movflags", "+faststart", str(out)])
+    record_usage(segs, base)
     print(f"готово: {out.relative_to(Path.cwd()) if out.is_relative_to(Path.cwd()) else out} ({total:.1f} с)")
 
 
