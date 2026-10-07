@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Проверяет сайты-кандидаты: есть ли машиночитаемые события (JSON-LD schema.org Event, iCal, RSS)."""
-import json, re, sys, urllib.request
+import json, os, re, sys, urllib.request
 
 UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130 Safari/537.36"
 URLS = [l.strip() for l in open(sys.argv[1]) if l.strip() and not l.startswith("#")]
@@ -35,3 +35,10 @@ for url in URLS:
         loc = e.get("location") or {}
         loc = loc[0] if isinstance(loc, list) and loc else loc
         print(f"     – {str(e.get('name'))[:70]} | {e.get('startDate')} | {(loc.get('name') if isinstance(loc, dict) else loc)}")
+    word = os.environ.get("GREP", "")
+    if word:  # контекст вокруг слова-подсказки (без тегов)
+        text = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", html))
+        for m in list(re.finditer(re.escape(word), text, re.I))[:3]:
+            print(f"     » …{text[max(0, m.start()-160):m.end()+220]}…")
+    links = sorted(set(re.findall(r'href="([^"]*(?:kalender|programm|veranstalt|termine|events?|calendar)[^"]*)"', html, re.I)))[:8]
+    if links: print("     ссылки:", " ".join(links))
