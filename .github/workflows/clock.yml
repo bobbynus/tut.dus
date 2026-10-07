@@ -37,8 +37,8 @@ jobs:
           while [ "$(date +%s)" -lt "$end" ]; do
             git pull -q --rebase || true
             GITHUB_SHA=$(git rev-parse HEAD) python3 tools/publish.py || echo "::warning::publish: ошибка, повтор на следующем тике"
-            if [ -n "$(git status --porcelain posts)" ]; then
-              git add posts && git commit -qm "Published [skip ci]" && (git pull -q --rebase && git push -q || echo "::warning::push не удался")
+            if [ -n "$(git status --porcelain posts data/telegram-owner.json)" ]; then
+              git add posts && { [ ! -f data/telegram-owner.json ] || git add data/telegram-owner.json; } && git commit -qm "Published [skip ci]" && (git pull -q --rebase && git push -q || echo "::warning::push не удался")
             fi
             for wf in $(python3 tools/clock.py); do
               key="$wf-$(TZ=Europe/Berlin date +%F)"

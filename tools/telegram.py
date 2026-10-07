@@ -51,3 +51,45 @@ def publish(kind, urls, caption=""):
     if caption and not short:
         ids.append(api("sendMessage", chat_id=CHANNEL, text=caption[:4096], disable_web_page_preview="true")["message_id"])
     return ids
+
+
+# ---------- Личка владельца: черновики постов, которые он публикует сам (с музыкой из приложения) ----------
+# chat id храним в репозитории в зашифрованном виде: расшифровать может только тот, у кого есть токен бота.
+from pathlib import Path
+import hashlib, html as _html
+
+OWNER_FILE = Path(__file__).resolve().parents[1] / "data" / "telegram-owner.json"
+
+
+def _xor(data: bytes) -> bytes:
+    key = hashlib.sha256(("tut.dus-owner:" + TOKEN).encode()).digest()
+    return bytes(b ^ key[i % len(key)] for i, b in enumerate(data))
+
+
+def owner_chat():
+    """chat id владельца. Если ещё не знаем — ищем /start в личке бота (Telegram хранит сообщения сутки)."""
+    if not TOKEN:
+        return None
+    if OWNER_FILE.exists():
+        return int(_xor(bytes.fromhex(json.loads(OWNER_FILE.read_text())["chat"])).decode())
+    for upd in api("getUpdates", allowed_updates=["message"]):
+        msg = upd.get("message") or {}
+        chat = msg.get("chat") or {}
+        if chat.get("type") == "private" and (msg.get("text") or "").startswith("/start"):
+            OWNER_FILE.parent.mkdir(exist_ok=True)
+            OWNER_FILE.write_text(json.dumps({"chat": _xor(str(chat["id"]).encode()).hex()}) + "\n")
+            api("sendMessage", chat_id=chat["id"], text="Готово! Сюда будут приходить черновики постов ТУТ.DUS: "
+                "картинки, подпись и подсказка, какую музыку поставить.")
+            return chat["id"]
+    return None
+
+
+def send_draft(chat, urls, caption, header):
+    """Черновик в личку: пояснение, файлы без сжатия (документами) и подпись, которую удобно скопировать."""
+    ids = [api("sendMessage", chat_id=chat, text=header, parse_mode="HTML")["message_id"]]
+    for i in range(0, len(urls), 10):
+        media = [{"type": "document", "media": u} for u in urls[i:i + 10]]
+        ids += [m["message_id"] for m in api("sendMediaGroup", chat_id=chat, media=media)]
+    ids.append(api("sendMessage", chat_id=chat, parse_mode="HTML",
+                   text="Подпись — кнопка «Копировать» в углу блока:\n<pre>" + _html.escape(caption[:3900]) + "</pre>")["message_id"])
+    return ids

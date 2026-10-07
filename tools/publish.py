@@ -4,7 +4,7 @@
 Каждый пост — папка posts/NN-name/ с файлом post.json:
 {
   "type": "carousel" | "image" | "reel" | "story",
-  "status": "scheduled" | "draft",
+  "status": "scheduled" | "draft" | "manual",
   "publish_at": "2026-10-06T19:00:00+02:00",
   "caption_file": "caption.txt",
   "media": ["s1.png", "s2.png"],      # reel — один файл; story — по сторис на файл
@@ -14,15 +14,23 @@
 }
 После публикации рядом появляется published.json — повторно пост не выйдет.
 
+status "manual" — пост публикует человек сам (чтобы добавить музыку в приложении Instagram):
+в send_at (по умолчанию за сутки до publish_at) бот присылает черновик в личку владельцу;
+когда пост появляется в Instagram, он узнаётся по подписи и дублируется в Telegram-канал.
+
 Окружение: IG_ACCESS_TOKEN, IG_USER_ID, GITHUB_REPOSITORY, GITHUB_SHA.
 DRY_RUN=1 — только проверить файлы и ссылки, ничего не публиковать.
 POST=NN-name — обработать только этот пост (и игнорировать publish_at).
 """
-import json, os, sys, time, urllib.parse, urllib.request, urllib.error
-from datetime import datetime, timezone
+import html as _html, json, os, re, sys, time, urllib.parse, urllib.request, urllib.error
+from datetime import datetime, timedelta, timezone
+from zoneinfo import ZoneInfo
 from pathlib import Path
 
 API = "https://graph.instagram.com/v23.0"
+BERLIN = ZoneInfo("Europe/Berlin")
+WD = ["пн", "вт", "ср", "чт", "пт", "сб", "вс"]
+KIND = {"carousel": "несколько фото (карусель)", "image": "фото", "reel": "Reels"}
 ROOT = Path(__file__).resolve().parent.parent
 TOKEN = os.environ.get("IG_ACCESS_TOKEN", "")
 USER = os.environ.get("IG_USER_ID", "")
@@ -158,6 +166,60 @@ def telegram_mirror(post_dir, spec):
     return ids
 
 
+def _norm(text):
+    return re.sub(r"[^0-9a-zа-яё]+", "", (text or "").lower())[:60]
+
+
+def find_in_instagram(caption, since):
+    """Пост, опубликованный вручную: ищем пост после отправки черновика с той же первой строкой подписи."""
+    first = _norm(caption.strip().splitlines()[0] if caption.strip() else "")
+    for m in call("GET", f"{USER}/media", fields="id,caption,timestamp,permalink,media_type", limit=8).get("data", []):
+        ts = datetime.fromisoformat(m["timestamp"].replace("+0000", "+00:00"))
+        if ts >= since and first and _norm(m.get("caption", "")).startswith(first[:30]):
+            return {"media_id": m["id"], "permalink": m.get("permalink"), "published_at": m["timestamp"], "manual": True}
+    return None
+
+
+def handle_manual(post_dir, spec, now):
+    sys.path.insert(0, str(ROOT / "tools"))
+    import telegram
+    publish_at = datetime.fromisoformat(spec["publish_at"])
+    send_at = datetime.fromisoformat(spec["send_at"]) if spec.get("send_at") else publish_at - timedelta(days=1)
+    caption = (post_dir / spec["caption_file"]).read_text().strip() if spec.get("caption_file") else ""
+    draft = post_dir / "draft.json"
+    if not draft.exists():
+        if now < send_at:
+            print(f"· {post_dir.name}: черновик уйдёт {send_at:%d.%m %H:%M}")
+            return
+        chat = telegram.owner_chat()
+        if not chat:
+            print(f"✗ {post_dir.name}: не знаю, куда слать черновик — напишите боту /start")
+            return
+        when = publish_at.astimezone(BERLIN)
+        header = (f"📝 <b>Черновик: {_html.escape(spec.get('title', post_dir.name))}</b>\n"
+                  f"Опубликовать: <b>{WD[when.weekday()]} {when:%d.%m} в {when:%H:%M}</b>\n\n"
+                  f"1. Сохраните файлы ниже (по порядку).\n2. Instagram → новый пост → {KIND.get(spec['type'], spec['type'])}.\n"
+                  f"3. Музыка: {_html.escape(spec.get('music_hint', 'спокойная инструментальная, без слов'))}.\n"
+                  f"4. Вставьте подпись из последнего сообщения.\n\n"
+                  f"После публикации пост сам уйдёт в Telegram-канал.")
+        ids = telegram.send_draft(chat, [public_url(post_dir, n) for n in spec["media"]], caption, header)
+        draft.write_text(json.dumps({"message_ids": ids, "sent_at": now.isoformat()}) + "\n")
+        print(f"✓ {post_dir.name}: черновик отправлен в личку")
+        return
+    sent = datetime.fromisoformat(json.loads(draft.read_text())["sent_at"])
+    if now <= publish_at + timedelta(hours=48):  # можно выложить и раньше плана — узнаем
+        found = find_in_instagram(caption, sent - timedelta(hours=1))
+        if found:
+            (post_dir / "published.json").write_text(json.dumps(found, ensure_ascii=False, indent=2) + "\n")
+            print(f"✓ {post_dir.name}: опубликован вручную {found['permalink']}")
+            try:
+                if telegram_mirror(post_dir, spec): print(f"✓ {post_dir.name}: Telegram")
+            except Exception as e:
+                print(f"✗ {post_dir.name}: Telegram: {e}")
+        else:
+            print(f"· {post_dir.name}: ждём публикацию вручную")
+
+
 def main():
     if not DRY and not (TOKEN and USER):
         sys.exit("Нет IG_ACCESS_TOKEN / IG_USER_ID")
@@ -176,6 +238,13 @@ def main():
                     if telegram_mirror(post_dir, spec): print(f"✓ {post_dir.name}: Telegram (догнали)")
                 except Exception as e:
                     failed = True; print(f"✗ {post_dir.name}: Telegram: {e}")
+            continue
+        if spec.get("status") == "manual":
+            if not DRY:
+                try:
+                    handle_manual(post_dir, spec, now)
+                except Exception as e:
+                    failed = True; print(f"✗ {post_dir.name}: {e}")
             continue
         if not ONLY:
             if spec.get("status") != "scheduled":
