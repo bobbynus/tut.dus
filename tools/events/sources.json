@@ -177,6 +177,55 @@
       "category": "спорт",
       "horizon_days": 60,
       "hint": "Это расписание Fortuna Düsseldorf. Бери все будущие матчи всех турниров (лига, кубки, Niederrheinpokal, товарищеские). title — «Хозяева - Гости», description — турнир, venue — стадион, если указан."
+    },
+    {
+      "name": "Kunstsammlung NRW: календарь",
+      "url": "https://www.kunstsammlung.de/de/calendar/",
+      "llm": true,
+      "horizon_days": 21,
+      "hint": "Музей. Бери открытия выставок, вечерние мероприятия, бесплатные дни и вечера (freier Eintritt, Open House, Kunstabend), концерты, лекции, семейные и детские программы. Регулярные экскурсии по расписанию пропускай. Если вход бесплатный — price: \"frei\". Если на странице нет года, это ближайшая такая дата."
+    },
+    {
+      "name": "KIT – Kunst im Tunnel",
+      "url": "https://www.kunst-im-tunnel.de/programm/kalender/",
+      "llm": true,
+      "horizon_days": 21,
+      "hint": "Музей. Бери открытия выставок, вечерние мероприятия, бесплатные дни и вечера (freier Eintritt, Open House, Kunstabend), концерты, лекции, семейные и детские программы. Регулярные экскурсии по расписанию пропускай. Если вход бесплатный — price: \"frei\". Если на странице нет года, это ближайшая такая дата."
+    },
+    {
+      "name": "Kunsthalle Düsseldorf",
+      "url": "https://www.kunsthalle-duesseldorf.de/kalender/",
+      "llm": true,
+      "horizon_days": 21,
+      "hint": "Музей. Бери открытия выставок, вечерние мероприятия, бесплатные дни и вечера (freier Eintritt, Open House, Kunstabend), концерты, лекции, семейные и детские программы. Регулярные экскурсии по расписанию пропускай. Если вход бесплатный — price: \"frei\". Если на странице нет года, это ближайшая такая дата."
+    },
+    {
+      "name": "Schloss Benrath",
+      "url": "https://www.schloss-benrath.de/",
+      "llm": true,
+      "horizon_days": 21,
+      "hint": "Музей. Бери открытия выставок, вечерние мероприятия, бесплатные дни и вечера (freier Eintritt, Open House, Kunstabend), концерты, лекции, семейные и детские программы. Регулярные экскурсии по расписанию пропускай. Если вход бесплатный — price: \"frei\". Если на странице нет года, это ближайшая такая дата."
+    },
+    {
+      "name": "Stadtmuseum",
+      "url": "https://www.duesseldorf.de/stadtmuseum/veranstaltungen",
+      "llm": true,
+      "horizon_days": 21,
+      "hint": "Музей. Бери открытия выставок, вечерние мероприятия, бесплатные дни и вечера (freier Eintritt, Open House, Kunstabend), концерты, лекции, семейные и детские программы. Регулярные экскурсии по расписанию пропускай. Если вход бесплатный — price: \"frei\". Если на странице нет года, это ближайшая такая дата."
+    },
+    {
+      "name": "Hetjens – Deutsches Keramikmuseum",
+      "url": "https://www.duesseldorf.de/hetjens/veranstaltungskalender",
+      "llm": true,
+      "horizon_days": 21,
+      "hint": "Музей. Бери открытия выставок, вечерние мероприятия, бесплатные дни и вечера (freier Eintritt, Open House, Kunstabend), концерты, лекции, семейные и детские программы. Регулярные экскурсии по расписанию пропускай. Если вход бесплатный — price: \"frei\". Если на странице нет года, это ближайшая такая дата."
+    },
+    {
+      "name": "Theatermuseum",
+      "url": "https://www.duesseldorf.de/theatermuseum/programmkalender",
+      "llm": true,
+      "horizon_days": 21,
+      "hint": "Музей. Бери открытия выставок, вечерние мероприятия, бесплатные дни и вечера (freier Eintritt, Open House, Kunstabend), концерты, лекции, семейные и детские программы. Регулярные экскурсии по расписанию пропускай. Если вход бесплатный — price: \"frei\". Если на странице нет года, это ближайшая такая дата."
     }
   ],
   "localities": [
