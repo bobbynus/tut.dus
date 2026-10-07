@@ -27,11 +27,13 @@ node render.cjs 01-intro.html ../posts/01-intro
 
 1. Пост — папка `posts/NN-name/` со слайдами или видео, `caption.txt` и `post.json`
    (формат описан в начале `tools/publish.py`).
-2. `"status": "scheduled"` и время в `publish_at` → workflow **Publish** (запускается каждые 15 минут)
+2. `"status": "scheduled"` и время в `publish_at` → workflow **Clock** (проверяет каждые 4 минуты)
    опубликует пост и положит рядом `published.json` со ссылкой.
-3. `"status": "draft"` — пост не публикуется.
+3. `"status": "manual"` — черновик придёт владельцу в Telegram, публикация вручную с музыкой.
+4. `"status": "draft"` — пост не публикуется.
 
 Ручной запуск: Actions → Publish → Run workflow (можно указать папку поста и режим проверки).
+Как устроено всё целиком — в `CLAUDE.md`.
 
 ## Reels с футажами и музыкой
 
