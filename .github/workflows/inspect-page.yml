@@ -17,5 +17,5 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: |
-          if [ "${{ inputs.url }}" = "toubiz" ]; then python3 tools/events/toubiz_probe.py ${{ inputs.args }}; python3 tools/events/toubiz.py
-          else python3 tools/events/inspect.py "${{ inputs.url }}" ${{ inputs.args }}; fi
+          if [ "${{ inputs.url }}" = "toubiz" ]; then python3 tools/events/toubiz.py
+          else python3 tools/events/inspect_page.py "${{ inputs.url }}" ${{ inputs.args }}; fi
