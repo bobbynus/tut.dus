@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Сторис-картинки → короткие видео с музыкой (через API к картинкам музыку не добавить).
 
-Каждая сторис — 6 секунд, картинка неподвижна (текст читается); музыка идёт непрерывно: вторая сторис
+Каждая сторис — от 6 до 15 секунд по объёму текста, картинка неподвижна; музыка идёт непрерывно: вторая сторис
 продолжает трек с 6-й секунды и т. д. Использование: to_video.py posts/<папка> [трек]
 Исходные PNG после конвертации удаляются: слайды одноразовые, храним только видео.
 """
@@ -23,16 +23,24 @@ def convert(post_dir, track=None):
     track = Path(track) if track else pick_track()
     if not track:
         print("Нет треков в library/music — оставляю картинки"); return
-    start = 8  # пропускаем тихое вступление
+    sys.path.insert(0, str(ROOT / "tools"))
+    from make_reel import read_seconds
+    try:
+        texts = json.loads((post_dir / "texts.json").read_text())
+    except Exception:
+        texts = {}
+    start = 8.0  # пропускаем тихое вступление; дальше музыка идёт непрерывно через все сторис
     videos = []
     for n, name in enumerate(spec["media"]):
         if not name.endswith(".png"):
             videos.append(name); continue
         out = name.replace(".png", ".mp4")
+        sec = max(SEC, read_seconds(texts.get(Path(name).stem, 0)))  # много текста — сторис дольше
         reel = {"output": out, "transition": 0.4,
-                "segments": [{"image": name, "duration": SEC}],
+                "segments": [{"image": name, "duration": sec}],
                 "music": f"../../library/music/{track.name}",
-                "music_start": start + n * SEC}
+                "music_start": start}
+        start += sec
         cfg = post_dir / f"_{n}.json"
         cfg.write_text(json.dumps(reel))
         subprocess.run([sys.executable, str(ROOT / "tools" / "make_reel.py"), str(cfg)], check=True)
