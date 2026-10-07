@@ -6,10 +6,14 @@ on:
     - cron: "17 6 1,15 * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - name: Refresh token
         env:
           TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
@@ -22,3 +26,8 @@ jobs:
           echo "::add-mask::$NEW"
           gh secret set IG_ACCESS_TOKEN --body "$NEW" -R "$GITHUB_REPOSITORY"
           echo "Токен продлён на $(( $(echo "$R" | jq -r .expires_in) / 86400 )) дней."
+          # дата продления — для проверки Health (предупредит, если продление перестанет работать)
+          echo "{\"refreshed_at\": \"$(date -u +%FT%TZ)\"}" > data/ig-token.json
+          git config user.name "tut.dus bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ig-token.json && git commit -qm "IG token refreshed [skip ci]" && git pull -q --rebase && git push -q

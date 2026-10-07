@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Сторис-картинки → короткие видео с музыкой (через API к картинкам музыку не добавить).
 
-Каждая сторис — 6 секунд с лёгким наездом; музыка идёт непрерывно: вторая сторис
+Каждая сторис — 6 секунд, картинка неподвижна (текст читается); музыка идёт непрерывно: вторая сторис
 продолжает трек с 6-й секунды и т. д. Использование: to_video.py posts/<папка> [трек]
+Исходные PNG после конвертации удаляются: слайды одноразовые, храним только видео.
 """
 import json, random, subprocess, sys
 from pathlib import Path
@@ -36,6 +37,7 @@ def convert(post_dir, track=None):
         cfg.write_text(json.dumps(reel))
         subprocess.run([sys.executable, str(ROOT / "tools" / "make_reel.py"), str(cfg)], check=True)
         cfg.unlink()
+        (post_dir / name).unlink()  # слайд одноразовый: в репозитории храним только видео
         videos.append(out)
     spec["media"] = videos
     spec["music"] = track.name

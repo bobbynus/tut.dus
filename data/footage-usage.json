@@ -1,0 +1,22 @@
+{
+ "posts/03-ritter": {
+  "date": "2026-10-07",
+  "clips": [
+   {
+    "file": "jousting-wma4650f5c.mp4",
+    "start": 6,
+    "duration": 3.4
+   },
+   {
+    "file": "jousting-wmccf3324f.mp4",
+    "start": 5.5,
+    "duration": 3.0
+   },
+   {
+    "file": "jousting-wmccf3324f.mp4",
+    "start": 10.5,
+    "duration": 3.0
+   }
+  ]
+ }
+}

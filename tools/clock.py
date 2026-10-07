@@ -3,6 +3,7 @@
 
 - events-collect.yml — если сегодня (по Берлину) ещё не было сбора и уже после 10:00
 - daily-stories.yml  — если после 20:00 нет сторис на завтра
+- health.yml         — если после 09:30 сегодня ещё не было проверки «нужно ли внимание»
 """
 import json
 from datetime import datetime, timedelta
@@ -21,4 +22,10 @@ if now.hour >= 10 and gen != now.date().isoformat():
 tomorrow = (now + timedelta(days=1)).date()
 if now.hour >= 20 and not (ROOT / "posts" / f"daily-{tomorrow}" / "post.json").exists() and not (ROOT / "AUTOPOST_PAUSED").exists():
     todo.append("daily-stories.yml")
+try:
+    health = json.loads((ROOT / "data" / "health.json").read_text())["checked_at"][:10]
+except Exception:
+    health = ""
+if (now.hour, now.minute) >= (9, 30) and health != now.date().isoformat():
+    todo.append("health.yml")
 print(" ".join(todo))
