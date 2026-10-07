@@ -7,10 +7,13 @@ on:
       url:
         description: "Адрес страницы"
         required: true
+      args:
+        description: "Слово-подсказка и доп. адреса через пробел"
+        required: false
 
 jobs:
   inspect:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: python3 tools/events/inspect.py "${{ inputs.url }}"
+      - run: python3 tools/events/inspect.py "${{ inputs.url }}" ${{ inputs.args }}
