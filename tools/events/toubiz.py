@@ -113,9 +113,12 @@ def events(report, days=DAYS):
                 "locality": "Düsseldorf", "price": "", "url": ev.get("bookingUrl") or PAGE, "category": _category(ev),
                 "description": _text(ev.get("intro"))[:300], "source": "Visit Düsseldorf"}
         ds = sorted(set(ds))
-        if len(ds) >= 3 and len(ds) == (date.fromisoformat(ds[-1]) - date.fromisoformat(ds[0])).days + 1:
-            # идёт подряд несколько дней (выставка, ярмарка) — одна запись с периодом
-            out.append({**base, "date": ds[0], "time": "", "end_date": ds[-1]})
+        if len(ds) >= 4:
+            # идёт много дней (выставка, даже с выходными по понедельникам) — одна запись с периодом;
+            # конец берём из расписания события, а не из нашего окна в 3 недели
+            ends = [i.get("end") for i in ev.get("dateIntervals") or [] if i.get("end")]
+            end = max([ds[-1]] + [e for e in ends if e >= ds[-1]])
+            out.append({**base, "date": ds[0], "time": "", "end_date": end})
         else:
             for d in ds[:6]:  # повторяющиеся (спектакль по пятницам) — отдельными датами
                 out.append({**base, "date": d, "time": _start_time(ev, d), "end_date": ""})

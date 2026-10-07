@@ -78,19 +78,30 @@ today: {today}
 ongoing: {ongoing}"""
 
 
+def rank_ongoing(ongoing):
+    """Идущих выставок бывает сотни: в выбор отдаём фестивали/рынки и то, что недавно открылось или скоро закроется."""
+    def score(e):
+        start, end = date.fromisoformat(e["date"]), date.fromisoformat(e.get("end_date") or e["date"])
+        big = e.get("big") or e.get("category") in ("фестиваль", "рынок", "детям")
+        fresh = (TODAY - start).days <= 7
+        closing = (end - TODAY).days <= 7
+        return (not big, not (fresh or closing), (end - TODAY).days)
+    return sorted(ongoing, key=score)[:25]
+
+
 def gemini_pick(today, ongoing):
     sys.path.insert(0, str(ROOT / "tools"))
     import gemini
     slim = lambda evs: [{k: e.get(k, "") for k in ("title", "time", "venue", "price", "category", "description")} for e in evs][:60]
     prompt = PROMPT.format(day=f"{WD[TODAY.weekday()]}, {TODAY.day} {MONTHS[TODAY.month-1]}",
-                           today=json.dumps(slim(today), ensure_ascii=False), ongoing=json.dumps(slim(ongoing), ensure_ascii=False))
+                           today=json.dumps(slim(today), ensure_ascii=False), ongoing=json.dumps(slim(rank_ongoing(ongoing)), ensure_ascii=False))
     model, out = gemini.call(prompt, kind="copy", temperature=0.4)
     print(f"Gemini: {model}")
     return json.loads(out)
 
 
 def simple_pick(today, ongoing):
-    evs = sorted(today, key=lambda e: e.get("time") or "99")[:6] or ongoing[:4]
+    evs = sorted(today, key=lambda e: e.get("time") or "99")[:6] or rank_ongoing(ongoing)[:4]
     lst = [{"time": e.get("time", ""), "title": short(e["title"], 42), "place": short(e.get("venue", ""), 26)} for e in evs]
     return {"list": lst, "highlights": []}
 
