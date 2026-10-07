@@ -8,7 +8,7 @@ PAGE = "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungska
 
 def get(url, n=700):
     try:
-        with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=30) as r:
+        with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=10) as r:
             body = r.read().decode("utf-8", "replace")
             return r.status, body
     except urllib.error.HTTPError as e:
@@ -32,14 +32,16 @@ if bundle:
         print("  ", m)
     imports = sorted(set(re.findall(r"""["'](\./[\w.-]+\.js)["']""", js)))
     print("imports:", imports[:40])
-    for imp in imports:
+    for imp in imports[:25]:
         st2, js2 = get("https://widget.toubiz.de/js/stable/" + imp[2:])
-        js += js2
+        if "filter" in js2 or "api/v1" in js2:
+            print("  chunk с API:", imp, len(js2))
+            js += js2
     print("всего JS:", len(js))
     for m in sorted(set(re.findall(r"""["'`](/?api/v1/[^"'`\s]{0,80})["'`]""", js)))[:80]:
         print("  ", m)
     for w in ("clientIncludingManaged", "excludeTag", "filter[", "fromDate", "dateFrom", "startDate", "within"):
-        for m in list(re.finditer(re.escape(w), js))[:3]:
+        for m in list(re.finditer(re.escape(w), js))[:2]:
             print(f"-- {w}: …{js[max(0, m.start()-250):m.end()+250]}…".replace("\n", " "))
 B = "https://mein.toubiz.de"
 import json
