@@ -148,6 +148,10 @@ def norm(s):
     return re.sub(r"[^a-z0-9а-я]+", "", "".join(c for c in s if not unicodedata.combining(c)))
 
 
+# регулярные экскурсии по расписанию — шум для ленты «что сегодня»
+TOURS = re.compile(r"(?i)\b(öffentliche\s+)?führung\b|public tour|guided tour|visite guidée|visita guiada|open studio|stadtrundgang|für lehrer|für erzieher|lehrkräfte|fortbildung")
+
+
 def keep(ev):
     try:
         d = date.fromisoformat(ev.get("date", ""))
@@ -163,6 +167,8 @@ def keep(ev):
         return False
     if ev.get("traffic"):
         return True
+    if TOURS.search(ev.get("title", "")):
+        return False
     if ev.get("team"):  # матчи наших команд показываем и на выезде
         return True
     place = f"{ev.get('locality','')} {ev.get('address','')} {ev.get('venue','')}".lower()
