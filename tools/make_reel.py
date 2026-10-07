@@ -32,12 +32,15 @@ def render_segment(seg, base, out):
     fill = f"scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H}"
     if "image" in seg:
         # картинка вписывается целиком; поля закрашиваются цветом bg (по умолчанию тёмный фирменный)
-        zoom = 0.04 if seg.get("zoom", True) else 0
+        zoom = 0.04 if seg.get("zoom", False) else 0  # по умолчанию статично: текст должен читаться
         bg = seg.get("bg", "0x111214")
         fit = (f"scale={W}:{H}:force_original_aspect_ratio=decrease,"
                f"pad={W}:{H}:(ow-iw)/2:(oh-ih)/2:color={bg}")
-        vf = (f"{fit},scale=w='trunc({W}*(1+{zoom}*t/{d})/2)*2':h=-2:eval=frame,"
-              f"crop={W}:{H},setsar=1,fps={FPS}")
+        if zoom:
+            vf = (f"{fit},scale=w='trunc({W}*(1+{zoom}*t/{d})/2)*2':h=-2:eval=frame,"
+                  f"crop={W}:{H},setsar=1,fps={FPS}")
+        else:
+            vf = f"{fit},setsar=1,fps={FPS}"
         run(["-loop", "1", "-t", str(d), "-i", str(base / seg["image"]), "-vf", vf, *ENC, "-an", str(out)])
     else:
         inputs = ["-ss", str(seg.get("start", 0)), "-t", str(d), "-i", str(base / seg["video"])]

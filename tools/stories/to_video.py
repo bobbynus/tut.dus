@@ -29,7 +29,7 @@ def convert(post_dir, track=None):
             videos.append(name); continue
         out = name.replace(".png", ".mp4")
         reel = {"output": out, "transition": 0.4,
-                "segments": [{"image": name, "duration": SEC, "zoom": True}],
+                "segments": [{"image": name, "duration": SEC}],
                 "music": f"../../library/music/{track.name}",
                 "music_start": start + n * SEC}
         cfg = post_dir / f"_{n}.json"
