@@ -48,11 +48,6 @@
       "category": "рынок"
     },
     {
-      "name": "Visit Düsseldorf",
-      "url": "https://www.visitduesseldorf.de/en/experience/events",
-      "llm": true
-    },
-    {
       "name": "Prinz",
       "url": "https://prinz.de/duesseldorf/events/",
       "llm": true

@@ -232,6 +232,8 @@ def main():
     report.append("✓ Ежегодные события (annual.json)")
     from traffic import closures
     events += closures(report)
+    from toubiz import events as visit_duesseldorf
+    events += visit_duesseldorf(report)
     from sports import fortuna, deg, tidy_deg, tidy_fortuna
     deg_ical = deg(report)
     if deg_ical:  # официальный календарь точнее — версию Gemini отбрасываем
