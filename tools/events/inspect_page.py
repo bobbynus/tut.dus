@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Разведка страницы-календаря на JS: откуда она берёт данные.
 Печатает скрипты, похожие на API адреса (в HTML и подключённых JS) и контекст вокруг слова-подсказки.
-Запуск: inspect.py URL [слово] [доп. URL для просмотра JSON-LD ...]"""
+Запуск: inspect_page.py URL [слово] [доп. URL для просмотра JSON-LD ...]"""
 import re, sys, urllib.parse, urllib.request
 
 UA = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/126 Safari/537.36"}

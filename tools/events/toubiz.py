@@ -54,22 +54,27 @@ def _text(v):
     return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", v or ""))).strip()
 
 
-def _when(ev, today, horizon):
-    """(date, time, end_date) ближайшего проведения в окне или None."""
-    ivs = [i for i in ev.get("dateIntervals") or [] if not i.get("canceled")]
-    single = [i for i in ivs if i.get("repeatRuleName") in (None, "", "none") and i.get("date")]
-    if single and len(single) == len(ivs):
-        # разовые даты: берём ближайшую, ещё не закончившуюся
-        for i in sorted(single, key=lambda i: i["date"]):
-            end = i.get("end") or i["date"]
-            if end >= today.isoformat() and i["date"] <= horizon.isoformat():
-                return i["date"], (i.get("startAt") or "")[:5], (end if end != i["date"] else "")
-        return None
-    nxt = (ev.get("nextDate") or "")[:10]
-    if not nxt or not (today.isoformat() <= nxt <= horizon.isoformat()):
-        return None
-    t = next(((i.get("startAt") or "")[:5] for i in ivs if i.get("startAt")), "")
-    return nxt, t, ""
+def _start_time(ev, day):
+    for i in ev.get("dateIntervals") or []:
+        if i.get("startAt") and (i.get("date") or "") <= day <= (i.get("end") or "9999"):
+            return i["startAt"][:5]
+    return next(((i.get("startAt") or "")[:5] for i in ev.get("dateIntervals") or [] if i.get("startAt")), "")
+
+
+def _fetch_day(token, day, report):
+    """Все события, которые проходят в этот день (API сам разворачивает повторы)."""
+    items, page = [], 1
+    while page <= MAX_PAGES:
+        q = urllib.parse.urlencode({
+            "api_token": token, "unlicensed": 1, "filter[clientIncludingManaged]": "current",
+            "filter[date][after]": day, "filter[date][before]": day,
+            "pagination[pageSize]": 100, "pagination[page]": page})
+        data = json.loads(_get(f"{API}?{q}"))
+        items += data.get("payload") or []
+        if page >= (data.get("_attributes") or {}).get("pagination", {}).get("lastPage", 1):
+            break
+        page += 1
+    return items
 
 
 def events(report, days=DAYS):
@@ -79,42 +84,44 @@ def events(report, days=DAYS):
         report.append(f"✗ Visit Düsseldorf (toubiz): токен не найден — {e}")
         return []
     today = date.today()
-    horizon = today + timedelta(days=days)
-    out, seen, skipped, far, pages = [], set(), 0, 0, 0
-    for page in range(1, MAX_PAGES + 1):
-        q = urllib.parse.urlencode({
-            "api_token": token, "unlicensed": 1, "filter[clientIncludingManaged]": "current",
-            "filter[date][after]": today.isoformat(), "filter[date][before]": horizon.isoformat(),
-            "sorting[property]": "date", "pagination[pageSize]": 100, "pagination[page]": page})
+    seen_days, info, skipped, far, failed = {}, {}, set(), set(), 0
+    for n in range(days + 1):
+        day = (today + timedelta(days=n)).isoformat()
         try:
-            data = json.loads(_get(f"{API}?{q}"))
+            items = _fetch_day(token, day, report)
         except Exception as e:
-            report.append(f"✗ Visit Düsseldorf (toubiz), страница {page}: {e}")
-            break
-        pages = page
-        for ev in data.get("payload") or []:
-            if ev.get("id") in seen or ev.get("canceled") or ev.get("invisible") or ev.get("trashed"):
+            failed += 1
+            continue
+        for ev in items:
+            eid = ev.get("id")
+            if not eid or ev.get("canceled") or ev.get("trashed"):
                 continue
-            seen.add(ev.get("id"))
-            name = _text(ev.get("name"))
-            if SKIP.search(f"{name} {(ev.get('category') or {}).get('name', '')}"):
-                skipped += 1
-                continue
-            c = _coords(ev)
-            if c and _km(c, CENTER) > RADIUS_KM:
-                far += 1
-                continue
-            w = _when(ev, today, horizon)
-            if not w:
-                continue
-            out.append({"title": name, "date": w[0], "time": w[1], "end_date": w[2],
-                        "venue": _text((ev.get("location") or {}).get("name")), "address": "", "locality": "Düsseldorf",
-                        "price": "", "url": ev.get("bookingUrl") or PAGE, "category": _category(ev),
-                        "description": _text(ev.get("intro"))[:300], "source": "Visit Düsseldorf"})
-        if page >= (data.get("_attributes") or {}).get("pagination", {}).get("lastPage", 1):
-            break
-    report.append(f"✓ Visit Düsseldorf (toubiz): {len(out)} событий на {days} дн. "
-                  f"(страниц {pages}; пропущено экскурсий {skipped}, дальше {RADIUS_KM} км {far})")
+            if eid not in info:
+                name = _text(ev.get("name"))
+                c = _coords(ev)
+                if SKIP.search(f"{name} {(ev.get('category') or {}).get('name', '')}"):
+                    skipped.add(eid)
+                elif c and _km(c, CENTER) > RADIUS_KM:
+                    far.add(eid)
+                info[eid] = ev
+            if eid not in skipped and eid not in far:
+                seen_days.setdefault(eid, []).append(day)
+    out = []
+    for eid, ds in seen_days.items():
+        ev = info[eid]
+        base = {"title": _text(ev.get("name")), "venue": _text((ev.get("location") or {}).get("name")), "address": "",
+                "locality": "Düsseldorf", "price": "", "url": ev.get("bookingUrl") or PAGE, "category": _category(ev),
+                "description": _text(ev.get("intro"))[:300], "source": "Visit Düsseldorf"}
+        ds = sorted(set(ds))
+        if len(ds) >= 3 and len(ds) == (date.fromisoformat(ds[-1]) - date.fromisoformat(ds[0])).days + 1:
+            # идёт подряд несколько дней (выставка, ярмарка) — одна запись с периодом
+            out.append({**base, "date": ds[0], "time": "", "end_date": ds[-1]})
+        else:
+            for d in ds[:6]:  # повторяющиеся (спектакль по пятницам) — отдельными датами
+                out.append({**base, "date": d, "time": _start_time(ev, d), "end_date": ""})
+    report.append(f"{'✓' if not failed else '⚠'} Visit Düsseldorf (toubiz): {len(seen_days)} событий, {len(out)} записей на {days} дн. "
+                  f"(пропущено экскурсий {len(skipped)}, дальше {RADIUS_KM} км {len(far)}"
+                  f"{f', не загрузилось дней: {failed}' if failed else ''})")
     return out
 
 
