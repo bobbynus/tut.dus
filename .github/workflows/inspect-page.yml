@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
     inputs:
       url:
-        description: "Адрес страницы"
+        description: "Адрес страницы (или toubiz — разведка API календаря Visit Düsseldorf)"
         required: true
       args:
         description: "Слово-подсказка и доп. адреса через пробел"
@@ -16,4 +16,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: python3 tools/events/inspect.py "${{ inputs.url }}" ${{ inputs.args }}
+      - run: |
+          if [ "${{ inputs.url }}" = "toubiz" ]; then python3 tools/events/toubiz_probe.py ${{ inputs.args }}
+          else python3 tools/events/inspect.py "${{ inputs.url }}" ${{ inputs.args }}; fi
