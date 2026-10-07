@@ -1,0 +1,16 @@
+name: Inspect page
+
+# Разведка: откуда страница на JS берёт данные (для подключения новых источников событий).
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: "Адрес страницы"
+        required: true
+
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/events/inspect.py "${{ inputs.url }}"
