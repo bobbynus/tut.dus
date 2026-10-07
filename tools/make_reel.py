@@ -33,8 +33,32 @@ def run(args):
     subprocess.run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", *args], check=True)
 
 
-def render_segment(seg, base, out):
+READ_WPS = 2.5        # слов в секунду: спокойное чтение с телефона
+MAX_SLOW = 2.0        # футаж под текстом замедляем не больше чем вдвое
+
+
+def read_seconds(words):
+    """Сколько держать кадр с текстом, чтобы его успели прочитать с первого раза."""
+    return 0.0 if not words else min(15.0, 2.5 + words / READ_WPS)
+
+
+def plan(seg, base):
+    """Длительность сегмента с учётом объёма текста (texts.json пишет render.cjs) и замедление футажа."""
     d = float(seg["duration"])
+    try:
+        texts = json.loads((base / "texts.json").read_text())
+    except Exception:
+        texts = {}
+    layer = seg.get("image") if "image" in seg else seg.get("overlay")
+    need = read_seconds(texts.get(Path(layer).stem, 0)) if layer else 0.0
+    if "image" in seg:
+        return max(d, need), 1.0
+    slow = seg.get("slow") or (min(need / d, MAX_SLOW) if need > d else 1.0)
+    return d * slow, slow
+
+
+def render_segment(seg, base, out):
+    d, slow = plan(seg, base)
     fill = f"scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H}"
     if "image" in seg:
         # картинка вписывается целиком; поля закрашиваются цветом bg (по умолчанию тёмный фирменный)
@@ -49,12 +73,14 @@ def render_segment(seg, base, out):
             vf = f"{fit},setsar=1,fps={FPS}"
         run(["-loop", "1", "-t", str(d), "-i", str(base / seg["image"]), "-vf", vf, *ENC, "-an", str(out)])
     else:
-        inputs = ["-ss", str(seg.get("start", 0)), "-t", str(d), "-i", str(base / seg["video"])]
+        # берём из футажа исходный кусок и растягиваем его, если тексту нужно больше времени
+        inputs = ["-ss", str(seg.get("start", 0)), "-t", str(float(seg["duration"])), "-i", str(base / seg["video"])]
+        stretch = f"setpts={slow:.3f}*PTS," if slow > 1.001 else ""
         if seg.get("overlay"):
             inputs += ["-i", str(base / seg["overlay"])]
-            fc = f"[0:v]{fill},setsar=1,fps={FPS}[v];[1:v]scale={W}:-2[o];[v][o]overlay=0:(H-h)/2[out]"
+            fc = f"[0:v]{stretch}{fill},setsar=1,fps={FPS}[v];[1:v]scale={W}:-2[o];[v][o]overlay=0:(H-h)/2[out]"
         else:
-            fc = f"[0:v]{fill},setsar=1,fps={FPS}[out]"
+            fc = f"[0:v]{stretch}{fill},setsar=1,fps={FPS}[out]"
         run([*inputs, "-filter_complex", fc, "-map", "[out]", *ENC, "-an", str(out)])
 
 
@@ -94,7 +120,7 @@ def main(spec_path):
             clips.append(clip)
 
         # склейка с переходами xfade
-        durs = [float(s["duration"]) for s in segs]
+        durs = [plan(s, base)[0] for s in segs]
         total = sum(durs) - t * (len(segs) - 1)
         args = []
         for c in clips:
