@@ -1,6 +1,6 @@
 # События Дюссельдорфа
 
-Собрано 06.10.2026 11:50: 122 событий (из 283 найденных до фильтра и удаления дублей).
+Собрано 07.10.2026 08:04: 123 событий (из 281 найденных до фильтра и удаления дублей).
 
 
 ## Чт 06.03
@@ -21,23 +21,22 @@
 
 ## Вт 06.10
 
-- **Backstreet Boys Düsseldorf Tickets** — Merkur Spiel-Arena · 💶 121.13 · событие — [ссылка](https://allevents.in/d%C3%BCsseldorf/backstreet-boys-düsseldorf-tickets/100029342896438)
-- **Konzert** — Düsseldorf, Germany · концерт — [ссылка](https://allevents.in/dusseldorf/konzert/200030469530100)
 - **ALUMINIUM** — Düsseldorf/Messegelände · выставка
 
 ## Ср 07.10
 
 - **Backstreet Boys in Düsseldorf** — Dusseldorf, NW, Germany · событие — [ссылка](https://allevents.in/dusseldorf/backstreet-boys-in-düsseldorf/3300029650163336)
+- **Backstreet Boys Düsseldorf Tickets** — Merkur Spiel-Arena · 💶 121.13 · событие — [ссылка](https://allevents.in/d%C3%BCsseldorf/backstreet-boys-düsseldorf-tickets/100029342896438)
 - **Apparat** — Henkel-Saal · событие — [ссылка](https://allevents.in/dusseldorf/apparat/200030446371521)
 - **HARMFUL I Düsseldorf | Ratinger Hof 2026** — Ratinger Hof Düsseldorf · событие — [ссылка](https://allevents.in/dusseldorf/harmful-i-düsseldorf-ratinger-hof-2026/200030643420915)
 
 ## Чт 08.10
 
+- **Apache 207 Düsseldorf Tickets** — PSD Bank Dome · 💶 110.41 · событие — [ссылка](https://allevents.in/d%C3%BCsseldorf/apache-207-düsseldorf-tickets/100030761461301)
 - **The Cinematic Orchestra in Düsseldorf** — Henkel-Saal · событие — [ссылка](https://allevents.in/dusseldorf/the-cinematic-orchestra-in-düsseldorf/3300030134831343)
 - **Simple Plan, Neck Deep in Düsseldorf** — Mitsubishi Electric HALLE · событие — [ссылка](https://allevents.in/dusseldorf/simple-plan-neck-deep-in-düsseldorf/3300029304416507)
 - **Fünf Sterne Deluxe & Massive Töne** — Rheinterrasse Düsseldorf · событие — [ссылка](https://allevents.in/dusseldorf/fünf-sterne-deluxe-and-massive-töne/200030446044104)
 - **Symba in Düsseldorf** — Rheingold-Saal / Rheinterrasse · событие — [ссылка](https://allevents.in/dusseldorf/symba-in-düsseldorf/3300030439518601)
-- **Apache 207 Düsseldorf Tickets** — PSD Bank Dome · 💶 110.41 · концерт — [ссылка](https://allevents.in/d%C3%BCsseldorf/apache-207-düsseldorf-tickets/100030761461301)
 
 ## Пт 09.10
 
@@ -117,6 +116,10 @@
 
 - **glasstec** — Düsseldorf/Messegelände · выставка
 
+## Чт 22.10
+
+- **Heinz Rudolf Kunze in Düsseldorf** — Mitsubishi Electric HALLE · событие — [ссылка](https://allevents.in/dusseldorf/heinz-rudolf-kunze-in-düsseldorf/3300029146744144)
+
 ## Пт 23.10
 
 - **Regensburg - DEG** — 20:00 · на выезде · спорт — [ссылка](https://www.deg-eishockey.de/)
@@ -126,7 +129,7 @@
 - **Hansa Rostock — Fortuna** — 14:00 · на выезде (Hansa Rostock) · спорт — [ссылка](https://www.f95.de/)
 - **Candlelight: Ed Sheeran & Coldplay** — Event-Theater Schwanenhöfe · 💶 40.50 · событие — [ссылка](https://allevents.in/dusseldorf/candlelight-ed-sheeran-and-coldplay/2700026036558958)
 - **Tyla Düsseldorf Tickets** — Mitsubishi Electric Halle · 💶 111.14 · событие — [ссылка](https://allevents.in/d%C3%BCsseldorf/tyla-düsseldorf-tickets/100030711988906)
-- **DIE TOTEN HOSEN | by OPIUM FÜRS VOLK | Pitcher Düsseldorf** — Pitcher - Rock'n'Roll Headquarter Düsseldorf · событие — [ссылка](https://allevents.in/dusseldorf/die-toten-hosen-by-opium-fÜrs-volk-pitcher-düsseldorf/200028926036640)
+- **Candlelight: Tribut an Joe Hisaishi** — Event-Theater Schwanenhöfe · 💶 39.50 · событие — [ссылка](https://allevents.in/dusseldorf/candlelight-tribut-an-joe-hisaishi/2700030035615911)
 - **Trödelmarkt Düsseldorf Schützenplatz** — D&uuml;sseldorf-Benrath Sch&uuml;tzenplatz · рынок — [ссылка](https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752959/details)
 
 ## Вс 25.10
@@ -245,6 +248,10 @@
 
 - **Fortuna — SV Wehen Wiesbaden** — 14:00 · Merkur Spiel-Arena · спорт — [ссылка](https://www.f95.de/)
 
+## Вс 06.12
+
+- **Bad Nauheim - DEG** — 18:30 · на выезде · спорт — [ссылка](https://www.deg-eishockey.de/)
+
 ## Чт 04.02
 
 - **Altweiberfastnacht — уличный карнавал** — 11:11 · Altstadt · фестиваль
@@ -283,8 +290,8 @@
 
 ## Источники
 
-- ✓ allevents: все: 70 (разметка)
-- ✓ allevents: концерты: 10 (разметка)
+- ✓ allevents: все: 68 (разметка)
+- ✓ allevents: концерты: 9 (разметка)
 - ✓ allevents: живая музыка: 11 (разметка)
 - ✓ allevents: выходные: 14 (разметка)
 - ✓ Messe Düsseldorf: 36 (разметка)
@@ -310,11 +317,13 @@
 - … NRW-Forum: в очередь нейросети
 - … Aquazoo Löbbecke: в очередь нейросети
 - … Rheinbahn: в очередь нейросети
+- … Fortuna (kicker): в очередь нейросети
 - ✗ Gemini: NO_LLM=1 — нейросеть отключена для этого запуска — оставлены прошлые данные (0 событий)
 - ✗ Gemini: NO_LLM=1 — нейросеть отключена для этого запуска — оставлены прошлые данные (3 событий)
+- ✗ Gemini: NO_LLM=1 — нейросеть отключена для этого запуска — оставлены прошлые данные (0 событий)
 - ✗ Gemini: NO_LLM=1 — нейросеть отключена для этого запуска — оставлены прошлые данные (0 событий)
 - ✓ Ежегодные события (annual.json)
 - ✓ Autobahn: 7 перекрытий в радиусе 15 км
 - ✓ DEG (iCal): 52 матчей
-- ✓ Fortuna (bl3, сезон 2026): 38 матчей
+- ✓ Fortuna (OpenLigaDB, сезон 2026): 39 матчей — 3. Лига, Кубок Германии
 - · Доступные модели Flash: gemini-2.5-flash, gemini-2.5-flash-image, gemini-2.5-flash-lite, gemini-2.5-flash-native-audio-latest, gemini-2.5-flash-native-audio-preview-09-2025, gemini-2.5-flash-native-audio-preview-12-2025, gemini-2.5-flash-preview-tts, gemini-3-flash-preview, gemini-3.1-flash-image, gemini-3.1-flash-image-preview, gemini-3.1-flash-lite, gemini-3.1-flash-lite-image, gemini-3.1-flash-lite-preview, gemini-3.1-flash-live-preview, gemini-3.1-flash-tts-preview, gemini-3.5-flash, gemini-3.5-flash-lite, gemini-3.6-flash, gemini-3.7-flash, gemini-3.8-flash, gemini-3.8-flash-lite-tts, gemini-3.8-flash-tts, gemini-flash-latest, gemini-flash-lite-latest, gemini-omni-1.1-flash, gemini-omni-flash-preview

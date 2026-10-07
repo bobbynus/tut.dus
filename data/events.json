@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-06T11:50",
- "count": 122,
+ "generated_at": "2026-10-07T08:04",
+ "count": 123,
  "events": [
   {
    "title": "A44:  Düsseldorf -> Essen",
@@ -115,43 +115,6 @@
    "traffic": true
   },
   {
-   "title": "Backstreet Boys Düsseldorf Tickets",
-   "date": "2026-10-06",
-   "time": "",
-   "end_date": "",
-   "venue": "Merkur Spiel-Arena",
-   "address": "Merkur Spiel-Arena, Düsseldorf, Germany, Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "121.13",
-   "url": "https://allevents.in/d%C3%BCsseldorf/backstreet-boys-düsseldorf-tickets/100029342896438",
-   "category": "событие",
-   "description": "",
-   "source": "allevents: все",
-   "also_in": [
-    "allevents: все",
-    "allevents: концерты"
-   ]
-  },
-  {
-   "title": "Konzert",
-   "date": "2026-10-06",
-   "time": "",
-   "end_date": "",
-   "venue": "Düsseldorf, Germany",
-   "address": "Düsseldorf, Germany, Dusseldorf",
-   "locality": "Dusseldorf",
-   "price": "",
-   "url": "https://allevents.in/dusseldorf/konzert/200030469530100",
-   "category": "концерт",
-   "description": "",
-   "source": "allevents: все",
-   "also_in": [
-    "allevents: все",
-    "allevents: концерты",
-    "allevents: живая музыка"
-   ]
-  },
-  {
    "title": "ALUMINIUM",
    "date": "2026-10-06",
    "time": "",
@@ -182,6 +145,24 @@
     "allevents: все",
     "allevents: концерты",
     "allevents: живая музыка"
+   ]
+  },
+  {
+   "title": "Backstreet Boys Düsseldorf Tickets",
+   "date": "2026-10-07",
+   "time": "",
+   "end_date": "",
+   "venue": "Merkur Spiel-Arena",
+   "address": "Merkur Spiel-Arena, Düsseldorf, Germany, Düsseldorf",
+   "locality": "Düsseldorf",
+   "price": "121.13",
+   "url": "https://allevents.in/d%C3%BCsseldorf/backstreet-boys-düsseldorf-tickets/100029342896438",
+   "category": "событие",
+   "description": "",
+   "source": "allevents: все",
+   "also_in": [
+    "allevents: все",
+    "allevents: концерты"
    ]
   },
   {
@@ -216,6 +197,24 @@
    "source": "allevents: все",
    "also_in": [
     "allevents: все"
+   ]
+  },
+  {
+   "title": "Apache 207 Düsseldorf Tickets",
+   "date": "2026-10-08",
+   "time": "",
+   "end_date": "2026-10-08",
+   "venue": "PSD Bank Dome",
+   "address": "PSD Bank Dome, Düsseldorf, Germany, Düsseldorf",
+   "locality": "Düsseldorf",
+   "price": "110.41",
+   "url": "https://allevents.in/d%C3%BCsseldorf/apache-207-düsseldorf-tickets/100030761461301",
+   "category": "событие",
+   "description": "",
+   "source": "allevents: все",
+   "also_in": [
+    "allevents: все",
+    "allevents: концерты"
    ]
   },
   {
@@ -287,20 +286,6 @@
    "also_in": [
     "allevents: все"
    ]
-  },
-  {
-   "title": "Apache 207 Düsseldorf Tickets",
-   "date": "2026-10-08",
-   "time": "",
-   "end_date": "2026-10-08",
-   "venue": "PSD Bank Dome",
-   "address": "PSD Bank Dome, Düsseldorf, Germany, Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "110.41",
-   "url": "https://allevents.in/d%C3%BCsseldorf/apache-207-düsseldorf-tickets/100030761461301",
-   "category": "концерт",
-   "description": "",
-   "source": "allevents: концерты"
   },
   {
    "title": "Weißwasser - DEG",
@@ -436,6 +421,7 @@
    "source": "allevents: все",
    "also_in": [
     "allevents: все",
+    "allevents: живая музыка",
     "allevents: выходные"
    ]
   },
@@ -469,11 +455,7 @@
    "url": "https://allevents.in/dusseldorf/10000-reibekuchen-für-den-guten-zweck/200030647631903",
    "category": "событие",
    "description": "",
-   "source": "allevents: все",
-   "also_in": [
-    "allevents: все",
-    "allevents: выходные"
-   ]
+   "source": "allevents: выходные"
   },
   {
    "title": "Ü60 PARTY– LEGENDEN UNTER SICH - Sa, 10.10. ab 20 Uhr - Tor3 Düsseldorf",
@@ -487,11 +469,7 @@
    "url": "https://allevents.in/d%C3%BCsseldorf/Ü60-party-legenden-unter-sich-sa-1010-ab-20-uhr-tor3-düsseldorf/100001990204756000",
    "category": "вечеринка",
    "description": "",
-   "source": "allevents: все",
-   "also_in": [
-    "allevents: все",
-    "allevents: выходные"
-   ]
+   "source": "allevents: выходные"
   },
   {
    "title": "Düsseldorf: Concerts by Candlelight",
@@ -1073,6 +1051,23 @@
    "source": "Messe Düsseldorf"
   },
   {
+   "title": "Heinz Rudolf Kunze in Düsseldorf",
+   "date": "2026-10-22",
+   "time": "",
+   "end_date": "2026-10-22",
+   "venue": "Mitsubishi Electric HALLE",
+   "address": "Mitsubishi Electric HALLE, Dusseldorf, NW, Germany, Dusseldorf",
+   "locality": "Dusseldorf",
+   "price": "",
+   "url": "https://allevents.in/dusseldorf/heinz-rudolf-kunze-in-düsseldorf/3300029146744144",
+   "category": "событие",
+   "description": "",
+   "source": "allevents: все",
+   "also_in": [
+    "allevents: все"
+   ]
+  },
+  {
    "title": "Regensburg - DEG",
    "date": "2026-10-23",
    "time": "20:00",
@@ -1141,15 +1136,15 @@
    ]
   },
   {
-   "title": "DIE TOTEN HOSEN | by OPIUM FÜRS VOLK | Pitcher Düsseldorf",
+   "title": "Candlelight: Tribut an Joe Hisaishi",
    "date": "2026-10-24",
    "time": "",
-   "end_date": "",
-   "venue": "Pitcher - Rock'n'Roll Headquarter Düsseldorf",
-   "address": "Oberbilker Allee 29, 40215 Düsseldorf, Deutschland, Dusseldorf",
+   "end_date": "2027-01-24",
+   "venue": "Event-Theater Schwanenhöfe",
+   "address": "Erkrather Straße 234b, Düsseldorf// 40233, Dusseldorf",
    "locality": "Dusseldorf",
-   "price": "",
-   "url": "https://allevents.in/dusseldorf/die-toten-hosen-by-opium-fÜrs-volk-pitcher-düsseldorf/200028926036640",
+   "price": "39.50",
+   "url": "https://allevents.in/dusseldorf/candlelight-tribut-an-joe-hisaishi/2700030035615911",
    "category": "событие",
    "description": "",
    "source": "allevents: все",
@@ -1792,6 +1787,22 @@
    "away": false
   },
   {
+   "title": "Bad Nauheim - DEG",
+   "date": "2026-12-06",
+   "time": "18:30",
+   "end_date": "",
+   "venue": "на выезде",
+   "address": "",
+   "locality": "",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/",
+   "category": "спорт",
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": true
+  },
+  {
    "time": "11:11",
    "end_date": "",
    "address": "",
@@ -1888,6 +1899,7 @@
    "big": true,
    "also_in": [
     "visitduesseldorf.de",
+    "visitduesseldorf.de",
     "visitduesseldorf.de"
    ]
   },
@@ -1923,6 +1935,7 @@
    "horizon_days": 400,
    "big": true,
    "also_in": [
+    "rheinkirmes-duesseldorf.de",
     "rheinkirmes-duesseldorf.de",
     "rheinkirmes-duesseldorf.de"
    ]
