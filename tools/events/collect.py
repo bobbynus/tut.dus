@@ -170,6 +170,36 @@ def keep(ev):
     return not (known_city and not any(l in place for l in LOCALITIES))
 
 
+STOP = {"dusseldorf", "duesseldorf", "dussel", "mit", "und", "der", "die", "das", "den", "dem", "des", "von", "vom", "zum", "zur",
+        "im", "in", "am", "an", "auf", "fur", "fuer", "the", "and", "of", "for", "grossem", "grosser", "grosse", "grossen",
+        "live", "2026", "2027", "edition", "event", "tickets", "dusseldorfs", "duesseldorfer", "dusseldorfer", "germany", "deutschland", "nordrhein", "westfalen"}
+
+
+def words(title):
+    t = unicodedata.normalize("NFKD", title.lower().replace("ß", "ss"))
+    t = "".join(c for c in t if not unicodedata.combining(c))
+    return {w for w in re.findall(r"[a-z0-9а-я]+", t) if len(w) >= 4 and w not in STOP}
+
+
+def same_event(a, b):
+    """Одно и то же событие под разными названиями: «Ritterturnier Eller» и
+    «Mittelaltermarkt Düsseldorf-Eller mit großem Ritterturnier»."""
+    if a["date"] != b["date"] or a.get("team") or b.get("team") or a.get("traffic") or b.get("traffic"):
+        return False
+    wa, wb = words(a["title"]), words(b["title"])
+    if not wa or not wb:
+        return False
+    small, big = sorted((wa, wb), key=len)
+    va, vb = words(a.get("venue", "")), words(b.get("venue", ""))
+    same_place = bool(va & vb)
+    if va and vb and not same_place:  # обе площадки известны и разные — это разные события
+        return len(wa & wb) / len(wa | wb) >= 0.7
+    # короткое название целиком входит в длинное и составляет его большую часть (или площадка та же)
+    if len(small) >= 2 and small <= big and (len(small) / len(big) > 0.5 or same_place):
+        return True
+    return len(wa & wb) / len(wa | wb) >= 0.7
+
+
 def merge(events):
     best = {}
     for ev in events:
@@ -183,7 +213,18 @@ def merge(events):
             best[k] = ev
         else:
             cur.setdefault("also_in", []).append(ev["source"])
-    return sorted(best.values(), key=lambda e: (e["date"], e.get("time") or "99"))
+    # второй проход: разные названия одного события в один день
+    out = []
+    for ev in sorted(best.values(), key=lambda e: -sum(bool(v) for v in e.values())):
+        twin = next((o for o in out if same_event(o, ev)), None)
+        if twin:
+            twin.setdefault("also_in", []).append(ev["source"])
+            for k, v in ev.items():  # дополняем пустые поля (время, цена) из дубля
+                if v and not twin.get(k):
+                    twin[k] = v
+        else:
+            out.append(ev)
+    return sorted(out, key=lambda e: (e["date"], e.get("time") or "99"))
 
 
 def main():
