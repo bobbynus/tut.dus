@@ -20,7 +20,7 @@ def get(url, n=700):
 _, html = get(PAGE)
 token = re.search(r'api-token="([^"]+)"', html).group(1)
 print("token найден:", token[:12] + "…")
-_, loader = get("https://widget.toubiz.de/js/stable/widget.js")
+loader = ""
 print("loader:", loader)
 bundle = re.search(r"https?://[^\"'\s]+\.js", loader) or re.search(r"(?<=\")\./(widget\.module\.js)", loader)
 if bundle and not bundle.group(0).startswith("http"):
@@ -48,7 +48,7 @@ import json
 st, body = get(f"{B}/api/v1/event?limit=1&api_token={token}")
 ev = json.loads(body)["payload"][0]
 print("\nКЛЮЧИ события:", sorted(ev))
-for k in ("dates", "dateIntervals", "location", "address", "client", "category", "tags", "url", "name", "title"):
+for k in ("nextDate", "firstDate", "lastDate", "geocoordinates", "datesCache", "dateIntervals", "location", "category", "name"):
     if k in ev:
         print(f"{k}: {json.dumps(ev[k], ensure_ascii=False)[:600]}")
 for path in sys.argv[1:] or [
