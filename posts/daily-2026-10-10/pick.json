@@ -1,0 +1,60 @@
+{
+ "list": [
+  {
+   "time": "11:00",
+   "title": "День ментального здоровья в K20",
+   "place": "K20"
+  },
+  {
+   "time": "11:30",
+   "title": "Свинг-концерт Trio Symapathique",
+   "place": "Aachener Platz"
+  },
+  {
+   "time": "17:00",
+   "title": "Ночной рынок Moonlight Market",
+   "place": "Blumengroßmarkt"
+  },
+  {
+   "time": "11:00",
+   "title": "Семейный концерт в Schloss Benrath",
+   "place": "Schloss Benrath"
+  },
+  {
+   "time": "18:00",
+   "title": "Закрытие сезона с Clap on 2",
+   "place": "Stadtstrand"
+  },
+  {
+   "time": "09:00",
+   "title": "Субботний забег в Volksgarten",
+   "place": "Volksgarten"
+  }
+ ],
+ "highlights": [
+  {
+   "title": "День здоровья в K20",
+   "text": "Особая программа медитативного и осознанного созерцания искусства в музее.",
+   "time": "11:00",
+   "place": "K20",
+   "price": "бесплатно",
+   "tag": "выставка"
+  },
+  {
+   "title": "Trio Symapathique на рынке",
+   "text": "Живая музыка в стиле мануш-свинг и французские шансоны прямо во время шоппинга.",
+   "time": "11:30",
+   "place": "Aachener Platz",
+   "price": "бесплатно",
+   "tag": "концерт"
+  },
+  {
+   "title": "Рынок Moonlight Market",
+   "text": "Огромный ночной секонд-хенд и винтажный базар с уличной едой, напитками и музыкой.",
+   "time": "17:00",
+   "place": "Blumengroßmarkt",
+   "price": "",
+   "tag": "рынок"
+  }
+ ]
+}
