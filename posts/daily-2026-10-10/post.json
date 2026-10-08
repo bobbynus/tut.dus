@@ -1,0 +1,13 @@
+{
+  "type": "story",
+  "status": "scheduled",
+  "publish_at": "2026-10-10T08:00:00+02:00",
+  "media": [
+    "d0.mp4",
+    "d1.mp4",
+    "d2.mp4",
+    "d3.mp4"
+  ],
+  "auto": true,
+  "music": "upbeat-sub_clair-background-music-591220.mp3"
+}
