@@ -1,0 +1,60 @@
+{
+ "list": [
+  {
+   "time": "11:00",
+   "title": "Рынок Radschlägermarkt",
+   "place": "METRO Düsseldorf"
+  },
+  {
+   "time": "11:00",
+   "title": "Рынок Fischmarkt",
+   "place": "Tonhallenufer"
+  },
+  {
+   "time": "11:00",
+   "title": "Йога под куполом",
+   "place": "K21"
+  },
+  {
+   "time": "12:00",
+   "title": "Игра «С мышкой по дому»",
+   "place": "Hetjensmuseum"
+  },
+  {
+   "time": "18:00",
+   "title": "Концерт Fischmarkt Sundown",
+   "place": "StadtStrand"
+  },
+  {
+   "time": "19:30",
+   "title": "Матч Fortuna - SC Verl",
+   "place": "MERKUR SPIEL-ARENA"
+  }
+ ],
+ "highlights": [
+  {
+   "title": "Рынок Fischmarkt",
+   "text": "Популярный open-air рынок у Рейна с едой, деликатесами и видами.",
+   "time": "11:00",
+   "place": "Tonhallenufer",
+   "price": "бесплатно",
+   "tag": "рынок"
+  },
+  {
+   "title": "Йога под куполом",
+   "text": "Утренняя практика для любителей йоги в пространстве музея.",
+   "time": "11:00",
+   "place": "K21",
+   "price": "бесплатно",
+   "tag": "бесплатно"
+  },
+  {
+   "title": "Игра «С мышкой по дому»",
+   "text": "Увлекательное поисковое развлечение для детей в музее керамики.",
+   "time": "12:00",
+   "place": "Hetjensmuseum",
+   "price": "бесплатно",
+   "tag": "детям"
+  }
+ ]
+}
