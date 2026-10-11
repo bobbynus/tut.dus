@@ -1,0 +1,47 @@
+{
+ "list": [
+  {
+   "time": "16:00",
+   "title": "Sterntaler: Lost & Found",
+   "place": "Tonhalle Düsseldorf"
+  },
+  {
+   "time": "18:00",
+   "title": "Infotreffen: von Pommes",
+   "place": "Central Brücke"
+  },
+  {
+   "time": "19:30",
+   "title": "Benefizkonzert",
+   "place": "Robert Schumann Hochschule"
+  },
+  {
+   "time": "",
+   "title": "Kürbispark auf dem Gertrudenhof",
+   "place": "Gertrudenhof"
+  },
+  {
+   "time": "",
+   "title": "Jörg Immendorff",
+   "place": "Kunstpalast"
+  }
+ ],
+ "highlights": [
+  {
+   "title": "Infotreffen: von Pommes",
+   "text": "All-abled Theaterclub für alle zwischen 16 und 96 Jahren mit freiem Eintritt.",
+   "time": "18:00",
+   "place": "Central Brücke",
+   "price": "бесплатно",
+   "tag": "театр"
+  },
+  {
+   "title": "Kürbispark",
+   "place": "Gertrudenhof",
+   "price": "",
+   "tag": "фестиваль",
+   "text": "Riesiger Kürbispark rund um die berühmte Kürbispyramide auf dem Erlebnisgelände.",
+   "time": ""
+  }
+ ]
+}
