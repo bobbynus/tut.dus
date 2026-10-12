@@ -1,0 +1,37 @@
+name: Fetch photos (Wikimedia Commons)
+
+# Добирает качественные свободные фото-фоны с Commons (tools/fetch_photos.py).
+# Новые файлы попадают в library/photos/commons-*.jpg и commons-new.json; в каталог фонов
+# (library/backgrounds.json) их переносят после просмотра — чтобы не попали кадры с людьми крупно.
+on:
+  workflow_dispatch:
+    inputs:
+      topics:
+        description: "Темы: тема:запрос:теги через пробел-точку-с-запятой (;)"
+        required: true
+      per:
+        description: "Сколько фото на тему"
+        default: "6"
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch
+        env:
+          TOPICS: ${{ inputs.topics }}
+          PER: ${{ inputs.per }}
+        run: |
+          set -euo pipefail
+          IFS=';' read -ra T <<< "$TOPICS"
+          args=(); for t in "${T[@]}"; do t="$(echo "$t" | sed 's/^ *//;s/ *$//')"; [ -n "$t" ] && args+=("$t"); done
+          python3 tools/fetch_photos.py "${args[@]}" --per "$PER"
+      - name: Commit
+        run: |
+          git config user.name "tut.dus bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add library/photos && git commit -qm "Photos from Commons [skip ci]" && git pull -q --rebase && git push -q || echo "нечего коммитить"
