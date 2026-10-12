@@ -170,14 +170,25 @@ def _norm(text):
     return re.sub(r"[^0-9a-zа-яё]+", "", (text or "").lower())[:60]
 
 
-def find_in_instagram(caption, since):
-    """Пост, опубликованный вручную: ищем пост после отправки черновика с той же первой строкой подписи."""
+IG_TYPE = {"carousel": "CAROUSEL_ALBUM", "image": "IMAGE", "reel": "VIDEO"}
+
+
+def find_in_instagram(caption, since, kind):
+    """Пост, опубликованный вручную после отправки черновика. Узнаём по первой строке подписи,
+    а если подпись забыли вставить — по типу поста (первый такой пост после черновика, ещё ни к чему не привязанный)."""
     first = _norm(caption.strip().splitlines()[0] if caption.strip() else "")
+    linked = {json.loads(f.read_text()).get("media_id") for f in ROOT.glob("posts/*/published.json")}
+    fresh = []
     for m in call("GET", f"{USER}/media", fields="id,caption,timestamp,permalink,media_type", limit=8).get("data", []):
         ts = datetime.fromisoformat(m["timestamp"].replace("+0000", "+00:00"))
-        if ts >= since and first and _norm(m.get("caption", "")).startswith(first[:30]):
-            return {"media_id": m["id"], "permalink": m.get("permalink"), "published_at": m["timestamp"], "manual": True}
-    return None
+        if ts < since or m["id"] in linked:
+            continue
+        found = {"media_id": m["id"], "permalink": m.get("permalink"), "published_at": m["timestamp"], "manual": True}
+        if first and _norm(m.get("caption", "")).startswith(first[:30]):
+            return found
+        if not m.get("caption") and m.get("media_type") == IG_TYPE.get(kind):
+            fresh.append((ts, {**found, "no_caption": True}))
+    return min(fresh, key=lambda x: x[0])[1] if fresh else None
 
 
 def handle_manual(post_dir, spec, now):
@@ -208,10 +219,19 @@ def handle_manual(post_dir, spec, now):
         return
     sent = datetime.fromisoformat(json.loads(draft.read_text())["sent_at"])
     if now <= publish_at + timedelta(hours=48):  # можно выложить и раньше плана — узнаем
-        found = find_in_instagram(caption, sent - timedelta(hours=1))
+        found = find_in_instagram(caption, sent - timedelta(hours=1), spec["type"])
         if found:
             (post_dir / "published.json").write_text(json.dumps(found, ensure_ascii=False, indent=2) + "\n")
-            print(f"✓ {post_dir.name}: опубликован вручную {found['permalink']}")
+            print(f"✓ {post_dir.name}: опубликован вручную {found['permalink']}"
+                  + (" (без подписи — напоминаем владельцу)" if found.get("no_caption") else ""))
+            if found.get("no_caption"):
+                try:
+                    chat = telegram.owner_chat()
+                    if chat:
+                        telegram.api("sendMessage", chat_id=chat, text=f"Пост «{spec.get('title', post_dir.name)}» вышел без подписи: "
+                                     f"{found['permalink']}\nОткройте его → ⋯ → «Изменить» и вставьте подпись из черновика выше.")
+                except Exception as e:
+                    print(f"  напоминание не отправилось: {e}")
             try:
                 if telegram_mirror(post_dir, spec): print(f"✓ {post_dir.name}: Telegram")
             except Exception as e:
