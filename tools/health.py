@@ -129,7 +129,24 @@ def check_footage():
                 "Загрузите новые видео в `library/inbox/` — звук и метаданные удалятся автоматически.")
 
 
-CHECKS = [check_repo_size, check_ig_token, check_refresh_runs, check_overdue_posts,
+def check_drafts():
+    """Черновик рубрики не ушёл владельцу (чаще всего бот не знает, куда слать — нужен /start)."""
+    stuck = []
+    for spec_f in sorted((ROOT / "posts").glob("*/post.json")):
+        spec = json.loads(spec_f.read_text())
+        if spec.get("status") != "manual" or (spec_f.parent / "draft.json").exists():
+            continue
+        due = datetime.fromisoformat(spec["send_at"]) if spec.get("send_at") else \
+            datetime.fromisoformat(spec["publish_at"]) - timedelta(days=1)
+        if now - due > timedelta(hours=1):
+            stuck.append(f"- «{spec.get('title', spec_f.parent.name)}» — должен был прийти {due.astimezone(BERLIN):%d.%m %H:%M}")
+    if stuck:
+        return ("Черновики рубрик не доходят до вас в Telegram",
+                "Бот не смог отправить черновики:\n" + "\n".join(stuck) +
+                "\n\nНапишите боту @tut_dus_bot `/start` — в течение 4 минут черновики придут.")
+
+
+CHECKS = [check_drafts, check_repo_size, check_ig_token, check_refresh_runs, check_overdue_posts,
           check_today_stories, check_events_fresh, check_clock, check_footage]
 
 
