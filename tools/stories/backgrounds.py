@@ -39,6 +39,17 @@ WORDS = [
     (r"trödel|floh|markt", ["market"]), (r"landtag", ["landtag"]), (r"kirche|lambertus|dom\b", ["church"]),
     (r"jazz|konzert|live|band", ["concert", "night"]), (r"party|club|dj", ["night"]),
     (r"japan", ["japan"]), (r"bahn|u-bahn|rheinbahn", ["transport"]),
+    # Gemini пишет заголовки по-русски
+    (r"фортун|футбол", ["football", "stadium"]), (r"хокке", ["hockey"]), (r"рейнск\w* башн", ["rheinturm"]),
+    (r"медиенхафен|гавань", ["medienhafen"]), (r"рейн|набережн|теплоход", ["rhein"]), (r"\bмост", ["bridge"]),
+    (r"альтштадт|старый город|старом городе", ["altstadt"]), (r"кё\b|кенигсаллее|кёнигсаллее", ["koe"]),
+    (r"хофгартен", ["hofgarten", "park"]), (r"парк|сад\b", ["park"]), (r"бенрат|замок|дворец", ["benrath", "castle"]),
+    (r"кайзерсверт", ["kaiserswerth"]), (r"музе|выставк|галере|искусств", ["museum", "art"]),
+    (r"тонхалле|симфони|оркестр|классическ", ["classic", "concert"]), (r"опер|театр|спектакл", ["theater"]),
+    (r"мессе|ярмарк[аи] messe", ["messe"]), (r"аэропорт", ["airport"]), (r"зоопарк|аквазоо|животн", ["zoo", "kids"]),
+    (r"кирмес|колес[оа] обозрени|аттракцион", ["kirmes", "fair"]), (r"рождеств|адвент", ["christmas", "market"]),
+    (r"блошин|барахолк|рынок|маркт", ["market"]), (r"ландтаг", ["landtag"]), (r"церк|собор|храм", ["church"]),
+    (r"джаз|концерт|рок\b|группа", ["concert", "night"]), (r"вечеринк|клуб|диджей", ["night"]),
 ]
 GENERIC = ["rhein", "rheinturm", "medienhafen", "altstadt", "bridge", "koe", "hofgarten", "city"]
 
@@ -59,6 +70,20 @@ def themes(title="", place="", category=""):
         if t not in seen:
             seen.append(t)
     return seen
+
+
+def tall(path):
+    """Вертикальный или почти квадратный кадр — в сторис почти не обрезается."""
+    if str(path).endswith(".mp4"):
+        out = subprocess.run(["ffprobe", "-v", "error", "-select_streams", "v:0", "-show_entries", "stream=width,height",
+                              "-of", "csv=p=0", str(path)], capture_output=True, text=True).stdout.strip()
+    else:
+        out = subprocess.run(["identify", "-format", "%w,%h", str(path) + "[0]"], capture_output=True, text=True).stdout
+    try:
+        w, h = map(int, out.split(",")[:2])
+        return h / w >= 0.95
+    except ValueError:
+        return False
 
 
 def video_len(path):
@@ -92,6 +117,9 @@ class Picker:
             score = sum(weight.get(t, 0) for t in it["tags"])
             if score <= 0:
                 continue
+            if "_tall" not in it:
+                it["_tall"] = tall(LIB / it["file"])
+            score += 0.5 if it["_tall"] else 0  # при равном смысле — вертикальный кадр
             last = self.usage.get(it["file"], "")
             scored.append((last < fresh_since, score, last, it))
         if not scored:

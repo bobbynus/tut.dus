@@ -19,7 +19,7 @@ const { chromium } = require(path.join(require("child_process").execSync("npm ro
   const browser = await chromium.launch();
   const page = await browser.newPage({ deviceScaleFactor: 1 });
   await page.goto("file://" + path.resolve(src));
-  await page.addStyleTag({ content: "* { hyphens: manual !important; -webkit-hyphens: manual !important; overflow-wrap: normal !important; word-break: normal !important }" });
+  await page.addStyleTag({ content: "html, body { background: transparent !important } * { hyphens: manual !important; -webkit-hyphens: manual !important; overflow-wrap: normal !important; word-break: normal !important }" });
   await page.evaluate(() => document.fonts.ready);
   // уменьшаем шрифт у текста, где самое длинное слово шире строки
   const shrunk = await page.evaluate(() => {
