@@ -27,8 +27,8 @@
 
 /* Фон, когда подходящего по смыслу фото нет: фирменный — тёмный с красной «точкой» из логотипа */
 .v2 .bg.brand { background:
-  radial-gradient(circle at 80% 18%, var(--red) 0 110px, rgba(226,0,26,.0) 112px),
-  radial-gradient(circle at 80% 18%, rgba(226,0,26,.18) 0 260px, rgba(226,0,26,0) 420px),
+  radial-gradient(circle at 87% 19%, var(--red) 0 54px, rgba(226,0,26,0) 56px),
+  radial-gradient(circle at 87% 19%, rgba(226,0,26,.16) 0 160px, rgba(226,0,26,0) 300px),
   repeating-linear-gradient(135deg, rgba(255,255,255,.025) 0 2px, transparent 2px 14px),
   linear-gradient(165deg, #1b1c20 0%, #0d0e10 70%) }
 /* Слайд поверх видео: прозрачный, затемнение остаётся в картинке */

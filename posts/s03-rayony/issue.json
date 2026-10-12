@@ -1,0 +1,32 @@
+{
+  "title": "Районы Дюссельдорфа · обзор",
+  "publish_at": "2026-10-18T18:00:00+02:00",
+  "music_hint": "спокойная инструментальная, без слов — на слайдах списки районов (chill, ambient)",
+  "caption": "Районы Дюссельдорфа: 10 округов и 50 районов 🗺\n\nГород делится на 10 административных округов (Stadtbezirke), а в них — 50 районов (Stadtteile). Листайте: в каком округе какой район.\n\nСамый населённый — округ 3 (Билк, Обербилк, Фридрихштадт и соседи): 123 232 жителя.\n\nВ каком районе живёте вы? Пишите в комментариях — с самых популярных начнём выпуски про отдельные районы 👇\n\nИсточник: статистика города Дюссельдорфа (2024).\n\n#дюссельдорф #düsseldorf #районыдюссельдорфа #русскиевдюссельдорфе #жизньвгермании #переездвгерманию #bilk #oberkassel #benrath",
+  "slides": [
+    {"bg": "photos/commons-medienhafen-c0b3ffc7.jpg", "tag": "Новая рубрика", "h1": "Районы Дюссельдорфа", "size": 96,
+     "sub": "10 округов и 50 районов. Сначала обзор — потом по выпуску на каждый район."},
+    {"bg": "photos/own-pxl-20260504-184655405-mp.jpg", "tag": "Как устроен город", "row": [["10", "округов"], ["50", "районов"]],
+     "sub": "Округ (Stadtbezirk) — это административная часть города со своим советом. Район (Stadtteil) — то, что пишут в адресе и называют в разговоре: Билк, Оберкассель, Бенрат.",
+     "src": "Город Дюссельдорф"},
+    {"bg": null, "tag": "Округа 1–5", "h1": "Центр и север",
+     "list": [["1", "Altstadt, Carlstadt, Stadtmitte, Pempelfort, Derendorf, Golzheim"],
+              ["2", "Flingern-Süd, Flingern-Nord, Düsseltal"],
+              ["3", "Friedrichstadt, Unterbilk, Hafen, Hamm, Volmerswerth, Bilk, Oberbilk, Flehe"],
+              ["4", "Oberkassel, Heerdt, Lörick, Niederkassel"],
+              ["5", "Stockum, Lohausen, Kaiserswerth, Wittlaer, Angermund, Kalkum"]]},
+    {"bg": null, "tag": "Округа 6–10", "h1": "Восток и юг",
+     "list": [["6", "Lichtenbroich, Unterrath, Rath, Mörsenbroich"],
+              ["7", "Gerresheim, Grafenberg, Ludenberg, Hubbelrath, Knittkuhl"],
+              ["8", "Lierenfeld, Eller, Vennhausen, Unterbach"],
+              ["9", "Wersten, Himmelgeist, Holthausen, Reisholz, Benrath, Urdenbach, Itter, Hassels"],
+              ["10", "Garath, Hellerhof"]]},
+    {"bg": "photos/own-pxl-20260511-191708926-mp.jpg", "tag": "Самый населённый", "big": "123 232",
+     "what": "жителя в округе 3 — больше, чем во всём Кобленце",
+     "sub": "Здесь Билк с университетом, Медиенхафен и Рейнская башня. А самый маленький по числу районов — округ 10: только Гарат и Хеллерхоф.",
+     "src": "Статистика города Дюссельдорфа, 2024"},
+    {"bg": "photos/commons-kaiserpfalz-8f95c08f.jpg", "tag": "Ваш район", "h1": "Где живёте вы?",
+     "sub": "Напишите в комментариях. С самых популярных районов начнём отдельные выпуски: что посмотреть, где гулять, что полезно знать.",
+     "pill": "Дальше в рубрике: районы по одному"}
+  ]
+}
