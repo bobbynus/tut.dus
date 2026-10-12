@@ -122,10 +122,11 @@ class Picker:
             score += 0.5 if it["_tall"] else 0  # при равном смысле — вертикальный кадр
             last = self.usage.get(it["file"], "")
             scored.append((last < fresh_since, score, last, it))
+        scored = [x for x in scored if x[0]]  # использованное за последние 7 дней не повторяем — лучше фирменный фон
         if not scored:
             return None
-        # сначала давно не использованные, среди них — лучшее совпадение, потом самое давнее
-        scored.sort(key=lambda x: (not x[0], -x[1], x[2]))
+        # среди давно не использованных — лучшее совпадение, при равенстве — самое давнее
+        scored.sort(key=lambda x: (-x[1], x[2]))
         best = scored[0][3]
         self.taken.add(best["file"])
         self.usage[best["file"]] = self.today.isoformat()
