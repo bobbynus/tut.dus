@@ -1,0 +1,370 @@
+{
+ "_comment": "Каталог фонов для автосторис: темы файла, подпись автора (для чужих), exclude — не ставить фоном. Пути от library/.",
+ "items": [
+  {
+   "file": "photos/own-20250804-174427.jpg",
+   "tags": [
+    "transport",
+    "city",
+    "green"
+   ],
+   "credit": ""
+  },
+  {
+   "file": "photos/own-20250804-175356.jpg",
+   "tags": [
+    "city",
+    "architecture"
+   ],
+   "credit": ""
+  },
+  {
+   "file": "photos/own-20250810-134301.jpg",
+   "tags": [
+    "city",
+    "street"
+   ],
+   "credit": ""
+  },
+  {
+   "file": "photos/own-20250901-173705.jpg",
+   "tags": [
+    "rhein",
+    "bridge",
+    "evening",
+    "city"
+   ],
+   "credit": ""
+  },
+  {
+   "file": "photos/own-20250901-184549.jpg",
+   "tags": [
+    "evening",
+    "park",
+    "villa",
+    "culture"
+   ],
+   "credit": ""
+  },
+  {
+   "file": "photos/own-20251006-180548.jpg",
+   "tags": [
+    "night",
+    "city",
+    "church",
+    "street"
+   ],
+   "credit": ""
+  },
+  {
+   "file": "photos/own-20251006-191338.jpg",
+   "tags": [
+    "night",
+    "city"
+   ],
+   "credit": ""
+  },
+  {
+   "file": "photos/own-20251027-192139.jpg",
+   "tags": [
+    "fair",
+    "kirmes",
+    "night",
+    "altstadt"
+   ],
+   "credit": ""
+  },
+  {
+   "file": "photos/own-20251103-203032.jpg",
+   "tags": [
+    "church",
+    "night",
+    "altstadt"
+   ],
+   "credit": ""
+  },
+  {
+   "file": "photos/own-img-20260512-wa0007.jpg",
+   "tags": [
+    "rheinturm",
+    "medienhafen",
+    "city"
+   ],
+   "credit": ""
+  },
+  {
+   "file": "photos/own-img-20260512-wa0009.jpg",
+   "tags": [
+    "medienhafen",
+    "architecture",
+    "city"
+   ],
+   "credit": ""
+  },
+  {
+   "file": "photos/own-pxl-20260410-165403099-mp.jpg",
+   "tags": [
+    "stadium",
+    "football",
+    "fortuna"
+   ],
+   "credit": ""
+  },
+  {
+   "file": "photos/own-pxl-20260427-181346283-mp.jpg",
+   "tags": [
+    "park",
+    "kids",
+    "nature",
+    "zoo"
+   ],
+   "credit": ""
+  },
+  {
+   "file": "photos/own-pxl-20260504-184655405-mp.jpg",
+   "tags": [
+    "rhein",
+    "park",
+    "rheinturm",
+    "evening"
+   ],
+   "credit": ""
+  },
+  {
+   "file": "photos/own-pxl-20260504-200851280-mp.jpg",
+   "tags": [
+    "bridge",
+    "night",
+    "rhein"
+   ],
+   "credit": ""
+  },
+  {
+   "file": "photos/own-pxl-20260511-182334349-mp.jpg",
+   "tags": [
+    "medienhafen",
+    "bridge",
+    "water"
+   ],
+   "credit": ""
+  },
+  {
+   "file": "photos/own-pxl-20260511-183004546-mp.jpg",
+   "tags": [
+    "architecture",
+    "medienhafen",
+    "city"
+   ],
+   "credit": ""
+  },
+  {
+   "file": "photos/own-pxl-20260511-183814192-mp.jpg",
+   "tags": [
+    "medienhafen",
+    "water",
+    "evening"
+   ],
+   "credit": ""
+  },
+  {
+   "file": "photos/own-pxl-20260511-190540634-mp.jpg",
+   "tags": [
+    "architecture",
+    "medienhafen"
+   ],
+   "credit": ""
+  },
+  {
+   "file": "photos/own-pxl-20260511-190907752-mp.jpg",
+   "tags": [
+    "rheinturm",
+    "medienhafen",
+    "rhein",
+    "city"
+   ],
+   "credit": ""
+  },
+  {
+   "file": "photos/own-pxl-20260511-191708926-mp.jpg",
+   "tags": [
+    "medienhafen",
+    "city",
+    "street"
+   ],
+   "credit": ""
+  },
+  {
+   "file": "photos/own-pxl-20260511-192202357-mp.jpg",
+   "tags": [
+    "medienhafen",
+    "architecture",
+    "evening"
+   ],
+   "credit": ""
+  },
+  {
+   "file": "photos/own-pxl-20260725-120920691-mp.jpg",
+   "tags": [
+    "stadium",
+    "football",
+    "fortuna"
+   ],
+   "credit": ""
+  },
+  {
+   "file": "photos/own-pxl-20260907-190822770-mp.jpg",
+   "tags": [
+    "transport",
+    "ubahn"
+   ],
+   "credit": ""
+  },
+  {
+   "file": "footage/own-bridge-traffic-2.mp4",
+   "tags": [
+    "bridge",
+    "rhein",
+    "rheinturm",
+    "traffic"
+   ],
+   "credit": ""
+  },
+  {
+   "file": "footage/own-bridge-traffic.mp4",
+   "tags": [
+    "bridge",
+    "traffic",
+    "city"
+   ],
+   "credit": ""
+  },
+  {
+   "file": "footage/own-rhein-ship.mp4",
+   "tags": [
+    "rhein",
+    "bridge",
+    "water"
+   ],
+   "credit": ""
+  },
+  {
+   "file": "footage/own-ubahn-moving.mp4",
+   "tags": [
+    "transport",
+    "ubahn"
+   ],
+   "credit": ""
+  },
+  {
+   "file": "footage/own-pxl-20260511-183613301-1.mp4",
+   "tags": [
+    "medienhafen",
+    "architecture"
+   ],
+   "credit": ""
+  },
+  {
+   "file": "footage/own-vid-20260512-wa0010.mp4",
+   "tags": [
+    "medienhafen",
+    "architecture"
+   ],
+   "credit": ""
+  },
+  {
+   "file": "footage/own-pxl-20260420-180436152-1.mp4",
+   "tags": [
+    "city",
+    "street"
+   ],
+   "credit": ""
+  },
+  {
+   "file": "photos/commons-altstadt.jpg",
+   "tags": [
+    "altstadt",
+    "fair",
+    "church"
+   ],
+   "credit": "Фото: Nesnad / CC BY-SA 4.0"
+  },
+  {
+   "file": "photos/commons-burgplatz.jpg",
+   "tags": [
+    "altstadt",
+    "fair",
+    "church"
+   ],
+   "credit": "Фото: Nesnad / CC BY-SA 4.0"
+  },
+  {
+   "file": "photos/commons-rhein.jpg",
+   "tags": [
+    "rhein",
+    "bridge",
+    "water"
+   ],
+   "credit": "Фото: Quahadi / CC BY-SA 4.0"
+  },
+  {
+   "file": "footage/dusseldorf-wm4e317005.mp4",
+   "tags": [
+    "rhein",
+    "water",
+    "bridge"
+   ],
+   "credit": "Видео: Quahadi / CC BY-SA 3.0"
+  },
+  {
+   "file": "footage/dusseldorf-wm57ffdd15.mp4",
+   "tags": [
+    "altstadt",
+    "fair",
+    "kirmes"
+   ],
+   "credit": "Видео: Nesnad / CC BY-SA 4.0"
+  },
+  {
+   "file": "footage/dusseldorf-wm5dff02db.mp4",
+   "tags": [
+    "airport"
+   ],
+   "credit": "Видео: Quahadi / CC BY-SA 3.0"
+  },
+  {
+   "file": "footage/dusseldorf-wmb86f4416.mp4",
+   "tags": [
+    "transport",
+    "train"
+   ],
+   "credit": "Видео: Quahadi / CC BY-SA 3.0"
+  },
+  {
+   "file": "footage/dusseldorf-wm60ce294f.mp4",
+   "tags": [
+    "airport"
+   ],
+   "credit": "Видео: Quahadi / CC BY-SA 3.0"
+  },
+  {
+   "file": "photos/own-20250824-152017.jpg",
+   "tags": [],
+   "exclude": "граффити, неинтересно"
+  },
+  {
+   "file": "photos/own-20251001-185431.jpg",
+   "tags": [],
+   "exclude": "человек крупно (концерт)"
+  },
+  {
+   "file": "footage/own-medienhafen-walkingman.mp4",
+   "tags": [],
+   "exclude": "человек крупно"
+  },
+  {
+   "file": "footage/own-rhein-boot.mp4",
+   "tags": [],
+   "exclude": "голова человека в кадре"
+  }
+ ]
+}

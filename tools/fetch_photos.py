@@ -76,15 +76,21 @@ def main():
             if (OUT / name).exists():
                 continue
             raw = OUT / (name + ".tmp")
-            with urllib.request.urlopen(urllib.request.Request(it["thumb"], headers=UA), timeout=120) as r:
-                raw.write_bytes(r.read())
-            subprocess.run(["convert", str(raw), "-auto-orient", "-resize", "2160x2160>", "-strip", "-quality", "86",
-                            str(OUT / name)], check=True)
-            raw.unlink()
+            try:
+                with urllib.request.urlopen(urllib.request.Request(it["thumb"], headers=UA), timeout=120) as r:
+                    raw.write_bytes(r.read())
+                subprocess.run(["convert", str(raw), "-auto-orient", "-resize", "2160x2160>", "-strip", "-quality", "86",
+                                str(OUT / name)], check=True)
+            except Exception as e:
+                print(f"  ✗ {it['title']}: {e}")
+                continue
+            finally:
+                raw.unlink(missing_ok=True)
             lic = it["license"].replace("Public domain", "PD")
             new[name] = {"tags": tags, "credit": f"Фото: {it['author']} / {lic}", "page": it["page"],
                          "size": f"{it['w']}×{it['h']}"}
             print(f"  + {name}  {it['w']}×{it['h']}  {lic}  {it['author']}")
+            new_file.write_text(json.dumps(new, ensure_ascii=False, indent=1) + "\n")
     new_file.write_text(json.dumps(new, ensure_ascii=False, indent=1) + "\n")
 
 
