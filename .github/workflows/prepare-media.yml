@@ -45,6 +45,20 @@ jobs:
             git rm -q --cached "$f" 2>/dev/null || true; rm -f "$f"
             echo "🖼  $out (без метаданных)"
           done
+      - name: Add to background catalog
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          lib = Path("library"); cat = json.loads((lib / "backgrounds.json").read_text())
+          have = {i["file"] for i in cat["items"]}
+          for f in sorted(list((lib / "photos").glob("own-*.jpg")) + list((lib / "footage").glob("own-*.mp4"))):
+              rel = f.relative_to(lib).as_posix()
+              if rel not in have:  # тема «город»; точные темы проставит Claude при следующей сессии
+                  cat["items"].append({"file": rel, "tags": ["city"], "credit": "", "new": True})
+                  print("в каталог фонов:", rel)
+          (lib / "backgrounds.json").write_text(json.dumps(cat, ensure_ascii=False, indent=1))
+          PY
       - name: Commit
         run: |
           if [ -n "$(git status --porcelain library)" ]; then
