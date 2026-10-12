@@ -8,8 +8,8 @@
 и неудачные кадры отбраковывает человек (или Claude) по контактной таблице, потом записи переносятся
 в library/backgrounds.json.
 
-Запуск: fetch_photos.py "тема:запрос[:теги через запятую]" ... [--per 6]
-Пример: fetch_photos.py "kunstpalast:Kunstpalast Düsseldorf:museum,art"
+Запуск: fetch_photos.py "тема|запрос[|теги через запятую]" ... [--per 6]
+Пример: fetch_photos.py 'benrath|intitle:"Schloss Benrath"|castle,benrath'
 """
 import hashlib, html, json, re, subprocess, urllib.parse, urllib.request
 from pathlib import Path
@@ -67,7 +67,7 @@ def main():
     new_file = OUT / "commons-new.json"
     new = json.loads(new_file.read_text()) if new_file.exists() else {}
     for spec in args:
-        topic, query, *rest = spec.split(":")
+        topic, query, *rest = spec.split("|")
         tags = [t.strip() for t in (rest[0] if rest else topic).split(",") if t.strip()]
         items = search(query, per)
         print(f"{topic}: подходящих {len(items)}")

@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
     inputs:
       topics:
-        description: "Темы: тема:запрос:теги через пробел-точку-с-запятой (;)"
+        description: "Темы через ; — каждая как тема|запрос|теги"
         required: true
       per:
         description: "Сколько фото на тему"
