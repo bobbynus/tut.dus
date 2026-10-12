@@ -245,6 +245,14 @@ def main():
         sys.exit("Нет IG_ACCESS_TOKEN / IG_USER_ID")
     now = datetime.now(timezone.utc)
     failed = False
+    if not DRY:  # ловим /start владельца сразу, а не только когда пора слать черновик
+        try:
+            sys.path.insert(0, str(ROOT / "tools"))
+            import telegram
+            if telegram.TOKEN and not telegram.OWNER_FILE.exists() and telegram.owner_chat():
+                print("✓ Telegram: владелец найден, черновики будут приходить в личку")
+        except Exception as e:
+            print(f"· Telegram: владелец пока не найден ({e})")
     for spec_file in sorted(ROOT.glob("posts/*/post.json")):
         post_dir = spec_file.parent
         if ONLY and post_dir.name != ONLY:
