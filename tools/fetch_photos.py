@@ -64,6 +64,8 @@ def main():
     ap.add_argument("--per", type=int, default=6)
     opts = ap.parse_args()
     args, per = opts.specs, opts.per
+    rej_file = OUT / "commons-rejected.txt"  # отбракованные при просмотре — не скачивать снова
+    rejected = set(rej_file.read_text().split()) if rej_file.exists() else set()
     new_file = OUT / "commons-new.json"
     new = json.loads(new_file.read_text()) if new_file.exists() else {}
     for spec in args:
@@ -73,7 +75,7 @@ def main():
         print(f"{topic}: подходящих {len(items)}")
         for it in items:
             name = f"commons-{topic}-{hashlib.md5(it['title'].encode()).hexdigest()[:8]}.jpg"
-            if (OUT / name).exists():
+            if (OUT / name).exists() or name in rejected:
                 continue
             raw = OUT / (name + ".tmp")
             try:
