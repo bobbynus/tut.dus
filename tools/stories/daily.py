@@ -115,22 +115,30 @@ def fit(s, base, long_at, small):
     return small if len(s or "") > long_at else base
 
 
-def photos():
-    """Фоны: ваши фото из library/photos (и кадры с Commons, пока своих мало)."""
-    d = ROOT / "library" / "photos"
-    listed = d / "backgrounds.txt"
-    if listed.exists():
-        names = [l.strip() for l in listed.read_text().splitlines() if l.strip() and not l.startswith("#") and (d / l.strip()).exists()]
-        if names:
-            return names
-    own = sorted(p.name for p in d.glob("*") if p.suffix.lower() in (".jpg", ".jpeg", ".png") and not p.name.startswith("commons-"))
-    return own or sorted(p.name for p in d.glob("commons-*.jpg"))
+def background(picker, wanted, min_video):
+    """Фон слайда по смыслу (tools/stories/backgrounds.py): фото, видео или фирменный.
+    Возвращает (html фона, подпись автора, запись о видео или None)."""
+    got = picker.pick(wanted, min_video=min_video)
+    credit = f'<div class="credit">{esc(got["credit"])}</div>' if got and got.get("credit") else ""
+    if not got:
+        return '<div class="bg brand"></div>', "", None
+    if got["file"].endswith(".mp4"):
+        return "", credit, {"video": got["file"]}
+    return f'<div class="bg" style="background-image:url(../library/{got["file"]})"></div>', credit, None
 
 
-def build_html(pick, fairs, notes=(), games=()):
-    """Стиль v2: город на фоне, красный — только акцент."""
-    bgs = photos()
-    bg = lambda i: f"../library/photos/{bgs[(TODAY.toordinal() + i) % len(bgs)]}" if bgs else ""
+def build_html(pick, fairs, notes=(), games=(), picker=None):
+    """Стиль v2: город на фоне, красный — только акцент. Возвращает (html, {id слайда: видео-фон})."""
+    from backgrounds import Picker, GENERIC, themes
+    picker = picker or Picker(TODAY)
+    videos, credits = {}, {}
+
+    def bg_for(sid, wanted, min_video):
+        html_bg, credit, video = background(picker, wanted, min_video)
+        if video:
+            videos[sid] = video
+        credits[sid] = credit
+        return html_bg, (" overlay" if video else "")
     day_title = f"{WD[TODAY.weekday()]}, {TODAY.day} {MONTHS[TODAY.month-1]}"
     rows = sorted(game_rows(games) + [x for x in pick["list"] if not (games and re.search(r"Fortuna|DEG|Düsseldorfer EG", x.get("title", "")))],
                   key=lambda x: x.get("time") if x.get("time") not in ("", "00:00") else "99")[:6]
@@ -142,21 +150,25 @@ def build_html(pick, fairs, notes=(), games=()):
         names = ", ".join(sorted({f["title"] for f in fairs}))[:60]
         banners.append(f"На Messe сегодня {names}: на дорогах к Messe и в U78 будет многолюдно")
     pills = "".join(f'<div class="pill">{esc(b)}</div>' for b in banners[:3])
-    slides = [f'''<section class="slide v2 story" id="d0"><div class="bg" style="background-image:url({bg(0)})"></div><div class="shade list-shade"></div>
+    # обложка дня: место главного события, иначе виды города (с ротацией)
+    lead = (pick.get("highlights") or [{}])[0]
+    cover_bg, cover_cls = bg_for("d0", themes(lead.get("title", ""), lead.get("place", ""), "")[:1] + GENERIC, 7.5)
+    slides = [f'''<section class="slide v2 story{cover_cls}" id="d0">{cover_bg}<div class="shade list-shade"></div>
   <div class="top"><span class="logo">ТУТ<i>.DUS</i></span><span>{TODAY:%d.%m}</span></div>
   <div class="low"><div class="tag">Сегодня в городе</div><h1>{esc(day_title)}</h1>
-    <div class="list">{items}</div>{pills}</div>
+    <div class="list">{items}</div>{pills}</div>{credits["d0"]}
 </section>''']
     hls = pick.get("highlights", [])[:3]
     for n, h in enumerate(hls, 1):
         title = h.get("title", "")
         meta = "".join(f'<div class="it"><b>{k}</b><span>{esc(v)}</span></div>' for k, v in (
             ("Когда", h.get("time") if h.get("time") not in ("", "00:00") else "весь день"), ("Где", h.get("place")), ("Цена", h.get("price"))) if v)
-        slides.append(f'''<section class="slide v2 story" id="d{n}"><div class="bg" style="background-image:url({bg(n)})"></div><div class="shade"></div>
+        hl_bg, hl_cls = bg_for(f"d{n}", themes(f"{title} {h.get('text', '')}", h.get("place", ""), h.get("tag", "")), 6)
+        slides.append(f'''<section class="slide v2 story{hl_cls}" id="d{n}">{hl_bg}<div class="shade"></div>
   <div class="top"><span class="logo">ТУТ<i>.DUS</i></span><span>Сегодня · {n}/{len(hls)}</span></div>
   <div class="low"><div class="tag">{esc(h.get("tag") or "событие")}</div>
     <h1 style="font-size:{fit(title, 88, 22, 72)}px">{esc(title)}</h1>
-    <p class="sub">{esc(h.get("text"))}</p><div class="list">{meta}</div></div>
+    <p class="sub">{esc(h.get("text"))}</p><div class="list">{meta}</div></div>{credits[f"d{n}"]}
 </section>''')
     return f'''<!doctype html><html lang="ru"><head><meta charset="utf-8"><title>daily</title>
 <link rel="stylesheet" href="brand.css"><link rel="stylesheet" href="v2.css"><style>
@@ -167,7 +179,7 @@ def build_html(pick, fairs, notes=(), games=()):
   .v2 .shade.list-shade {{ background: linear-gradient(to bottom, rgba(12,13,15,.55) 0%, rgba(12,13,15,.70) 30%, rgba(12,13,15,.92) 70%, rgba(12,13,15,.97) 100%) }}
 </style></head><body>
 {chr(10).join(slides)}
-</body></html>'''
+</body></html>''', videos
 
 
 def main():
@@ -191,8 +203,13 @@ def main():
         print(f"Gemini: {e} — простой отбор"); pick = simple_pick(today, ongoing)
     if not pick.get("list") and not games and not notes:
         print("Нечего показать"); return
-    (ROOT / "design" / "_daily.html").write_text(build_html(pick, fairs, notes, games))
+    from backgrounds import Picker
+    picker = Picker(TODAY)
+    page, video_bgs = build_html(pick, fairs, notes, games, picker)
+    (ROOT / "design" / "_daily.html").write_text(page)
     post_dir.mkdir(parents=True, exist_ok=True)
+    if video_bgs:  # слайды поверх видео: to_video склеит их с футажом
+        (post_dir / "backgrounds.json").write_text(json.dumps(video_bgs, indent=1) + "\n")
     subprocess.run(["node", "render.cjs", "_daily.html", str(post_dir)], cwd=ROOT / "design", check=True)
     (ROOT / "design" / "_daily.html").unlink()
     media = sorted(p.name for p in post_dir.glob("d*.png"))
@@ -214,6 +231,7 @@ def main():
     (post_dir / "post.json").write_text(json.dumps(
         {"type": "story", "status": "scheduled", "publish_at": publish_at, "media": media, "auto": True},
         ensure_ascii=False, indent=2))
+    picker.save()
     print(f"✓ {post_dir.name}: {len(media)} сторис на {publish_at}")
     # к картинкам через API музыку не добавить — делаем из сторис короткие видео с треком
     from to_video import convert
