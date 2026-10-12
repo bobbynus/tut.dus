@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-11T15:01",
- "count": 696,
+ "generated_at": "2026-10-12T08:09",
+ "count": 637,
  "events": [
   {
    "title": "A44:  Düsseldorf -> Essen",
@@ -115,1881 +115,6 @@
    "traffic": true
   },
   {
-   "title": "Stadtrallye Düsseldorf | Dreister Diebstahl im Medienhafen | Die Flossis sind weg!",
-   "date": "2026-10-11",
-   "time": "07:00",
-   "end_date": "2026-10-11",
-   "venue": "",
-   "address": "Franziusstraße",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/stadtrallye-duesseldorf-dreister-diebstahl-im-medienhafen-die-flossis-sind-weg-2/2026-10-11/",
-   "category": "exkursion",
-   "description": "Stadtrallye Düsseldorf | Dreister Diebstahl im Medienhafen | Die Flossis sind weg!",
-   "source": "Prinz"
-  },
-  {
-   "title": "Tagesexkursion in die Gedenkstätte „Kazerne Dossin“",
-   "date": "2026-10-11",
-   "time": "09:00",
-   "end_date": "2026-10-11",
-   "venue": "zakk",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.zakk.de/event-detail?event=16113",
-   "category": "exkursion",
-   "description": "Tagesexkursion in die Gedenkstätte „Kazerne Dossin“",
-   "source": "zakk"
-  },
-  {
-   "title": "Altstadt Kneipentour mit allen Bier- & Kneipengeschichten auf deinem Smartphone",
-   "date": "2026-10-11",
-   "time": "10:00",
-   "end_date": "2026-10-11",
-   "venue": "",
-   "address": "Bolker Straße",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/altstadt-kneipentour-mit-allen-bier-kneipengeschichten-auf-deinem-smartphone/2026-10-11/",
-   "category": "exkursion",
-   "description": "Altstadt Kneipentour mit allen Bier- & Kneipengeschichten auf deinem Smartphone",
-   "source": "Prinz"
-  },
-  {
-   "title": "Sterntaler: Lost & Found: Was verschwindet",
-   "venue": "Tonhalle Düsseldorf",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.tonhalle.de/veranstaltung/sterntaler/21533-sterntaler-fuer-2-4-jahre",
-   "category": "концерт",
-   "description": "Alles kann verschwinden ... wer kennt es nicht? Die Lieblingssocke, der schöne Malstift oder sogar das Lieblingslied!",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "10:00",
-   "end_date": ""
-  },
-  {
-   "title": "Plutino: Lost & Found: Was verschwindet",
-   "venue": "Tonhalle Düsseldorf",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.tonhalle.de/veranstaltung/plutino/21546-plutino-fuer-4-6-jahre",
-   "category": "концерт",
-   "description": "Die zwei Freunde Franzisca und Youssef verlieren sich immer wieder aus den Augen und dabei spielen sie doch so gerne gemeinsam im Wind.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "10:00",
-   "end_date": ""
-  },
-  {
-   "title": "Radschlägermarkt Düsseldorf",
-   "date": "2026-10-11",
-   "time": "11:00",
-   "end_date": "2026-10-11",
-   "venue": "METRO Düsseldorf",
-   "address": "Walter-Eucken-Straße",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.radschlaegermarkt-duesseldorf.de/",
-   "category": "markt",
-   "description": "Der nächste RADSCHLÄGERMARKT findet statt rund um die METRO Düsseldorf.",
-   "source": "Radschlägermarkt"
-  },
-  {
-   "title": "Hans Werner Henze",
-   "date": "2026-10-11",
-   "time": "11:00",
-   "end_date": "2026-10-11",
-   "venue": "Malakoffturm",
-   "address": "",
-   "locality": "Bottrop",
-   "price": "",
-   "url": "https://prinz.de/events/hans-werner-henze/2026-10-11/",
-   "category": "konzert",
-   "description": "Hans Werner Henze",
-   "source": "Prinz",
-   "also_in": [
-    "Prinz"
-   ]
-  },
-  {
-   "title": "Theater für Kinder – Rheinisches Landestheater Neuss",
-   "date": "2026-10-11",
-   "time": "11:00",
-   "end_date": "2026-10-11",
-   "venue": "Rheinisches Landestheater Neuss",
-   "address": "",
-   "locality": "Neuss",
-   "price": "",
-   "url": "https://prinz.de/events/theater-fuer-kinder-rheinisches-landestheater-neuss/2026-10-11/",
-   "category": "детям",
-   "description": "Theater für Kinder – Rheinisches Landestheater Neuss",
-   "source": "Prinz",
-   "also_in": [
-    "Prinz"
-   ]
-  },
-  {
-   "title": "Abonnements 2026/2027",
-   "date": "2026-10-11",
-   "time": "11:00",
-   "end_date": "2026-10-11",
-   "venue": "Kulturraffinerie K714",
-   "address": "",
-   "locality": "Monheim am Rhein",
-   "price": "",
-   "url": "https://prinz.de/events/abonnements-20262027/2026-10-11/",
-   "category": "konzert",
-   "description": "Abonnements 2026/2027",
-   "source": "Prinz"
-  },
-  {
-   "title": "Kyiv Symphony Orchestra – Spielzeit 2026/2027",
-   "date": "2026-10-11",
-   "time": "11:00",
-   "end_date": "2026-10-11",
-   "venue": "Kulturraffinerie K714",
-   "address": "",
-   "locality": "Monheim am Rhein",
-   "price": "",
-   "url": "https://prinz.de/events/kyiv-symphony-orchestra-spielzeit-20262027/2026-10-11/",
-   "category": "konzert",
-   "description": "Kyiv Symphony Orchestra – Spielzeit 2026/2027",
-   "source": "Prinz"
-  },
-  {
-   "title": "Mittelaltermarkt Düsseldorf-Eller mit großem Ritterturnier",
-   "venue": "Schützenplatz Eller",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "рынок",
-   "description": "Der Schützenplatz in Eller verwandelt sich erneut in eine mittelalterliche Erlebniswelt. Euch erwartet ein authentischer Markt mit Händlern, Handwerk, Musik, Gaukelei und kulinarischen Köstlichkeiten – gekrönt vom größten Ritterturnier Düsseldorfs",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "11:00",
-   "end_date": ""
-  },
-  {
-   "title": "Fischmarkt",
-   "venue": "Tonhallenufer",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "рынок",
-   "description": "Schlemmen, stöbern, bummeln und dabei den Blick auf den Rhein genießen – der Düsseldorfer Fischmarkt geht in seine 27. Saison und lädt von April bis November an acht Sonntagen zum beliebten Open-Air-Event am Tonhallenufer ein.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "11:00",
-   "end_date": ""
-  },
-  {
-   "title": "Umwelt Landschaft Freiheit. Mensch & Natur im Wandel der Zeit",
-   "venue": "Clemens Sels Museum Neuss",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://clemens-sels-museum-neuss.de/besuch",
-   "category": "выставка",
-   "description": "Die Ausstellung beleuchtet, passend zur diesjährigen LAGA in Neuss, die wechselvolle Geschichte der Landschaft am Niederrhein und zeigt, wie tief menschliche Eingriffe das Naturbild seit der Steinzeit bis heute geprägt haben.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "11:00",
-   "end_date": ""
-  },
-  {
-   "title": "Angelika March-Rintelen: Garten der Erinnerung",
-   "venue": "Clemens Sels Museum Neuss",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://clemens-sels-museum-neuss.de/besuch",
-   "category": "выставка",
-   "description": "Die Studioausstellung zeigt Werke der 1952 in Neuss geborenen und 2023 als CityARTists ausgezeichneten Künstlerin Angelika March-Rintelen.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "11:00",
-   "end_date": ""
-  },
-  {
-   "title": "Ein Koffer voll Dornröschen",
-   "venue": "Puppentheater Helmholtzstraße",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "театр",
-   "description": "Ein alter Koffer öffnet sich – und mit ihm eine kleine Welt aus Märchen und Theater. Im Zentrum steht ein Kleid aus dem Jahr 1760, einst getragen von der Ururgroßmutter Amalie.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "11:00",
-   "end_date": ""
-  },
-  {
-   "title": "Pilates & Piano | Herbst Edition | C.Bechstein",
-   "date": "2026-10-11",
-   "time": "11:15",
-   "end_date": "2026-10-11",
-   "venue": "C.Bechstein",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/pilates-piano-herbst-edition-cbechstein/2026-10-11/",
-   "category": "спорт",
-   "description": "Pilates & Piano | Herbst Edition | C.Bechstein",
-   "source": "Prinz"
-  },
-  {
-   "title": "Suchspiel: „Mit der Maus durchs Haus“",
-   "date": "2026-10-11",
-   "time": "12:00",
-   "end_date": "",
-   "venue": "Hetjens – Deutsches Keramikmuseum",
-   "address": "Schulstraße 4",
-   "locality": "Düsseldorf",
-   "price": "frei",
-   "url": "https://www.duesseldorf.de/hetjens/veranstaltungskalender",
-   "category": "детям",
-   "description": "Unser kleines Museumsmäuschen spielt gerne Verstecken und lädt alle Spürnasen zur Suche ein.",
-   "source": "Hetjens – Deutsches Keramikmuseum",
-   "horizon_days": 21
-  },
-  {
-   "title": "Düsseldorf Altstadt und Altbier Tour | Adventure World Tours",
-   "date": "2026-10-11",
-   "time": "12:00",
-   "end_date": "2026-10-11",
-   "venue": "U-Bahnhof Heinrich-Heine-Alle",
-   "address": "Heinrich-Heine-Platz",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/duesseldorf-altstadt-und-altbier-tour-adventure-world-tours/2026-10-11/",
-   "category": "exkursion",
-   "description": "Düsseldorf Altstadt und Altbier Tour | Adventure World Tours",
-   "source": "Prinz"
-  },
-  {
-   "title": "Natur und Geister",
-   "venue": "Goethe-Museum/Schloss Jägerhof",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Zum 10-jährigen Jubiläum der Städtepartnerschaft Düsseldorf-Palermo präsentiert das Goethe-Museum die Ergebnisse des länderübergreifenden Open Calls Natur und Geister.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "12:00",
-   "end_date": ""
-  },
-  {
-   "title": "Kulinarik-Touren 2026",
-   "date": "2026-10-11",
-   "time": "13:00",
-   "end_date": "2026-10-11",
-   "venue": "Marienburg (Rezeption)",
-   "address": "",
-   "locality": "Monheim am Rhein",
-   "price": "",
-   "url": "https://prinz.de/events/kulinarik-touren-2026/2026-10-11/",
-   "category": "exkursion",
-   "description": "Kulinarik-Touren 2026",
-   "source": "Prinz"
-  },
-  {
-   "title": "Die Spur des Geldes",
-   "date": "2026-10-11",
-   "time": "13:00",
-   "end_date": "2026-10-11",
-   "venue": "zakk",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.zakk.de/event-detail?event=16261",
-   "category": "exkursion",
-   "description": "Ein interaktiver Stadtrundgang",
-   "source": "zakk"
-  },
-  {
-   "title": "GASTGEBER:IN AM STADT:KOLLEKTIV",
-   "date": "2026-10-11",
-   "time": "14:00",
-   "end_date": "2026-10-11",
-   "venue": "Central Brücke",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "Eintritt frei",
-   "url": "https://www.dhaus.de/programm/gastgeberin-am-stadtkollektiv/3142/",
-   "category": "театр",
-   "description": "Dazugehören statt nur zuzuschauen!",
-   "source": "D'haus (Schauspielhaus)"
-  },
-  {
-   "title": "It’s a kind of Magic – Roncalli’s Apollo Varieté",
-   "date": "2026-10-11",
-   "time": "14:00",
-   "end_date": "2026-10-11",
-   "venue": "Roncalli's Apollo Variete",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/its-a-kind-of-magic-roncallis-apollo-variete/2026-10-11/",
-   "category": "театр",
-   "description": "It’s a kind of Magic – Roncalli’s Apollo Varieté",
-   "source": "Prinz",
-   "also_in": [
-    "Prinz",
-    "Visit Düsseldorf"
-   ]
-  },
-  {
-   "title": "Einmalige Brauhaustour durch Altstadt | Das Rundum-Sorglos-Paket mit 3 Altbier inklusive",
-   "date": "2026-10-11",
-   "time": "14:00",
-   "end_date": "2026-10-11",
-   "venue": "Platz vor dem Löwenhaus/ Lieferhaus",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/einmalige-brauhaustour-durch-altstadt-das-rundum-sorglos-paket-mit-3-altbier-inklusive/2026-10-11/",
-   "category": "exkursion",
-   "description": "Einmalige Brauhaustour durch Altstadt | Das Rundum-Sorglos-Paket mit 3 Altbier inklusive",
-   "source": "Prinz"
-  },
-  {
-   "title": "ROMEO & JULIA – Liebe ist alles – Die Tour",
-   "date": "2026-10-11",
-   "time": "14:00",
-   "end_date": "2026-10-11",
-   "venue": "Capitol Theater",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/romeo-julia-liebe-ist-alles-2/2026-10-11/",
-   "category": "театр",
-   "description": "ROMEO & JULIA – Liebe ist alles – Die Tour",
-   "source": "Prinz",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
-  },
-  {
-   "title": "Chiba - Japan: Yuki Okawa",
-   "venue": "Atelier am Eck",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Yuki Okawa verwendet alte Kleidungsstücke für ihre Skulpturen und Installationen. Das Material trägt Erinnerungen, Spuren des Alltags und des Laufes der Zeit in sich.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "14:00",
-   "end_date": ""
-  },
-  {
-   "title": "Padel: CUPRA Germany Premier Padel P2",
-   "venue": "CASTELLO Düsseldorf",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.ticketmaster.de/artist/cupra-germany-premier-padel-p2-tickets/1318614?CL_ORIGIN=ORIGIN2&j=3915058&l=588918_HTML&u=217160137&mid=1347780&jb=0&et_cid=3915058&et_rid=1583546342&sfmc_sub=1583546342&utm_source=eml-tm_so05_24-04-21_premier-padel_tf&utm_medium=email&utm_campaign=1347780_3915058_7/21/2025",
-   "category": "спорт",
-   "description": "Acapulco, Barcelona, Buenos Aires, Madrid, Paris – und jetzt auch Düsseldorf. Die Qatar Airways Premier Padel Tour kommt noch in diesem Jahr nach Deutschland.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "14:00",
-   "end_date": ""
-  },
-  {
-   "title": "Eröffnung der Ausstellung „Lieblingsorte – Kraftorte im Alltag“",
-   "date": "2026-10-11",
-   "time": "15:00",
-   "end_date": "2026-10-11",
-   "venue": "Stadtmuseum Düsseldorf",
-   "address": "Berger Allee 2",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.duesseldorf.de/stadtmuseum/veranstaltungen/detail/newsdetail/vernissage",
-   "category": "выставка",
-   "description": "Vernissage der Ausstellung „Lieblingsorte – Kraftorte im Alltag“.",
-   "source": "Stadtmuseum",
-   "horizon_days": 21,
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
-  },
-  {
-   "title": "BOY + KAISER QUARTETT",
-   "date": "2026-10-11",
-   "time": "15:00",
-   "end_date": "2026-10-11",
-   "venue": "Schauspielhaus, Großes Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/boy-kaiser-quartett/2991/",
-   "category": "konzert",
-   "description": "Konzert im Rahmen des New Fall Festival 2026",
-   "source": "D'haus (Schauspielhaus)"
-  },
-  {
-   "title": "Ein Mann für Grobes – Theater an der Luegallee",
-   "date": "2026-10-11",
-   "time": "15:00",
-   "end_date": "2026-10-11",
-   "venue": "Theater an der Luegallee",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/ein-mann-fuer-grobes-theater-an-der-luegallee/2026-10-11/",
-   "category": "театр",
-   "description": "Ein Mann für Grobes – Theater an der Luegallee",
-   "source": "Prinz",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
-  },
-  {
-   "title": "Etwas ist anders | Alte Feuerwache Grevenbroich | KOM’MA Theater aus Duisburg",
-   "date": "2026-10-11",
-   "time": "15:00",
-   "end_date": "2026-10-11",
-   "venue": "Alte Feuerwache Grevenbroich",
-   "address": "",
-   "locality": "Grevenbroich",
-   "price": "",
-   "url": "https://prinz.de/events/etwas-ist-anders-alte-feuerwache-grevenbroich-komma-theater-aus-duisburg/2026-10-11/",
-   "category": "детям",
-   "description": "Etwas ist anders | Alte Feuerwache Grevenbroich | KOM’MA Theater aus Duisburg",
-   "source": "Prinz"
-  },
-  {
-   "title": "Herr Bello und das blaue Wunder – Niederrhein Theater",
-   "date": "2026-10-11",
-   "time": "15:00",
-   "end_date": "2026-10-11",
-   "venue": "Albert-Einstein-Forum",
-   "address": "",
-   "locality": "Kaarst",
-   "price": "",
-   "url": "https://prinz.de/events/herr-bello-und-das-blaue-wunder-niederrhein-theater/2026-10-11/",
-   "category": "театр",
-   "description": "Herr Bello und das blaue Wunder – Niederrhein Theater",
-   "source": "Prinz"
-  },
-  {
-   "title": "XFood Tour – Flingern kulinarisch | Adventure World Tours",
-   "date": "2026-10-11",
-   "time": "15:00",
-   "end_date": "2026-10-11",
-   "venue": "S- und U-Bahnhof Flingern",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/xfood-tour-flingern-kulinarisch-adventure-world-tours/2026-10-11/",
-   "category": "exkursion",
-   "description": "XFood Tour – Flingern kulinarisch | Adventure World Tours",
-   "source": "Prinz"
-  },
-  {
-   "title": "Vergrabene Geheimnisse - \"Thammena mystika\" - Θαμμένα μυστικά",
-   "date": "2026-10-11",
-   "time": "15:00",
-   "end_date": "2026-10-11",
-   "venue": "zakk",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.zakk.de/event-detail?event=16283",
-   "category": "событие",
-   "description": "Deutsch-Griechischer Literatursalon",
-   "source": "zakk"
-  },
-  {
-   "title": "Moment mal",
-   "venue": "plan.d. Produzentengalerie",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Die Redewendung \"Moment mal\" impliziert ein Innehalten, das dazu einlädt, sich mit den Werken an sich oder deren Inhalten zu beschäftigen.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "15:00",
-   "end_date": ""
-  },
-  {
-   "title": "Raus nach (Dr)innen - ein kollektiver Theaterprozess",
-   "venue": "TheaterLabor Traumgesicht - Bühne Campus Golzheim",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.eventim-light.com/de/a/5d36fbd4eee56600014243e8/e/6a453a104a38a212a810f08c",
-   "category": "театр",
-   "description": "Raus nach (dr)innen erzählt nicht von individuellen Fehlern, sondern von Systemen, die Menschen formen, verengen und gegeneinander ausspielen.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "15:30",
-   "end_date": ""
-  },
-  {
-   "title": "Tyll",
-   "date": "2026-10-11",
-   "time": "16:00",
-   "end_date": "2026-10-11",
-   "venue": "Schauspielhaus, Kleines Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/tyll/2930/",
-   "category": "театр",
-   "description": "von Daniel Kehlmann Regie André Kaczmarczyk",
-   "source": "D'haus (Schauspielhaus)",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
-  },
-  {
-   "title": "Simone Sommerland – Kinder-Mitmach-Konzert",
-   "date": "2026-10-11",
-   "time": "16:00",
-   "end_date": "2026-10-11",
-   "venue": "Mitsubishi Electric Halle",
-   "address": "Mitsubishi Electric HALLE, Dusseldorf, NW, Germany, Dusseldorf",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/simone-sommerland-kinder-mitmach-konzert/2026-10-11/",
-   "category": "детям",
-   "description": "Simone Sommerland – Kinder-Mitmach-Konzert",
-   "source": "Prinz",
-   "also_in": [
-    "Visit Düsseldorf",
-    "allevents: все"
-   ]
-  },
-  {
-   "title": "Balkan Vocal Workshop | Serbisch-Orthodoxe Kirche des Heiligen Sava",
-   "date": "2026-10-11",
-   "time": "16:00",
-   "end_date": "2026-10-11",
-   "venue": "Serbisch-Orthodoxe Kirche",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/balkan-vocal-workshop-serbisch-orthodoxe-kirche-des-heiligen-sava/2026-10-11/",
-   "category": "событие",
-   "description": "Balkan Vocal Workshop | Serbisch-Orthodoxe Kirche des Heiligen Sava",
-   "source": "Prinz"
-  },
-  {
-   "title": "Biondini – Godard – Niggli | Sonderkonzert",
-   "date": "2026-10-11",
-   "time": "16:00",
-   "end_date": "2026-10-11",
-   "venue": "QQTec",
-   "address": "",
-   "locality": "Hilden",
-   "price": "",
-   "url": "https://prinz.de/events/biondini-godard-niggli-sonderkonzert/2026-10-11/",
-   "category": "konzert",
-   "description": "Biondini – Godard – Niggli | Sonderkonzert",
-   "source": "Prinz"
-  },
-  {
-   "title": "Hartwich Trio – Kammermusik | Antik und Vintage Wohndesign",
-   "date": "2026-10-11",
-   "time": "16:00",
-   "end_date": "2026-10-11",
-   "venue": "Antik und Vintage Wohndesign",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/hartwich-trio-kammermusik-antik-und-vintage-wohndesign/2026-10-11/",
-   "category": "konzert",
-   "description": "Hartwich Trio – Kammermusik | Antik und Vintage Wohndesign",
-   "source": "Prinz"
-  },
-  {
-   "title": "Robin Hood – Theater Gütersloh",
-   "date": "2026-10-11",
-   "time": "16:00",
-   "end_date": "2026-10-11",
-   "venue": "Theater Gütersloh - Haupteingang",
-   "address": "",
-   "locality": "Gütersloh",
-   "price": "",
-   "url": "https://prinz.de/events/robin-hood-theater-guetersloh/2026-10-11/",
-   "category": "театр",
-   "description": "Robin Hood – Theater Gütersloh",
-   "source": "Prinz"
-  },
-  {
-   "title": "Tyll – Düsseldorfer Schauspielhaus",
-   "date": "2026-10-11",
-   "time": "16:00",
-   "end_date": "2026-10-11",
-   "venue": "Schauspielhaus – Großes Haus",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/tyll-duesseldorfer-schauspielhaus/2026-10-11/",
-   "category": "театр",
-   "description": "Tyll – Düsseldorfer Schauspielhaus",
-   "source": "Prinz"
-  },
-  {
-   "title": "21. IDO-Festival: Sonntagsorgel",
-   "venue": "St. Andreas",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "концерт",
-   "description": "Seit 1991 laden die Düsseldorfer Dominikaner jeden Sonntag zu einem Orgelkonzert in die Andreaskirche ein. Namhafte Organisten aus dem In- und Ausland waren bereits zu Gast.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "16:00",
-   "end_date": ""
-  },
-  {
-   "title": "Hartwich Trio - Kammermusik zwischen Antiquitäten",
-   "venue": "",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://rausgegangen.de/en/events/hartwich-trio-klassische-kammermusik-zwischen-antiquitaten-0/",
-   "category": "концерт",
-   "description": "Beethoven, Dvořák und klassische Kammermusik – mitten in einem Düsseldorfer Antiquitätengeschäft.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "16:00",
-   "end_date": ""
-  },
-  {
-   "title": "Konzerte im Kloster: Duo Cavinella",
-   "date": "2026-10-11",
-   "time": "16:30",
-   "end_date": "2026-10-11",
-   "venue": "Kloster Langwaden",
-   "address": "",
-   "locality": "Grevenbroich",
-   "price": "",
-   "url": "https://prinz.de/events/konzerte-im-kloster-duo-cavinella/2026-10-11/",
-   "category": "konzert",
-   "description": "Konzerte im Kloster: Duo Cavinella",
-   "source": "Prinz"
-  },
-  {
-   "title": "Der Rausch – Theater an der Kö",
-   "date": "2026-10-11",
-   "time": "17:00",
-   "end_date": "2026-10-11",
-   "venue": "Theater an der Kö",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/der-rausch-theater-an-der-koe/2026-10-11/",
-   "category": "театр",
-   "description": "Der Rausch – Theater an der Kö",
-   "source": "Prinz"
-  },
-  {
-   "title": "Düsseldorfer EG – Saison 2026/2027",
-   "date": "2026-10-11",
-   "time": "17:00",
-   "end_date": "2026-10-11",
-   "venue": "PSD BANK DOME",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/duesseldorfer-eg-saison-20262027/2026-10-11/",
-   "category": "спорт",
-   "description": "Düsseldorfer EG – Saison 2026/2027",
-   "source": "Prinz"
-  },
-  {
-   "title": "Lesungen – Stiftung Museum Kunstpalast Düsseldorf",
-   "date": "2026-10-11",
-   "time": "17:00",
-   "end_date": "2026-10-11",
-   "venue": "Robert-Schumann-Saal",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/lesungen-stiftung-museum-kunstpalast-duesseldorf/2026-10-11/",
-   "category": "театр",
-   "description": "Lesungen – Stiftung Museum Kunstpalast Düsseldorf",
-   "source": "Prinz"
-  },
-  {
-   "title": "Mein Freund Harvey",
-   "date": "2026-10-11",
-   "time": "17:00",
-   "end_date": "2026-10-11",
-   "venue": "Städtisches Bühnenhaus",
-   "address": "",
-   "locality": "Wesel",
-   "price": "",
-   "url": "https://prinz.de/events/mein-freund-harvey/2026-10-11/",
-   "category": "театр",
-   "description": "Mein Freund Harvey",
-   "source": "Prinz"
-  },
-  {
-   "title": "DEG - Dresden",
-   "date": "2026-10-11",
-   "time": "17:00",
-   "end_date": "",
-   "venue": "PSD Bank Dome",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/",
-   "category": "спорт",
-   "description": "DEL2, хоккей",
-   "source": "DEG iCal",
-   "team": "DEG",
-   "away": false
-  },
-  {
-   "title": "DEL2 Spieltag 8: Düsseldorfer EG vs. Dresdner Eislöwen",
-   "date": "2026-10-11",
-   "time": "17:00",
-   "end_date": "",
-   "venue": "PSD Bank Dome",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de",
-   "category": "спорт",
-   "description": "Spieltag 8 der DEL2-Saison.",
-   "source": "DEG "
-  },
-  {
-   "title": "Lesung mit Jasna Fritzi Bauer & Luise Wolfram",
-   "venue": "Robert-Schumann-Saal",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.westticket.de/eventseries/4132538?affiliate=5VD",
-   "category": "лекция",
-   "description": "Love Letters – Briefwechsel zwischen Virginia Woolf und Vita Sackville-West - London, 1922: Die Schriftstellerin Virginia Woolf lernt die gefeierte Autorin und Aristokratin Vita Sackville-West kennen.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "17:00",
-   "end_date": ""
-  },
-  {
-   "title": "Eishockey: Düsseldorfer EG - Dresdner Eislöwen",
-   "venue": "PSD BANK DOME",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "спорт",
-   "description": "Der PSD BANK DOME ist seit 2006 die Heimspielstätte der Düsseldorfer EG. Bis zu 15.151 Fans haben in der hochmodernen Multifunktionshalle Platz für Titel, Tränen und Triumphe.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "17:00",
-   "end_date": ""
-  },
-  {
-   "title": "Die Meistersinger von Nürnberg",
-   "venue": "Deutsche Oper am Rhein",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.westticket.de/eventseries/4156233?affiliate=5VD",
-   "category": "концерт",
-   "description": "Der junge Ritter Walther von Stolzing liebt Eva, die nur den Sieger eines Meistersinger-Wettstreits heiraten darf. Da Walther die strengen Regeln nicht beherrscht, scheitert er zunächst.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "17:00",
-   "end_date": ""
-  },
-  {
-   "title": "After Fischmarkt - Rheinwerft Edition -",
-   "venue": "Kasematten",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "рынок",
-   "description": "Erleben Sie den perfekten Sonntagsausklang an den Kasematten Düsseldorf: ausgewählte Gastronomie, erfrischende Drinks und eine besondere Atmosphäre direkt am Rhein.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "17:00",
-   "end_date": ""
-  },
-  {
-   "title": "Drei Schwestern",
-   "date": "2026-10-11",
-   "time": "18:00",
-   "end_date": "2026-10-11",
-   "venue": "Central 2",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/drei-schwestern/2931/",
-   "category": "театр",
-   "description": "von Katharina Bill / Anton Tschechow Regie Katharina Bill",
-   "source": "D'haus (Schauspielhaus)",
-   "also_in": [
-    "Visit Düsseldorf",
-    "Prinz"
-   ]
-  },
-  {
-   "title": "FISCHMARKT SUNDOWN - Drinks & Beats zum Wochenendausklang",
-   "date": "2026-10-11",
-   "time": "18:00",
-   "end_date": "2026-10-11",
-   "venue": "Tonhallenufer",
-   "address": "Tonhallenufer",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.stadtstrand-duesseldorf.de/events/fischmarkt-sundown---drinks-beats-zum-wochenendausklang-5",
-   "category": "konzert",
-   "description": "Drinks & Beats zum Wochenendausklang",
-   "source": "StadtStrand"
-  },
-  {
-   "title": "Aquazoo Löbbecke Museum Düsseldorf",
-   "date": "2026-10-11",
-   "time": "18:00",
-   "end_date": "2026-10-11",
-   "venue": "Aquazoo Löbbecke",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/aquazoo-loebbecke-museum-duesseldorf/2026-10-11/",
-   "category": "выставка",
-   "description": "Aquazoo Löbbecke Museum Düsseldorf",
-   "source": "Prinz"
-  },
-  {
-   "title": "IDO-Festival 2026",
-   "date": "2026-10-11",
-   "time": "18:00",
-   "end_date": "2026-10-11",
-   "venue": "Basilika St. Margareta, Gerresheim",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/ido-festival-2026/2026-10-11/",
-   "category": "фестиваль",
-   "description": "IDO-Festival 2026",
-   "source": "Prinz"
-  },
-  {
-   "title": "Minguet Quartett",
-   "date": "2026-10-11",
-   "time": "18:00",
-   "end_date": "2026-10-11",
-   "venue": "Studiobühne max. 140",
-   "address": "",
-   "locality": "Gütersloh",
-   "price": "",
-   "url": "https://prinz.de/events/minguet-quartett/2026-10-11/",
-   "category": "событие",
-   "description": "Minguet Quartett",
-   "source": "Prinz"
-  },
-  {
-   "title": "Big Bang: Tschaikowsky 5",
-   "venue": "Tonhalle Düsseldorf",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://webshop.tonhalle.de/selection/event/seat?perfId=10229671692083&lang=de",
-   "category": "концерт",
-   "description": "Unser wunderbares JSO nimmt sich mit Tschaikowsky 5 einen echten Klassiker vor – und pustet ihm mit jugendlicher Energie den Staub vom Notenpult.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "18:00",
-   "end_date": ""
-  },
-  {
-   "title": "21. IDO-Festival: Franceso Finotti",
-   "venue": "St. Margareta Basilika minor(D)",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.ido-festival.com/programm-orgelfestival/veranstaltung/id/670/",
-   "category": "концерт",
-   "description": "Als Francesco Finotti 1978 den ersten Preis beim Internationalen „Franz Liszt“ Orgelwettbewerb in Budapest erhält, beginnt für ihn eine grandiose Karriere als Konzertmusiker.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "18:00",
-   "end_date": ""
-  },
-  {
-   "title": "Stadtstrand",
-   "venue": "Stadtstrand an der Oberkasseler Brücke",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "концерт",
-   "description": "The Final Shout: Stadtstrand feiert das große Saisonabschlusskonzert. Bingo, japanischer City Pop, vier All-Time-Favourites und Sundowner-Beats – der Herbst am Rhein geht weiter.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "18:00",
-   "end_date": ""
-  },
-  {
-   "title": "Olaf Bossi: Generation XY - Die 80er, die 90er und das Leben heute",
-   "venue": "KaBARett Flin",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://tickets.neanderticket.de/tickets/nr=623425;client=kabarettflin",
-   "category": "театр",
-   "description": "Nostalgie trifft Lachflash – und die ganz normale Lebenskrise ab 40!",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "18:00",
-   "end_date": ""
-  },
-  {
-   "title": "WILLE AND THE BANDITS",
-   "date": "2026-10-11",
-   "time": "19:00",
-   "end_date": "2026-10-11",
-   "venue": "Pitcher",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/wille-and-the-bandits/2026-10-11/",
-   "category": "konzert",
-   "description": "WILLE AND THE BANDITS",
-   "source": "Prinz",
-   "also_in": [
-    "allevents: выходные"
-   ]
-  },
-  {
-   "title": "Nikolay Kasakov & Maya Fadeeva – Portrait in Jazz 2",
-   "date": "2026-10-11",
-   "time": "19:00",
-   "end_date": "2026-10-11",
-   "venue": "Event Theater Schwanenhöfe",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/nikolay-kasakov-maya-fadeeva-portrait-in-jazz-2/2026-10-11/",
-   "category": "konzert",
-   "description": "Nikolay Kasakov & Maya Fadeeva – Portrait in Jazz 2",
-   "source": "Prinz"
-  },
-  {
-   "title": "Salut Salon",
-   "date": "2026-10-11",
-   "time": "19:00",
-   "end_date": "2026-10-11",
-   "venue": "Kulturraffinerie K714",
-   "address": "",
-   "locality": "Monheim am Rhein",
-   "price": "",
-   "url": "https://prinz.de/events/salut-salon-2/2026-10-11/",
-   "category": "театр",
-   "description": "Salut Salon",
-   "source": "Prinz",
-   "also_in": [
-    "Prinz"
-   ]
-  },
-  {
-   "title": "Wir lesen uns: Social Reading in der Fliese mit lit.liebe",
-   "date": "2026-10-11",
-   "time": "19:00",
-   "end_date": "2026-10-11",
-   "venue": "zakk",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.zakk.de/event-detail?event=16236",
-   "category": "театр",
-   "description": "Literaturtage Düsseldorf 2026",
-   "source": "zakk"
-  },
-  {
-   "title": "Tobias Lehmkuhl: \"Keine von uns – Das Leben der Irmgard Keun\"",
-   "date": "2026-10-11",
-   "time": "19:00",
-   "end_date": "2026-10-11",
-   "venue": "zakk",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.zakk.de/event-detail?event=16237",
-   "category": "театр",
-   "description": "Literaturtage Düsseldorf 2026",
-   "source": "zakk",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
-  },
-  {
-   "title": "Zoon Podcast Week: Klussmann und Beck - Das Duell der Besserwisser",
-   "venue": "Henkel-Saal",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://rausgegangen.de/organizations/zoon-podcast-week/",
-   "category": "событие",
-   "description": "Ein Abend voller Lifehacks und Live-Challenges: „Klussmann und Beck – Das Duell der Besserwisser\" ist Deutschlands Deep Talk-Podcast.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "19:00",
-   "end_date": ""
-  },
-  {
-   "title": "1. Kammerkonzert: Mario Häring",
-   "date": "2026-10-11",
-   "time": "19:30",
-   "end_date": "2026-10-11",
-   "venue": "Bürgerhaus Telgte",
-   "address": "",
-   "locality": "Telgte",
-   "price": "",
-   "url": "https://prinz.de/events/1-kammerkonzert-mario-haering/2026-10-11/",
-   "category": "театр",
-   "description": "1. Kammerkonzert: Mario Häring",
-   "source": "Prinz"
-  },
-  {
-   "title": "Rendezvous um halb 8 – Deutsche Oper am Rhein | Düsseldorf",
-   "date": "2026-10-11",
-   "time": "19:30",
-   "end_date": "2026-10-11",
-   "venue": "Opernhaus Düsseldorf",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/rendezvous-um-halb-8-deutsche-oper-am-rhein-duesseldorf/2026-10-11/",
-   "category": "konzert",
-   "description": "Rendezvous um halb 8 – Deutsche Oper am Rhein | Düsseldorf",
-   "source": "Prinz"
-  },
-  {
-   "title": "Fortuna — SC Verl",
-   "date": "2026-10-11",
-   "time": "19:30",
-   "end_date": "",
-   "venue": "Merkur Spiel-Arena",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.f95.de/",
-   "category": "спорт",
-   "description": "3. Лига, 8. Spieltag",
-   "source": "OpenLigaDB",
-   "team": "Fortuna",
-   "away": false
-  },
-  {
-   "title": "Rendezvous um halb 8 - Oper meets Palermo",
-   "venue": "Deutsche Oper am Rhein",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.westticket.de/eventseries/4156270?affiliate=5VD",
-   "category": "концерт",
-   "description": "So manch ein gutes Date begann schon an der Bar: Beim Talk über Musik und die Welt lernt man sich besser kennen, bevor es intensiver wird.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "19:30",
-   "end_date": ""
-  },
-  {
-   "title": "Fußball: Fortuna Düsseldorf - SC Verl",
-   "venue": "MERKUR SPIEL-ARENA",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "спорт",
-   "description": "3. Liga",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "19:30",
-   "end_date": ""
-  },
-  {
-   "title": "Illumination des Landtages zur Woche der Demokratie",
-   "venue": "Landtag Nordrhein-Westfalen",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.landtag.nrw.de/home.html",
-   "category": "событие",
-   "description": "Der Landtag Nordrhein-Westfalen feiert sein 80-jähriges Bestehen mit einer Woche der Demokratie: Vom 5. bis zum 11. Oktober 2026 wird das Parlamentsgebäude am Rhein zur Leinwand für die Lichtinszenierung „Fundament der Demokratie“.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "19:30",
-   "end_date": ""
-  },
-  {
-   "title": "Skinshape",
-   "date": "2026-10-11",
-   "time": "20:00",
-   "end_date": "2026-10-11",
-   "venue": "Schauspielhaus, Großes Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/skinshape/2869/",
-   "category": "konzert",
-   "description": "Konzert im Rahmen des New Fall Festival 2026",
-   "source": "D'haus (Schauspielhaus)",
-   "also_in": [
-    "allevents: все"
-   ]
-  },
-  {
-   "title": "Science Slam on Sunday",
-   "date": "2026-10-11",
-   "time": "20:00",
-   "end_date": "2026-10-11",
-   "venue": "zakk",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "11,50 €",
-   "url": "https://www.zakk.de/event-detail?event=15785",
-   "category": "театр",
-   "description": "Die Wissenschaft schlägt zu...",
-   "source": "zakk"
-  },
-  {
-   "title": "New Fall Festival",
-   "date": "2026-10-11",
-   "time": "20:00",
-   "end_date": "2026-10-11",
-   "venue": "Schauspielhaus – Großes Haus",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/new-fall-festival/2026-10-11/",
-   "category": "фестиваль",
-   "description": "New Fall Festival",
-   "source": "Prinz",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
-  },
-  {
-   "title": "Ü60 Party - Legenden unter sich",
-   "venue": "",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.westticket.de/eventseries/4244970?affiliate=5VD",
-   "category": "вечеринка",
-   "description": "Düsseldorf bekommt ein Event für die Generation, die Ausgehen noch richtig gelernt hat: Die Ü60 PARTY – Legenden unter sich.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "20:00",
-   "end_date": ""
-  },
-  {
-   "title": "مهرجان دوسلدورف للجالية السورية",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2026-10-11",
-   "venue": "Düsseldorf, Germany",
-   "address": "Emanuel-Leutze-Straße 11, 40547 Düsseldorf, Deutschland, Dusseldorf",
-   "locality": "Dusseldorf",
-   "price": "",
-   "url": "https://allevents.in/dusseldorf/مهرجان-دوسلدورف-للجالية-السورية/200030640214109",
-   "category": "событие",
-   "description": "",
-   "source": "allevents: все",
-   "also_in": [
-    "allevents: все",
-    "allevents: выходные"
-   ]
-  },
-  {
-   "title": "Elena Gabrielle - Disturb the Vibe - Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2026-10-11",
-   "venue": "Comedy Club Düsseldorf",
-   "address": "Oststraße 147, Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "16.82",
-   "url": "https://allevents.in/d%C3%BCsseldorf/elena-gabrielle-disturb-the-vibe-düsseldorf/100001983426041683",
-   "category": "событие",
-   "description": "",
-   "source": "allevents: выходные"
-  },
-  {
-   "title": "Radschlägermarkt Düsseldorf an der METRO",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2026-10-11",
-   "venue": "METRO D&uuml;sseldorf",
-   "address": "Walter-Eucken-Straße, 40235, Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://meine-flohmarkt-termine.de/radschlagermarkt-dusseldorf-an-der-metro/23858059/details",
-   "category": "рынок",
-   "description": "Radschl&auml;germarkt D&uuml;sseldorf &ndash; Der Tr&ouml;delklassiker rund um die METRO 📍 Standort: Metro-Parkplatz, D&uuml;sseldorf 🗓️ An jedem zweiten Sonntag im Monat 🌐 Alle Infos &amp;amp; Anmeldung: www.radschlaegermarkt-duesseldorf.de Der Radschl&auml;germarkt ist D&uuml;sseldorfs traditionsr",
-   "source": "Блошиные рынки (MFT)"
-  },
-  {
-   "title": "Fischmarkt RheinLust in Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2026-10-11",
-   "venue": "Tonhallenufer",
-   "address": "Joseph-Beuys-Ufer 27, 40479, Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://meine-flohmarkt-termine.de/fischmarkt-rheinlust-in-dusseldorf/23703549/details",
-   "category": "рынок",
-   "description": "Die in D&uuml;sseldorf einzigartige Veranstaltung begeistert die Besucher mit einer tollen Atmosph&auml;re und der wundersch&ouml;nen Aussicht auf den Rhein. Das Sortiment der rund 80 H&auml;ndler reicht von Fisch und Meeresfr&uuml;chten &uuml;ber verschiedene Delikatessen bis hin zu Blumen und Kuns",
-   "source": "Блошиные рынки (MFT)"
-  },
-  {
-   "title": "Trödelmarkt Düsseldorf Reisholz Kirmesplatz",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2026-10-11",
-   "venue": "Kirmesplatz Reisholz Spangerstra&szlig;e",
-   "address": "Spangerstraße 6, 40599, Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-reisholz-kirmesplatz/23706558/details",
-   "category": "рынок",
-   "description": "Monatlich stattfindender Tr&ouml;delmarkt in zentraler Lage. Ein ausgewogenes Verh&auml;ltnis von Tr&ouml;del und Neuware erwartet Sie. Gerade bei sch&ouml;nem Wetter findet man hier viele private Aussteller welche ihre ganz pers&ouml;nlichen Sch&auml;tze anbieten. Nutzen Sie die Gelegenheit Dinge d",
-   "source": "Блошиные рынки (MFT)"
-  },
-  {
-   "title": "Kürbispark auf dem Gertrudenhof",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2026-11-09",
-   "venue": "Gertrudenhof",
-   "address": "Lortzingstraße 160",
-   "locality": "Hürth",
-   "price": "",
-   "url": "https://www.instagram.com/reel/DdZTJUjq0Tb/",
-   "category": "фестиваль",
-   "description": "Vom 5. September bis 9. November 2026 verwandelt sich das Erlebnisgelände wieder in einen riesigen Kürbispark rund um die berühmte Kürbispyramide.",
-   "source": "Mr. Düsseldorf "
-  },
-  {
-   "title": "Düsseldorf Highlights – Audioguide & selbstgeführte Tour",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "",
-   "venue": "Königsallee",
-   "address": "Königsallee 71, Düsseldorf// 40215, Dusseldorf",
-   "locality": "Dusseldorf",
-   "price": "4.99",
-   "url": "https://allevents.in/dusseldorf/düsseldorf-highlights-audioguide-and-selbstgeführte-tour/2700030761719335",
-   "category": "событие",
-   "description": "",
-   "source": "allevents: выходные"
-  },
-  {
-   "title": "Paarzeit Schatzsuche: Mission Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "",
-   "venue": "Marktplatz, Düsseldorf",
-   "address": "Marktplatz, Düsseldorf// 40213, Dusseldorf",
-   "locality": "Dusseldorf",
-   "price": "19.99",
-   "url": "https://allevents.in/dusseldorf/paarzeit-schatzsuche-mission-düsseldorf/2700030537924422",
-   "category": "событие",
-   "description": "",
-   "source": "allevents: выходные"
-  },
-  {
-   "title": "PHILOSOPHIE FÜR FÜHRUNGSKRÄFTE: Begegnen Sie Ihrer Liebe zur Weisheit.",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "",
-   "venue": "Villa Achenbach",
-   "address": "Achenbachstraße 17, Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "10655.68",
-   "url": "https://allevents.in/d%C3%BCsseldorf/philosophie-fÜr-fÜhrungskrÄfte-begegnen-sie-ihrer-liebe-zur-weisheit/100001993368806761",
-   "category": "событие",
-   "description": "",
-   "source": "allevents: выходные"
-  },
-  {
-   "title": "Edelweißpiratenfestival 2026",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2026-10-11",
-   "venue": "zakk",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.zakk.de/",
-   "category": "фестиваль",
-   "description": "Edelweißpiratenfestival 2026",
-   "source": "zakk"
-  },
-  {
-   "title": "Playground. Ein Spielplatz im Museum",
-   "venue": "K20 Kunstsammlung Nordrhein-Westfalen",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://shop.kunstsammlung.de/de/offers/a571",
-   "category": "выставка",
-   "description": "Die Ausstellung „Playground“ lädt Kinder dazu ein, zu berühren, zu klettern, zu rennen und ihrer Fantasie freien Lauf zu lassen – in einer träumerischen Landschaft, die wie aus einer anderen Welt wirkt.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2027-07-18"
-  },
-  {
-   "title": "Candlelight: Disney Love Songs",
-   "venue": "Schloss Garath - Rittersaal",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://feverup.com/m/677197",
-   "category": "концерт",
-   "description": "Disney Concerts und Fever, die weltweit führende Technologieplattform zur Entdeckung von Kultur- und Live-Entertainment, präsentieren Candlelight: Disney Love Songs.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2026-10-25"
-  },
-  {
-   "title": "Eva Rubinstein. Proof of Life",
-   "venue": "Museum für Gartenkunst",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Am 4. September eröffnet die Sonderausstellung „Eva Rubinstein. Proof of Life“ im Museum für Gartenkunst im Ostflügel von Schloss Benrath.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2026-11-29"
-  },
-  {
-   "title": "Plastikmüll im Rhein. Die große Reise des kleinen Plastiks",
-   "venue": "Naturkundemuseum",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Plastik ist aus unserem Alltag nicht mehr wegzudenken. Als Virtual-Reality-Erlebnis zeichnet die Ausstellung die Wege von Plastikmüll in die Umwelt nach.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2027-04-04"
-  },
-  {
-   "title": "Animalia",
-   "venue": "BBK Kunstforum Düsseldorf",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Tiere gehören zu den frühesten Sujets der Kunstgeschichte. War die Tiermalerei lange Zeit ein zentrales Thema der akademischen Kunst, avancierte das Tier um die Jahrhundertwende zum Ausdrucksmittel der Avantgarden.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2026-10-25"
-  },
-  {
-   "title": "Aus dem Schatten. Katharina Kippenberg und Frauen der Goethezeit",
-   "venue": "Goethe-Museum/Schloss Jägerhof",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Zum 70-jährigen Bestehen rückt das Goethe-Museum erstmals Autorinnen, Künstlerinnen und Netzwerkerinnen der Goethezeit und Romantik in den Fokus.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2026-12-06"
-  },
-  {
-   "title": "Seitenwechsel: Literatur und Fußball",
-   "venue": "Heinrich-Heine-Institut",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Fußball übt eine Faszination auf Menschen aus, wie es wohl kein anderes Spiel vermag. Daher ist es kaum verwunderlich, dass sich auch Schriftstellerinnen und Schriftsteller mit dem Phänomen Fußball beschäftigen.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2027-01-10"
-  },
-  {
-   "title": "Sehen, Lauschen, Schwärmen – Willkommen bei den Schumanns",
-   "venue": "Schumann-Haus",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Das Schumann-Haus ist ein modernes, preisgekröntes Musikmuseum und ein lebendiger Erinnerungsort. Die Ausstellung widmet sich an historischer Stelle dem Wirken des weltbekannten Musikerehepaars Clara und Robert Schumann in Düsseldorf.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2026-12-30"
-  },
-  {
-   "title": "Der Rausch",
-   "venue": "Theater an der Kö",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.westticket.de/eventseries/4205617?affiliate=5VD",
-   "category": "театр",
-   "description": "„Der Mensch ist mit 0,5 Promille zu wenig geboren!“, so der norwegische Psychiater Finn Skårderud.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2026-11-15"
-  },
-  {
-   "title": "westcoast JAZZ",
-   "venue": "Destille",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "концерт",
-   "description": "Immer sonntags: westcoast JAZZ unter der Leitung von Gregory Gaynair",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2026-12-20"
-  },
-  {
-   "title": "Deutscher Jugendfotopreis - \"Echt jetzt\"",
-   "venue": "KIT - Kunst im Tunnel",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "ECHT JETZT richtet den Blick auf das, was junge Menschen bewegt: Auf ihre Fragen, ihre Beziehungen, ihre Perspektiven und ihre Bilder von Gegenwart. In einer Zeit des Wandels eröffnet die Ausstellung einen Raum für Vergewisserung, Austausch und Innehalten.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2026-11-15"
-  },
-  {
-   "title": "I, etcetera",
-   "venue": "Kunstverein für die Rheinlande und Westfalen",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://kunstverein-duesseldorf.de/",
-   "category": "выставка",
-   "description": "Im Zentrum von \"I, etcetera\" steht die Auseinandersetzung mit künstlerischer Subjektivität als fragmentierte, prozesshafte und relationale Konstruktion.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2027-01-17"
-  },
-  {
-   "title": "100 Jahre GeSoLei - Forschen, Entdecken, Verstehen",
-   "venue": "Stadtmuseum Düsseldorf",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Stadtmuseum und Heinrich-Heine-Universität veranstalten eine Ausstellung zum 100 jährigen Jubiläum der größten Ausstellung der Weimarer Republik: GeSoLei.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2027-01-03"
-  },
-  {
-   "title": "Leya Christin Wüllner & Charlotte Steiger: Rage/Bait",
-   "venue": "Künstlerverein Malkasten",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://malkasten.org/ausstellung/",
-   "category": "выставка",
-   "description": "Bite my flesh! – Strip my fur – Stir our rage!",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2026-11-02"
-  },
-  {
-   "title": "Anna Möller: Break Up. No place to sit and talk.",
-   "venue": "Künstlerverein Malkasten",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://malkasten.org/ausstellung/",
-   "category": "выставка",
-   "description": "„Break Up. No place to sit and talk.“ eröffnet ein Spannungsfeld zwischen Spiegelkabinett, Labyrinth und Schaufenster.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2026-11-24"
-  },
-  {
-   "title": "21. IDO-Festival: Internationales Düsseldorfer Orgelfestival",
-   "venue": "Verschiedene Orte im Stadtgebiet",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.ido-festival.com/programm-orgelfestival/",
-   "category": "концерт",
-   "description": "Herzlich willkommen zur 21. Ausgabe des IDO-Festivals! Im Zentrum unseres Programms steht ein tiefes, elementares Gefühl: das Staunen.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2026-11-01"
-  },
-  {
-   "title": "Zoon Podcast Week",
-   "venue": "Verschiedene Orte im Stadtgebiet",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://rausgegangen.de/organizations/zoon-podcast-week/",
-   "category": "событие",
-   "description": "Die Zoon Podcast Week bringt Live-Podcasts aus dem Kopfhörer mitten in die Stadt. Acht Tage lang wird Düsseldorf zur Bühne für Gespräche, die Orientierung geben, Zusammenhänge erklären und Mut auf Zukunft machen – nahbar, relevant und gemeinsam erlebt.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2026-10-16"
-  },
-  {
-   "title": "Santa Rosalia - Die Schutzheilige von Palermo",
-   "venue": "Zentralbibliothek im KAP1",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Die Ausstellung erzählt die Geschichte von Santa Rosalia, der Schutzheiligen von Düsseldorfs Partnerstadt Palermo, und zeigt Eindrücke der traditionsreichen Festlichkeiten des Festinos di Santa Rosalia zu ihren Ehren im Jahr 2024.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2026-10-29"
-  },
-  {
-   "title": "Garten der Möglichkeiten",
-   "venue": "Künstlerverein Malkasten",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://malkasten.org/ausstellung/",
-   "category": "выставка",
-   "description": "Der Künstlerverein Malkasten besitzt mit seinem Park ein einzigartiges Refugium und zugleich ein hochrangiges Gartendenkmal mitten in Düsseldorf, dessen Ursprünge bis in die Mitte des 18. Jahrhunderts zurückgehen.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2027-02-23"
-  },
-  {
-   "title": "Das Neinhorn",
-   "venue": "Staufenplatz",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "театр",
-   "description": "Im Herzwald kommt ein schnickeldischnuckeliges Einhorn zur Welt. Alle sind ganz lilalieb zu ihm und füttern es ständig mit gezuckertem Glücksklee, aber das Tierchen benimmt sich trotzdem ganz und gar nicht einhornmäßig!",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2026-10-26"
-  },
-  {
-   "title": "Ausstellung der Wettbewerbsbeiträge zum 39er Denkmal, Reeser Platz",
-   "venue": "Ballhaus im Nordpark",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Am 9. Oktober 2026 eröffnet mit einem Artist Talk im Ballhaus die Ausstellung der neun Entwürfe des Kunst-und-Bau-Wettbewerbs der Kunstkommission Düsseldorf zum 39er Denkmal auf dem Reeser Platz.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2026-10-29"
-  },
-  {
-   "title": "Alexandra Bircken: Silver Lining",
-   "venue": "Langen Foundation",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://langenfoundation.de/ausstellungen/alexandra-bircken",
-   "category": "выставка",
-   "description": "Für Silver Lining präsentiert Alexandra Bircken eine dreiundzwanzig Meter lange Collage, die aus Fotografien, Zeitungsausschnitten und Magazinseiten, Screenshots, Readymades sowie eigenem Material besteht, das die Künstlerin seit den frühen 90er-Jahren zusammengetragen und selbst hergestellt hat.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2027-04-11"
-  },
-  {
-   "title": "Unter einem Himmel. 400 Jahre Götter, Menschen und Tiere in der japanischen Kunst",
-   "venue": "Langen Foundation",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://langenfoundation.de/ausstellungen/unter-einem-himmel",
-   "category": "выставка",
-   "description": "Wie haben Menschen ihren Platz in einer Welt verstanden, die sie mit Göttern, Tieren und ihren Mitmenschen teilen?",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2027-04-11"
-  },
-  {
-   "title": "Raus ins Museum! Rein in Deine Sammlung",
-   "venue": "K20 Kunstsammlung Nordrhein-Westfalen",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Neue Blicke auf die Kunstgeschichte: Unter dem Titel „Raus ins Museum! Rein in Deine Sammlung“ zeigt die Kunstsammlung Nordrhein-Westfalen ab 6.7.2024 ihre Sammlung im K20 mit Meistwerken von Etel Adnan bis Andy Warhol in einer umfangreichen Neupräsentation.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2027-07-06"
-  },
-  {
-   "title": "Franz Marc",
-   "venue": "K20 Kunstsammlung Nordrhein-Westfalen",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Entdecken Sie die Welt von Franz Marc! Franz Marcs expressionistische Werke faszinieren mit leuchtenden Farben und tief berührenden Themen. Besonders seine Tierdarstellungen ziehen die Betrachter*innen in ihren Bann.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2027-01-24"
-  },
-  {
-   "title": "Niki de Saint Phalle - Dream Machine",
-   "venue": "Kunstpalast",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Radikal stellt sich Niki de Saint Phalle (1930–2002) mit ihrer Kunst gegen die Diskriminierung von Frauen und erschafft eine neuartige monumentale Inszenierung von Weiblichkeit.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2027-02-07"
-  },
-  {
-   "title": "Jörg Immendorff",
-   "venue": "Kunstpalast",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Jörg Immendorff (1945–2007) wurde Ende des 20. Jahrhunderts weltweit als einer der bedeutendsten deutschen Künstler*innen seiner Generation gefeiert. Als berüchtigter „Malerfürst“ pflegte er ein hartes Image und führte einen kontroversen Lebensstil.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2027-01-10"
-  },
-  {
-   "title": "Asia Pop",
-   "venue": "NRW-Forum",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Comics, Film, Essen und vieles mehr – ostasiatische Popkultur prägt den globalen Mainstream entscheidend mit. Das NRW-Forum präsentiert mit ASIA POP die erste umfassende Ausstellung in Deutschland, die sich dieser Entwicklung und ihren kulturpolitischen, wirtschaftlichen und ästhetischen Einflüssen ",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2027-05-23"
-  },
-  {
-   "title": "Christoph Westermeier: Abbild, Bild und Bilder",
-   "venue": "Goethe-Museum/Schloss Jägerhof",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Goethes Porträt gehört seit dem 18. Jahrhundert zum festen Bildgedächtnis der Hochkultur. Doch was bedeutet dieses ikonische Antlitz für einen Künstler der Gegenwart?",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2026-11-01"
-  },
-  {
-   "title": "Endlich Schöner Wohnen. Farbige Öldrucke zwischen Kitsch und Kostbarkeit",
-   "venue": "Feld-Haus Museum für Populäre Druckgrafik",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://clemens-sels-museum-neuss.de/ausstellungen/endlich-schoener-wohnen",
-   "category": "выставка",
-   "description": "Mit der Ausstellung widmet sich das Feld-Haus – Museum für Populäre Druckgrafik ab 10. Mai 2026 in seiner nächsten Jahresausstellung den vielfältigen Facetten des Öldrucks.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2027-04-04"
-  },
-  {
-   "title": "Spot on: 100 Jahre GeSoLei",
-   "venue": "Kunstpalast",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Mit der Ausstellung für Gesundheitspflege, Soziale Fürsorge und Leibesübungen kurz „GeSoLei“ wurde Düsseldorf 1926 zum Schauplatz der größten Ausstellung der Weimarer Republik.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2027-02-21"
-  },
-  {
-   "title": "House of Balagan",
-   "venue": "Sammlung Philara",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.philara.de/de/besuch",
-   "category": "выставка",
-   "description": "Anlässlich ihres zehnjährigen Bestehens in Düsseldorf Flingern freut sich die Sammlung Philara, im Juni 2026 mit House of Balagan eine umfassende Sammlungspräsentation zu eröffnen.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2027-02-14"
-  },
-  {
-   "title": "200 Jahre KD - Geschichten, Gesichter und Geheimnisse",
-   "venue": "SchifffahrtMuseum im Schlossturm",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Die Köln-Düsseldorfer Deutsche Rheinschiffahrt (KD) feiert dieses Jahr ihr 200-jähriges Bestehen. Aus diesem Anlass präsentiert das SchifffahrtMuseum in Kooperation mit der KD und der Stiftung Rheinisch-Westfälisches Wirtschaftsarchiv zu Köln (RWWA) eine spannende Jubiläumsausstellung.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2026-10-25"
-  },
-  {
-   "title": "Kom(m)ödchen Ensemble: Nö. Eine Entgleisung",
-   "venue": "Kom(m)ödchen",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kommoedchen.de/spielplan/noe_eine_entgleisung/",
-   "category": "театр",
-   "description": "Die Welt ist irre! Nur noch Meldungen von Kriegen, Krisen und Katastrophen. Die Grenzen zwischen Horrorfilm und Nachrichten scheinen fließend.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2027-01-31"
-  },
-  {
-   "title": "Thomas Kohl: Es verschmolz ihm alles in eine Linie, wie eine steigende und sinkende Welle zwischen Himmel und Erde.",
-   "venue": "",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.fuenfzehnwochen.de/",
-   "category": "выставка",
-   "description": "Die Ausstellung nimmt die Erfahrung einer zweitägigen Meerespassage, einer stürmischen Fährfahrt, von Marokko nach Europa auf, die Thomas Kohl im Jahr 2025 erlebte.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2027-01-24"
-  },
-  {
-   "title": "unfinished memories",
-   "venue": "",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "„Unfinished Memories“ ist eine Ausstellung, die Künstler:innen aus Bosnien und Herzegowina und Deutschland in den Austausch bringt. Die Künstler:innen nähern sich dem Thema Erinnerung.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2026-10-16"
-  },
-  {
-   "title": "Carl Hager: Flaschenpost",
-   "venue": "Galerie Peter Tedden",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://galerie-tedden.de/kategorie/ausstellungen/",
-   "category": "выставка",
-   "description": "",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2026-11-18"
-  },
-  {
-   "title": "Panoramafahrt inkl. Getränke/inkl. Kind (4-13 Jahre)",
-   "venue": "",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "событие",
-   "description": "Panoramaschiffstour durch den Medien Hafen Düsseldorf inklusive Getränken an Bord (Getränkeflat)",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2026-10-30"
-  },
-  {
-   "title": "Panoramafahrt auf dem Rhein (KD Düsseldorf)",
-   "venue": "",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "событие",
-   "description": "",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-11",
-   "time": "",
-   "end_date": "2027-04-28"
-  },
-  {
    "title": "Tülvistas: Zuckerwatte in Echt",
    "venue": "FFT Düsseldorf",
    "address": "",
@@ -2017,6 +142,7 @@
    "description": "von Takao Baba & Ensemble frei nach dem Film Die sieben Samurai von Akira Kurosawa",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -2105,6 +231,20 @@
    "source": "zakk"
   },
   {
+   "title": "Kürbispark Gertrudenhof",
+   "date": "2026-10-12",
+   "time": "",
+   "end_date": "2026-11-09",
+   "venue": "Gertrudenhof",
+   "address": "Lortzingstraße 160",
+   "locality": "Hürth",
+   "price": "",
+   "url": "https://www.instagram.com/reel/DdZTJUjq0Tb/",
+   "category": "фестиваль",
+   "description": "Vom 5. September bis 9. November 2026 verwandelt sich das Erlebnisgelände wieder in einen riesigen Kürbispark rund um die berühmte Kürbispyramide.",
+   "source": "Mr. Düsseldorf"
+  },
+  {
    "title": "Son Lewandowski: „Die Routinen“ & Verena Keßler: „GYM“",
    "date": "2026-10-12",
    "time": "",
@@ -2117,6 +257,34 @@
    "category": "театр",
    "description": "Literaturtage Düsseldorf 2026",
    "source": "zakk"
+  },
+  {
+   "title": "Eva Rubinstein. Proof of Life",
+   "venue": "Museum für Gartenkunst",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Am 4. September eröffnet die Sonderausstellung „Eva Rubinstein. Proof of Life“ im Museum für Gartenkunst im Ostflügel von Schloss Benrath.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-12",
+   "time": "",
+   "end_date": "2026-11-29"
+  },
+  {
+   "title": "Plastikmüll im Rhein. Die große Reise des kleinen Plastiks",
+   "venue": "Naturkundemuseum",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Plastik ist aus unserem Alltag nicht mehr wegzudenken. Als Virtual-Reality-Erlebnis zeichnet die Ausstellung die Wege von Plastikmüll in die Umwelt nach.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-12",
+   "time": "",
+   "end_date": "2027-04-04"
   },
   {
    "title": "Markus Berg: Rhythmus - Geometrie und Musik",
@@ -2133,6 +301,62 @@
    "end_date": "2026-11-07"
   },
   {
+   "title": "Deutscher Jugendfotopreis - \"Echt jetzt\"",
+   "venue": "KIT - Kunst im Tunnel",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "ECHT JETZT richtet den Blick auf das, was junge Menschen bewegt: Auf ihre Fragen, ihre Beziehungen, ihre Perspektiven und ihre Bilder von Gegenwart. In einer Zeit des Wandels eröffnet die Ausstellung einen Raum für Vergewisserung, Austausch und Innehalten.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-12",
+   "time": "",
+   "end_date": "2026-11-15"
+  },
+  {
+   "title": "Leya Christin Wüllner & Charlotte Steiger: Rage/Bait",
+   "venue": "Künstlerverein Malkasten",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://malkasten.org/ausstellung/",
+   "category": "выставка",
+   "description": "Bite my flesh! – Strip my fur – Stir our rage!",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-12",
+   "time": "",
+   "end_date": "2026-11-02"
+  },
+  {
+   "title": "Anna Möller: Break Up. No place to sit and talk.",
+   "venue": "Künstlerverein Malkasten",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://malkasten.org/ausstellung/",
+   "category": "выставка",
+   "description": "„Break Up. No place to sit and talk.“ eröffnet ein Spannungsfeld zwischen Spiegelkabinett, Labyrinth und Schaufenster.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-12",
+   "time": "",
+   "end_date": "2026-11-24"
+  },
+  {
+   "title": "21. IDO-Festival: Internationales Düsseldorfer Orgelfestival",
+   "venue": "Verschiedene Orte im Stadtgebiet",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.ido-festival.com/programm-orgelfestival/",
+   "category": "концерт",
+   "description": "Herzlich willkommen zur 21. Ausgabe des IDO-Festivals! Im Zentrum unseres Programms steht ein tiefes, elementares Gefühl: das Staunen.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-12",
+   "time": "",
+   "end_date": "2026-11-01"
+  },
+  {
    "title": "»Gemalte Gebete«. Bedrohte Wandmalereien in Synagogen der ukrainischen Bukowina",
    "venue": "Stiftung Gerhart-Hauptmann-Haus",
    "address": "",
@@ -2145,6 +369,62 @@
    "date": "2026-10-12",
    "time": "",
    "end_date": "2026-10-30"
+  },
+  {
+   "title": "Zoon Podcast Week",
+   "venue": "Verschiedene Orte im Stadtgebiet",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://rausgegangen.de/organizations/zoon-podcast-week/",
+   "category": "событие",
+   "description": "Die Zoon Podcast Week bringt Live-Podcasts aus dem Kopfhörer mitten in die Stadt. Acht Tage lang wird Düsseldorf zur Bühne für Gespräche, die Orientierung geben, Zusammenhänge erklären und Mut auf Zukunft machen – nahbar, relevant und gemeinsam erlebt.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-12",
+   "time": "",
+   "end_date": "2026-10-16"
+  },
+  {
+   "title": "Santa Rosalia - Die Schutzheilige von Palermo",
+   "venue": "Zentralbibliothek im KAP1",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Die Ausstellung erzählt die Geschichte von Santa Rosalia, der Schutzheiligen von Düsseldorfs Partnerstadt Palermo, und zeigt Eindrücke der traditionsreichen Festlichkeiten des Festinos di Santa Rosalia zu ihren Ehren im Jahr 2024.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-12",
+   "time": "",
+   "end_date": "2026-10-29"
+  },
+  {
+   "title": "Garten der Möglichkeiten",
+   "venue": "Künstlerverein Malkasten",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://malkasten.org/ausstellung/",
+   "category": "выставка",
+   "description": "Der Künstlerverein Malkasten besitzt mit seinem Park ein einzigartiges Refugium und zugleich ein hochrangiges Gartendenkmal mitten in Düsseldorf, dessen Ursprünge bis in die Mitte des 18. Jahrhunderts zurückgehen.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-12",
+   "time": "",
+   "end_date": "2027-02-23"
+  },
+  {
+   "title": "Das Neinhorn",
+   "venue": "Staufenplatz",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "театр",
+   "description": "Im Herzwald kommt ein schnickeldischnuckeliges Einhorn zur Welt. Alle sind ganz lilalieb zu ihm und füttern es ständig mit gezuckertem Glücksklee, aber das Tierchen benimmt sich trotzdem ganz und gar nicht einhornmäßig!",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-12",
+   "time": "",
+   "end_date": "2026-10-26"
   },
   {
    "title": "Pareidolie",
@@ -2203,7 +483,21 @@
    "end_date": "2026-11-13"
   },
   {
-   "title": "Adventsbrunch",
+   "title": "unfinished memories",
+   "venue": "",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "„Unfinished Memories“ ist eine Ausstellung, die Künstler:innen aus Bosnien und Herzegowina und Deutschland in den Austausch bringt. Die Künstler:innen nähern sich dem Thema Erinnerung.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-12",
+   "time": "",
+   "end_date": "2026-10-16"
+  },
+  {
+   "title": "Panoramafahrt auf dem Rhein (KD Düsseldorf)",
    "venue": "",
    "address": "",
    "locality": "Düsseldorf",
@@ -2509,6 +803,20 @@
    "end_date": "2026-10-31"
   },
   {
+   "title": "I, etcetera",
+   "venue": "Kunstverein für die Rheinlande und Westfalen",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://kunstverein-duesseldorf.de/",
+   "category": "выставка",
+   "description": "Im Zentrum von \"I, etcetera\" steht die Auseinandersetzung mit künstlerischer Subjektivität als fragmentierte, prozesshafte und relationale Konstruktion.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-13",
+   "time": "",
+   "end_date": "2027-01-17"
+  },
+  {
    "title": "Weglassen ist schwieriger als hinzufügen",
    "venue": "TRONER Galerie",
    "address": "",
@@ -2551,6 +859,34 @@
    "end_date": "2026-11-23"
   },
   {
+   "title": "Alexandra Bircken: Silver Lining",
+   "venue": "Langen Foundation",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://langenfoundation.de/ausstellungen/alexandra-bircken",
+   "category": "выставка",
+   "description": "Für Silver Lining präsentiert Alexandra Bircken eine dreiundzwanzig Meter lange Collage, die aus Fotografien, Zeitungsausschnitten und Magazinseiten, Screenshots, Readymades sowie eigenem Material besteht, das die Künstlerin seit den frühen 90er-Jahren zusammengetragen und selbst hergestellt hat.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-13",
+   "time": "",
+   "end_date": "2027-04-11"
+  },
+  {
+   "title": "Unter einem Himmel. 400 Jahre Götter, Menschen und Tiere in der japanischen Kunst",
+   "venue": "Langen Foundation",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://langenfoundation.de/ausstellungen/unter-einem-himmel",
+   "category": "выставка",
+   "description": "Wie haben Menschen ihren Platz in einer Welt verstanden, die sie mit Göttern, Tieren und ihren Mitmenschen teilen?",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-13",
+   "time": "",
+   "end_date": "2027-04-11"
+  },
+  {
    "title": "Adolf Bierbrauer: \"Das innere Gesicht auf Reisen\"",
    "venue": "Maxhaus",
    "address": "",
@@ -2565,6 +901,118 @@
    "end_date": "2027-01-23"
   },
   {
+   "title": "Raus ins Museum! Rein in Deine Sammlung",
+   "venue": "K20 Kunstsammlung Nordrhein-Westfalen",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Neue Blicke auf die Kunstgeschichte: Unter dem Titel „Raus ins Museum! Rein in Deine Sammlung“ zeigt die Kunstsammlung Nordrhein-Westfalen ab 6.7.2024 ihre Sammlung im K20 mit Meistwerken von Etel Adnan bis Andy Warhol in einer umfangreichen Neupräsentation.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-13",
+   "time": "",
+   "end_date": "2027-07-06"
+  },
+  {
+   "title": "Franz Marc",
+   "venue": "K20 Kunstsammlung Nordrhein-Westfalen",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Entdecken Sie die Welt von Franz Marc! Franz Marcs expressionistische Werke faszinieren mit leuchtenden Farben und tief berührenden Themen. Besonders seine Tierdarstellungen ziehen die Betrachter*innen in ihren Bann.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-13",
+   "time": "",
+   "end_date": "2027-01-24"
+  },
+  {
+   "title": "Niki de Saint Phalle - Dream Machine",
+   "venue": "Kunstpalast",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Radikal stellt sich Niki de Saint Phalle (1930–2002) mit ihrer Kunst gegen die Diskriminierung von Frauen und erschafft eine neuartige monumentale Inszenierung von Weiblichkeit.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-13",
+   "time": "",
+   "end_date": "2027-02-07"
+  },
+  {
+   "title": "Jörg Immendorff",
+   "venue": "Kunstpalast",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Jörg Immendorff (1945–2007) wurde Ende des 20. Jahrhunderts weltweit als einer der bedeutendsten deutschen Künstler*innen seiner Generation gefeiert. Als berüchtigter „Malerfürst“ pflegte er ein hartes Image und führte einen kontroversen Lebensstil.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-13",
+   "time": "",
+   "end_date": "2027-01-10"
+  },
+  {
+   "title": "Asia Pop",
+   "venue": "NRW-Forum",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Comics, Film, Essen und vieles mehr – ostasiatische Popkultur prägt den globalen Mainstream entscheidend mit. Das NRW-Forum präsentiert mit ASIA POP die erste umfassende Ausstellung in Deutschland, die sich dieser Entwicklung und ihren kulturpolitischen, wirtschaftlichen und ästhetischen Einflüssen ",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-13",
+   "time": "",
+   "end_date": "2027-05-23"
+  },
+  {
+   "title": "Playground. Ein Spielplatz im Museum",
+   "venue": "K20 Kunstsammlung Nordrhein-Westfalen",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://shop.kunstsammlung.de/de/offers/a571",
+   "category": "выставка",
+   "description": "Die Ausstellung „Playground“ lädt Kinder dazu ein, zu berühren, zu klettern, zu rennen und ihrer Fantasie freien Lauf zu lassen – in einer träumerischen Landschaft, die wie aus einer anderen Welt wirkt.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-13",
+   "time": "",
+   "end_date": "2027-07-18"
+  },
+  {
+   "title": "Spot on: 100 Jahre GeSoLei",
+   "venue": "Kunstpalast",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Mit der Ausstellung für Gesundheitspflege, Soziale Fürsorge und Leibesübungen kurz „GeSoLei“ wurde Düsseldorf 1926 zum Schauplatz der größten Ausstellung der Weimarer Republik.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-13",
+   "time": "",
+   "end_date": "2027-02-21"
+  },
+  {
+   "title": "Kom(m)ödchen Ensemble: Nö. Eine Entgleisung",
+   "venue": "Kom(m)ödchen",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.kommoedchen.de/spielplan/noe_eine_entgleisung/",
+   "category": "театр",
+   "description": "Die Welt ist irre! Nur noch Meldungen von Kriegen, Krisen und Katastrophen. Die Grenzen zwischen Horrorfilm und Nachrichten scheinen fließend.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-13",
+   "time": "",
+   "end_date": "2027-01-31"
+  },
+  {
    "title": "The brush was not the point",
    "venue": "",
    "address": "",
@@ -2577,6 +1025,20 @@
    "date": "2026-10-13",
    "time": "",
    "end_date": "2026-11-08"
+  },
+  {
+   "title": "Adventsbrunch",
+   "venue": "",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "событие",
+   "description": "",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-13",
+   "time": "",
+   "end_date": "2027-04-28"
   },
   {
    "title": "Bin gleich fertig!",
@@ -2974,6 +1436,90 @@
    "source": "zakk"
   },
   {
+   "title": "Aus dem Schatten. Katharina Kippenberg und Frauen der Goethezeit",
+   "venue": "Goethe-Museum/Schloss Jägerhof",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Zum 70-jährigen Bestehen rückt das Goethe-Museum erstmals Autorinnen, Künstlerinnen und Netzwerkerinnen der Goethezeit und Romantik in den Fokus.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-14",
+   "time": "",
+   "end_date": "2026-12-06"
+  },
+  {
+   "title": "Seitenwechsel: Literatur und Fußball",
+   "venue": "Heinrich-Heine-Institut",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Fußball übt eine Faszination auf Menschen aus, wie es wohl kein anderes Spiel vermag. Daher ist es kaum verwunderlich, dass sich auch Schriftstellerinnen und Schriftsteller mit dem Phänomen Fußball beschäftigen.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-14",
+   "time": "",
+   "end_date": "2027-01-10"
+  },
+  {
+   "title": "Sehen, Lauschen, Schwärmen – Willkommen bei den Schumanns",
+   "venue": "Schumann-Haus",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Das Schumann-Haus ist ein modernes, preisgekröntes Musikmuseum und ein lebendiger Erinnerungsort. Die Ausstellung widmet sich an historischer Stelle dem Wirken des weltbekannten Musikerehepaars Clara und Robert Schumann in Düsseldorf.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-14",
+   "time": "",
+   "end_date": "2026-12-30"
+  },
+  {
+   "title": "Der Rausch",
+   "venue": "Theater an der Kö",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.westticket.de/eventseries/4205617?affiliate=5VD",
+   "category": "театр",
+   "description": "„Der Mensch ist mit 0,5 Promille zu wenig geboren!“, so der norwegische Psychiater Finn Skårderud.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-14",
+   "time": "",
+   "end_date": "2026-11-15"
+  },
+  {
+   "title": "100 Jahre GeSoLei - Forschen, Entdecken, Verstehen",
+   "venue": "Stadtmuseum Düsseldorf",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Stadtmuseum und Heinrich-Heine-Universität veranstalten eine Ausstellung zum 100 jährigen Jubiläum der größten Ausstellung der Weimarer Republik: GeSoLei.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-14",
+   "time": "",
+   "end_date": "2027-01-03"
+  },
+  {
+   "title": "Lieblingsorte: Kraftorte im Alltag",
+   "venue": "Stadtmuseum Düsseldorf",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Im Rahmen der bundesweiten Wochen der Seelischen Gesundheit und des 150-jährigen Jubiläums des LVR-Klinikums Düsseldorf findet die Ausstellung „Lieblingsorte: Kraftorte im Alltag“, die die Relevanz von Lieblingsorten für die seelische Gesundheit in allen Lebenslagen thematisiert, in Kooperation mit ",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-14",
+   "time": "",
+   "end_date": "2026-11-01"
+  },
+  {
    "title": "Josef Fischnaller \"Metamorphose\"",
    "venue": "Galerie noir blanche",
    "address": "",
@@ -2986,6 +1532,76 @@
    "date": "2026-10-14",
    "time": "",
    "end_date": "2026-10-31"
+  },
+  {
+   "title": "Romeo & Julia - Liebe ist alles",
+   "venue": "Capitol Theater",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.westticket.de/eventseries/3704268?affiliate=5VD",
+   "category": "театр",
+   "description": "Die Geschichte ist bekannt: ein Maskenball in Verona, ein Blick, ein Kuss – und zwei Liebende, die sich gegen die Welt stellen müssen.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-14",
+   "time": "",
+   "end_date": "2026-10-25"
+  },
+  {
+   "title": "It's a Kind of Magic",
+   "venue": "Roncalli’s Apollo-Varieté",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.westticket.de/eventseries/4032630?affiliate=5VD",
+   "category": "театр",
+   "description": "Stühle schweben über die Bühne, Kleider wechseln wie von Zauberhand und Menschen erscheinen plötzlich aus dem Nichts. Vom 14. August bis 18. Oktober 2026 entführt Roncalli’s Apollo Varieté sein Publikum in eine Welt voller Wunder.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-14",
+   "time": "",
+   "end_date": "2026-10-18"
+  },
+  {
+   "title": "Christoph Westermeier: Abbild, Bild und Bilder",
+   "venue": "Goethe-Museum/Schloss Jägerhof",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Goethes Porträt gehört seit dem 18. Jahrhundert zum festen Bildgedächtnis der Hochkultur. Doch was bedeutet dieses ikonische Antlitz für einen Künstler der Gegenwart?",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-14",
+   "time": "",
+   "end_date": "2026-11-01"
+  },
+  {
+   "title": "200 Jahre KD - Geschichten, Gesichter und Geheimnisse",
+   "venue": "SchifffahrtMuseum im Schlossturm",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Die Köln-Düsseldorfer Deutsche Rheinschiffahrt (KD) feiert dieses Jahr ihr 200-jähriges Bestehen. Aus diesem Anlass präsentiert das SchifffahrtMuseum in Kooperation mit der KD und der Stiftung Rheinisch-Westfälisches Wirtschaftsarchiv zu Köln (RWWA) eine spannende Jubiläumsausstellung.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-14",
+   "time": "",
+   "end_date": "2026-10-25"
+  },
+  {
+   "title": "Carl Hager: Flaschenpost",
+   "venue": "Galerie Peter Tedden",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://galerie-tedden.de/kategorie/ausstellungen/",
+   "category": "выставка",
+   "description": "",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-14",
+   "time": "",
+   "end_date": "2026-11-18"
   },
   {
    "title": "Comedyflash - Die Stand Up Comedy Show",
@@ -3071,6 +1687,7 @@
    "description": "Literaturtage Düsseldorf 2026",
    "source": "zakk",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -3116,6 +1733,7 @@
    "description": "von Alice Birch nach Federico García Lorca",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -3175,6 +1793,20 @@
    "url": "https://www.westticket.de/eventseries/3865293?affiliate=5VD",
    "category": "концерт",
    "description": "Nach zehn erfolgreichen Jahren verabschiedet sich der Musiker und Songwriter Jules Ahoi von Bühne und Publikum.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-15",
+   "time": "20:00",
+   "end_date": ""
+  },
+  {
+   "title": "Martin Frank: Grüße Aus Allegro Süd",
+   "venue": "Savoy Theater",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.westticket.de/eventseries/3885165?affiliate=5VD",
+   "category": "театр",
+   "description": "Sie sehnen sich nach einem Kurzurlaub aus dem Wahnsinn der Welt? Dann kommen Sie für einen zweistündigen Comedyabend nach Allegro Süd.",
    "source": "Visit Düsseldorf",
    "date": "2026-10-15",
    "time": "20:00",
@@ -3438,6 +2070,20 @@
    "end_date": "2026-10-25"
   },
   {
+   "title": "Ausstellung der Wettbewerbsbeiträge zum 39er Denkmal, Reeser Platz",
+   "venue": "Ballhaus im Nordpark",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Am 9. Oktober 2026 eröffnet mit einem Artist Talk im Ballhaus die Ausstellung der neun Entwürfe des Kunst-und-Bau-Wettbewerbs der Kunstkommission Düsseldorf zum 39er Denkmal auf dem Reeser Platz.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-15",
+   "time": "",
+   "end_date": "2026-10-29"
+  },
+  {
    "title": "Tobosco: Der Geräuschehändler",
    "venue": "FFT Düsseldorf",
    "address": "",
@@ -3536,6 +2182,7 @@
    "description": "von Ingmar Bergman Regie Thorleifur Örn Arnarsson",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -3598,18 +2245,18 @@
    "away": false
   },
   {
-   "title": "DEL2 Spieltag 9: Düsseldorfer EG vs. EHC Freiburg",
+   "title": "DEL2: Spieltag 9 (DEG - FRB)",
    "date": "2026-10-16",
    "time": "19:30",
    "end_date": "",
-   "venue": "PSD Bank Dome",
+   "venue": "PSD BANK DOME",
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.deg-eishockey.de",
+   "url": "https://www.deg-eishockey.de/saison/spielplan/",
    "category": "спорт",
-   "description": "Spieltag 9 der DEL2-Saison.",
-   "source": "DEG "
+   "description": "DEL2-Heimspiel",
+   "source": "DEG"
   },
   {
    "title": "Eishockey: Düsseldorfer EG - EHC Freiburg",
@@ -3765,7 +2412,8 @@
    "description": "",
    "source": "allevents: все",
    "also_in": [
-    "allevents: все"
+    "allevents: все",
+    "allevents: выходные"
    ]
   },
   {
@@ -3796,7 +2444,8 @@
    "description": "",
    "source": "allevents: все",
    "also_in": [
-    "allevents: все"
+    "allevents: все",
+    "allevents: выходные"
    ]
   },
   {
@@ -3856,6 +2505,20 @@
    "end_date": "2027-06-20"
   },
   {
+   "title": "Animalia",
+   "venue": "BBK Kunstforum Düsseldorf",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Tiere gehören zu den frühesten Sujets der Kunstgeschichte. War die Tiermalerei lange Zeit ein zentrales Thema der akademischen Kunst, avancierte das Tier um die Jahrhundertwende zum Ausdrucksmittel der Avantgarden.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-16",
+   "time": "",
+   "end_date": "2026-10-25"
+  },
+  {
    "title": "Vorboten der Leidenschaft",
    "venue": "Akademie-Galerie",
    "address": "",
@@ -3884,6 +2547,48 @@
    "end_date": "2026-11-14"
   },
   {
+   "title": "House of Balagan",
+   "venue": "Sammlung Philara",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.philara.de/de/besuch",
+   "category": "выставка",
+   "description": "Anlässlich ihres zehnjährigen Bestehens in Düsseldorf Flingern freut sich die Sammlung Philara, im Juni 2026 mit House of Balagan eine umfassende Sammlungspräsentation zu eröffnen.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-16",
+   "time": "",
+   "end_date": "2027-02-14"
+  },
+  {
+   "title": "DISTURBED by THE SICKNESS",
+   "date": "2026-10-16",
+   "time": "",
+   "end_date": "",
+   "venue": "Pitcher - Rock'n'Roll Headquarter Düsseldorf",
+   "address": "Oberbilker Allee 29, 40215 Düsseldorf, Deutschland, Dusseldorf",
+   "locality": "Dusseldorf",
+   "price": "",
+   "url": "https://allevents.in/dusseldorf/disturbed-by-the-sickness/200029380231629",
+   "category": "событие",
+   "description": "",
+   "source": "allevents: выходные"
+  },
+  {
+   "title": "Was bisher geschah - Live-Podcast - ZOON PODCAST WEEK",
+   "date": "2026-10-16",
+   "time": "",
+   "end_date": "",
+   "venue": "Rheinterrasse Düsseldorf",
+   "address": "Joseph-Beuys-Ufer 33,Düsseldorf, Germany, Dusseldorf",
+   "locality": "Dusseldorf",
+   "price": "",
+   "url": "https://allevents.in/dusseldorf/was-bisher-geschah-live-podcast-zoon-podcast-week/200030698433604",
+   "category": "концерт",
+   "description": "",
+   "source": "allevents: выходные"
+  },
+  {
    "title": "Gianni Sammarro: \"à suivre\"",
    "venue": "",
    "address": "",
@@ -3910,6 +2615,20 @@
    "date": "2026-10-16",
    "time": "",
    "end_date": "2026-10-24"
+  },
+  {
+   "title": "Panoramafahrt inkl. Getränke/inkl. Kind (4-13 Jahre)",
+   "venue": "",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "событие",
+   "description": "Panoramaschiffstour durch den Medien Hafen Düsseldorf inklusive Getränken an Bord (Getränkeflat)",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-16",
+   "time": "",
+   "end_date": "2026-10-30"
   },
   {
    "title": "Trödelkult am Aachener Platz",
@@ -4010,6 +2729,7 @@
    "source": "Kunsthalle Düsseldorf",
    "horizon_days": 21,
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -4073,20 +2793,6 @@
    "horizon_days": 21
   },
   {
-   "title": "Ein Koffer voll Dornröschen",
-   "venue": "Puppentheater Helmholtzstraße",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "театр",
-   "description": "Ein alter Koffer öffnet sich – und mit ihm eine kleine Welt aus Märchen und Theater. Im Zentrum steht ein Kleid aus dem Jahr 1760, einst getragen von der Ururgroßmutter Amalie.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-17",
-   "time": "15:00",
-   "end_date": ""
-  },
-  {
    "title": "Samstags um Drei - Literarischer Treff der Heinrich-Heine-Gesellschaft",
    "venue": "Heinrich-Heine-Institut",
    "address": "",
@@ -4109,6 +2815,20 @@
    "url": "https://www.ido-festival.com/programm-orgelfestival/veranstaltung/id/675/",
    "category": "фестиваль",
    "description": "Das Organetto: Everybody’s Darling - Nach dem großartigen Erfolg im letzten Jahr bauen wir auch dieses Mal wieder gemeinsam an der Musik von morgen!",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-17",
+   "time": "15:00",
+   "end_date": ""
+  },
+  {
+   "title": "Ein Koffer voll Dornröschen",
+   "venue": "Puppentheater Helmholtzstraße",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "театр",
+   "description": "Ein alter Koffer öffnet sich – und mit ihm eine kleine Welt aus Märchen und Theater. Im Zentrum steht ein Kleid aus dem Jahr 1760, einst getragen von der Ururgroßmutter Amalie.",
    "source": "Visit Düsseldorf",
    "date": "2026-10-17",
    "time": "15:00",
@@ -4184,6 +2904,7 @@
    "description": "Ein Schauspiel von Heinrich von Kleist Regie Ulrich Rasche",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -4371,7 +3092,8 @@
    "also_in": [
     "allevents: все",
     "allevents: концерты",
-    "allevents: живая музыка"
+    "allevents: живая музыка",
+    "allevents: выходные"
    ]
   },
   {
@@ -4388,8 +3110,51 @@
    "description": "",
    "source": "allevents: все",
    "also_in": [
-    "allevents: все"
+    "allevents: все",
+    "allevents: выходные"
    ]
+  },
+  {
+   "title": "Candlelight: Queen vs. ABBA",
+   "date": "2026-10-17",
+   "time": "",
+   "end_date": "2026-11-08",
+   "venue": "Event-Theater Schwanenhöfe",
+   "address": "Erkrather Straße 234b, Düsseldorf// 40233, Dusseldorf",
+   "locality": "Dusseldorf",
+   "price": "34.00",
+   "url": "https://allevents.in/dusseldorf/candlelight-queen-vs-abba/2700026402373450",
+   "category": "событие",
+   "description": "",
+   "source": "allevents: выходные"
+  },
+  {
+   "title": "Semester Opening",
+   "date": "2026-10-17",
+   "time": "",
+   "end_date": "2026-10-18",
+   "venue": "Zentrum für Aktion, Kultur und Kommunikation (zakk)",
+   "address": "Fichtenstraße 40, Düsseldorf",
+   "locality": "Düsseldorf",
+   "price": "5.33",
+   "url": "https://allevents.in/d%C3%BCsseldorf/semester-opening/100002001558832348",
+   "category": "событие",
+   "description": "",
+   "source": "allevents: выходные"
+  },
+  {
+   "title": "[DUSSELDORF] hololive English 4th Concert -Serendipity- Screening",
+   "date": "2026-10-17",
+   "time": "",
+   "end_date": "2026-10-17",
+   "venue": "UFA-Palast Düsseldorf",
+   "address": "Worringer Straße 142, Düsseldorf",
+   "locality": "Düsseldorf",
+   "price": "58.86",
+   "url": "https://allevents.in/d%C3%BCsseldorf/dusseldorf-hololive-english-4th-concert-serendipity-screening/100001994895720802",
+   "category": "концерт",
+   "description": "",
+   "source": "allevents: выходные"
   },
   {
    "title": "NEUE COMIC UND MANGA CONVENTION DUESSELDORF",
@@ -4462,7 +3227,7 @@
    "source": "zakk"
   },
   {
-   "title": "Kürbisschnitzen / Kürbiswerkstätten auf Gut Hixholz",
+   "title": "Kürbisschnitzen / Kürbiswerkstätten Gut Hixholz",
    "date": "2026-10-17",
    "time": "",
    "end_date": "",
@@ -4471,9 +3236,9 @@
    "locality": "Velbert",
    "price": "",
    "url": "https://www.gut-hixholz.de/Kuerbisschnitzen-2023---Kuerbiswerkstaetten-Gut-Hixholz_5117.aspx",
-   "category": " событие",
+   "category": "детям",
    "description": "An den Oktober-Samstagen lädt der Bauernhof offiziell zum Kürbisschnitzen ein.",
-   "source": "Mr. Düsseldorf "
+   "source": "Mr. Düsseldorf"
   },
   {
    "title": "Die Schöne und das Biest",
@@ -4488,6 +3253,34 @@
    "date": "2026-10-17",
    "time": "",
    "end_date": "2026-10-24"
+  },
+  {
+   "title": "Endlich Schöner Wohnen. Farbige Öldrucke zwischen Kitsch und Kostbarkeit",
+   "venue": "Feld-Haus Museum für Populäre Druckgrafik",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://clemens-sels-museum-neuss.de/ausstellungen/endlich-schoener-wohnen",
+   "category": "выставка",
+   "description": "Mit der Ausstellung widmet sich das Feld-Haus – Museum für Populäre Druckgrafik ab 10. Mai 2026 in seiner nächsten Jahresausstellung den vielfältigen Facetten des Öldrucks.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-17",
+   "time": "",
+   "end_date": "2027-04-04"
+  },
+  {
+   "title": "Xarizma Düsseldorf The Eight",
+   "date": "2026-10-17",
+   "time": "",
+   "end_date": "",
+   "venue": "The Eight Club",
+   "address": "Rathausufer 8,Düsseldorf, Germany, Dusseldorf",
+   "locality": "Dusseldorf",
+   "price": "",
+   "url": "https://allevents.in/dusseldorf/xarizma-düsseldorf-the-eight/200030713404913",
+   "category": "событие",
+   "description": "",
+   "source": "allevents: выходные"
   },
   {
    "title": "IGD Durgapuja 2026 – Ein indisches Fest",
@@ -4618,6 +3411,20 @@
    "end_date": ""
   },
   {
+   "title": "Thomas Kohl: Es verschmolz ihm alles in eine Linie, wie eine steigende und sinkende Welle zwischen Himmel und Erde.",
+   "venue": "",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.fuenfzehnwochen.de/",
+   "category": "выставка",
+   "description": "Die Ausstellung nimmt die Erfahrung einer zweitägigen Meerespassage, einer stürmischen Fährfahrt, von Marokko nach Europa auf, die Thomas Kohl im Jahr 2025 erlebte.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-18",
+   "time": "15:00",
+   "end_date": ""
+  },
+  {
    "title": "PRINZ FRIEDRICH VON HOMBURG",
    "date": "2026-10-18",
    "time": "16:00",
@@ -4631,6 +3438,7 @@
    "description": "Ein Schauspiel von Heinrich von Kleist Regie Ulrich Rasche",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -4749,18 +3557,18 @@
    "end_date": ""
   },
   {
-   "title": "DEL2 Spieltag 10: Starbulls Rosenheim vs. Düsseldorfer EG",
+   "title": "DEL2: Spieltag 10 (SCB - DEG)",
    "date": "2026-10-18",
    "time": "17:00",
    "end_date": "",
    "venue": "",
    "address": "",
-   "locality": "Rosenheim",
+   "locality": "",
    "price": "",
-   "url": "https://www.deg-eishockey.de",
+   "url": "https://www.deg-eishockey.de/saison/spielplan/",
    "category": "спорт",
-   "description": "Spieltag 10 der DEL2-Saison.",
-   "source": "DEG "
+   "description": "DEL2-Auswärtsspiel",
+   "source": "DEG"
   },
   {
    "title": "Markus Mauthe: Die Empathie-Rebellion",
@@ -4790,8 +3598,23 @@
    "description": "von Daniel Kehlmann Regie André Kaczmarczyk",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
+  },
+  {
+   "title": "Candlelight: Disney Love Songs",
+   "venue": "Schloss Garath - Rittersaal",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://feverup.com/m/677197",
+   "category": "концерт",
+   "description": "Disney Concerts und Fever, die weltweit führende Technologieplattform zur Entdeckung von Kultur- und Live-Entertainment, präsentieren Candlelight: Disney Love Songs.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-18",
+   "time": "18:00",
+   "end_date": ""
   },
   {
    "title": "La traviata",
@@ -4821,6 +3644,7 @@
    "description": "7 TODSÜNDEN: NEID von Yeşim Nela Keim Schaub, Lisa Pottstock",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -4854,6 +3678,7 @@
    "also_in": [
     "allevents: все",
     "allevents: концерты",
+    "allevents: выходные",
     "Visit Düsseldorf"
    ]
   },
@@ -4886,6 +3711,20 @@
    "end_date": ""
   },
   {
+   "title": "westcoast JAZZ",
+   "venue": "Destille",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "концерт",
+   "description": "Immer sonntags: westcoast JAZZ unter der Leitung von Gregory Gaynair",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-18",
+   "time": "20:00",
+   "end_date": ""
+  },
+  {
    "title": "Poesieschlachtpunktacht",
    "venue": "zakk - Zentrum für Aktion, Kultur und Kommunikation",
    "address": "",
@@ -4913,8 +3752,23 @@
    "description": "",
    "source": "allevents: все",
    "also_in": [
-    "allevents: все"
+    "allevents: все",
+    "allevents: выходные"
    ]
+  },
+  {
+   "title": "\"The Green Table\" – Pasta & Matcha Soirée",
+   "date": "2026-10-18",
+   "time": "",
+   "end_date": "2026-10-18",
+   "venue": "Pastabar Embrass",
+   "address": "Moltkestraße 115, Düsseldorf",
+   "locality": "Düsseldorf",
+   "price": "74.70",
+   "url": "https://allevents.in/d%C3%BCsseldorf/the-green-table-pasta-and-matcha-soirée/100001988709148598",
+   "category": "событие",
+   "description": "",
+   "source": "allevents: выходные"
   },
   {
    "title": "P1 Sammler- und Trödelmarkt",
@@ -5015,6 +3869,20 @@
    "source": "zakk"
   },
   {
+   "title": "AMY WINEHOUSE by FRIENDS",
+   "date": "2026-10-18",
+   "time": "",
+   "end_date": "",
+   "venue": "Pitcher - Rock'n'Roll Headquarter Düsseldorf",
+   "address": "Oberbilker Allee 29,Düsseldorf, Germany, Dusseldorf",
+   "locality": "Dusseldorf",
+   "price": "",
+   "url": "https://allevents.in/dusseldorf/amy-winehouse-by-friends/200029698270636",
+   "category": "событие",
+   "description": "",
+   "source": "allevents: выходные"
+  },
+  {
    "title": "FERIEN WORKSHOP | Kugeln, Schirmchen, Glibber",
    "date": "2026-10-19",
    "time": "14:00",
@@ -5029,6 +3897,7 @@
    "source": "Schloss Benrath",
    "horizon_days": 21,
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -5540,6 +4409,7 @@
    "source": "Stadtmuseum",
    "horizon_days": 21,
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -5801,6 +4671,20 @@
    "horizon_days": 21
   },
   {
+   "title": "Candlelight: Disney Love Songs",
+   "venue": "Schloss Garath - Rittersaal",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://feverup.com/m/677197",
+   "category": "концерт",
+   "description": "Disney Concerts und Fever, die weltweit führende Technologieplattform zur Entdeckung von Kultur- und Live-Entertainment, präsentieren Candlelight: Disney Love Songs.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-23",
+   "time": "18:00",
+   "end_date": ""
+  },
+  {
    "title": "Seniorentheater SeTA: Altweiberfrühling",
    "venue": "FFT Düsseldorf",
    "address": "",
@@ -5870,6 +4754,7 @@
    "description": "von Alice Birch nach Federico García Lorca",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -5994,18 +4879,18 @@
    "end_date": ""
   },
   {
-   "title": "DEL2 Spieltag 11: Eisbären Regensburg vs. Düsseldorfer EG",
+   "title": "DEL2: Spieltag 11 (EBR - DEG)",
    "date": "2026-10-23",
    "time": "20:00",
    "end_date": "",
    "venue": "",
    "address": "",
-   "locality": "Regensburg",
+   "locality": "",
    "price": "",
-   "url": "https://www.deg-eishockey.de",
+   "url": "https://www.deg-eishockey.de/saison/spielplan/",
    "category": "спорт",
-   "description": "Spieltag 11 der DEL2-Saison.",
-   "source": "DEG "
+   "description": "DEL2-Auswärtsspiel",
+   "source": "DEG"
   },
   {
    "title": "ZAUBERSALON RHEINLAND: SimSalaBim | Die Magische DinnerShow | Saison 26/27",
@@ -6153,6 +5038,20 @@
    "description": "Unter der Anleitung der Künstlerin Satomi Edo gestalten die Teilnehmenden ein süßes Kunstwerk und bereiten Matcha zu.",
    "source": "Hetjens – Deutsches Keramikmuseum",
    "horizon_days": 21
+  },
+  {
+   "title": "Abenteuerspielplatz Eller: Kindergroschenkirmes",
+   "venue": "",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.asp-eller.de/",
+   "category": "детям",
+   "description": "Jung und Alt werden zur Kindergroschenkirmes auf das Gelände des Abenteuerspielplatzes vor dem Schloss Eller eingeladen.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-24",
+   "time": "13:00",
+   "end_date": ""
   },
   {
    "title": "meet+talk – Dialoge zu Gregor Schneider. Haus u r 2026",
@@ -6339,6 +5238,7 @@
    "description": "Mit den Studierenden des Düsseldorfer Schauspielstudios Texte und Musik aus dem Kabarett Friedrich Hollaenders",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -6511,7 +5411,7 @@
    ]
   },
   {
-   "title": "Kürbisschnitzen / Kürbiswerkstätten auf Gut Hixholz",
+   "title": "Kürbisschnitzen / Kürbiswerkstätten Gut Hixholz",
    "date": "2026-10-24",
    "time": "",
    "end_date": "",
@@ -6520,9 +5420,9 @@
    "locality": "Velbert",
    "price": "",
    "url": "https://www.gut-hixholz.de/Kuerbisschnitzen-2023---Kuerbiswerkstaetten-Gut-Hixholz_5117.aspx",
-   "category": " событие",
+   "category": "детям",
    "description": "An den Oktober-Samstagen lädt der Bauernhof offiziell zum Kürbisschnitzen ein.",
-   "source": "Mr. Düsseldorf "
+   "source": "Mr. Düsseldorf"
   },
   {
    "title": "Leise rieselt der Schmäh - Wiener Kaffeehausgeschichten",
@@ -6641,18 +5541,18 @@
    "away": false
   },
   {
-   "title": "DEL2 Spieltag 12: Düsseldorfer EG vs. EC Bad Nauheim",
+   "title": "DEL2: Spieltag 12 (DEG - ECN)",
    "date": "2026-10-25",
    "time": "15:00",
    "end_date": "",
-   "venue": "PSD Bank Dome",
+   "venue": "PSD BANK DOME",
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.deg-eishockey.de",
+   "url": "https://www.deg-eishockey.de/saison/spielplan/",
    "category": "спорт",
-   "description": "Spieltag 12 der DEL2-Saison.",
-   "source": "DEG "
+   "description": "DEL2-Heimspiel",
+   "source": "DEG"
   },
   {
    "title": "Seniorentheater SeTA: Altweiberfrühling",
@@ -6683,6 +5583,20 @@
    "end_date": ""
   },
   {
+   "title": "Thomas Kohl: Es verschmolz ihm alles in eine Linie, wie eine steigende und sinkende Welle zwischen Himmel und Erde.",
+   "venue": "",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.fuenfzehnwochen.de/",
+   "category": "выставка",
+   "description": "Die Ausstellung nimmt die Erfahrung einer zweitägigen Meerespassage, einer stürmischen Fährfahrt, von Marokko nach Europa auf, die Thomas Kohl im Jahr 2025 erlebte.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-25",
+   "time": "15:00",
+   "end_date": ""
+  },
+  {
    "title": "FAMILIENFÜHRUNG Kinder erleben das Schloss",
    "date": "2026-10-25",
    "time": "15:30",
@@ -6697,6 +5611,7 @@
    "source": "Schloss Benrath",
    "horizon_days": 21,
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -6814,6 +5729,20 @@
    "horizon_days": 21
   },
   {
+   "title": "Candlelight: Disney Love Songs",
+   "venue": "Schloss Garath - Rittersaal",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://feverup.com/m/677197",
+   "category": "концерт",
+   "description": "Disney Concerts und Fever, die weltweit führende Technologieplattform zur Entdeckung von Kultur- und Live-Entertainment, präsentieren Candlelight: Disney Love Songs.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-25",
+   "time": "18:00",
+   "end_date": ""
+  },
+  {
    "title": "Repatterning - Hard Data & Soft Bodies",
    "venue": "TMD Theatermuseum Hofgartenhaus Düsseldorf",
    "address": "",
@@ -6870,6 +5799,20 @@
    "end_date": ""
   },
   {
+   "title": "westcoast JAZZ",
+   "venue": "Destille",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "концерт",
+   "description": "Immer sonntags: westcoast JAZZ unter der Leitung von Gregory Gaynair",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-25",
+   "time": "20:00",
+   "end_date": ""
+  },
+  {
    "title": "Die Zauberflöte",
    "date": "2026-10-25",
    "time": "",
@@ -6916,7 +5859,7 @@
    "source": "Блошиные рынки (MFT)"
   },
   {
-   "title": "Kürbis Schnitzen in der D-Schänke",
+   "title": "Kürbisschnitzen in der D-Schänke",
    "date": "2026-10-25",
    "time": "",
    "end_date": "",
@@ -6925,9 +5868,9 @@
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.d-schaenke.de/",
-   "category": " событие",
+   "category": "детям",
    "description": "Am 25. Oktober lädt die D-Schänke wieder zum Kürbis Schnitzen ein und bringt damit ordentlich Herbststimmung ins Viertel.",
-   "source": "Mr. Düsseldorf "
+   "source": "Mr. Düsseldorf"
   },
   {
    "title": "Polizeiberatung im KAP1: Betrug? Nicht mit mir!",
@@ -7550,6 +6493,7 @@
    "description": "von Ingmar Bergman Regie Thorleifur Örn Arnarsson",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -7567,6 +6511,7 @@
    "description": "von Takao Baba & Ensemble frei nach dem Film Die sieben Samurai",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -7659,18 +6604,18 @@
    "away": false
   },
   {
-   "title": "DEL2 Spieltag 13: Düsseldorfer EG vs. EC Kassel Huskies",
+   "title": "DEL2: Spieltag 13 (DEG - ECK)",
    "date": "2026-10-30",
    "time": "19:30",
    "end_date": "",
-   "venue": "PSD Bank Dome",
+   "venue": "PSD BANK DOME",
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.deg-eishockey.de",
+   "url": "https://www.deg-eishockey.de/saison/spielplan/",
    "category": "спорт",
-   "description": "Spieltag 13 der DEL2-Saison.",
-   "source": "DEG "
+   "description": "DEL2-Heimspiel",
+   "source": "DEG"
   },
   {
    "title": "Eishockey: Düsseldorfer EG - EC Kassel Huskies",
@@ -8005,14 +6950,14 @@
    "date": "2026-10-31",
    "time": "15:00",
    "end_date": "",
-   "venue": "Carlsplatz (Obermarkt)",
+   "venue": "Carlsplatz",
    "address": "Carlsplatz",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.carlsplatz-markt.de/termine",
-   "category": " событие",
+   "url": "https://www.carlsplatz-markt.de/",
+   "category": "детям",
    "description": "Traditionell findet am 31. Oktober 2026 ab 15 Uhr auf dem Obermarkt das traditionelle Kürbisschnitzen für Groß und Klein statt.",
-   "source": "Mr. Düsseldorf "
+   "source": "Mr. Düsseldorf"
   },
   {
    "title": "StreamD Radio – Halloween Spezial",
@@ -8254,20 +7199,6 @@
    "end_date": ""
   },
   {
-   "title": "Ravemania // Halloween Rave Special 2026",
-   "venue": "",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://ravemania.de/events/ravemania-halloween-rave-2026",
-   "category": "вечеринка",
-   "description": "Halloween bei Ravemania: elektronische Musik, Kostüme nach Lust und Laune.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-31",
-   "time": "23:00",
-   "end_date": ""
-  },
-  {
    "title": "Purgatory: Halloween Edition 3",
    "date": "2026-10-31",
    "time": "",
@@ -8282,6 +7213,41 @@
    "source": "allevents: все",
    "also_in": [
     "allevents: все"
+   ]
+  },
+  {
+   "title": "BOLLYWEEN PARTY PART 2 IN DÜSSELDORF",
+   "date": "2026-10-31",
+   "time": "",
+   "end_date": "2026-11-01",
+   "venue": "KLUB KULB",
+   "address": "Burgplatz 11, Düsseldorf",
+   "locality": "Düsseldorf",
+   "price": "10.77",
+   "url": "https://allevents.in/d%C3%BCsseldorf/bollyween-party-part-2-in-dÜsseldorf/100001998679321654",
+   "category": "вечеринка",
+   "description": "",
+   "source": "allevents: все",
+   "also_in": [
+    "allevents: все"
+   ]
+  },
+  {
+   "title": "RAVEMANIA // HALLOWEEN RAVE SPECIAL 2026",
+   "date": "2026-10-31",
+   "time": "",
+   "end_date": "2026-11-01",
+   "venue": "R25-Kulturschlachthof",
+   "address": "Rather Str.25,Düsseldorf, Germany, Dusseldorf",
+   "locality": "Dusseldorf",
+   "price": "",
+   "url": "https://allevents.in/dusseldorf/ravemania-halloween-rave-special-2026/200030679861053",
+   "category": "событие",
+   "description": "",
+   "source": "allevents: все",
+   "also_in": [
+    "allevents: все",
+    "Visit Düsseldorf"
    ]
   },
   {
@@ -8316,7 +7282,24 @@
    ]
   },
   {
-   "title": "Kürbisschnitzen / Kürbiswerkstätten auf Gut Hixholz",
+   "title": "Halloween Party",
+   "date": "2026-10-31",
+   "time": "",
+   "end_date": "",
+   "venue": "Alter Bahnhof Oberkassel, Belsenplatz 2, 40545 Düsseldorf",
+   "address": "Belsenplatz 2, 40545 Düsseldorf, Deutschland, Dusseldorf",
+   "locality": "Dusseldorf",
+   "price": "",
+   "url": "https://allevents.in/dusseldorf/halloween-party/200030506673858",
+   "category": "вечеринка",
+   "description": "",
+   "source": "allevents: все",
+   "also_in": [
+    "allevents: все"
+   ]
+  },
+  {
+   "title": "Kürbisschnitzen / Kürbiswerkstätten Gut Hixholz",
    "date": "2026-10-31",
    "time": "",
    "end_date": "",
@@ -8325,9 +7308,9 @@
    "locality": "Velbert",
    "price": "",
    "url": "https://www.gut-hixholz.de/Kuerbisschnitzen-2023---Kuerbiswerkstaetten-Gut-Hixholz_5117.aspx",
-   "category": " событие",
+   "category": "детям",
    "description": "An den Oktober-Samstagen lädt der Bauernhof offiziell zum Kürbisschnitzen ein.",
-   "source": "Mr. Düsseldorf "
+   "source": "Mr. Düsseldorf"
   },
   {
    "title": "RE: Nature – rethink. reconnect. regenerate.",
@@ -8386,6 +7369,20 @@
    "end_date": ""
   },
   {
+   "title": "Thomas Kohl: Es verschmolz ihm alles in eine Linie, wie eine steigende und sinkende Welle zwischen Himmel und Erde.",
+   "venue": "",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.fuenfzehnwochen.de/",
+   "category": "выставка",
+   "description": "Die Ausstellung nimmt die Erfahrung einer zweitägigen Meerespassage, einer stürmischen Fährfahrt, von Marokko nach Europa auf, die Thomas Kohl im Jahr 2025 erlebte.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-01",
+   "time": "15:00",
+   "end_date": ""
+  },
+  {
    "title": "Verbren­nungen",
    "date": "2026-11-01",
    "time": "16:00",
@@ -8399,6 +7396,7 @@
    "description": "von Wajdi Mouawad Regie Bassam Ghazi",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -8416,6 +7414,7 @@
    "description": "Familienvorstellung von Gregory Caers und Ensemble",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -8478,20 +7477,6 @@
    "end_date": ""
   },
   {
-   "title": "DEL2 Spieltag 14: ETC Crimmitschau vs. Düsseldorfer EG",
-   "date": "2026-11-01",
-   "time": "17:00",
-   "end_date": "",
-   "venue": "",
-   "address": "",
-   "locality": "Crimmitschau",
-   "price": "",
-   "url": "https://www.deg-eishockey.de",
-   "category": "спорт",
-   "description": "Spieltag 14 der DEL2-Saison.",
-   "source": "DEG "
-  },
-  {
    "title": "Benefiz-Versteigerung zugunsten der Palliativ-Station der Uni-Klinik Düsseldorf",
    "venue": "",
    "address": "",
@@ -8504,6 +7489,20 @@
    "date": "2026-11-01",
    "time": "17:00",
    "end_date": ""
+  },
+  {
+   "title": "DEL2: Spieltag 14 (EPC - DEG)",
+   "date": "2026-11-01",
+   "time": "17:00",
+   "end_date": "",
+   "venue": "",
+   "address": "",
+   "locality": "",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/saison/spielplan/",
+   "category": "спорт",
+   "description": "DEL2-Auswärtsspiel",
+   "source": "DEG"
   },
   {
    "title": "INTER ALIA",
@@ -8590,6 +7589,20 @@
    "end_date": ""
   },
   {
+   "title": "westcoast JAZZ",
+   "venue": "Destille",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "концерт",
+   "description": "Immer sonntags: westcoast JAZZ unter der Leitung von Gregory Gaynair",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-01",
+   "time": "20:00",
+   "end_date": ""
+  },
+  {
    "title": "Burlesque Night N°9",
    "venue": "",
    "address": "",
@@ -8604,6 +7617,20 @@
    "end_date": ""
   },
   {
+   "title": "Menschen im KAP1",
+   "venue": "Zentralbibliothek im KAP1",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Im November 2022 ist die Zentralbibliothek vom Standort am Bertha-von-Suttner-Platz zum Konrad-Adenauer-Platz in das KAP1 gezogen.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-02",
+   "time": "09:00",
+   "end_date": ""
+  },
+  {
    "title": "Die Tür",
    "date": "2026-11-02",
    "time": "10:00",
@@ -8615,7 +7642,80 @@
    "url": "https://www.dhaus.de/programm/die-tuer/2941/",
    "category": "театр",
    "description": "von Gregory Caers und Ensemble",
-   "source": "D'haus (Schauspielhaus)"
+   "source": "D'haus (Schauspielhaus)",
+   "also_in": [
+    "Visit Düsseldorf"
+   ]
+  },
+  {
+   "title": "Loud And Proud",
+   "venue": "Ballettprobenhaus",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.fft-duesseldorf.de/spielplan/loud-and-proud",
+   "category": "театр",
+   "description": "Du suchst einen Ort, an dem du dich kreativ austoben kannst, Queers und Allys triffst? Dann komm zu Loud and Proud!",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-02",
+   "time": "18:00",
+   "end_date": ""
+  },
+  {
+   "title": "Ferire per amare – verletzen, um zu lieben",
+   "venue": "Zentralbibliothek im KAP1",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "лекция",
+   "description": "Der Vortrag zeigt auf, wie Liebe innerhalb sizilianisch geprägter Strukturen durch Kontrolle ausgedrückt wird. Das ist ein performatives Kunstprojekt über romantische Beziehungen im Spannungsfeld sizilianischer Kultur.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-02",
+   "time": "18:00",
+   "end_date": ""
+  },
+  {
+   "title": "Internationale Orgelkonzerte",
+   "venue": "Basilika St. Lambertus (kath.)",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "концерт",
+   "description": "Die Internationale Orgelreihe an der Basilika St. Lambertus Düsseldorf lädt in den kommenden Monaten zu weiteren drei hochkarätig besetzten Orgelkonzerten ein.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-02",
+   "time": "19:30",
+   "end_date": ""
+  },
+  {
+   "title": "Simon Höfele & Frank Dupree Trio: Salted Caramel",
+   "venue": "Tonhalle Düsseldorf",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://webshop.tonhalle.de/selection/event/seat?perfId=10229679149476&lang=de",
+   "category": "концерт",
+   "description": "Süß trifft salzig, Klassik küsst Jazz: Mit »Salted Caramel« servieren Simon Höfele und Frank Dupree Musik ohne Scheuklappen.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-02",
+   "time": "20:00",
+   "end_date": ""
+  },
+  {
+   "title": "Christian Ehring: Nebensaison. Das Musikprogramm",
+   "venue": "Kom(m)ödchen",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.kommoedchen.de/spielplan/?wk=1",
+   "category": "концерт",
+   "description": "Christian Ehring (extra3, heute-show) kennt man als scharfzüngigen Kommentator des aktuellen Zeitgeschehens.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-02",
+   "time": "20:00",
+   "end_date": ""
   },
   {
    "time": "",
@@ -9284,18 +8384,18 @@
    "away": true
   },
   {
-   "title": "DEL2 Spieltag 15: ECDC Memmingen vs. Düsseldorfer EG",
+   "title": "DEL2: Spieltag 15 (MEM - DEG)",
    "date": "2026-11-13",
    "time": "20:00",
    "end_date": "",
    "venue": "",
    "address": "",
-   "locality": "Memmingen",
+   "locality": "",
    "price": "",
-   "url": "https://www.deg-eishockey.de",
+   "url": "https://www.deg-eishockey.de/saison/spielplan/",
    "category": "спорт",
-   "description": "Spieltag 15 der DEL2-Saison.",
-   "source": "DEG "
+   "description": "DEL2-Auswärtsspiel",
+   "source": "DEG"
   },
   {
    "title": "Trödelkult am Aachener Platz",
@@ -9326,6 +8426,7 @@
    "source": "allevents: все",
    "also_in": [
     "allevents: все",
+    "allevents: живая музыка",
     "allevents: живая музыка"
    ]
   },
@@ -9388,18 +8489,18 @@
    "away": false
   },
   {
-   "title": "DEL2 Spieltag 16: Düsseldorfer EG vs. Ravensburg Towerstars",
+   "title": "DEL2: Spieltag 16 (DEG - RVT)",
    "date": "2026-11-15",
    "time": "17:00",
    "end_date": "",
-   "venue": "PSD Bank Dome",
+   "venue": "PSD BANK DOME",
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.deg-eishockey.de",
+   "url": "https://www.deg-eishockey.de/saison/spielplan/",
    "category": "спорт",
-   "description": "Spieltag 16 der DEL2-Saison.",
-   "source": "DEG "
+   "description": "DEL2-Heimspiel",
+   "source": "DEG"
   },
   {
    "title": "COMPAMED",
@@ -9446,18 +8547,18 @@
    "away": false
   },
   {
-   "title": "DEL2 Spieltag 17: Düsseldorfer EG vs. Starbulls Rosenheim",
+   "title": "DEL2: Spieltag 17 (DEG - SBR)",
    "date": "2026-11-17",
    "time": "19:30",
    "end_date": "",
-   "venue": "PSD Bank Dome",
+   "venue": "PSD BANK DOME",
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.deg-eishockey.de",
+   "url": "https://www.deg-eishockey.de/saison/spielplan/",
    "category": "спорт",
-   "description": "Spieltag 17 der DEL2-Saison.",
-   "source": "DEG "
+   "description": "DEL2-Heimspiel",
+   "source": "DEG"
   },
   {
    "title": "Creole Nignt Birds @EmPöötzke",
@@ -9506,18 +8607,18 @@
    "away": true
   },
   {
-   "title": "DEL2 Spieltag 18: Dresdner Eislöwen vs. Düsseldorfer EG",
+   "title": "DEL2: Spieltag 18 (DRE - DEG)",
    "date": "2026-11-20",
    "time": "19:30",
    "end_date": "",
    "venue": "",
    "address": "",
-   "locality": "Dresden",
+   "locality": "",
    "price": "",
-   "url": "https://www.deg-eishockey.de",
+   "url": "https://www.deg-eishockey.de/saison/spielplan/",
    "category": "спорт",
-   "description": "Spieltag 18 der DEL2-Saison.",
-   "source": "DEG "
+   "description": "DEL2-Auswärtsspiel",
+   "source": "DEG"
   },
   {
    "title": "Trödelkult am Aachener Platz",
@@ -9564,17 +8665,17 @@
    "source": "Блошиные рынки (MFT)"
   },
   {
-   "title": "Moonlight Market – Düsseldorfs Nachtmarkt im Blumengroßmarkt",
+   "title": "Moonlight Market",
    "date": "2026-11-21",
    "time": "",
    "end_date": "2026-11-21",
-   "venue": "Blumengro&szlig;markt",
+   "venue": "Blumengro&szlig;markt D&uuml;sseldorf",
    "address": "Ulmenstraße 275, 40468, Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://meine-flohmarkt-termine.de/moonlight-market-dusseldorfs-nachtmarkt-im-blumengrossmarkt/23840771/details",
+   "url": "https://meine-flohmarkt-termine.de/moonlight-market/23786588/details",
    "category": "рынок",
-   "description": "Was dich erwartet Nacht der K&uuml;nste Spezial - Eine Stunde l&auml;nger ge&ouml;ffnet (bis 00:00 Uhr) Der Moonlight Market ist kein klassischer Markt. Es ist ein Nacht-Event mit Marktatmosph&auml;re: gute Vibes, spannende St&auml;nde, neue Lieblingsst&uuml;cke &ndash; und zwischendurch immer was L",
+   "description": "🌙MOONLIGHT MARKET - Neuer Nachtflohmarkt in D&uuml;sseldorf Der Moonlight Market findet regelm&auml;&szlig;ig an einem Samstag im Monat auf dem Blumengro&szlig;markt statt &ndash; und bringt alles zusammen, was wir lieben: Secondhand-Sch&auml;tzchen, Retro-Funde, Schmuck, Fashion, Keramik, Deko &amp",
    "source": "Блошиные рынки (MFT)",
    "also_in": [
     "Блошиные рынки (MFT)"
@@ -9611,18 +8712,18 @@
    "away": false
   },
   {
-   "title": "DEL2 Spieltag 19: Düsseldorfer EG vs. Lausitzer Füchse",
+   "title": "DEL2: Spieltag 19 (DEG - LFX)",
    "date": "2026-11-22",
    "time": "18:30",
    "end_date": "",
-   "venue": "PSD Bank Dome",
+   "venue": "PSD BANK DOME",
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.deg-eishockey.de",
+   "url": "https://www.deg-eishockey.de/saison/spielplan/",
    "category": "спорт",
-   "description": "Spieltag 19 der DEL2-Saison.",
-   "source": "DEG "
+   "description": "DEL2-Heimspiel",
+   "source": "DEG"
   },
   {
    "title": "Creole Nignt Birds @EmPöötzke",
@@ -9655,18 +8756,18 @@
    "away": true
   },
   {
-   "title": "DEL2 Spieltag 20: EHC Freiburg vs. Düsseldorfer EG",
+   "title": "DEL2: Spieltag 20 (FRB - DEG)",
    "date": "2026-11-27",
    "time": "19:30",
    "end_date": "",
    "venue": "",
    "address": "",
-   "locality": "Freiburg",
+   "locality": "",
    "price": "",
-   "url": "https://www.deg-eishockey.de",
+   "url": "https://www.deg-eishockey.de/saison/spielplan/",
    "category": "спорт",
-   "description": "Spieltag 20 der DEL2-Saison.",
-   "source": "DEG "
+   "description": "DEL2-Auswärtsspiel",
+   "source": "DEG"
   },
   {
    "title": "Trödelkult am Aachener Platz",
@@ -9727,6 +8828,20 @@
    "source": "Блошиные рынки (MFT)"
   },
   {
+   "title": "Trödel- & Kindersachenmarkt",
+   "date": "2026-11-28",
+   "time": "",
+   "end_date": "2026-11-28",
+   "venue": "B&uuml;rgerhaus Reisholz",
+   "address": "Kappeler Straße 231, 40599, Düsseldorf",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://meine-flohmarkt-termine.de/trodel-kindersachenmarkt/23734462/details",
+   "category": "рынок",
+   "description": "Der &quot;Blitz-Markt&ldquo; im D&uuml;sseldorfer S&uuml;den! Die gro&szlig;e Wetter unabh&auml;ngige Schn&auml;ppchenjagd erfreut sich seit mehr als 30 Jahren gro&szlig;er Beliebtheit und geht im B&uuml;rgerhaus Reisholz an der Kappeler Stra&szlig;e 231 endlich wieder an den Start. Gut Erhaltenes v",
+   "source": "Блошиные рынки (MFT)"
+  },
+  {
    "title": "DEG - Bietigheim",
    "date": "2026-11-29",
    "time": "17:00",
@@ -9743,18 +8858,32 @@
    "away": false
   },
   {
-   "title": "DEL2 Spieltag 21: Düsseldorfer EG vs. SC Bietigheim Steelers",
+   "title": "DEL2: Spieltag 21 (DEG - SCB)",
    "date": "2026-11-29",
    "time": "17:00",
    "end_date": "",
-   "venue": "PSD Bank Dome",
+   "venue": "PSD BANK DOME",
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.deg-eishockey.de",
+   "url": "https://www.deg-eishockey.de/saison/spielplan/",
    "category": "спорт",
-   "description": "Spieltag 21 der DEL2-Saison.",
-   "source": "DEG "
+   "description": "DEL2-Heimspiel",
+   "source": "DEG"
+  },
+  {
+   "title": "Melan Trödelmarkt Düsseldorf Ikea",
+   "date": "2026-11-29",
+   "time": "",
+   "end_date": "2026-11-29",
+   "venue": "D&uuml;sseldorf Ikea",
+   "address": "Oerschbachstraße 75 , 40589, Düsseldorf",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://meine-flohmarkt-termine.de/melan-trodelmarkt-dusseldorf-ikea/23830629/details",
+   "category": "рынок",
+   "description": "Wir freuen uns, euch unseren neuen Tr&ouml;delmarkt am IKEA D&uuml;sseldorf anzuk&uuml;ndigen.📍 IKEA D&uuml;sseldorfFreut euch auf zahlreiche H&auml;ndler mit einem abwechslungsreichen Angebot: Antikes, Vintage, Deko, Kleidung, Sammlerst&uuml;cke und viele weitere besondere Fundst&uuml;cke warten da",
+   "source": "Блошиные рынки (MFT)"
   },
   {
    "title": "DEG - Landshut",
@@ -9773,18 +8902,18 @@
    "away": false
   },
   {
-   "title": "DEL2 Spieltag 22: Düsseldorfer EG vs. EV Landshut",
+   "title": "DEL2: Spieltag 22 (DEG - EVL)",
    "date": "2026-12-01",
    "time": "19:30",
    "end_date": "",
-   "venue": "PSD Bank Dome",
+   "venue": "PSD BANK DOME",
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.deg-eishockey.de",
+   "url": "https://www.deg-eishockey.de/saison/spielplan/",
    "category": "спорт",
-   "description": "Spieltag 22 der DEL2-Saison.",
-   "source": "DEG "
+   "description": "DEL2-Heimspiel",
+   "source": "DEG"
   },
   {
    "title": "VALVE WORLD EXPO",
@@ -9845,18 +8974,18 @@
    "away": false
   },
   {
-   "title": "DEL2 Spieltag 23: Düsseldorfer EG vs. Eisbären Regensburg",
+   "title": "DEL2: Spieltag 23 (DEG - EBR)",
    "date": "2026-12-04",
    "time": "19:30",
    "end_date": "",
-   "venue": "PSD Bank Dome",
+   "venue": "PSD BANK DOME",
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.deg-eishockey.de",
+   "url": "https://www.deg-eishockey.de/saison/spielplan/",
    "category": "спорт",
-   "description": "Spieltag 23 der DEL2-Saison.",
-   "source": "DEG "
+   "description": "DEL2-Heimspiel",
+   "source": "DEG"
   },
   {
    "title": "Trödelkult am Aachener Platz",
@@ -9889,6 +9018,20 @@
    "away": false
   },
   {
+   "title": "Trödelmarkt Düsseldorf Schützenplatz",
+   "date": "2026-12-05",
+   "time": "",
+   "end_date": "2026-12-05",
+   "venue": "D&uuml;sseldorf-Benrath Sch&uuml;tzenplatz",
+   "address": "Bayreuther Straße  31, 40597, Düsseldorf",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752965/details",
+   "category": "рынок",
+   "description": "Der &uuml;ber die Stadtgrenzen bekannte Samstags-Tr&ouml;delmarkt auf dem Sch&uuml;tzenplatz erfreut sich seit Jahren gro&szlig;er Beliebtheit. Das ausgewogene Verh&auml;ltnis von Neuware und Tr&ouml;del abgerundet durch ein ausreichendes Gastronomieangebot l&auml;dt zum Bummeln und Verweilen ein. &",
+   "source": "Блошиные рынки (MFT)"
+  },
+  {
    "title": "BINGO AM STRAND - die Weihnachtsedition",
    "date": "2026-12-06",
    "time": "14:00",
@@ -9919,18 +9062,18 @@
    "away": true
   },
   {
-   "title": "DEL2 Spieltag 24: EC Bad Nauheim vs. Düsseldorfer EG",
+   "title": "DEL2: Spieltag 24 (ECN - DEG)",
    "date": "2026-12-06",
    "time": "18:30",
    "end_date": "",
    "venue": "",
    "address": "",
-   "locality": "Bad Nauheim",
+   "locality": "",
    "price": "",
-   "url": "https://www.deg-eishockey.de",
+   "url": "https://www.deg-eishockey.de/saison/spielplan/",
    "category": "спорт",
-   "description": "Spieltag 24 der DEL2-Saison.",
-   "source": "DEG "
+   "description": "DEL2-Auswärtsspiel",
+   "source": "DEG"
   },
   {
    "title": "Creole Nignt Birds @EmPöötzke",
@@ -9947,18 +9090,34 @@
    "source": "Рынок Aachener Platz"
   },
   {
-   "title": "DEL2 Spieltag 25: EC Kassel Huskies vs. Düsseldorfer EG",
-   "date": "2026-12-10",
+   "title": "Kassel - DEG",
+   "date": "2026-12-11",
+   "time": "19:30",
+   "end_date": "",
+   "venue": "на выезде",
+   "address": "",
+   "locality": "",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/",
+   "category": "спорт",
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": true
+  },
+  {
+   "title": "DEL2: Spieltag 25 (ECK - DEG)",
+   "date": "2026-12-11",
    "time": "19:30",
    "end_date": "",
    "venue": "",
    "address": "",
-   "locality": "Kassel",
+   "locality": "",
    "price": "",
-   "url": "https://www.deg-eishockey.de",
+   "url": "https://www.deg-eishockey.de/saison/spielplan/",
    "category": "спорт",
-   "description": "Spieltag 25 der DEL2-Saison.",
-   "source": "DEG "
+   "description": "DEL2-Auswärtsspiel",
+   "source": "DEG"
   },
   {
    "time": "11:11",
@@ -10057,20 +9216,23 @@
    "horizon_days": 400
   },
   {
+   "title": "Rheinkirmes Düsseldorf",
+   "date": "2027-07-16",
    "time": "",
    "end_date": "2027-07-25",
+   "venue": "Rheinufer",
    "address": "",
-   "locality": "",
+   "locality": "Düsseldorf",
    "price": "",
-   "url": "",
-   "description": "",
-   "title": "Rheinkirmes",
-   "date": "2027-07-16",
-   "venue": "Rheinwiesen Oberkassel",
+   "url": "https://rheinkirmes-duesseldorf.de/termine-rheinkirmes/",
    "category": "фестиваль",
-   "source": "rheinkirmes-duesseldorf.de",
+   "description": "Größte Kirmes am Rhein.",
+   "source": "Rheinkirmes",
+   "horizon_days": 400,
    "big": true,
-   "horizon_days": 400
+   "also_in": [
+    "rheinkirmes-duesseldorf.de"
+   ]
   },
   {
    "time": "22:30",
