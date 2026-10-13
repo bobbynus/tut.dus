@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-13T08:07",
- "count": 713,
+ "generated_at": "2026-10-13T16:00",
+ "count": 671,
  "events": [
   {
    "title": "A44:  Düsseldorf -> Essen",
@@ -234,18 +234,21 @@
    "source": "Prinz"
   },
   {
-   "title": "Der Aufbau der GeSoLei",
-   "venue": "Stadtarchiv Düsseldorf",
-   "address": "",
+   "title": "Bin gleich fertig!",
+   "date": "2026-10-13",
+   "time": "10:00",
+   "end_date": "2026-10-13",
+   "venue": "Central 2",
+   "address": "Gustaf-Gründgens-Platz 1",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Vor 100 Jahren - vom 8. Mai bis zum 15. Oktober 1926 - wurde in Düsseldorf die Ausstellung für Gesundheitspflege, soziale Fürsorge und Leibesübungen gezeigt.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-13",
-   "time": "08:30",
-   "end_date": ""
+   "url": "https://www.dhaus.de/programm/spielplan/bin-gleich-fertig/2936/",
+   "category": "театр",
+   "description": "Nach dem Bilderbuch von Martin Baltscheit und Anne-Kathrin Behl Regie und Choreografie Barbara Fuchs.",
+   "source": "D'haus (Schauspielhaus)",
+   "also_in": [
+    "Prinz"
+   ]
   },
   {
    "title": "Lilly und die Erbse",
@@ -260,23 +263,6 @@
    "category": "театр",
    "description": "Bühnenstück im Städtischen Bühnenhaus Wesel.",
    "source": "Prinz",
-   "also_in": [
-    "Prinz"
-   ]
-  },
-  {
-   "title": "Bin gleich fertig!",
-   "date": "2026-10-13",
-   "time": "10:00",
-   "end_date": "2026-10-13",
-   "venue": "Central 2",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/bin-gleich-fertig/2936/",
-   "category": "театр",
-   "description": "Nach dem Bilderbuch von Martin Baltscheit und Anne-Kathrin Behl Regie und Choreografie Barbara Fuchs.",
-   "source": "D'haus (Schauspielhaus)",
    "also_in": [
     "Prinz"
    ]
@@ -463,27 +449,8 @@
    "description": "Konzert von Myles Smith in Düsseldorf.",
    "source": "Prinz",
    "also_in": [
-    "allevents: все"
-   ]
-  },
-  {
-   "title": "The Strokes - Reality Awaits",
-   "date": "2026-10-13",
-   "time": "19:00",
-   "end_date": "2026-10-13",
-   "venue": "Düsseldorf, Germany",
-   "address": "Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://allevents.in/d%C3%BCsseldorf/the-strokes-reality-awaits/210003238823659",
-   "category": "событие",
-   "description": "The Strokes live in Düsseldorf.",
-   "source": "allevents: все",
-   "also_in": [
     "allevents: все",
-    "allevents: концерты",
-    "allevents: живая музыка",
-    "Prinz"
+    "allevents: все"
    ]
   },
   {
@@ -599,6 +566,7 @@
    "source": "zakk",
    "also_in": [
     "Prinz",
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -649,46 +617,23 @@
    ]
   },
   {
-   "title": "Gertrudenhof Kürbispark",
+   "title": "The Strokes - Reality Awaits",
    "date": "2026-10-13",
    "time": "",
-   "end_date": "2026-11-09",
-   "venue": "Gertrudenhof",
-   "address": "Lortzingstraße 160",
-   "locality": "Hürth",
-   "price": "",
-   "url": "https://www.instagram.com/reel/DdZTJUjq0Tb/",
-   "category": "фестиваль",
-   "description": "Vom 5. September bis 9. November 2026 verwandelt sich das Erlebnisgelände wieder in einen riesigen Kürbispark rund um die berühmte Kürbispyramide.",
-   "source": "Mr. Düsseldorf"
-  },
-  {
-   "title": "Eva Rubinstein. Proof of Life",
-   "venue": "Museum für Gartenkunst",
-   "address": "",
+   "end_date": "2026-10-13",
+   "venue": "Düsseldorf, Germany",
+   "address": "Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Am 4. September eröffnet die Sonderausstellung „Eva Rubinstein. Proof of Life“ im Museum für Gartenkunst im Ostflügel von Schloss Benrath.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-13",
-   "time": "",
-   "end_date": "2026-11-29"
-  },
-  {
-   "title": "Plastikmüll im Rhein. Die große Reise des kleinen Plastiks",
-   "venue": "Naturkundemuseum",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Plastik ist aus unserem Alltag nicht mehr wegzudenken. Als Virtual-Reality-Erlebnis zeichnet die Ausstellung die Wege von Plastikmüll in die Umwelt nach.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-13",
-   "time": "",
-   "end_date": "2027-04-04"
+   "url": "https://allevents.in/d%C3%BCsseldorf/the-strokes-reality-awaits/210003238823659",
+   "category": "событие",
+   "description": "",
+   "source": "allevents: все",
+   "also_in": [
+    "allevents: все",
+    "allevents: концерты",
+    "allevents: живая музыка"
+   ]
   },
   {
    "title": "Markus Berg: Rhythmus - Geometrie und Musik",
@@ -887,20 +832,6 @@
    "end_date": "2026-11-08"
   },
   {
-   "title": "Der Glas-Chronist - Otfried Reichmann und \"seine Hött\"",
-   "venue": "Café Mittendrin, Gemeindezentrum Ev. Kirchengemeinde Gerresheim",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Seit 1065 ist die Heyestraße in Quellen belegt, aber erst mit der Gründung der Glashütte 1864 gewann sie an Bedeutung. Die Historie der heutigen Heyestraße ist voller kleiner Geschichten.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-13",
-   "time": "",
-   "end_date": "2026-11-23"
-  },
-  {
    "title": "Pareidolie",
    "venue": "von fraunberg art gallery",
    "address": "",
@@ -1025,34 +956,6 @@
    "date": "2026-10-13",
    "time": "",
    "end_date": "2027-05-23"
-  },
-  {
-   "title": "Kaiserswerther Diakonie zeigt Werke von Walter Liggesmeyer",
-   "venue": "K3",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Die E.ON Art Collection übergibt der Kaiserswerther Diakonie 45 Gemälde von Walter Liggesmeyer (1938–2017).",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-13",
-   "time": "",
-   "end_date": "2026-12-31"
-  },
-  {
-   "title": "Playground. Ein Spielplatz im Museum",
-   "venue": "K20 Kunstsammlung Nordrhein-Westfalen",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://shop.kunstsammlung.de/de/offers/a571",
-   "category": "выставка",
-   "description": "Die Ausstellung „Playground“ lädt Kinder dazu ein, zu berühren, zu klettern, zu rennen und ihrer Fantasie freien Lauf zu lassen – in einer träumerischen Landschaft, die wie aus einer anderen Welt wirkt.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-13",
-   "time": "",
-   "end_date": "2027-07-18"
   },
   {
    "title": "Spot on: 100 Jahre GeSoLei",
@@ -1506,20 +1409,6 @@
    "end_date": ""
   },
   {
-   "title": "Creole Nignt Birds @EmPöötzke",
-   "date": "2026-10-14",
-   "time": "20:30",
-   "end_date": "2026-10-14",
-   "venue": "Em Pöötzke",
-   "address": "Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "Eintritt frei",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/",
-   "category": "konzert",
-   "description": "Foot tapping, finger snapping – echter New-Orleans-Jazz live.",
-   "source": "Rýchok Aachener Platz"
-  },
-  {
    "title": "Gemischte Tüte",
    "date": "2026-10-14",
    "time": "",
@@ -1660,6 +1549,48 @@
    "end_date": "2026-10-31"
   },
   {
+   "title": "Der Glas-Chronist - Otfried Reichmann und \"seine Hött\"",
+   "venue": "Café Mittendrin, Gemeindezentrum Ev. Kirchengemeinde Gerresheim",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Seit 1065 ist die Heyestraße in Quellen belegt, aber erst mit der Gründung der Glashütte 1864 gewann sie an Bedeutung. Die Historie der heutigen Heyestraße ist voller kleiner Geschichten.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-14",
+   "time": "",
+   "end_date": "2026-11-23"
+  },
+  {
+   "title": "\"50 Jahre Spektrum76 – Was vor 50 Jahren begann, hat bis heute Bestand\"",
+   "venue": "Rathaus",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Unter dem Titel \"50 Jahre Spektrum76 – Was vor 50 Jahren begann, hat bis heute Bestand\" zeigt der Düsseldorfer Künstlerkreis einen vielfältigen Einblick in das künstlerische Schaffen seiner Mitglieder.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-14",
+   "time": "",
+   "end_date": "2026-10-29"
+  },
+  {
+   "title": "Manfred Lenz und Achim Raven: Vom Bild zur Sprache und zurück",
+   "venue": "Bürgerhaus Reisholz",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Die beiden Düsseldorfer Künstler Manfred Lenz und Achim Raven interessiert das FRAGWÜRDIGE im wörtlichen, aber auch im übertragenen Sinne, das Ungewisse, Zweifelhafte, Doppeldeutige.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-14",
+   "time": "",
+   "end_date": "2026-11-16"
+  },
+  {
    "title": "Romeo & Julia - Liebe ist alles",
    "venue": "Capitol Theater",
    "address": "",
@@ -1688,6 +1619,20 @@
    "end_date": "2026-10-18"
   },
   {
+   "title": "Kaiserswerther Diakonie zeigt Werke von Walter Liggesmeyer",
+   "venue": "K3",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Die E.ON Art Collection übergibt der Kaiserswerther Diakonie 45 Gemälde von Walter Liggesmeyer (1938–2017).",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-14",
+   "time": "",
+   "end_date": "2026-12-31"
+  },
+  {
    "title": "Christoph Westermeier: Abbild, Bild und Bilder",
    "venue": "Goethe-Museum/Schloss Jägerhof",
    "address": "",
@@ -1700,6 +1645,20 @@
    "date": "2026-10-14",
    "time": "",
    "end_date": "2026-11-01"
+  },
+  {
+   "title": "Playground. Ein Spielplatz im Museum",
+   "venue": "K20 Kunstsammlung Nordrhein-Westfalen",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://shop.kunstsammlung.de/de/offers/a571",
+   "category": "выставка",
+   "description": "Die Ausstellung „Playground“ lädt Kinder dazu ein, zu berühren, zu klettern, zu rennen und ihrer Fantasie freien Lauf zu lassen – in einer träumerischen Landschaft, die wie aus einer anderen Welt wirkt.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-14",
+   "time": "",
+   "end_date": "2027-07-18"
   },
   {
    "title": "200 Jahre KD - Geschichten, Gesichter und Geheimnisse",
@@ -1828,6 +1787,7 @@
    "description": "Das SchifffahrtMuseum, Burgplatz 30, lädt am Donnerstag, 15. Oktober 2026, zum Vortrag '200 Jahre Geschichten rund um die KD' ein.",
    "source": "Пресс-служба города",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -1859,6 +1819,7 @@
    "description": "Literaturtage Düsseldorf 2026 - Wort & Bühne.",
    "source": "zakk",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -1876,6 +1837,7 @@
    "description": "Literaturtage Düsseldorf 2026 - Wort & Bühne.",
    "source": "zakk",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -1935,6 +1897,7 @@
    "description": "Von Alice Birch nach Federico García Lorca Regie Lucia Bihler.",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -2056,6 +2019,7 @@
    "source": "Kunstpalast",
    "horizon_days": 120,
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -2345,20 +2309,6 @@
    "source": "Пресс-служба города"
   },
   {
-   "title": "NOCHE DE SALSA - Tanzworkshop und Fiesta",
-   "date": "2026-10-16",
-   "time": "18:00",
-   "end_date": "2026-10-16",
-   "venue": "StadtStrand",
-   "address": "Tonhallenufer",
-   "locality": "Düsseldorf",
-   "price": "kostenlos",
-   "url": "https://www.stadtstrand-duesseldorf.de/events/open-air-salsa-xxl---tanzworkshop-und-fiesta",
-   "category": "фестиваль",
-   "description": "Tanzworkshop und Fiesta unter freiem Himmel am Tonhallenufer.",
-   "source": "StadtStrand"
-  },
-  {
    "title": "Verena Güntner: \"Medulla\"",
    "date": "2026-10-16",
    "time": "18:00",
@@ -2372,8 +2322,23 @@
    "description": "Literaturtage Düsseldorf 2026 - Wort & Bühne.",
    "source": "zakk",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
+  },
+  {
+   "title": "NOCHE DE SALSA - Tanzworkshop und Fiesta",
+   "date": "2026-10-16",
+   "time": "18:00",
+   "end_date": "2026-10-16",
+   "venue": "StadtStrand",
+   "address": "Tonhallenufer",
+   "locality": "Düsseldorf",
+   "price": "kostenlos",
+   "url": "https://www.stadtstrand-duesseldorf.de/events/open-air-salsa-xxl---tanzworkshop-und-fiesta",
+   "category": "фестиваль",
+   "description": "Tanzworkshop und Fiesta unter freiem Himmel am Tonhallenufer.",
+   "source": "StadtStrand"
   },
   {
    "title": "Eröffnung: Gregor Schneider. Haus u r 2026",
@@ -2418,6 +2383,7 @@
    "description": "Von Ingmar Bergman Regie Thorleifur Örn Arnarsson.",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -2478,20 +2444,6 @@
    "source": "DEG iCal",
    "team": "DEG",
    "away": false
-  },
-  {
-   "title": "DEL2: DEG vs. Freiburger Wölfe",
-   "date": "2026-10-16",
-   "time": "19:30",
-   "end_date": "",
-   "venue": "PSD Bank Dome",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/saison/spielplan/",
-   "category": "спорт",
-   "description": "Spieltag 9 der DEL2 Saison 2026/27.",
-   "source": "DEG"
   },
   {
    "title": "Eishockey: Düsseldorfer EG - EHC Freiburg",
@@ -2736,6 +2688,34 @@
    "source": "Пресс-служба города"
   },
   {
+   "title": "Eva Rubinstein. Proof of Life",
+   "venue": "Museum für Gartenkunst",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Am 4. September eröffnet die Sonderausstellung „Eva Rubinstein. Proof of Life“ im Museum für Gartenkunst im Ostflügel von Schloss Benrath.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-16",
+   "time": "",
+   "end_date": "2026-11-29"
+  },
+  {
+   "title": "Plastikmüll im Rhein. Die große Reise des kleinen Plastiks",
+   "venue": "Naturkundemuseum",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Plastik ist aus unserem Alltag nicht mehr wegzudenken. Als Virtual-Reality-Erlebnis zeichnet die Ausstellung die Wege von Plastikmüll in die Umwelt nach.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-16",
+   "time": "",
+   "end_date": "2027-04-04"
+  },
+  {
    "title": "Waffen der Tiere",
    "venue": "Aquazoo Löbbecke Museum",
    "address": "",
@@ -2904,20 +2884,6 @@
    "end_date": "2027-02-26"
   },
   {
-   "title": "Trödelmarkt Aachener Platz",
-   "date": "2026-10-17",
-   "time": "08:00",
-   "end_date": "2026-10-17",
-   "venue": "Trödel- und Antikmarkt am Aachener Platz",
-   "address": "Aachener Platz",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/",
-   "category": "markt",
-   "description": "Antik- und Trödelzelt, Freigelände und Café Sperrmüll.",
-   "source": "Rýchok Aachener Platz"
-  },
-  {
    "title": "Volksgarten parkrun Düsseldorf",
    "venue": "Volksgarten",
    "address": "",
@@ -2959,20 +2925,6 @@
    "description": "Führung durch das Schloss Benrath auf Englisch.",
    "source": "Schloss Benrath",
    "horizon_days": 21
-  },
-  {
-   "title": "Los Apartamentos",
-   "date": "2026-10-17",
-   "time": "11:30",
-   "end_date": "2026-10-17",
-   "venue": "Antik- und Trödelzelt am Aachener Platz",
-   "address": "Ueadamm / Aachener Platz",
-   "locality": "Düsseldorf",
-   "price": "Eintritt frei",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/musikprogramm/2026-10-17-los-apartamentos/",
-   "category": "konzert",
-   "description": "Mento mit Los Apartamentos am Sa, 17.10.2026 in unserem Antik- und Trödelzelt am Aachener Platz.",
-   "source": "Rýchok Aachener Platz"
   },
   {
    "title": "Brustkrebs-Aktionstag",
@@ -3217,6 +3169,7 @@
    "description": "Ein Schauspiel von Heinrich von Kleist Regie Ulrich Rasche.",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -3567,20 +3520,6 @@
    "source": "zakk"
   },
   {
-   "title": "Kürbisschnitzen auf dem Gut Hixholz",
-   "date": "2026-10-17",
-   "time": "",
-   "end_date": "",
-   "venue": "Gut Hixholz",
-   "address": "Im Hau 7",
-   "locality": "Velbert",
-   "price": "",
-   "url": "https://www.gut-hixholz.de/Kuerbisschnitzen-2023---Kuerbiswerkstaetten-Gut-Hixholz_5117.aspx",
-   "category": "событие",
-   "description": "An den Oktober-Samstagen lädt der Bauernhof offiziell zum Kürbisschnitzen ein.",
-   "source": "Mr. Düsseldorf"
-  },
-  {
    "title": "Die Schöne und das Biest",
    "venue": "Düsseldorfer Marionetten-Theater",
    "address": "",
@@ -3908,6 +3847,7 @@
    "description": "Ein Schauspiel von Heinrich von Kleist Regie Ulrich Rasche.",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -4026,20 +3966,6 @@
    "end_date": ""
   },
   {
-   "title": "DEL2: Starbulls Rosenheim vs. DEG",
-   "date": "2026-10-18",
-   "time": "17:00",
-   "end_date": "",
-   "venue": "",
-   "address": "",
-   "locality": "Rosenheim",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/saison/spielplan/",
-   "category": "спорт",
-   "description": "Spieltag 10 der DEL2 Saison 2026/27.",
-   "source": "DEG"
-  },
-  {
    "title": "Markus Mauthe: Die Empathie-Rebellion",
    "venue": "Savoy Theater",
    "address": "",
@@ -4067,6 +3993,7 @@
    "description": "Von Daniel Kehlmann Regie André Kaczmarczyk.",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -4099,6 +4026,25 @@
    "end_date": ""
   },
   {
+   "title": "Silke Scheuermann: \"Zweites Buch der Unruhe\"",
+   "date": "2026-10-18",
+   "time": "19:00",
+   "end_date": "2026-10-18",
+   "venue": "zakk",
+   "address": "Fichtenstraße 40",
+   "locality": "Düsseldorf",
+   "price": "11,50 €",
+   "url": "https://www.zakk.de/event-detail?event=16250",
+   "category": "событие",
+   "description": "Literaturtage Düsseldorf 2026 - Wort & Bühne.",
+   "source": "zakk",
+   "also_in": [
+    "Пресс-служба города",
+    "Visit Düsseldorf",
+    "Visit Düsseldorf"
+   ]
+  },
+  {
    "title": "PARADISE LOST ALL OVER AGAIN",
    "date": "2026-10-18",
    "time": "19:00",
@@ -4112,6 +4058,7 @@
    "description": "7 TODSÜNDEN: NEID von Yeşim Nela Keim Schaub, Lisa Pottstock.",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -4128,24 +4075,6 @@
    "category": "театр",
    "description": "Eine Gegenwartserkundung Theaterparcours.",
    "source": "D'haus (Schauspielhaus)"
-  },
-  {
-   "title": "Silke Scheuermann: \"Zweites Buch der Unruhe\"",
-   "date": "2026-10-18",
-   "time": "19:00",
-   "end_date": "2026-10-18",
-   "venue": "zakk",
-   "address": "Fichtenstraße 40",
-   "locality": "Düsseldorf",
-   "price": "11,50 €",
-   "url": "https://www.zakk.de/event-detail?event=16250",
-   "category": "событие",
-   "description": "Literaturtage Düsseldorf 2026 - Wort & Bühne.",
-   "source": "zakk",
-   "also_in": [
-    "Пресс-служба города",
-    "Visit Düsseldorf"
-   ]
   },
   {
    "title": "Beatrice Egli in Düsseldorf",
@@ -4396,6 +4325,7 @@
    "source": "Schloss Benrath",
    "horizon_days": 21,
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -4455,6 +4385,7 @@
    "description": "Literaturtage Düsseldorf 2026 - Wort & Bühne.",
    "source": "zakk",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -4572,6 +4503,7 @@
    "description": "Literaturtage Düsseldorf 2026 - Wort & Bühne.",
    "source": "zakk",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -4702,6 +4634,20 @@
    "source": "Visit Düsseldorf",
    "date": "2026-10-21",
    "time": "15:00",
+   "end_date": ""
+  },
+  {
+   "title": "kopfweide. junge literaturtage: Lesung Josefine Sonneson: \"Stolpertage",
+   "venue": "Orangerie Benrath",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "лекция",
+   "description": "Jette ist dreizehn und steckt zwischen Umzugskisten, die sie eigentlich packen sollte, zwischen ihren Eltern, die sich nur noch auf alten Fotos nah sind,",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-21",
+   "time": "15:30",
    "end_date": ""
   },
   {
@@ -4873,20 +4819,6 @@
    "end_date": ""
   },
   {
-   "title": "Creole Nignt Birds @EmPöötzke",
-   "date": "2026-10-21",
-   "time": "20:30",
-   "end_date": "2026-10-21",
-   "venue": "Em Pöötzke",
-   "address": "Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "Eintritt frei",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/",
-   "category": "konzert",
-   "description": "Foot tapping, finger snapping – echter New-Orleans-Jazz live.",
-   "source": "Rýchok Aachener Platz"
-  },
-  {
    "title": "Das NEINhorn",
    "date": "2026-10-22",
    "time": "10:00",
@@ -5031,6 +4963,7 @@
    "source": "Stadtmuseum",
    "horizon_days": 21,
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -5403,6 +5336,7 @@
    "description": "Von Alice Birch nach Federico García Lorca Regie Lucia Bihler.",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -5419,22 +5353,6 @@
    "date": "2026-10-23",
    "time": "19:30",
    "end_date": ""
-  },
-  {
-   "title": "A57: B1 - Sanierungsarbeiten an den Übergangskonstruktionen",
-   "date": "2026-10-23",
-   "time": "20:00",
-   "end_date": "2026-10-26",
-   "end_time": "05:00",
-   "venue": "B1 - Sanierungsarbeiten an den Übergangskonstruktionen",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.autobahn.de/",
-   "category": "важное",
-   "description": "Zeitraum dieser Bauphase: Beginn: 23.10.26 um 20:00 Uhr Ende: 26.10.26 um 05:00 Uhr (Ende der Gesamtmaßnahme: 08.11.26) B1 Länge: konnte nicht ermittelt werden B1 - Sanierungsarbeiten an den Übergangskonstruktionen",
-   "source": "Autobahn GmbH",
-   "traffic": true
   },
   {
    "title": "Atze Schröder in Düsseldorf",
@@ -5527,20 +5445,6 @@
    "end_date": ""
   },
   {
-   "title": "DEL2: Eisbären Regensburg vs. DEG",
-   "date": "2026-10-23",
-   "time": "20:00",
-   "end_date": "",
-   "venue": "",
-   "address": "",
-   "locality": "Regensburg",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/saison/spielplan/",
-   "category": "спорт",
-   "description": "Spieltag 11 der DEL2 Saison 2026/27.",
-   "source": "DEG"
-  },
-  {
    "title": "ZAUBERSALON RHEINLAND: SimSalaBim | Die Magische DinnerShow | Saison 26/27",
    "date": "2026-10-23",
    "time": "",
@@ -5587,20 +5491,6 @@
    "date": "2026-10-23",
    "time": "",
    "end_date": "2026-11-01"
-  },
-  {
-   "title": "Trödelmarkt Aachener Platz",
-   "date": "2026-10-24",
-   "time": "08:00",
-   "end_date": "2026-10-24",
-   "venue": "Trödel- und Antikmarkt am Aachener Platz",
-   "address": "Aachener Platz",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/",
-   "category": "markt",
-   "description": "Antik- und Trödelzelt, Freigelände und Café Sperrmüll.",
-   "source": "Rýchok Aachener Platz"
   },
   {
    "title": "Volksgarten parkrun Düsseldorf",
@@ -5658,20 +5548,6 @@
    "description": "Führung durch das Schloss Benrath auf Englisch.",
    "source": "Schloss Benrath",
    "horizon_days": 21
-  },
-  {
-   "title": "Red Onion Hot Jazz",
-   "date": "2026-10-24",
-   "time": "11:30",
-   "end_date": "2026-10-24",
-   "venue": "Antik- und Trödelzelt am Aachener Platz",
-   "address": "Ueadamm / Aachener Platz",
-   "locality": "Düsseldorf",
-   "price": "Eintritt frei",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/musikprogramm/2026-10-24-red-onion-hot-jazz/",
-   "category": "konzert",
-   "description": "Vintage Jazz live auf dem Trödelmarkt.",
-   "source": "Rýchok Aachener Platz"
   },
   {
    "title": "K20 Achtsamkeitsworkshop: Stille Wahrnehmung. Sehen als Erfahrung",
@@ -5946,6 +5822,7 @@
    "description": "Mit den Studierenden des Düsseldorfer Schauspielstudios Texte und Musik aus dem Kabarett Friedrich Hollaenders.",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -6117,20 +5994,6 @@
    "also_in": [
     "allevents: все"
    ]
-  },
-  {
-   "title": "Kürbisschnitzen auf dem Gut Hixholz",
-   "date": "2026-10-24",
-   "time": "",
-   "end_date": "",
-   "venue": "Gut Hixholz",
-   "address": "Im Hau 7",
-   "locality": "Velbert",
-   "price": "",
-   "url": "https://www.gut-hixholz.de/Kuerbisschnitzen-2023---Kuerbiswerkstaetten-Gut-Hixholz_5117.aspx",
-   "category": "событие",
-   "description": "An den Oktober-Samstagen lädt der Bauernhof offiziell zum Kürbisschnitzen ein.",
-   "source": "Mr. Düsseldorf"
   },
   {
    "title": "Leise rieselt der Schmäh - Wiener Kaffeehausgeschichten",
@@ -6312,20 +6175,6 @@
    "away": false
   },
   {
-   "title": "DEL2: DEG vs. EC Bad Nauheim",
-   "date": "2026-10-25",
-   "time": "15:00",
-   "end_date": "",
-   "venue": "PSD Bank Dome",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/saison/spielplan/",
-   "category": "спорт",
-   "description": "Spieltag 12 der DEL2 Saison 2026/27.",
-   "source": "DEG"
-  },
-  {
    "title": "Seniorentheater SeTA: Altweiberfrühling",
    "venue": "FFT Düsseldorf",
    "address": "",
@@ -6382,6 +6231,7 @@
    "source": "Schloss Benrath",
    "horizon_days": 21,
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -6642,20 +6492,6 @@
    "category": "рынок",
    "description": "Auf einem der gr&ouml;&szlig;ten OBI M&auml;rkte im Raum D&uuml;sseldorf findet einer der gr&ouml;&szlig;ten M&auml;rkte in NRW statt. F&uuml;r viele Besucher ist der 4. Sonntag, an dem der Markt in der Regel stattfindet, fest in den Kalender eingetragen. Das Warenangebot ist sehr abwechslungsreich ",
    "source": "Блошиные рынки (MFT)"
-  },
-  {
-   "title": "D-Schänke Kürbis Schnitzen",
-   "date": "2026-10-25",
-   "time": "",
-   "end_date": "",
-   "venue": "D-Schänke",
-   "address": "Alt Niederkassel 49",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.d-schaenke.de/",
-   "category": " событие",
-   "description": "Am 25. Oktober lädt die D-Schänke wieder zum Kürbis Schnitzen ein und bringt damit ordentlich Herbststimmung ins Viertel.",
-   "source": "Mr. Düsseldorf"
   },
   {
    "title": "Polizeiberatung im KAP1: Betrug? Nicht mit mir!",
@@ -7000,20 +6836,6 @@
    "end_date": ""
   },
   {
-   "title": "Creole Nignt Birds @EmPöötzke",
-   "date": "2026-10-28",
-   "time": "20:30",
-   "end_date": "2026-10-28",
-   "venue": "Em Pöötzke",
-   "address": "Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "Eintritt frei",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/",
-   "category": "konzert",
-   "description": "Foot tapping, finger snapping – echter New-Orleans-Jazz live.",
-   "source": "Rýchok Aachener Platz"
-  },
-  {
    "title": "Kuratorinnenführung: Franz Marc",
    "date": "2026-10-29",
    "time": "14:00",
@@ -7340,6 +7162,7 @@
    "description": "Von Ingmar Bergman Regie Thorleifur Örn Arnarsson.",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -7357,6 +7180,7 @@
    "description": "Von Takao Baba & Ensemble frei nach dem Film Die sieben Samurai von Akira Kurosawa Regie Takao Baba.",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -7447,20 +7271,6 @@
    "source": "DEG iCal",
    "team": "DEG",
    "away": false
-  },
-  {
-   "title": "DEL2: DEG vs. Eisbären Kassel",
-   "date": "2026-10-30",
-   "time": "19:30",
-   "end_date": "",
-   "venue": "PSD Bank Dome",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/saison/spielplan/",
-   "category": "спорт",
-   "description": "Spieltag 13 der DEL2 Saison 2026/27.",
-   "source": "DEG"
   },
   {
    "title": "Eishockey: Düsseldorfer EG - EC Kassel Huskies",
@@ -7650,20 +7460,6 @@
    "end_date": "2026-11-03"
   },
   {
-   "title": "Trödelmarkt Aachener Platz",
-   "date": "2026-10-31",
-   "time": "08:00",
-   "end_date": "2026-10-31",
-   "venue": "Trödel- und Antikmarkt am Aachener Platz",
-   "address": "Aachener Platz",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/",
-   "category": "markt",
-   "description": "Antik- und Trödelzelt, Freigelände und Café Sperrmüll.",
-   "source": "Rýchok Aachener Platz"
-  },
-  {
    "title": "Volksgarten parkrun Düsseldorf",
    "venue": "Volksgarten",
    "address": "",
@@ -7705,20 +7501,6 @@
    "date": "2026-10-31",
    "time": "11:00",
    "end_date": ""
-  },
-  {
-   "title": "Blue Rose New Orleans Jazzband",
-   "date": "2026-10-31",
-   "time": "11:30",
-   "end_date": "2026-10-31",
-   "venue": "Antik- und Trödelzelt am Aachener Platz",
-   "address": "Ueadamm / Aachener Platz",
-   "locality": "Düsseldorf",
-   "price": "Eintritt frei",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/musikprogramm/2026-10-31-blue-rose-new-orleans-jazzband/",
-   "category": "konzert",
-   "description": "Vintage Jazz live auf dem Trödelmarkt.",
-   "source": "Rýchok Aachener Platz"
   },
   {
    "title": "RE: Nature – rethink. reconnect. regenerate.",
@@ -7791,20 +7573,6 @@
    "description": "In der einstündigen Führung durch die Ausstellung werden Marcs tiefe Naturverbundenheit, seine Sehnsucht nach Harmonie sowie sein Weg zur Abstraktion und zur kubistischen Auflösung der Formen erlebbar.",
    "source": "Kunstsammlung NRW: календарь",
    "horizon_days": 21
-  },
-  {
-   "title": "Carlsplatz Kürbisschnitzen",
-   "date": "2026-10-31",
-   "time": "15:00",
-   "end_date": "",
-   "venue": "Carlsplatz",
-   "address": "Carlsplatz 4",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.carlsplatz-markt.de/termine",
-   "category": "событие",
-   "description": "Traditionell findet am 31. Oktober 2026 ab 15 Uhr auf dem Obermarkt das traditionelle Kürbisschnitzen für Groß und Klein statt.",
-   "source": "Mr. Düsseldorf"
   },
   {
    "title": "StreamD Radio – Halloween Spezial",
@@ -8274,6 +8042,7 @@
    "description": "Von Wajdi Mouawad Regie Bassam Ghazi.",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -8291,6 +8060,7 @@
    "description": "Von Gregory Caers und Ensemble Regie Gregory Caers.",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -8337,20 +8107,6 @@
    "date": "2026-11-01",
    "time": "17:00",
    "end_date": ""
-  },
-  {
-   "title": "DEL2: ETC Crimmitschau vs. DEG",
-   "date": "2026-11-01",
-   "time": "17:00",
-   "end_date": "",
-   "venue": "",
-   "address": "",
-   "locality": "Crimmitschau",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/saison/spielplan/",
-   "category": "спорт",
-   "description": "Spieltag 14 der DEL2 Saison 2026/27.",
-   "source": "DEG"
   },
   {
    "title": "Benefiz-Versteigerung zugunsten der Palliativ-Station der Uni-Klinik Düsseldorf",
@@ -8506,6 +8262,7 @@
    "description": "Von Gregory Caers und Ensemble Regie Gregory Caers.",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -8623,6 +8380,7 @@
    "description": "Von Gregory Caers und Ensemble Regie Gregory Caers.",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -8640,6 +8398,7 @@
    "description": "Von Takao Baba & Ensemble frei nach dem Film Die sieben Samurai von Akira Kurosawa Regie Takao Baba.",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -8768,20 +8527,6 @@
    "category": "театр",
    "description": "Nach Franz Kafka in einer Bearbeitung von Dorle Trachternach, Kamilė Gudmonaitė und Ensemble.",
    "source": "D'haus (Schauspielhaus)"
-  },
-  {
-   "title": "Creole Nignt Birds @EmPöötzke",
-   "date": "2026-11-04",
-   "time": "20:30",
-   "end_date": "2026-11-04",
-   "venue": "Em Pöötzke",
-   "address": "Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "Eintritt frei",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/",
-   "category": "konzert",
-   "description": "Foot tapping, finger snapping – echter New-Orleans-Jazz live.",
-   "source": "Rýchok Aachener Platz"
   },
   {
    "title": "1984 – Dystopie 2.0",
@@ -8940,20 +8685,6 @@
    "also_in": [
     "allevents: все"
    ]
-  },
-  {
-   "title": "Trödelmarkt Aachener Platz",
-   "date": "2026-11-07",
-   "time": "08:00",
-   "end_date": "2026-11-07",
-   "venue": "Trödel- und Antikmarkt am Aachener Platz",
-   "address": "Aachener Platz",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/",
-   "category": "markt",
-   "description": "Antik- und Trödelzelt, Freigelände und Café Sperrmüll.",
-   "source": "Rýchok Aachener Platz"
   },
   {
    "title": "FC Ingolstadt 04 — Fortuna",
@@ -9310,20 +9041,6 @@
    "source": "D'haus (Schauspielhaus)"
   },
   {
-   "title": "Creole Nignt Birds @EmPöötzke",
-   "date": "2026-11-11",
-   "time": "20:30",
-   "end_date": "2026-11-11",
-   "venue": "Em Pöötzke",
-   "address": "Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "Eintritt frei",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/",
-   "category": "konzert",
-   "description": "Foot tapping, finger snapping – echter New-Orleans-Jazz live.",
-   "source": "Rýchok Aachener Platz"
-  },
-  {
    "title": "Das NEINhorn",
    "date": "2026-11-12",
    "time": "10:00",
@@ -9446,34 +9163,6 @@
    "away": true
   },
   {
-   "title": "DEL2: ECDC Memmingen vs. DEG",
-   "date": "2026-11-13",
-   "time": "20:00",
-   "end_date": "",
-   "venue": "",
-   "address": "",
-   "locality": "Memmingen",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/saison/spielplan/",
-   "category": "спорт",
-   "description": "Spieltag 15 der DEL2 Saison 2026/27.",
-   "source": "DEG"
-  },
-  {
-   "title": "Trödelmarkt Aachener Platz",
-   "date": "2026-11-14",
-   "time": "08:00",
-   "end_date": "2026-11-14",
-   "venue": "Trödel- und Antikmarkt am Aachener Platz",
-   "address": "Aachener Platz",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/",
-   "category": "markt",
-   "description": "Antik- und Trödelzelt, Freigelände und Café Sperrmüll.",
-   "source": "Rýchok Aachener Platz"
-  },
-  {
    "title": "Good Charlotte Düsseldorf Tickets",
    "date": "2026-11-14",
    "time": "",
@@ -9583,20 +9272,6 @@
    "away": false
   },
   {
-   "title": "DEL2: DEG vs. Ravensburg Towerstars",
-   "date": "2026-11-15",
-   "time": "17:00",
-   "end_date": "",
-   "venue": "PSD Bank Dome",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/saison/spielplan/",
-   "category": "спорт",
-   "description": "Spieltag 16 der DEL2 Saison 2026/27.",
-   "source": "DEG"
-  },
-  {
    "title": "COMPAMED",
    "date": "2026-11-16",
    "time": "",
@@ -9641,34 +9316,6 @@
    "away": false
   },
   {
-   "title": "DEL2: DEG vs. Starbulls Rosenheim",
-   "date": "2026-11-17",
-   "time": "19:30",
-   "end_date": "",
-   "venue": "PSD Bank Dome",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/saison/spielplan/",
-   "category": "спорт",
-   "description": "Spieltag 17 der DEL2 Saison 2026/27.",
-   "source": "DEG"
-  },
-  {
-   "title": "Creole Nignt Birds @EmPöötzke",
-   "date": "2026-11-18",
-   "time": "20:30",
-   "end_date": "2026-11-18",
-   "venue": "Em Pöötzke",
-   "address": "Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "Eintritt frei",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/",
-   "category": "konzert",
-   "description": "Foot tapping, finger snapping – echter New-Orleans-Jazz live.",
-   "source": "Rýchok Aachener Platz"
-  },
-  {
    "time": "11:00",
    "end_date": "2026-12-30",
    "address": "",
@@ -9699,34 +9346,6 @@
    "source": "DEG iCal",
    "team": "DEG",
    "away": true
-  },
-  {
-   "title": "DEL2: Eislöwen Dresden vs. DEG",
-   "date": "2026-11-20",
-   "time": "19:30",
-   "end_date": "",
-   "venue": "",
-   "address": "",
-   "locality": "Dresden",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/saison/spielplan/",
-   "category": "спорт",
-   "description": "Spieltag 18 der DEL2 Saison 2026/27.",
-   "source": "DEG"
-  },
-  {
-   "title": "Trödelmarkt Aachener Platz",
-   "date": "2026-11-21",
-   "time": "08:00",
-   "end_date": "2026-11-21",
-   "venue": "Trödel- und Antikmarkt am Aachener Platz",
-   "address": "Aachener Platz",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/",
-   "category": "markt",
-   "description": "Antik- und Trödelzelt, Freigelände und Café Sperrmüll.",
-   "source": "Rýchok Aachener Platz"
   },
   {
    "title": "Fortuna — SG Sonnenhof Großaspach",
@@ -9806,34 +9425,6 @@
    "away": false
   },
   {
-   "title": "DEL2: DEG vs. Lausitzer Füchse",
-   "date": "2026-11-22",
-   "time": "18:30",
-   "end_date": "",
-   "venue": "PSD Bank Dome",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/saison/spielplan/",
-   "category": "спорт",
-   "description": "Spieltag 19 der DEL2 Saison 2026/27.",
-   "source": "DEG"
-  },
-  {
-   "title": "Creole Nignt Birds @EmPöötzke",
-   "date": "2026-11-25",
-   "time": "20:30",
-   "end_date": "2026-11-25",
-   "venue": "Em Pöötzke",
-   "address": "Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "Eintritt frei",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/",
-   "category": "konzert",
-   "description": "Foot tapping, finger snapping – echter New-Orleans-Jazz live.",
-   "source": "Rýchok Aachener Platz"
-  },
-  {
    "title": "Freiburg - DEG",
    "date": "2026-11-27",
    "time": "19:30",
@@ -9848,34 +9439,6 @@
    "source": "DEG iCal",
    "team": "DEG",
    "away": true
-  },
-  {
-   "title": "DEL2: Freiburger Wölfe vs. DEG",
-   "date": "2026-11-27",
-   "time": "19:30",
-   "end_date": "",
-   "venue": "",
-   "address": "",
-   "locality": "Freiburg im Breisgau",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/saison/spielplan/",
-   "category": "спорт",
-   "description": "Spieltag 20 der DEL2 Saison 2026/27.",
-   "source": "DEG"
-  },
-  {
-   "title": "Trödelmarkt Aachener Platz",
-   "date": "2026-11-28",
-   "time": "08:00",
-   "end_date": "2026-11-28",
-   "venue": "Trödel- und Antikmarkt am Aachener Platz",
-   "address": "Aachener Platz",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/",
-   "category": "markt",
-   "description": "Antik- und Trödelzelt, Freigelände und Café Sperrmüll.",
-   "source": "Rýchok Aachener Platz"
   },
   {
    "title": "Würzburger Kickers — Fortuna",
@@ -9952,20 +9515,6 @@
    "away": false
   },
   {
-   "title": "DEL2: DEG vs. Starbulls Rosenheim",
-   "date": "2026-11-29",
-   "time": "17:00",
-   "end_date": "",
-   "venue": "PSD Bank Dome",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/saison/spielplan/",
-   "category": "спорт",
-   "description": "Spieltag 21 der DEL2 Saison 2026/27.",
-   "source": "DEG"
-  },
-  {
    "title": "Melan Trödelmarkt Düsseldorf Ikea",
    "date": "2026-11-29",
    "time": "",
@@ -9996,20 +9545,6 @@
    "away": false
   },
   {
-   "title": "DEL2: DEG vs. EV Landshut",
-   "date": "2026-12-01",
-   "time": "19:30",
-   "end_date": "",
-   "venue": "PSD Bank Dome",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/saison/spielplan/",
-   "category": "спорт",
-   "description": "Spieltag 22 der DEL2 Saison 2026/27.",
-   "source": "DEG"
-  },
-  {
    "title": "VALVE WORLD EXPO",
    "date": "2026-12-01",
    "time": "",
@@ -10022,20 +9557,6 @@
    "category": "выставка",
    "description": "VALVE WORLD EXPO - 14. Internationale Fachmesse mit Kongress für Industrie-Armaturen",
    "source": "Messe Düsseldorf"
-  },
-  {
-   "title": "Creole Nignt Birds @EmPöötzke",
-   "date": "2026-12-02",
-   "time": "20:30",
-   "end_date": "2026-12-02",
-   "venue": "Em Pöötzke",
-   "address": "Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "Eintritt frei",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/",
-   "category": "konzert",
-   "description": "Foot tapping, finger snapping – echter New-Orleans-Jazz live.",
-   "source": "Rýchok Aachener Platz"
   },
   {
    "title": "sustainable solutions",
@@ -10066,34 +9587,6 @@
    "source": "DEG iCal",
    "team": "DEG",
    "away": false
-  },
-  {
-   "title": "DEL2: DEG vs. Eisbären Regensburg",
-   "date": "2026-12-04",
-   "time": "19:30",
-   "end_date": "",
-   "venue": "PSD Bank Dome",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/saison/spielplan/",
-   "category": "спорт",
-   "description": "Spieltag 23 der DEL2 Saison 2026/27.",
-   "source": "DEG"
-  },
-  {
-   "title": "Trödelmarkt Aachener Platz",
-   "date": "2026-12-05",
-   "time": "08:00",
-   "end_date": "2026-12-05",
-   "venue": "Trödel- und Antikmarkt am Aachener Platz",
-   "address": "Aachener Platz",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/",
-   "category": "markt",
-   "description": "Antik- und Trödelzelt, Freigelände und Café Sperrmüll.",
-   "source": "Rýchok Aachener Platz"
   },
   {
    "title": "Fortuna — SV Wehen Wiesbaden",
@@ -10156,34 +9649,6 @@
    "away": true
   },
   {
-   "title": "DEL2: EC Bad Nauheim vs. DEG",
-   "date": "2026-12-06",
-   "time": "18:30",
-   "end_date": "",
-   "venue": "",
-   "address": "",
-   "locality": "Bad Nauheim",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/saison/spielplan/",
-   "category": "спорт",
-   "description": "Spieltag 24 der DEL2 Saison 2026/27.",
-   "source": "DEG"
-  },
-  {
-   "title": "Creole Nignt Birds @EmPöötzke",
-   "date": "2026-12-09",
-   "time": "20:30",
-   "end_date": "2026-12-09",
-   "venue": "Em Pöötzke",
-   "address": "Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "Eintritt frei",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/",
-   "category": "konzert",
-   "description": "Foot tapping, finger snapping – echter New-Orleans-Jazz live.",
-   "source": "Rýchok Aachener Platz"
-  },
-  {
    "title": "Kassel - DEG",
    "date": "2026-12-11",
    "time": "19:30",
@@ -10198,34 +9663,6 @@
    "source": "DEG iCal",
    "team": "DEG",
    "away": true
-  },
-  {
-   "title": "DEL2: Eisbären Kassel vs. DEG",
-   "date": "2026-12-11",
-   "time": "19:30",
-   "end_date": "",
-   "venue": "",
-   "address": "",
-   "locality": "Kassel",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/saison/spielplan/",
-   "category": "спорт",
-   "description": "Spieltag 25 der DEL2 Saison 2026/27.",
-   "source": "DEG"
-  },
-  {
-   "title": "Trödelmarkt Aachener Platz",
-   "date": "2026-12-12",
-   "time": "08:00",
-   "end_date": "2026-12-12",
-   "venue": "Trödel- und Antikmarkt am Aachener Platz",
-   "address": "Aachener Platz",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/",
-   "category": "markt",
-   "description": "Antik- und Trödelzelt, Freigelände und Café Sperrmüll.",
-   "source": "Rýchok Aachener Platz"
   },
   {
    "title": "Viktoria Köln — Fortuna",
@@ -10355,6 +9792,7 @@
    "horizon_days": 400,
    "big": true,
    "also_in": [
+    "rheinkirmes-duesseldorf.de",
     "rheinkirmes-duesseldorf.de"
    ]
   },
