@@ -73,16 +73,14 @@ def themes(title="", place="", category=""):
 
 
 def tall(path):
-    """Вертикальный или почти квадратный кадр — в сторис почти не обрезается."""
-    if str(path).endswith(".mp4"):
+    """Вертикальный или почти квадратный кадр — в сторис почти не обрезается.
+    Размер читаем через ffprobe (он есть везде, где собираются сторис); при ошибке считаем кадр горизонтальным."""
+    try:
         out = subprocess.run(["ffprobe", "-v", "error", "-select_streams", "v:0", "-show_entries", "stream=width,height",
                               "-of", "csv=p=0", str(path)], capture_output=True, text=True).stdout.strip()
-    else:
-        out = subprocess.run(["identify", "-format", "%w,%h", str(path) + "[0]"], capture_output=True, text=True).stdout
-    try:
         w, h = map(int, out.split(",")[:2])
         return h / w >= 0.95
-    except ValueError:
+    except (OSError, ValueError):
         return False
 
 
@@ -90,7 +88,7 @@ def video_len(path):
     try:
         return float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0",
                                      str(path)], capture_output=True, text=True).stdout)
-    except ValueError:
+    except (OSError, ValueError):
         return 0.0
 
 
