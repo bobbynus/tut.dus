@@ -118,7 +118,11 @@ def fit(s, base, long_at, small):
 def background(picker, wanted, min_video):
     """Фон слайда по смыслу (tools/stories/backgrounds.py): фото, видео или фирменный.
     Возвращает (html фона, подпись автора, запись о видео или None)."""
-    got = picker.pick(wanted, min_video=min_video)
+    try:
+        got = picker.pick(wanted, min_video=min_video)
+    except Exception as e:  # фон никогда не должен ломать сторис
+        print(f"Фон: {e} — фирменный фон")
+        got = None
     credit = f'<div class="credit">{esc(got["credit"])}</div>' if got and got.get("credit") else ""
     if not got:
         return '<div class="bg brand"></div>', "", None
