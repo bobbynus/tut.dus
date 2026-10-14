@@ -13,6 +13,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: events-collect
@@ -42,4 +43,15 @@ jobs:
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add posts data && git commit -m "Daily stories ${{ inputs.date }} [skip ci]"
             git pull --rebase -q && git push
+          fi
+      - name: Alert on failure
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          title="Утренние сторис не собрались"
+          gh label create "внимание" --color e2001a --force -R "$GITHUB_REPOSITORY" >/dev/null
+          if [ -z "$(gh issue list -R "$GITHUB_REPOSITORY" --label "внимание" --state open --search "$title in:title" --json number -q '.[].number')" ]; then
+            gh issue create -R "$GITHUB_REPOSITORY" --label "внимание" --title "$title" \
+              --body "@${GITHUB_REPOSITORY_OWNER} Сборка сторис упала: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID — утром они не выйдут, пока не починим. Напишите Claude."
           fi
