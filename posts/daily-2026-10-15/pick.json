@@ -1,0 +1,60 @@
+{
+ "list": [
+  {
+   "time": "17:00",
+   "title": "Klima Café",
+   "place": "Schauspielhaus, Lounge"
+  },
+  {
+   "time": "18:30",
+   "title": "Offenes Impro-Training",
+   "place": "Central Brücke"
+  },
+  {
+   "time": "19:00",
+   "title": "Palliativ meets Music",
+   "place": "Marien Hospital"
+  },
+  {
+   "time": "19:30",
+   "title": "The World of Hans Zimmer",
+   "place": "PSD Bank Dome"
+  },
+  {
+   "time": "20:00",
+   "title": "Jules Ahoi",
+   "place": "WELTKUNSTZIMMER"
+  },
+  {
+   "time": "",
+   "title": "Winfred Gaul",
+   "place": "Kunstpalast"
+  }
+ ],
+ "highlights": [
+  {
+   "title": "Klima Café",
+   "text": "Приглашают Psychologists4Future на встречу в формате открытого кафе.",
+   "time": "17:00",
+   "place": "Schauspielhaus, Lounge",
+   "price": "бесплатно",
+   "tag": "бесплатно"
+  },
+  {
+   "title": "Offenes Impro-Training",
+   "place": "Central Brücke",
+   "price": "бесплатно",
+   "tag": "бесплатно",
+   "text": "Зарегистрируйтесь, приходите и участвуйте вместе с D’Impronauten.",
+   "time": "18:30"
+  },
+  {
+   "title": "The World of Hans Zimmer",
+   "text": "Окунитесь в магический мир музыки из кинофильмов вживую.",
+   "time": "19:30",
+   "place": "PSD Bank Dome",
+   "price": "от 220 €",
+   "tag": "концерт"
+  }
+ ]
+}
