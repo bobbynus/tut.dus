@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-14T08:09",
- "count": 680,
+ "generated_at": "2026-10-14T13:48",
+ "count": 698,
  "events": [
   {
    "title": "A44:  Düsseldorf -> Essen",
@@ -119,55 +119,13 @@
    "date": "2026-10-14",
    "time": "07:00",
    "end_date": "",
-   "venue": "Düsseldorf Franziusstraße",
+   "venue": "",
    "address": "Franziusstraße",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://prinz.de/events/stadtrallye-duesseldorf-dreister-diebstahl-im-medienhafen-die-flossis-sind-weg-2/2026-10-14/",
    "category": "экскурсия",
-   "description": "Stadtrallye Düsseldorf",
-   "source": "Prinz"
-  },
-  {
-   "title": "Der Aufbau der GeSoLei",
-   "venue": "Stadtarchiv Düsseldorf",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Vor 100 Jahren - vom 8. Mai bis zum 15. Oktober 1926 - wurde in Düsseldorf die Ausstellung für Gesundheitspflege, soziale Fürsorge und Leibesübungen gezeigt.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-14",
-   "time": "08:30",
-   "end_date": ""
-  },
-  {
-   "title": "Bin gleich fertig!",
-   "date": "2026-10-14",
-   "time": "10:00",
-   "end_date": "2026-10-14",
-   "venue": "Central 2",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/bin-gleich-fertig/2937/",
-   "category": "театр",
-   "description": "Leider muss die geplante Vorstellung entfallen.",
-   "source": "D'haus (Schauspielhaus)"
-  },
-  {
-   "title": "Altstadt Kneipentour mit allen Bier- & Kneipengeschichten auf deinem Smartphone",
-   "date": "2026-10-14",
-   "time": "10:00",
-   "end_date": "",
-   "venue": "Bolker Straße",
-   "address": "Bolker Straße",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/altstadt-kneipentour-mit-allen-bier-kneipengeschichten-auf-deinem-smartphone/2026-10-14/",
-   "category": "экскурсия",
-   "description": "Altstadt Kneipentour mit allen Bier- & Kneipengeschichten",
+   "description": "",
    "source": "Prinz"
   },
   {
@@ -199,17 +157,45 @@
    "end_date": ""
   },
   {
+   "title": "Altstadt Kneipentour mit allen Bier- & Kneipengeschichten auf deinem Smartphone",
+   "date": "2026-10-14",
+   "time": "10:00",
+   "end_date": "",
+   "venue": "",
+   "address": "Bolker Straße",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://prinz.de/events/altstadt-kneipentour-mit-allen-bier-kneipengeschichten-auf-deinem-smartphone/2026-10-14/",
+   "category": "экскурсия",
+   "description": "",
+   "source": "Prinz"
+  },
+  {
+   "title": "Bin gleich fertig! – Düsseldorfer Schauspielhaus",
+   "date": "2026-10-14",
+   "time": "10:00",
+   "end_date": "",
+   "venue": "Central 1",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://prinz.de/events/bin-gleich-fertig-duesseldorfer-schauspielhaus/2026-10-14/",
+   "category": "театр",
+   "description": "",
+   "source": "Prinz"
+  },
+  {
    "title": "Düsseldorf Altstadt und Altbier Tour | Adventure World Tours",
    "date": "2026-10-14",
-   "time": "12:00",
+   "time": "11:00",
    "end_date": "",
-   "venue": "U-Bahnhof Heinrich-Heine-Alle (Ausgang Heinrich-Heine-Platz)",
+   "venue": "U-Bahnhof Heinrich-Heine-Allee (Ausgang Heinrich-Heine-Platz)",
    "address": "Heinrich-Heine-Platz",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://prinz.de/events/duesseldorf-altstadt-und-altbier-tour-adventure-world-tours/2026-10-14/",
    "category": "экскурсия",
-   "description": "Düsseldorf Altstadt und Altbier Tour",
+   "description": "",
    "source": "Prinz"
   },
   {
@@ -223,7 +209,21 @@
    "price": "",
    "url": "https://prinz.de/events/xfood-tour-flingern-kulinarisch-adventure-world-tours/2026-10-14/",
    "category": "экскурсия",
-   "description": "XFood Tour – Flingern kulinarisch",
+   "description": "",
+   "source": "Prinz"
+  },
+  {
+   "title": "Stadtführung 2026",
+   "date": "2026-10-14",
+   "time": "15:00",
+   "end_date": "",
+   "venue": "Treffpunkt: Café Fritzenkötter",
+   "address": "",
+   "locality": "Gütersloh",
+   "price": "",
+   "url": "https://prinz.de/events/stadtfuehrung-2026/2026-10-14/",
+   "category": "экскурсия",
+   "description": "",
    "source": "Prinz"
   },
   {
@@ -241,17 +241,17 @@
    "end_date": ""
   },
   {
-   "title": "Stadtführung 2026",
+   "title": "Kulinarik-Touren 2026",
    "date": "2026-10-14",
    "time": "16:30",
    "end_date": "",
-   "venue": "Café Fritzenkötter",
+   "venue": "Tourist-Information am Landschaftspark Rheinbogen",
    "address": "",
-   "locality": "Gütersloh",
+   "locality": "Monheim am Rhein",
    "price": "",
-   "url": "https://prinz.de/events/stadtfuehrung-2026/2026-10-14/",
+   "url": "https://prinz.de/events/kulinarik-touren-2026/2026-10-14/",
    "category": "экскурсия",
-   "description": "Stadtführung 2026",
+   "description": "",
    "source": "Prinz"
   },
   {
@@ -262,25 +262,11 @@
    "venue": "Schauspielhaus, Foyer",
    "address": "Gustaf-Gründgens-Platz 1",
    "locality": "Düsseldorf",
-   "price": "Frei",
+   "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/move-it/2997/",
-   "category": "событие",
+   "category": "театр",
    "description": "Tanz — Bringt bitte Sportkleidung mit.",
    "source": "D'haus (Schauspielhaus)"
-  },
-  {
-   "title": "Kulinarik-Touren 2026",
-   "date": "2026-10-14",
-   "time": "17:00",
-   "end_date": "",
-   "venue": "Tourist-Information am Landschaftspark Rheinbogen",
-   "address": "",
-   "locality": "Monheim am Rhein",
-   "price": "",
-   "url": "https://prinz.de/events/kulinarik-touren-2026/2026-10-14/",
-   "category": "экскурсия",
-   "description": "Kulinarik-Touren 2026",
-   "source": "Prinz"
   },
   {
    "title": "Über das Sterben zu reden, hat noch niemanden umgebracht",
@@ -295,6 +281,20 @@
    "date": "2026-10-14",
    "time": "17:00",
    "end_date": ""
+  },
+  {
+   "title": "Aquazoo Löbbecke Museum Düsseldorf",
+   "date": "2026-10-14",
+   "time": "17:00",
+   "end_date": "",
+   "venue": "Aquazoo Löbbecke",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://prinz.de/events/aquazoo-loebbecke-museum-duesseldorf/2026-10-14/",
+   "category": "выставка",
+   "description": "",
+   "source": "Prinz"
   },
   {
    "title": "DIE MÖWE",
@@ -314,43 +314,15 @@
    "title": "SUNSET DANCE - Line Dance für Jedermann/-frau (West Coast Swing-Special)",
    "date": "2026-10-14",
    "time": "18:00",
-   "end_date": "2026-10-14",
-   "venue": "Tonhallenufer",
+   "end_date": "",
+   "venue": "StadtStrand",
    "address": "Tonhallenufer",
    "locality": "Düsseldorf",
-   "price": "",
+   "price": "kostenlos",
    "url": "https://www.stadtstrand-duesseldorf.de/events/sunset-dance---line-dance-fur-jedermann--frau-west-coast-swing-special-2",
    "category": "вечеринка",
-   "description": "SUNSET DANCE - Line Dance für Jedermann/-frau",
+   "description": "Ab Mai ist auch der Kunst- und Kulturstrand an der Oberkasseler Brücke in seine Sommersaison gestartet.",
    "source": "StadtStrand"
-  },
-  {
-   "title": "Die Möwe – Düsseldorfer Schauspielhaus",
-   "date": "2026-10-14",
-   "time": "18:00",
-   "end_date": "",
-   "venue": "Schauspielhaus – Großes Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/die-moewe-duesseldorfer-schauspielhaus/2026-10-14/",
-   "category": "театр",
-   "description": "Die Möwe – Düsseldorfer Schauspielhaus",
-   "source": "Prinz"
-  },
-  {
-   "title": "Aquazoo Löbbecke Museum Düsseldorf",
-   "date": "2026-10-14",
-   "time": "18:00",
-   "end_date": "",
-   "venue": "Aquazoo Löbbecke",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/aquazoo-loebbecke-museum-duesseldorf/2026-10-14/",
-   "category": "выставка",
-   "description": "Aquazoo Löbbecke Museum Düsseldorf",
-   "source": "Prinz"
   },
   {
    "title": "Ultraschall",
@@ -393,6 +365,20 @@
    "date": "2026-10-14",
    "time": "18:00",
    "end_date": ""
+  },
+  {
+   "title": "Die Möwe – Düsseldorfer Schauspielhaus",
+   "date": "2026-10-14",
+   "time": "18:00",
+   "end_date": "",
+   "venue": "Schauspielhaus – Großes Haus",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://prinz.de/events/die-moewe-duesseldorfer-schauspielhaus/2026-10-14/",
+   "category": "театр",
+   "description": "",
+   "source": "Prinz"
   },
   {
    "title": "Barbara Ming: \"Bis zum häutigen Tag\"",
@@ -445,27 +431,27 @@
    "address": "",
    "locality": "Düsseldorf",
    "price": "25 Euro pro Person",
-   "url": "https://www.duesseldorf.de/hetjens/veranstaltungskalender",
+   "url": "https://t3dus.duesseldorf.de/hetjens/veranstaltungskalender#",
    "category": "выставка",
-   "description": "Aktzeichnen für Beginnende und Erfahrene.",
+   "description": "Aktzeichnen für Beginnende und Erfahrene im Hetjens Museum.",
    "source": "Hetjens – Deutsches Keramikmuseum",
    "horizon_days": 21
   },
   {
-   "title": "ROMEO & JULIA – Liebe ist alles – Die Tour",
-   "date": "2026-10-14",
-   "time": "18:30",
-   "end_date": "2026-10-25",
+   "title": "Romeo & Julia - Liebe ist alles",
    "venue": "Capitol Theater",
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://prinz.de/events/romeo-julia-liebe-ist-alles-2/2026-10-14/",
+   "url": "https://www.westticket.de/eventseries/3704268?affiliate=5VD",
    "category": "театр",
-   "description": "ROMEO & JULIA – Liebe ist alles – Die Tour",
-   "source": "Prinz",
+   "description": "Die Geschichte ist bekannt: ein Maskenball in Verona, ein Blick, ein Kuss – und zwei Liebende, die sich gegen die Welt stellen müssen.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-14",
+   "time": "18:30",
+   "end_date": "2026-10-25",
    "also_in": [
-    "Visit Düsseldorf"
+    "Prinz"
    ]
   },
   {
@@ -476,9 +462,9 @@
    "venue": "Central Brücke",
    "address": "Gustaf-Gründgens-Platz 1",
    "locality": "Düsseldorf",
-   "price": "Frei",
+   "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/freestyle-session-space/2999/",
-   "category": "событие",
+   "category": "театр",
    "description": "Freies Training für urbane Tänzer:innen",
    "source": "D'haus (Schauspielhaus)"
   },
@@ -497,62 +483,6 @@
    "source": "OpenLigaDB",
    "team": "Fortuna",
    "away": true
-  },
-  {
-   "title": "BRAUHAUS-QUIZabend",
-   "date": "2026-10-14",
-   "time": "19:00",
-   "end_date": "",
-   "venue": "Gaststätte Vennen Im alten Brauhaus",
-   "address": "",
-   "locality": "Korschenbroich",
-   "price": "",
-   "url": "https://prinz.de/events/brauhaus-quizabend/2026-10-14/",
-   "category": "событие",
-   "description": "BRAUHAUS-QUIZabend",
-   "source": "Prinz"
-  },
-  {
-   "title": "Felukah",
-   "date": "2026-10-14",
-   "time": "19:00",
-   "end_date": "",
-   "venue": "Ampere",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/felukah/2026-10-14/",
-   "category": "концерт",
-   "description": "Felukah live",
-   "source": "Prinz"
-  },
-  {
-   "title": "Frau Höpker bittet zum Gesang",
-   "date": "2026-10-14",
-   "time": "19:00",
-   "end_date": "",
-   "venue": "Henkel-Saal",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/frau-hoepker-bittet-zum-gesang/2026-10-14/",
-   "category": "событие",
-   "description": "Frau Höpker bittet zum Gesang",
-   "source": "Prinz"
-  },
-  {
-   "title": "The Pioneer Late Night Briefing",
-   "date": "2026-10-14",
-   "time": "19:00",
-   "end_date": "",
-   "venue": "Rheinterrasse",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/the-pioneer-late-night-briefing/2026-10-14/",
-   "category": "событие",
-   "description": "The Pioneer Late Night Briefing",
-   "source": "Prinz"
   },
   {
    "title": "Menschliches (Über-)leben im Weltraum",
@@ -600,6 +530,62 @@
    ]
   },
   {
+   "title": "BRAUHAUS-QUIZabend",
+   "date": "2026-10-14",
+   "time": "19:00",
+   "end_date": "",
+   "venue": "Gaststätte Vennen Im alten Brauhaus",
+   "address": "",
+   "locality": "Korschenbroich",
+   "price": "",
+   "url": "https://prinz.de/events/brauhaus-quizabend/2026-10-14/",
+   "category": "событие",
+   "description": "",
+   "source": "Prinz"
+  },
+  {
+   "title": "Felukah",
+   "date": "2026-10-14",
+   "time": "19:00",
+   "end_date": "",
+   "venue": "Ampere",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://prinz.de/events/felukah/2026-10-14/",
+   "category": "концерт",
+   "description": "",
+   "source": "Prinz"
+  },
+  {
+   "title": "Frau Höpker bittet zum Gesang",
+   "date": "2026-10-14",
+   "time": "19:00",
+   "end_date": "",
+   "venue": "Henkel-Saal",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://prinz.de/events/frau-hoepker-bittet-zum-gesang/2026-10-14/",
+   "category": "концерт",
+   "description": "",
+   "source": "Prinz"
+  },
+  {
+   "title": "The Pioneer Late Night Briefing",
+   "date": "2026-10-14",
+   "time": "19:00",
+   "end_date": "",
+   "venue": "Rheinterrasse",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://prinz.de/events/the-pioneer-late-night-briefing/2026-10-14/",
+   "category": "событие",
+   "description": "",
+   "source": "Prinz"
+  },
+  {
    "title": "OUTATIME",
    "venue": "",
    "address": "",
@@ -612,51 +598,6 @@
    "date": "2026-10-14",
    "time": "19:00",
    "end_date": ""
-  },
-  {
-   "title": "IDO-Festival 2026",
-   "date": "2026-10-14",
-   "time": "19:30",
-   "end_date": "",
-   "venue": "St. Franziskus Xaverius",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/ido-festival-2026/2026-10-14/",
-   "category": "фестиваль",
-   "description": "IDO-Festival 2026",
-   "source": "Prinz"
-  },
-  {
-   "title": "Internationale Tanzwochen Neuss 2026",
-   "date": "2026-10-14",
-   "time": "19:30",
-   "end_date": "",
-   "venue": "Rheinisches Landestheater Neuss",
-   "address": "",
-   "locality": "Neuss",
-   "price": "",
-   "url": "https://prinz.de/events/internationale-tanzwochen-neuss-2026/2026-10-14/",
-   "category": "фестиваль",
-   "description": "Internationale Tanzwochen Neuss 2026",
-   "source": "Prinz"
-  },
-  {
-   "title": "It’s a kind of Magic – Roncalli’s Apollo Varieté",
-   "date": "2026-10-14",
-   "time": "19:30",
-   "end_date": "2026-10-18",
-   "venue": "Roncalli's Apollo Variete",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/its-a-kind-of-magic-roncallis-apollo-variete/2026-10-14/",
-   "category": "театр",
-   "description": "It’s a kind of Magic – Roncalli’s Apollo Varieté",
-   "source": "Prinz",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
   },
   {
    "title": "21. IDO-Festival: Lebensfreude pur! Gospelchor & Tanz",
@@ -673,62 +614,48 @@
    "end_date": ""
   },
   {
-   "title": "Blueprint Comedy – Comedy & Cocktails | Düsseldorf",
-   "date": "2026-10-14",
-   "time": "20:00",
-   "end_date": "",
-   "venue": "dstrct.art",
+   "title": "It's a Kind of Magic",
+   "venue": "Roncalli’s Apollo-Varieté",
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://prinz.de/events/blueprint-comedy-cocktails/2026-10-14/",
-   "category": "событие",
-   "description": "Blueprint Comedy – Comedy & Cocktails",
-   "source": "Prinz"
-  },
-  {
-   "title": "Comedyflash – Die Stand Up Comedy Show in Düsseldorf",
+   "url": "https://www.westticket.de/eventseries/4032630?affiliate=5VD",
+   "category": "театр",
+   "description": "Stühle schweben über die Bühne, Kleider wechseln wie von Zauberhand und Menschen erscheinen plötzlich aus dem Nichts. Vom 14. August bis 18. Oktober 2026 entführt Roncalli’s Apollo Varieté sein Publikum in eine Welt voller Wunder.",
+   "source": "Visit Düsseldorf",
    "date": "2026-10-14",
-   "time": "20:00",
-   "end_date": "2027-03-27",
-   "venue": "Comedy Club Düsseldorf",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/comedyflash-die-stand-up-comedy-show-in-duesseldorf/2026-10-14/",
-   "category": "событие",
-   "description": "Comedyflash – Die Stand Up Comedy Show in Düsseldorf",
-   "source": "Prinz",
+   "time": "19:30",
+   "end_date": "2026-10-18",
    "also_in": [
-    "Visit Düsseldorf"
+    "Prinz"
    ]
   },
   {
-   "title": "Der Rausch – Theater an der Kö",
+   "title": "IDO-Festival 2026",
    "date": "2026-10-14",
-   "time": "20:00",
+   "time": "19:30",
    "end_date": "",
-   "venue": "Theater an der Kö",
+   "venue": "St. Franziskus Xaverius",
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://prinz.de/events/der-rausch-theater-an-der-koe/2026-10-14/",
-   "category": "театр",
-   "description": "Der Rausch – Theater an der Kö",
+   "url": "https://prinz.de/events/ido-festival-2026/2026-10-14/",
+   "category": "фестиваль",
+   "description": "",
    "source": "Prinz"
   },
   {
-   "title": "Sarah MacDougall / Lisa MacIsaac / Catherine MacLellan",
+   "title": "Internationale Tanzwochen Neuss 2026",
    "date": "2026-10-14",
-   "time": "20:00",
+   "time": "19:30",
    "end_date": "",
-   "venue": "me and all hotel Düsseldorf-Oberkassel",
+   "venue": "Rheinisches Landestheater Neuss",
    "address": "",
-   "locality": "Düsseldorf",
+   "locality": "Neuss",
    "price": "",
-   "url": "https://prinz.de/events/macdougall-macisaac-maclellan-hot-jazz-club/2026-10-14/",
-   "category": "концерт",
-   "description": "Sarah MacDougall, Lisa MacIsaac und Catherine MacLellan live",
+   "url": "https://prinz.de/events/internationale-tanzwochen-neuss-2026/2026-10-14/",
+   "category": "событие",
+   "description": "",
    "source": "Prinz"
   },
   {
@@ -774,6 +701,65 @@
    "end_date": ""
   },
   {
+   "title": "Blueprint Comedy – Comedy & Cocktails | Düsseldorf",
+   "date": "2026-10-14",
+   "time": "20:00",
+   "end_date": "",
+   "venue": "dstrct.art",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://prinz.de/events/blueprint-comedy-cocktails/2026-10-14/",
+   "category": "событие",
+   "description": "",
+   "source": "Prinz"
+  },
+  {
+   "title": "Comedyflash – Die Stand Up Comedy Show in Düsseldorf",
+   "date": "2026-10-14",
+   "time": "20:00",
+   "end_date": "2027-03-27",
+   "venue": "Comedy Club Düsseldorf",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://prinz.de/events/comedyflash-die-stand-up-comedy-show-in-duesseldorf/2026-10-14/",
+   "category": "событие",
+   "description": "Live Stand Up Comedy mit Newcomern und Profis: Wir präsentieren euch einen Mix aus erfahrenen Profi-Comedians und den heißesten Newcomern der Düsseldorfer Comedy-Szene.",
+   "source": "Prinz",
+   "also_in": [
+    "Visit Düsseldorf"
+   ]
+  },
+  {
+   "title": "Der Rausch – Theater an der Kö",
+   "date": "2026-10-14",
+   "time": "20:00",
+   "end_date": "",
+   "venue": "Theater an der Kö",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://prinz.de/events/der-rausch-theater-an-der-koe/2026-10-14/",
+   "category": "событие",
+   "description": "",
+   "source": "Prinz"
+  },
+  {
+   "title": "Sarah MacDougall / Lisa MacIsaac / Catherine MacLellan",
+   "date": "2026-10-14",
+   "time": "20:00",
+   "end_date": "",
+   "venue": "me and all hotel Düsseldorf-Oberkassel",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://prinz.de/events/macdougall-macisaac-maclellan-hot-jazz-club/2026-10-14/",
+   "category": "концерт",
+   "description": "",
+   "source": "Prinz"
+  },
+  {
    "title": "Noche de la Salsa",
    "venue": "tanzhaus nrw",
    "address": "",
@@ -788,18 +774,18 @@
    "end_date": ""
   },
   {
-   "title": "Creole Nignt Birds",
+   "title": "Creole Nignt Birds @EmPöötzke",
    "date": "2026-10-14",
    "time": "20:30",
    "end_date": "",
    "venue": "Em Pöötzke",
-   "address": "Düsseldorf",
+   "address": "",
    "locality": "Düsseldorf",
    "price": "Eintritt frei!",
    "url": "https://www.troedelmarkt-aachenerplatz.de/",
    "category": "konzert",
    "description": "Foot tapping, finger snapping – echter New-Orleans-Jazz live.",
-   "source": "Rынок Aachener Platz"
+   "source": "Рынок Aachener Platz"
   },
   {
    "title": "Das große Ersti-Festival Münster",
@@ -812,7 +798,7 @@
    "price": "",
    "url": "https://prinz.de/events/das-grosse-ersti-festival-muenster/2026-10-14/",
    "category": "вечеринка",
-   "description": "Das große Ersti-Festival Münster",
+   "description": "",
    "source": "Prinz"
   },
   {
@@ -845,7 +831,7 @@
    "price": "",
    "url": "https://www.kunst-im-tunnel.de/programm/kalender/pottery-lab-2-taegiger-keramik-workshop-kurs-1/",
    "category": "выставка",
-   "description": "Pottery Lab, 2-tägiger Keramik-Workshop, Kurs 1 im KIT – Kunst im Tunnel.",
+   "description": "Pottery Lab, 2-tägiger Keramik-Workshop, Kurs 1.",
    "source": "KIT – Kunst im Tunnel",
    "horizon_days": 21,
    "also_in": [
@@ -892,7 +878,7 @@
    ]
   },
   {
-   "title": "Kürbispark",
+   "title": "Kürbisfest / Kürbispark",
    "date": "2026-10-14",
    "time": "",
    "end_date": "2026-11-09",
@@ -901,9 +887,9 @@
    "locality": "Hürth",
    "price": "",
    "url": "https://www.instagram.com/reel/DdZTJUjq0Tb/",
-   "category": " событие",
+   "category": "фестиваль",
    "description": "Vom 5. September bis 9. November 2026 verwandelt sich das Erlebnisgelände wieder in einen riesigen Kürbispark rund um die berühmte Kürbispyramide.",
-   "source": "Mr. Düsseldorf (RSS)"
+   "source": "Mr. Düsseldorf"
   },
   {
    "title": "Sparda-Kunst-Apéro",
@@ -931,7 +917,7 @@
    "price": "",
    "url": "https://www.kunst-im-tunnel.de/programm/kalender/feministischer-workshop-ab-16-jahren-banden-bilden-image-check-wie-fotos-unsere-sichtweisen-praegen/",
    "category": "выставка",
-   "description": "Feministischer Workshop ab 16 Jahren im KIT – Kunst im Tunnel.",
+   "description": "Feministischer Workshop ab 16 Jahren: Banden bilden – Image Check.",
    "source": "KIT – Kunst im Tunnel",
    "horizon_days": 21
   },
@@ -946,7 +932,7 @@
    "price": "",
    "url": "https://www.kunst-im-tunnel.de/programm/kalender/themenfuehrung-im-dialog-wer-bin-ich-wer-will-ich-sein-identitaet-im-blick-der-kamera/",
    "category": "выставка",
-   "description": "Themenführung im DIALOG im KIT – Kunst im Tunnel.",
+   "description": "Themenführung im DIALOG: Wer bin ich? Wer will ich sein?",
    "source": "KIT – Kunst im Tunnel",
    "horizon_days": 21
   },
@@ -976,7 +962,7 @@
    "price": "",
    "url": "https://www.kunst-im-tunnel.de/programm/kalender/halloween-abend-fuer-kinder-im-tunnel-sind-die-geister-los-2/",
    "category": "детям",
-   "description": "Halloween-Abend für Kinder im KIT – Kunst im Tunnel.",
+   "description": "Halloween-Abend für Kinder im KIT.",
    "source": "KIT – Kunst im Tunnel",
    "horizon_days": 21
   },
@@ -991,7 +977,7 @@
    "price": "",
    "url": "https://www.kunst-im-tunnel.de/programm/kalender/themenfuehrung-im-dialog-warum-ist-das-kunst/",
    "category": "выставка",
-   "description": "Themenführung im DIALOG im KIT – Kunst im Tunnel.",
+   "description": "Themenführung im DIALOG: Warum ist das Kunst?",
    "source": "KIT – Kunst im Tunnel",
    "horizon_days": 21
   },
@@ -1006,7 +992,7 @@
    "price": "",
    "url": "https://www.kunst-im-tunnel.de/programm/kalender/familienfuehrung-ab-4-jahre-tischlein-deck-dich/",
    "category": "детям",
-   "description": "Familientag im KIT – Kunst im Tunnel.",
+   "description": "Familientag im KIT mit speziellen Programmen.",
    "source": "KIT – Kunst im Tunnel",
    "horizon_days": 21
   },
@@ -1021,7 +1007,7 @@
    "price": "",
    "url": "https://www.kunst-im-tunnel.de/programm/kalender/themenfuehrung-im-dialog-inszenierung-vs-schnappschuss/",
    "category": "выставка",
-   "description": "Themenführung im DIALOG im KIT – Kunst im Tunnel.",
+   "description": "Themenführung im DIALOG: Inszenierung vs. Schnappschuss.",
    "source": "KIT – Kunst im Tunnel",
    "horizon_days": 21
   },
@@ -1036,26 +1022,12 @@
    "price": "",
    "url": "https://www.kunst-im-tunnel.de/programm/kalender/finissage-echt-jetzt-deutscher-jugendfotopreis-2026/",
    "category": "выставка",
-   "description": "Finissage im KIT – Kunst im Tunnel.",
+   "description": "Finissage der Ausstellung ECHT JETZT. Deutscher Jugendfotopreis 2026.",
    "source": "KIT – Kunst im Tunnel",
    "horizon_days": 21,
    "also_in": [
     "Visit Düsseldorf"
    ]
-  },
-  {
-   "title": "EXPERIMENTALE XII. Literatur und Medien",
-   "date": "2026-10-14",
-   "time": "",
-   "end_date": "",
-   "venue": "zakk",
-   "address": "Fichtenstraße 40",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.zakk.de/event-detail?event=16245",
-   "category": "событие",
-   "description": "Literaturtage Düsseldorf 2026",
-   "source": "zakk"
   },
   {
    "title": "Markus Berg: Rhythmus - Geometrie und Musik",
@@ -1478,20 +1450,6 @@
    "end_date": "2027-05-23"
   },
   {
-   "title": "Kaiserswerther Diakonie zeigt Werke von Walter Liggesmeyer",
-   "venue": "K3",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Die E.ON Art Collection übergibt der Kaiserswerther Diakonie 45 Gemälde von Walter Liggesmeyer (1938–2017).",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-14",
-   "time": "",
-   "end_date": "2026-12-31"
-  },
-  {
    "title": "Christoph Westermeier: Abbild, Bild und Bilder",
    "venue": "Goethe-Museum/Schloss Jägerhof",
    "address": "",
@@ -1574,6 +1532,20 @@
    "date": "2026-10-14",
    "time": "",
    "end_date": "2026-11-13"
+  },
+  {
+   "title": "EXPERIMENTALE XII. Literatur und Medien",
+   "date": "2026-10-14",
+   "time": "",
+   "end_date": "",
+   "venue": "zakk",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.zakk.de/event-detail?event=16245",
+   "category": "театр",
+   "description": "Literaturtage Düsseldorf 2026",
+   "source": "zakk"
   },
   {
    "title": "The brush was not the point",
@@ -1667,11 +1639,39 @@
    "venue": "Schauspielhaus, Lounge",
    "address": "Gustaf-Gründgens-Platz 1",
    "locality": "Düsseldorf",
-   "price": "Frei",
+   "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/klima-cafe/3001/",
    "category": "событие",
    "description": "Psychologists4Future laden ein",
    "source": "D'haus (Schauspielhaus)"
+  },
+  {
+   "title": "Transformationscafé",
+   "date": "2026-10-15",
+   "time": "17:00",
+   "end_date": "",
+   "venue": "zakk",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.zakk.de/event-detail?event=16229",
+   "category": "событие",
+   "description": "1001 Plateau",
+   "source": "zakk"
+  },
+  {
+   "title": "Gemischte Tüte",
+   "date": "2026-10-15",
+   "time": "18:00",
+   "end_date": "",
+   "venue": "zakk",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.zakk.de/event-detail?event=16290",
+   "category": "событие",
+   "description": "einmal im Monat",
+   "source": "zakk"
   },
   {
    "title": "200 Jahre Geschichten rund um die KD",
@@ -1709,11 +1709,25 @@
    "venue": "Central Brücke",
    "address": "Gustaf-Gründgens-Platz 1",
    "locality": "Düsseldorf",
-   "price": "Frei",
+   "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/offenes-impro-training-mit-den-dimpronauten/3002/",
-   "category": "событие",
+   "category": "театр",
    "description": "Anmelden, vorbeikommen, mitmachen",
    "source": "D'haus (Schauspielhaus)"
+  },
+  {
+   "title": "Hannis Schachabend",
+   "date": "2026-10-15",
+   "time": "19:00",
+   "end_date": "",
+   "venue": "zakk",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.zakk.de/event-detail?event=16291",
+   "category": "событие",
+   "description": "bei gutem Wetter im Biergarten!",
+   "source": "zakk"
   },
   {
    "title": "Selim Özdoğan: \"Ihr kriegt uns hier nicht raus\"",
@@ -1721,11 +1735,11 @@
    "time": "19:00",
    "end_date": "",
    "venue": "zakk",
-   "address": "Fichtenstraße 40",
+   "address": "",
    "locality": "Düsseldorf",
    "price": "31,50 €",
    "url": "https://www.zakk.de/event-detail?event=16246",
-   "category": "событие",
+   "category": "театр",
    "description": "Literaturtage Düsseldorf 2026",
    "source": "zakk",
    "also_in": [
@@ -1981,34 +1995,6 @@
    ]
   },
   {
-   "title": "Von wegen Sokrates - Philosophisches Café",
-   "date": "2026-10-15",
-   "time": "",
-   "end_date": "",
-   "venue": "zakk",
-   "address": "Fichtenstraße 40",
-   "locality": "Düsseldorf",
-   "price": "11,50 €",
-   "url": "https://www.zakk.de/event-detail?event=15478",
-   "category": "событие",
-   "description": "Moderation: Jost Guido Freese",
-   "source": "zakk"
-  },
-  {
-   "title": "Blind, Lahm, Taub – die behinderte Comedyshow",
-   "date": "2026-10-15",
-   "time": "",
-   "end_date": "",
-   "venue": "zakk",
-   "address": "Fichtenstraße 40",
-   "locality": "Düsseldorf",
-   "price": "11,50 €",
-   "url": "https://www.zakk.de/event-detail?event=15550",
-   "category": "событие",
-   "description": "Comedy, scharfer Witz und echte Freundschaft auf der Bühne",
-   "source": "zakk"
-  },
-  {
    "title": "J. Cole Tickets",
    "date": "2026-10-15",
    "time": "",
@@ -2027,17 +2013,31 @@
    ]
   },
   {
-   "title": "Rechter Kulturkampf? Antifaschistischer Widerstand!",
+   "title": "Von wegen Sokrates - Philosophisches Café",
    "date": "2026-10-15",
    "time": "",
    "end_date": "",
    "venue": "zakk",
-   "address": "Fichtenstraße 40",
+   "address": "",
    "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.zakk.de/event-detail?event=16351",
-   "category": "событие",
-   "description": "Information und Diskussion",
+   "price": "11,50 €",
+   "url": "https://www.zakk.de/event-detail?event=15478",
+   "category": "театр",
+   "description": "Moderation: Jost Guido Freese",
+   "source": "zakk"
+  },
+  {
+   "title": "Blind, Lahm, Taub – die behinderte Comedyshow",
+   "date": "2026-10-15",
+   "time": "",
+   "end_date": "",
+   "venue": "zakk",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "11,50 €",
+   "url": "https://www.zakk.de/event-detail?event=15550",
+   "category": "театр",
+   "description": "Comedy, scharfer Witz und echte Freundschaft auf der Bühne",
    "source": "zakk"
   },
   {
@@ -2153,6 +2153,34 @@
    "end_date": "2026-10-29"
   },
   {
+   "title": "Kaiserswerther Diakonie zeigt Werke von Walter Liggesmeyer",
+   "venue": "K3",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Die E.ON Art Collection übergibt der Kaiserswerther Diakonie 45 Gemälde von Walter Liggesmeyer (1938–2017).",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-15",
+   "time": "",
+   "end_date": "2026-12-31"
+  },
+  {
+   "title": "Rechter Kulturkampf? Antifaschistischer Widerstand!",
+   "date": "2026-10-15",
+   "time": "",
+   "end_date": "",
+   "venue": "zakk",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.zakk.de/event-detail?event=16351",
+   "category": "событие",
+   "description": "Information und Diskussion",
+   "source": "zakk"
+  },
+  {
    "title": "Zoon Podcast Week",
    "venue": "Verschiedene Orte im Stadtgebiet",
    "address": "",
@@ -2209,31 +2237,17 @@
    "source": "D'haus (Schauspielhaus)"
   },
   {
-   "title": "Nachbarschaftsfest zur Eröffnung Mobilitätsstation Saarbrücker Straße",
-   "date": "2026-10-16",
-   "time": "15:00",
-   "end_date": "",
-   "venue": "Mobilitätsstation Saarbrücker Straße",
-   "address": "Ecke Kanonierstraße",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.duesseldorf.de/medienportal/pressedienst-einzelansicht/pld/nachbarschaftsfest-zur-eroeffnung-mobilitaetsstation-saarbruecker-strasse",
-   "category": "событие",
-   "description": "Die Mobilitätsstation an der Saarbrücker Straße wird mit einem Nachbarschaftsfest offiziell in Betrieb genommen.",
-   "source": "Пресс-служба города"
-  },
-  {
    "title": "NOCHE DE SALSA - Tanzworkshop und Fiesta",
    "date": "2026-10-16",
    "time": "18:00",
-   "end_date": "2026-10-16",
-   "venue": "Tonhallenufer",
+   "end_date": "",
+   "venue": "StadtStrand",
    "address": "Tonhallenufer",
    "locality": "Düsseldorf",
-   "price": "",
+   "price": "kostenlos",
    "url": "https://www.stadtstrand-duesseldorf.de/events/open-air-salsa-xxl---tanzworkshop-und-fiesta",
    "category": "вечеринка",
-   "description": "NOCHE DE SALSA - Tanzworkshop und Fiesta",
+   "description": "Ab Mai ist auch der Kunst- und Kulturstrand an der Oberkasseler Brücke in seine Sommersaison gestartet.",
    "source": "StadtStrand"
   },
   {
@@ -2252,20 +2266,20 @@
    "horizon_days": 21
   },
   {
-   "title": "Verena Güntner: \"Medulla\"",
+   "title": "Literaturtage Düsseldorf: Verena Güntner: \"Medulla\"",
+   "venue": "Kunstpalast",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://zakk.de/event-detail?event=16247",
+   "category": "лекция",
+   "description": "Drei Frauen – Siv, die keine Mutter werden will, auch nicht, als sie ungewollt schwanger wird, Leyla, die immer Mutter werden wollte und jetzt, da sie schwanger ist, ihre Meinung ändert, Esther, die sich für ihr Kind entschieden hat und es dann doch bereut.",
+   "source": "Visit Düsseldorf",
    "date": "2026-10-16",
    "time": "18:00",
    "end_date": "",
-   "venue": "zakk",
-   "address": "Fichtenstraße 40",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.zakk.de/event-detail?event=16247",
-   "category": "событие",
-   "description": "Literaturtage Düsseldorf 2026",
-   "source": "zakk",
    "also_in": [
-    "Visit Düsseldorf"
+    "zakk"
    ]
   },
   {
@@ -2321,9 +2335,9 @@
    "venue": "Central 2",
    "address": "Gustaf-Gründgens-Platz 1",
    "locality": "Düsseldorf",
-   "price": "Frei",
+   "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/das-orakel-spricht/3005/",
-   "category": "событие",
+   "category": "театр",
    "description": "von Liv Strömquist Regie Jessica Glause",
    "source": "D'haus (Schauspielhaus)"
   },
@@ -2412,6 +2426,20 @@
    "date": "2026-10-16",
    "time": "19:30",
    "end_date": ""
+  },
+  {
+   "title": "DEL2 Spieltag 9: Düsseldorfer EG - EHC Freiburg",
+   "date": "2026-10-16",
+   "time": "19:30",
+   "end_date": "",
+   "venue": "PSD Bank Dome",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/saison/spielplan/",
+   "category": "спорт",
+   "description": "",
+   "source": "DEG"
   },
   {
    "title": "Marikiscrycrycry: Hang Time - The Niggaz’ I-Ching",
@@ -2526,24 +2554,6 @@
    "end_date": ""
   },
   {
-   "title": "Swiss & French Alps: Interlaken, Lauterbrunnen, Grindelwald, Chamonix & Geneva by Uniflucht\"",
-   "date": "2026-10-16",
-   "time": "",
-   "end_date": "2026-10-19",
-   "venue": "Rochusstraße 44, 40479 Düsseldorf, Germany",
-   "address": "Rochusstraße 44, 40479 Düsseldorf, Deutschland, Dusseldorf",
-   "locality": "Dusseldorf",
-   "price": "",
-   "url": "https://allevents.in/dusseldorf/swiss-and-french-alps-interlaken-lauterbrunnen-grindelwald-chamonix-and-geneva-by-uniflucht/200030662838019",
-   "category": "событие",
-   "description": "",
-   "source": "allevents: все",
-   "also_in": [
-    "allevents: все",
-    "allevents: выходные"
-   ]
-  },
-  {
    "title": "The 5678's + The Naggs",
    "date": "2026-10-16",
    "time": "",
@@ -2562,46 +2572,18 @@
    ]
   },
   {
-   "title": "HitQuiz - den Song kenn ich!",
+   "title": "Swiss & French Alps: Interlaken, Lauterbrunnen, Grindelwald, Chamonix & Geneva by Uniflucht\"",
    "date": "2026-10-16",
    "time": "",
-   "end_date": "",
-   "venue": "zakk",
-   "address": "Fichtenstraße 40",
-   "locality": "Düsseldorf",
+   "end_date": "2026-10-19",
+   "venue": "Rochusstraße 44, 40479 Düsseldorf, Germany",
+   "address": "Rochusstraße 44, 40479 Düsseldorf, Deutschland, Dusseldorf",
+   "locality": "Dusseldorf",
    "price": "",
-   "url": "https://www.zakk.de/event-detail?event=16232",
-   "category": "вечеринка",
-   "description": "Ausgabe #36",
-   "source": "zakk"
-  },
-  {
-   "title": "Back to the 80s",
-   "date": "2026-10-16",
-   "time": "",
-   "end_date": "",
-   "venue": "zakk",
-   "address": "Fichtenstraße 40",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.zakk.de/event-detail?event=16272",
-   "category": "вечеринка",
-   "description": "jeden 3. Freitag",
-   "source": "zakk"
-  },
-  {
-   "title": "Subkult Klub",
-   "date": "2026-10-16",
-   "time": "",
-   "end_date": "",
-   "venue": "zakk",
-   "address": "Fichtenstraße 40",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.zakk.de/event-detail?event=16273",
-   "category": "вечеринка",
-   "description": "jeden 3. Freitag",
-   "source": "zakk"
+   "url": "https://allevents.in/dusseldorf/swiss-and-french-alps-interlaken-lauterbrunnen-grindelwald-chamonix-and-geneva-by-uniflucht/200030662838019",
+   "category": "событие",
+   "description": "",
+   "source": "allevents: выходные"
   },
   {
    "title": "Eva Rubinstein. Proof of Life",
@@ -2744,6 +2726,48 @@
    "source": "allevents: выходные"
   },
   {
+   "title": "HitQuiz - den Song kenn ich!",
+   "date": "2026-10-16",
+   "time": "",
+   "end_date": "",
+   "venue": "zakk",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.zakk.de/event-detail?event=16232",
+   "category": "событие",
+   "description": "Ausgabe #36",
+   "source": "zakk"
+  },
+  {
+   "title": "Back to the 80s",
+   "date": "2026-10-16",
+   "time": "",
+   "end_date": "",
+   "venue": "zakk",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.zakk.de/event-detail?event=16272",
+   "category": "вечеринка",
+   "description": "jeden 3. Freitag",
+   "source": "zakk"
+  },
+  {
+   "title": "Subkult Klub",
+   "date": "2026-10-16",
+   "time": "",
+   "end_date": "",
+   "venue": "zakk",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.zakk.de/event-detail?event=16273",
+   "category": "вечеринка",
+   "description": "jeden 3. Freitag",
+   "source": "zakk"
+  },
+  {
    "title": "Zoon Podcast Week",
    "venue": "Verschiedene Orte im Stadtgebiet",
    "address": "",
@@ -2817,15 +2841,15 @@
    "title": "Trödel- und Antikmarkt am Aachener Platz",
    "date": "2026-10-17",
    "time": "08:00",
-   "end_date": "2026-10-17",
-   "venue": "Antik- und Trödelzelt am Aachener Platz",
+   "end_date": "",
+   "venue": "Antik- und Trödelzelt",
    "address": "Aachener Platz",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.troedelmarkt-aachenerplatz.de/",
    "category": "markt",
-   "description": "Antik- und Trödelzelt, Freigelände, Biergarten und Café Sperrmüll.",
-   "source": "Rынок Aachener Platz"
+   "description": "In der Zelthalle bietet der Trödelmarkt jeden Samstag den Besuchern ein ausgefallenes Angebot von Edeltrödel, Schmuck, Second-Hand-Kleidung, Antiquitäten, Raritäten, Kunst, Shabby-Chic- und Design-Objekten.",
+   "source": "Рынок Aachener Platz"
   },
   {
    "title": "Volksgarten parkrun Düsseldorf",
@@ -2865,8 +2889,8 @@
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.schloss-benrath.de/veranstaltungs-detail/v/5855",
-   "category": "выставка",
-   "description": "Guided Palace Tour in english at Schloss Benrath.",
+   "category": "экскурсия",
+   "description": "Guided Palace Tour in english.",
    "source": "Schloss Benrath",
    "horizon_days": 21
   },
@@ -2875,14 +2899,14 @@
    "date": "2026-10-17",
    "time": "11:30",
    "end_date": "2026-10-17",
-   "venue": "Antik- und Trödelzelt am Aachener Platz",
+   "venue": "Antik- und Trödelzelt",
    "address": "Aachener Platz",
    "locality": "Düsseldorf",
    "price": "Eintritt frei",
    "url": "https://www.troedelmarkt-aachenerplatz.de/musikprogramm/2026-10-17-los-apartamentos/",
    "category": "konzert",
-   "description": "Mento mit Los Apartamentos in unserem Antik- und Trödelzelt am Aachener Platz.",
-   "source": "Rынок Aachener Platz"
+   "description": "Mento mit Los Apartamentos am Sa, 17.10.2026 in unserem Antik- und Trödelzelt am Aachener Platz.",
+   "source": "Рынок Aachener Platz"
   },
   {
    "title": "Brustkrebs-Aktionstag",
@@ -2935,10 +2959,10 @@
    "venue": "Schauspielhaus, Foyer",
    "address": "Gustaf-Gründgens-Platz 1",
    "locality": "Düsseldorf",
-   "price": "Frei",
+   "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/kleidertauschparty/3006/",
    "category": "событие",
-   "description": "Kleidertauschparty im Foyer",
+   "description": "Kleidertauschparty Stadt:Kollektiv",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -3060,14 +3084,14 @@
    "title": "DRINKS & BEATS - Sunset Sips & Grooves",
    "date": "2026-10-17",
    "time": "18:00",
-   "end_date": "2026-10-17",
-   "venue": "Tonhallenufer",
+   "end_date": "",
+   "venue": "StadtStrand",
    "address": "Tonhallenufer",
    "locality": "Düsseldorf",
-   "price": "",
+   "price": "kostenlos",
    "url": "https://www.stadtstrand-duesseldorf.de/events/drinks-beats---sunset-sips-grooves",
    "category": "вечеринка",
-   "description": "DRINKS & BEATS - Sunset Sips & Grooves",
+   "description": "Ab Mai ist auch der Kunst- und Kulturstrand an der Oberkasseler Brücke in seine Sommersaison gestartet.",
    "source": "StadtStrand"
   },
   {
@@ -3126,7 +3150,7 @@
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/die-verwandlung/3008/",
    "category": "театр",
-   "description": "nach Franz Kafka | in einer Bearbeitung von Dorle Trachternach, Kamilė Gudmonaitė und Ensemble",
+   "description": "nach Franz Kafka | in einer Bearbeitung von Dorle Trachternach, Kamilė Gudmonaitė und Ensemble Regie Kamilė Gudmonaitė",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -3298,26 +3322,6 @@
    "end_date": ""
   },
   {
-   "title": "Candlelight: Tribut an Helene Fischer",
-   "date": "2026-10-17",
-   "time": "",
-   "end_date": "2027-01-09",
-   "venue": "Event-Theater Schwanenhöfe",
-   "address": "Erkrather Straße 234b, Düsseldorf// 40233, Dusseldorf",
-   "locality": "Dusseldorf",
-   "price": "40.00",
-   "url": "https://allevents.in/dusseldorf/candlelight-tribut-an-helene-fischer/2700030035615202",
-   "category": "событие",
-   "description": "",
-   "source": "allevents: все",
-   "also_in": [
-    "allevents: все",
-    "allevents: концерты",
-    "allevents: живая музыка",
-    "allevents: выходные"
-   ]
-  },
-  {
    "title": "HYÆNA Techno Presents WELCOME TO THE CAGE. ⛓️",
    "date": "2026-10-17",
    "time": "",
@@ -3339,7 +3343,7 @@
    "title": "Candlelight: Queen vs. ABBA",
    "date": "2026-10-17",
    "time": "",
-   "end_date": "2026-11-08",
+   "end_date": "",
    "venue": "Event-Theater Schwanenhöfe",
    "address": "Erkrather Straße 234b, Düsseldorf// 40233, Dusseldorf",
    "locality": "Dusseldorf",
@@ -3347,7 +3351,32 @@
    "url": "https://allevents.in/dusseldorf/candlelight-queen-vs-abba/2700026402373450",
    "category": "событие",
    "description": "",
-   "source": "allevents: выходные"
+   "source": "allevents: все",
+   "also_in": [
+    "allevents: все",
+    "allevents: живая музыка",
+    "allevents: выходные"
+   ]
+  },
+  {
+   "title": "Candlelight: Tribut an Helene Fischer",
+   "date": "2026-10-17",
+   "time": "",
+   "end_date": "",
+   "venue": "Event-Theater Schwanenhöfe",
+   "address": "Erkrather Straße 234b, Düsseldorf// 40233, Dusseldorf",
+   "locality": "Dusseldorf",
+   "price": "40.00",
+   "url": "https://allevents.in/dusseldorf/candlelight-tribut-an-helene-fischer/2700030035615202",
+   "category": "событие",
+   "description": "",
+   "source": "allevents: все",
+   "also_in": [
+    "allevents: все",
+    "allevents: концерты",
+    "allevents: живая музыка",
+    "allevents: выходные"
+   ]
   },
   {
    "title": "Semester Opening",
@@ -3439,13 +3468,27 @@
    "time": "",
    "end_date": "",
    "venue": "zakk",
-   "address": "Fichtenstraße 40",
+   "address": "",
    "locality": "Düsseldorf",
    "price": "11,50 €",
    "url": "https://www.zakk.de/event-detail?event=16249",
-   "category": "событие",
+   "category": "театр",
    "description": "Literaturtage Düsseldorf 2026",
    "source": "zakk"
+  },
+  {
+   "title": "Kürbisschnitzen",
+   "date": "2026-10-17",
+   "time": "",
+   "end_date": "",
+   "venue": "Gut Hixholz",
+   "address": "Im Hau 7",
+   "locality": "Velbert",
+   "price": "",
+   "url": "https://www.gut-hixholz.de/Kuerbisschnitzen-2023---Kuerbiswerkstaetten-Gut-Hixholz_5117.aspx",
+   "category": "детям",
+   "description": "An den Oktober-Samstagen lädt der Bauernhof offiziell zum Kürbisschnitzen ein.",
+   "source": "Mr. Düsseldorf"
   },
   {
    "title": "Die Schöne und das Biest",
@@ -3569,8 +3612,8 @@
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.schloss-benrath.de/veranstaltungs-detail/v/5863",
-   "category": "выставка",
-   "description": "Guided Palace Tour in english at Schloss Benrath.",
+   "category": "экскурсия",
+   "description": "Guided Palace Tour in english.",
    "source": "Schloss Benrath",
    "horizon_days": 21
   },
@@ -3625,9 +3668,9 @@
    "address": "",
    "locality": "Düsseldorf",
    "price": "frei",
-   "url": "https://www.duesseldorf.de/hetjens/veranstaltungskalender",
+   "url": "https://t3dus.duesseldorf.de/hetjens/veranstaltungskalender#",
    "category": "детям",
-   "description": "Unser kleines Museumsmäuschen spielt gerne Verstecken und lädt zum Suchspiel ein.",
+   "description": "Suchspiel für Kinder und Familien im Hetjens Museum.",
    "source": "Hetjens – Deutsches Keramikmuseum",
    "horizon_days": 21
   },
@@ -3723,14 +3766,14 @@
    "title": "DRINKS & BEATS - Sunset Sips & Grooves",
    "date": "2026-10-18",
    "time": "16:00",
-   "end_date": "2026-10-18",
-   "venue": "Tonhallenufer",
+   "end_date": "",
+   "venue": "StadtStrand",
    "address": "Tonhallenufer",
    "locality": "Düsseldorf",
-   "price": "",
+   "price": "kostenlos",
    "url": "https://www.stadtstrand-duesseldorf.de/events/drinks-beats---sunset-sips-grooves-2",
    "category": "вечеринка",
-   "description": "DRINKS & BEATS - Sunset Sips & Grooves",
+   "description": "Ab Mai ist auch der Kunst- und Kulturstrand an der Oberkasseler Brücke in seine Sommersaison gestartet.",
    "source": "StadtStrand"
   },
   {
@@ -3820,6 +3863,20 @@
    "end_date": ""
   },
   {
+   "title": "DEL2 Spieltag 10: SC Bietigheim Steelers - Düsseldorfer EG",
+   "date": "2026-10-18",
+   "time": "17:00",
+   "end_date": "",
+   "venue": "",
+   "address": "",
+   "locality": "Bietigheim-Bissingen",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/saison/spielplan/",
+   "category": "спорт",
+   "description": "",
+   "source": "DEG"
+  },
+  {
    "title": "Markus Mauthe: Die Empathie-Rebellion",
    "venue": "Savoy Theater",
    "address": "",
@@ -3889,7 +3946,7 @@
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/paradise-lost-all-over-again-2026/3012/",
    "category": "театр",
-   "description": "7 TODSÜNDEN: NEID von Yeşim Nela Keim Schaub, Lisa Pottstock",
+   "description": "7 TODSÜNDEN: NEID von Yeşim Nela Keim Schaub, Lisa Pottstock Regie Yeşim Nela Keim Schaub, Lisa Pottstock",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
     "Visit Düsseldorf"
@@ -3935,11 +3992,11 @@
    "time": "19:00",
    "end_date": "",
    "venue": "zakk",
-   "address": "Fichtenstraße 40",
+   "address": "",
    "locality": "Düsseldorf",
    "price": "5,00 €",
    "url": "https://www.zakk.de/event-detail?event=16250",
-   "category": "событие",
+   "category": "театр",
    "description": "Literaturtage Düsseldorf 2026",
    "source": "zakk",
    "also_in": [
@@ -4068,68 +4125,12 @@
    "time": "",
    "end_date": "",
    "venue": "zakk",
-   "address": "Fichtenstraße 40",
+   "address": "",
    "locality": "Düsseldorf",
    "price": "11,50 €",
    "url": "https://www.zakk.de/event-detail?event=16248",
-   "category": "событие",
+   "category": "театр",
    "description": "Literaturtage Düsseldorf 2026",
-   "source": "zakk"
-  },
-  {
-   "title": "P1! Trödel- & Sammlermarkt",
-   "date": "2026-10-18",
-   "time": "",
-   "end_date": "2026-10-18",
-   "venue": "P1-Markt",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.p1-markt.de/",
-   "category": "markt",
-   "description": "Der nächste P1! ist der letzte P1! für 2026.",
-   "source": "Radschlägermarkt"
-  },
-  {
-   "title": "Matinee: \"Kreislers kalte Füße\"",
-   "date": "2026-10-18",
-   "time": "",
-   "end_date": "",
-   "venue": "zakk",
-   "address": "Fichtenstraße 40",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.zakk.de/event-detail?event=16120",
-   "category": "событие",
-   "description": "Ein biografisch-musikalischer Trip",
-   "source": "zakk"
-  },
-  {
-   "title": "Demokratie statt Big Tech",
-   "date": "2026-10-18",
-   "time": "",
-   "end_date": "",
-   "venue": "zakk",
-   "address": "Fichtenstraße 40",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.zakk.de/event-detail?event=16293",
-   "category": "событие",
-   "description": "Wie die Macht der Technologiekonzerne unsere Demokratie bedroht",
-   "source": "zakk"
-  },
-  {
-   "title": "Poesieschlachtpunktacht: Teamslam!",
-   "date": "2026-10-18",
-   "time": "",
-   "end_date": "",
-   "venue": "zakk",
-   "address": "Fichtenstraße 40",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.zakk.de/event-detail?event=15565",
-   "category": "событие",
-   "description": "Der Düsseldorfer Poetry Slam im zakk",
    "source": "zakk"
   },
   {
@@ -4147,6 +4148,62 @@
    "source": "allevents: выходные"
   },
   {
+   "title": "P1!",
+   "date": "2026-10-18",
+   "time": "",
+   "end_date": "",
+   "venue": "P1 Markt",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.p1-markt.de/",
+   "category": "markt",
+   "description": "Übrigens findet am 18.10.26 der nächste P1! statt.",
+   "source": "Radschlägermarkt"
+  },
+  {
+   "title": "Matinee: \"Kreislers kalte Füße\"",
+   "date": "2026-10-18",
+   "time": "",
+   "end_date": "",
+   "venue": "zakk",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.zakk.de/event-detail?event=16120",
+   "category": "театр",
+   "description": "Ein biografisch-musikalischer Trip",
+   "source": "zakk"
+  },
+  {
+   "title": "Demokratie statt Big Tech",
+   "date": "2026-10-18",
+   "time": "",
+   "end_date": "",
+   "venue": "zakk",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.zakk.de/event-detail?event=16293",
+   "category": "событие",
+   "description": "Wie die Macht der Technologiekonzerne unsere Demokratie bedroht",
+   "source": "zakk"
+  },
+  {
+   "title": "Poesieschlachtpunktacht: Teamslam!",
+   "date": "2026-10-18",
+   "time": "",
+   "end_date": "",
+   "venue": "zakk",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.zakk.de/event-detail?event=15565",
+   "category": "театр",
+   "description": "Der Düsseldorfer Poetry Slam im zakk",
+   "source": "zakk"
+  },
+  {
    "title": "FERIEN WORKSHOP | Kugeln, Schirmchen, Glibber",
    "date": "2026-10-19",
    "time": "14:00",
@@ -4157,7 +4214,7 @@
    "price": "",
    "url": "https://www.schloss-benrath.de/veranstaltungs-detail/v/6008",
    "category": "детям",
-   "description": "Ferien Workshop im Schloss Benrath.",
+   "description": "Ferien-Workshop für Kinder auf Schloss Benrath.",
    "source": "Schloss Benrath",
    "horizon_days": 21,
    "also_in": [
@@ -4207,20 +4264,20 @@
    "end_date": ""
   },
   {
-   "title": "Şeyda Kurt: „Zeit der Monster“",
+   "title": "Literaturtage Düsseldorf: Şeyda Kurt: Zeit der Monster",
+   "venue": "FFT Düsseldorf",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://zakk.de/event-detail?event=16251",
+   "category": "лекция",
+   "description": "Der Ort ist ein Stadtviertel. Die Zeit ist die Apokalypse. Das glauben jedenfalls immer mehr, angestachelt von einer durchs Netz rasenden Prophezeiung.",
+   "source": "Visit Düsseldorf",
    "date": "2026-10-19",
    "time": "19:30",
    "end_date": "",
-   "venue": "zakk",
-   "address": "Fichtenstraße 40",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.zakk.de/event-detail?event=16251",
-   "category": "событие",
-   "description": "Literaturtage Düsseldorf 2026",
-   "source": "zakk",
    "also_in": [
-    "Visit Düsseldorf"
+    "zakk"
    ]
   },
   {
@@ -4250,34 +4307,6 @@
    "date": "2026-10-19",
    "time": "20:00",
    "end_date": ""
-  },
-  {
-   "title": "Veranstaltungen der Zentralbibliothek",
-   "date": "2026-10-19",
-   "time": "",
-   "end_date": "2026-10-23",
-   "venue": "Zentralbibliothek",
-   "address": "Konrad-Adenauer-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.duesseldorf.de/medienportal/pressedienst-einzelansicht/pld/veranstaltungen-der-zentralbibliothek-in-der-kommenden-woche-1",
-   "category": "событие",
-   "description": "Die Zentralbibliothek bietet Interessierten in der kommenden Woche verschiedene Veranstaltungen an.",
-   "source": "Пресс-служба города"
-  },
-  {
-   "title": "Straßenbrücke Nördlicher Zubringer/Grashofstraße: Asphaltarbeiten",
-   "date": "2026-10-19",
-   "time": "",
-   "end_date": "2026-10-23",
-   "venue": "Straßenbrücke Nördlicher Zubringer/ Grashofstraße",
-   "address": "Nördlicher Zubringer",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.duesseldorf.de/medienportal/pressedienst-einzelansicht/pld/strassenbruecke-noerdlicher-zubringer-grashofstrasse-asphaltarbeiten",
-   "category": "важное",
-   "description": "Die Landeshauptstadt Düsseldorf nutzt die verkehrsärmere Zeit der Herbstferien, um voraussichtlich fünf Tage den Asphalt zu erneuern.",
-   "source": "Пресс-служба города"
   },
   {
    "title": "Boys Club",
@@ -4322,23 +4351,6 @@
    "end_date": ""
   },
   {
-   "title": "Werkstattlesung & Abschlussparty",
-   "date": "2026-10-20",
-   "time": "19:00",
-   "end_date": "",
-   "venue": "zakk",
-   "address": "Fichtenstraße 40",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.zakk.de/event-detail?event=16281",
-   "category": "событие",
-   "description": "Literaturtage Düsseldorf 2026",
-   "source": "zakk",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
-  },
-  {
    "title": "oeconomicum live – Wirtschaft erleben!",
    "venue": "Haus der Universität",
    "address": "",
@@ -4365,6 +4377,23 @@
    "date": "2026-10-20",
    "time": "19:00",
    "end_date": ""
+  },
+  {
+   "title": "Werkstattlesung & Abschlussparty",
+   "date": "2026-10-20",
+   "time": "19:00",
+   "end_date": "",
+   "venue": "zakk",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.zakk.de/event-detail?event=16281",
+   "category": "театр",
+   "description": "Literaturtage Düsseldorf 2026",
+   "source": "zakk",
+   "also_in": [
+    "Visit Düsseldorf"
+   ]
   },
   {
    "title": "21. IDO-Festival: Kuba calling - Gero Körner Trio feat. Claudia Ramos Barreto",
@@ -4431,7 +4460,7 @@
    "time": "",
    "end_date": "",
    "venue": "zakk",
-   "address": "Fichtenstraße 40",
+   "address": "",
    "locality": "Düsseldorf",
    "price": "kostenlos",
    "url": "https://www.zakk.de/event-detail?event=16143",
@@ -4445,11 +4474,11 @@
    "time": "",
    "end_date": "",
    "venue": "zakk",
-   "address": "Fichtenstraße 40",
+   "address": "",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.zakk.de/event-detail?event=16289",
-   "category": "вечеринка",
+   "category": "событие",
    "description": "argentinisches Lebensgefühl in Flingern",
    "source": "zakk"
   },
@@ -4503,9 +4532,9 @@
    "venue": "Schauspielhaus, Foyer",
    "address": "Gustaf-Gründgens-Platz 1",
    "locality": "Düsseldorf",
-   "price": "Frei",
+   "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/move-it/3014/",
-   "category": "событие",
+   "category": "театр",
    "description": "Yoga — Bringt bitte Sportkleidung und Yogamatten mit.",
    "source": "D'haus (Schauspielhaus)"
   },
@@ -4545,9 +4574,9 @@
    "venue": "Central Brücke",
    "address": "Gustaf-Gründgens-Platz 1",
    "locality": "Düsseldorf",
-   "price": "Frei",
+   "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/freestyle-session-space/3015/",
-   "category": "событие",
+   "category": "театр",
    "description": "Freies Training für urbane Tänzer:innen",
    "source": "D'haus (Schauspielhaus)"
   },
@@ -4664,18 +4693,18 @@
    "end_date": ""
   },
   {
-   "title": "Creole Nignt Birds",
+   "title": "Creole Nignt Birds @EmPöötzke",
    "date": "2026-10-21",
    "time": "20:30",
    "end_date": "",
    "venue": "Em Pöötzke",
-   "address": "Düsseldorf",
+   "address": "",
    "locality": "Düsseldorf",
    "price": "Eintritt frei!",
    "url": "https://www.troedelmarkt-aachenerplatz.de/",
    "category": "konzert",
    "description": "Foot tapping, finger snapping – echter New-Orleans-Jazz live.",
-   "source": "Rынок Aachener Platz"
+   "source": "Рынок Aachener Platz"
   },
   {
    "title": "Feministischer Lesekreis «Die Waffen nieder!»",
@@ -4683,11 +4712,11 @@
    "time": "",
    "end_date": "",
    "venue": "zakk",
-   "address": "Fichtenstraße 40",
+   "address": "",
    "locality": "Düsseldorf",
    "price": "20,90 €",
    "url": "https://www.zakk.de/event-detail?event=16066",
-   "category": "событие",
+   "category": "театр",
    "description": "Feministische Positionen gegen Krieg und Militarismus",
    "source": "zakk"
   },
@@ -4697,11 +4726,11 @@
    "time": "",
    "end_date": "",
    "venue": "zakk",
-   "address": "Fichtenstraße 40",
+   "address": "",
    "locality": "Düsseldorf",
    "price": "30,00 €",
    "url": "https://www.zakk.de/event-detail?event=15812",
-   "category": "событие",
+   "category": "театр",
    "description": "Sie dürfen loslassen.",
    "source": "zakk"
   },
@@ -4727,9 +4756,9 @@
    "venue": "Schauspielhaus, Foyer",
    "address": "Gustaf-Gründgens-Platz 1",
    "locality": "Düsseldorf",
-   "price": "Frei",
+   "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/sing-it/3016/",
-   "category": "событие",
+   "category": "театр",
    "description": "Afterwork-Singen",
    "source": "D'haus (Schauspielhaus)"
   },
@@ -4741,9 +4770,9 @@
    "venue": "Central Brücke",
    "address": "Gustaf-Gründgens-Platz 1",
    "locality": "Düsseldorf",
-   "price": "Frei",
+   "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/theaterbar/3018/",
-   "category": "событие",
+   "category": "театр",
    "description": "A Gathering of One Hundred Supernatural Tales DRINKS, LIEBLINGSTEXTE, SHOWEINLAGEN UND LIVE-MUSIK",
    "source": "D'haus (Schauspielhaus)"
   },
@@ -4801,7 +4830,7 @@
    "price": "",
    "url": "https://www.duesseldorf.de/stadtmuseum/veranstaltungen/detail/newsdetail/klavierabend-eine-stadt-am-fluss-iii-duesseldorfer-musik-durch-die-zeiten",
    "category": "концерт",
-   "description": "Konzert im Rahmen des Stadtmuseums.",
+   "description": "Konzert mit Düsseldorfer Musik durch die Zeiten.",
    "source": "Stadtmuseum",
    "horizon_days": 21,
    "also_in": [
@@ -4967,20 +4996,6 @@
    ]
   },
   {
-   "title": "Bohniger Wachmacher live!",
-   "date": "2026-10-22",
-   "time": "",
-   "end_date": "",
-   "venue": "zakk",
-   "address": "Fichtenstraße 40",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.zakk.de/event-detail?event=15918",
-   "category": "событие",
-   "description": "Podcast",
-   "source": "zakk"
-  },
-  {
    "title": "Don’t Look Back. Der Kom(m)ödchen Jahresvor- und Rückblick",
    "venue": "Kom(m)ödchen",
    "address": "",
@@ -4993,6 +5008,20 @@
    "date": "2026-10-22",
    "time": "",
    "end_date": "2027-01-29"
+  },
+  {
+   "title": "Bohniger Wachmacher live!",
+   "date": "2026-10-22",
+   "time": "",
+   "end_date": "",
+   "venue": "zakk",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.zakk.de/event-detail?event=15918",
+   "category": "театр",
+   "description": "Podcast",
+   "source": "zakk"
   },
   {
    "title": "Punk 50: Demand the Impossible",
@@ -5054,14 +5083,14 @@
    "title": "NOCHE DE BACHATA -Tanzworkshop & Fiesta zur Herbstkirmes",
    "date": "2026-10-23",
    "time": "18:00",
-   "end_date": "2026-10-23",
-   "venue": "Tonhallenufer",
+   "end_date": "",
+   "venue": "StadtStrand",
    "address": "Tonhallenufer",
    "locality": "Düsseldorf",
-   "price": "",
+   "price": "kostenlos",
    "url": "https://www.stadtstrand-duesseldorf.de/events/noche-de-bachata--tanzworkshop-fiesta-zur-herbstkirmes",
    "category": "вечеринка",
-   "description": "NOCHE DE BACHATA -Tanzworkshop & Fiesta zur Herbstkirmes",
+   "description": "Ab Mai ist auch der Kunst- und Kulturstrand an der Oberkasseler Brücke in seine Sommersaison gestartet.",
    "source": "StadtStrand"
   },
   {
@@ -5075,7 +5104,7 @@
    "price": "",
    "url": "https://www.schloss-benrath.de/veranstaltungs-detail/v/5946",
    "category": "детям",
-   "description": "Familienführung Taschenlampenführung im Naturkundemuseum Schloss Benrath.",
+   "description": "Taschenlampenführung durch das Naturkundemuseum bei Nacht.",
    "source": "Schloss Benrath",
    "horizon_days": 21
   },
@@ -5271,6 +5300,20 @@
    "end_date": ""
   },
   {
+   "title": "DEL2 Spieltag 11: Eisbären Regensburg - Düsseldorfer EG",
+   "date": "2026-10-23",
+   "time": "20:00",
+   "end_date": "",
+   "venue": "",
+   "address": "",
+   "locality": "Regensburg",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/saison/spielplan/",
+   "category": "спорт",
+   "description": "",
+   "source": "DEG"
+  },
+  {
    "title": "ZAUBERSALON RHEINLAND: SimSalaBim | Die Magische DinnerShow | Saison 26/27",
    "date": "2026-10-23",
    "time": "",
@@ -5322,15 +5365,15 @@
    "title": "Trödel- und Antikmarkt am Aachener Platz",
    "date": "2026-10-24",
    "time": "08:00",
-   "end_date": "2026-10-24",
-   "venue": "Antik- und Trödelzelt am Aachener Platz",
+   "end_date": "",
+   "venue": "Antik- und Trödelzelt",
    "address": "Aachener Platz",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.troedelmarkt-aachenerplatz.de/",
    "category": "markt",
-   "description": "Antik- und Trödelzelt, Freigelände, Biergarten und Café Sperrmüll.",
-   "source": "Rынок Aachener Platz"
+   "description": "In der Zelthalle bietet der Trödelmarkt jeden Samstag den Besuchern ein ausgefallenes Angebot von Edeltrödel, Schmuck, Second-Hand-Kleidung, Antiquitäten, Raritäten, Kunst, Shabby-Chic- und Design-Objekten.",
+   "source": "Рынок Aachener Platz"
   },
   {
    "title": "Volksgarten parkrun Düsseldorf",
@@ -5384,8 +5427,8 @@
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.schloss-benrath.de/veranstaltungs-detail/v/5881",
-   "category": "выставка",
-   "description": "Guided Palace Tour in english at Schloss Benrath.",
+   "category": "экскурсия",
+   "description": "Guided Palace Tour in english.",
    "source": "Schloss Benrath",
    "horizon_days": 21
   },
@@ -5394,14 +5437,14 @@
    "date": "2026-10-24",
    "time": "11:30",
    "end_date": "2026-10-24",
-   "venue": "Antik- und Trödelzelt am Aachener Platz",
+   "venue": "Antik- und Trödelzelt",
    "address": "Aachener Platz",
    "locality": "Düsseldorf",
    "price": "Eintritt frei",
    "url": "https://www.troedelmarkt-aachenerplatz.de/musikprogramm/2026-10-24-red-onion-hot-jazz/",
    "category": "konzert",
-   "description": "Red Onion Hot Jazz live am Aachener Platz.",
-   "source": "Rынок Aachener Platz"
+   "description": "Red Onion Hot Jazz live am Sa, 24.10.2026.",
+   "source": "Рынок Aachener Platz"
   },
   {
    "title": "herman de vries - zero is the gate",
@@ -5426,9 +5469,9 @@
    "address": "",
    "locality": "Düsseldorf",
    "price": "39 Euro pro Person",
-   "url": "https://www.duesseldorf.de/hetjens/veranstaltungskalender",
+   "url": "https://t3dus.duesseldorf.de/hetjens/veranstaltungskalender#",
    "category": "выставка",
-   "description": "Unter der Anleitung der Künstlerin Satomi Edo gestalten die Teilnehmenden ein süßes Kunstwerk.",
+   "description": "Unter Anleitung der Künstlerin Satomi Edo gestalten Teilnehmende süßes Gebäck.",
    "source": "Hetjens – Deutsches Keramikmuseum",
    "horizon_days": 21
   },
@@ -5523,14 +5566,14 @@
    "title": "FIESTA LATINA: Caribbean Feeling - karibisches Urlaubsfeelng am Rheinufer",
    "date": "2026-10-24",
    "time": "16:00",
-   "end_date": "2026-10-24",
-   "venue": "Tonhallenufer",
+   "end_date": "",
+   "venue": "StadtStrand",
    "address": "Tonhallenufer",
    "locality": "Düsseldorf",
-   "price": "",
+   "price": "kostenlos",
    "url": "https://www.stadtstrand-duesseldorf.de/events/fiesta-latina-caribbean-feeling---karibisches-urlaubsfeelng-am-rheinufer-4",
    "category": "вечеринка",
-   "description": "FIESTA LATINA: Caribbean Feeling - karibisches Urlaubsfeelng am Rheinufer",
+   "description": "Ab Mai ist auch der Kunst- und Kulturstrand an der Oberkasseler Brücke in seine Sommersaison gestartet.",
    "source": "StadtStrand"
   },
   {
@@ -5585,7 +5628,7 @@
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/abba-jetzt/3020/",
-   "category": "концерт",
+   "category": "театр",
    "description": "Das unverschämte Tribut an die schwedischen Popgötter",
    "source": "D'haus (Schauspielhaus)"
   },
@@ -5627,7 +5670,7 @@
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/wenn-ich-mir-was-wuenschen-duerfte-/3021/",
-   "category": "концерт",
+   "category": "театр",
    "description": "Mit den Studierenden des Düsseldorfer Schauspielstudios Texte und Musik aus dem Kabarett Friedrich Hollaenders",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
@@ -5804,6 +5847,20 @@
    ]
   },
   {
+   "title": "Kürbisschnitzen",
+   "date": "2026-10-24",
+   "time": "",
+   "end_date": "",
+   "venue": "Gut Hixholz",
+   "address": "Im Hau 7",
+   "locality": "Velbert",
+   "price": "",
+   "url": "https://www.gut-hixholz.de/Kuerbisschnitzen-2023---Kuerbiswerkstaetten-Gut-Hixholz_5117.aspx",
+   "category": "детям",
+   "description": "An den Oktober-Samstagen lädt der Bauernhof offiziell zum Kürbisschnitzen ein.",
+   "source": "Mr. Düsseldorf"
+  },
+  {
    "title": "Leise rieselt der Schmäh - Wiener Kaffeehausgeschichten",
    "venue": "Roncalli’s Apollo-Varieté",
    "address": "",
@@ -5842,7 +5899,7 @@
    "price": "",
    "url": "https://www.schloss-benrath.de/veranstaltungs-detail/v/5963",
    "category": "детям",
-   "description": "Familienworkshop Recycling im Schloss Benrath.",
+   "description": "Familien-Workshop zum Thema Recycling.",
    "source": "Schloss Benrath",
    "horizon_days": 21,
    "also_in": [
@@ -5859,8 +5916,8 @@
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.schloss-benrath.de/veranstaltungs-detail/v/5889",
-   "category": "выставка",
-   "description": "Guided Palace Tour in english at Schloss Benrath.",
+   "category": "экскурсия",
+   "description": "Guided Palace Tour in english.",
    "source": "Schloss Benrath",
    "horizon_days": 21
   },
@@ -5901,9 +5958,9 @@
    "address": "",
    "locality": "Düsseldorf",
    "price": "frei",
-   "url": "https://www.duesseldorf.de/hetjens/veranstaltungskalender",
+   "url": "https://t3dus.duesseldorf.de/hetjens/veranstaltungskalender#",
    "category": "детям",
-   "description": "Unser kleines Museumsmäuschen spielt gerne Verstecken und lädt zum Suchspiel ein.",
+   "description": "Suchspiel für Kinder und Familien im Hetjens Museum.",
    "source": "Hetjens – Deutsches Keramikmuseum",
    "horizon_days": 21
   },
@@ -5966,6 +6023,20 @@
    "end_date": ""
   },
   {
+   "title": "DEL2 Spieltag 12: Düsseldorfer EG - EC Bad Nauheim",
+   "date": "2026-10-25",
+   "time": "15:00",
+   "end_date": "",
+   "venue": "PSD Bank Dome",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/saison/spielplan/",
+   "category": "спорт",
+   "description": "",
+   "source": "DEG"
+  },
+  {
    "title": "Thomas Kohl: Es verschmolz ihm alles in eine Linie, wie eine steigende und sinkende Welle zwischen Himmel und Erde.",
    "venue": "",
    "address": "",
@@ -5990,7 +6061,7 @@
    "price": "",
    "url": "https://www.schloss-benrath.de/veranstaltungs-detail/v/5894",
    "category": "детям",
-   "description": "Familienführung Kinder erleben das Schloss.",
+   "description": "Familienführung, bei der Kinder das Schloss erleben können.",
    "source": "Schloss Benrath",
    "horizon_days": 21,
    "also_in": [
@@ -6022,21 +6093,21 @@
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/das-neinhorn/2947/",
    "category": "театр",
-   "description": "Familienvorstellung von Marc-Uwe Kling und Astrid Henn",
+   "description": "von Marc-Uwe Kling und Astrid Henn Regie Philipp Alfons Heitmann, Matts Johan Leenders",
    "source": "D'haus (Schauspielhaus)"
   },
   {
    "title": "DRINKS & BEATS - Sunset Sips & Grooves zur Herbstkirmes",
    "date": "2026-10-25",
    "time": "16:00",
-   "end_date": "2026-10-25",
-   "venue": "Tonhallenufer",
+   "end_date": "",
+   "venue": "StadtStrand",
    "address": "Tonhallenufer",
    "locality": "Düsseldorf",
-   "price": "",
+   "price": "kostenlos",
    "url": "https://www.stadtstrand-duesseldorf.de/events/drinks-beats---sunset-sips-grooves-zur-herbstkirmes",
    "category": "вечеринка",
-   "description": "DRINKS & BEATS - Sunset Sips & Grooves zur Herbstkirmes",
+   "description": "Ab Mai ist auch der Kunst- und Kulturstrand an der Oberkasseler Brücke in seine Sommersaison gestartet.",
    "source": "StadtStrand"
   },
   {
@@ -6106,7 +6177,7 @@
    "price": "",
    "url": "https://www.schloss-benrath.de/veranstaltungs-detail/v/5947",
    "category": "детям",
-   "description": "Familienführung Taschenlampenführung im Naturkundemuseum Schloss Benrath.",
+   "description": "Taschenlampenführung durch das Naturkundemuseum bei Nacht.",
    "source": "Schloss Benrath",
    "horizon_days": 21
   },
@@ -6252,7 +6323,23 @@
    "url": "https://www.d-schaenke.de/",
    "category": " событие",
    "description": "Am 25. Oktober lädt die D-Schänke wieder zum Kürbis Schnitzen ein und bringt damit ordentlich Herbststimmung ins Viertel.",
-   "source": "Mr. Düsseldorf (RSS)"
+   "source": "Mr. Düsseldorf"
+  },
+  {
+   "title": "A59:  AD Düsseldorf-Süd (in Richtung Düsseldorf-Benrath)",
+   "date": "2026-10-26",
+   "time": "05:00",
+   "end_date": "2026-10-30",
+   "end_time": "22:00",
+   "venue": "Grundhafte Sanierung",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.autobahn.de/",
+   "category": "важное",
+   "description": "Zeitraum dieser Bauphase: Beginn: 26.10.26 um 05:00 Uhr Ende: 30.10.26 um 22:00 Uhr (Ende der Gesamtmaßnahme: 31.08.35) Auffahrt auf die A59: AD Düsseldorf-Süd (in Richtung Düsseldorf-Benrath) Länge: konnte nicht ermittelt werden Grundhafte",
+   "source": "Autobahn GmbH",
+   "traffic": true
   },
   {
    "title": "Polizeiberatung im KAP1: Betrug? Nicht mit mir!",
@@ -6338,7 +6425,7 @@
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/bin-gleich-fertig/2938/",
    "category": "театр",
-   "description": "nach dem Bilderbuch von Martin Baltscheit und Anne-Kathrin Behl",
+   "description": "nach dem Bilderbuch von Martin Baltscheit und Anne-Kathrin Behl Regie und Choreografie Barbara Fuchs",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -6394,7 +6481,7 @@
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/bin-gleich-fertig/2939/",
    "category": "театр",
-   "description": "nach dem Bilderbuch von Martin Baltscheit und Anne-Kathrin Behl",
+   "description": "nach dem Bilderbuch von Martin Baltscheit und Anne-Kathrin Behl Regie und Choreografie Barbara Fuchs",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -6405,9 +6492,9 @@
    "venue": "Schauspielhaus, Foyer",
    "address": "Gustaf-Gründgens-Platz 1",
    "locality": "Düsseldorf",
-   "price": "Frei",
+   "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/move-it/3029/",
-   "category": "событие",
+   "category": "театр",
    "description": "Tanz — Bringt bitte Sportkleidung mit.",
    "source": "D'haus (Schauspielhaus)"
   },
@@ -6475,9 +6562,9 @@
    "venue": "Central Brücke",
    "address": "Gustaf-Gründgens-Platz 1",
    "locality": "Düsseldorf",
-   "price": "Frei",
+   "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/freestyle-session-space/3030/",
-   "category": "событие",
+   "category": "театр",
    "description": "Freies Training für urbane Tänzer:innen",
    "source": "D'haus (Schauspielhaus)"
   },
@@ -6566,18 +6653,18 @@
    "end_date": ""
   },
   {
-   "title": "Creole Nignt Birds",
+   "title": "Creole Nignt Birds @EmPöötzke",
    "date": "2026-10-28",
    "time": "20:30",
    "end_date": "",
    "venue": "Em Pöötzke",
-   "address": "Düsseldorf",
+   "address": "",
    "locality": "Düsseldorf",
    "price": "Eintritt frei!",
    "url": "https://www.troedelmarkt-aachenerplatz.de/",
    "category": "konzert",
    "description": "Foot tapping, finger snapping – echter New-Orleans-Jazz live.",
-   "source": "Rынок Aachener Platz"
+   "source": "Рынок Aachener Platz"
   },
   {
    "title": "Langer Donnerstag",
@@ -6604,7 +6691,7 @@
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/play-it/3032/",
-   "category": "событие",
+   "category": "театр",
    "description": "Offenes Theatertraining",
    "source": "D'haus (Schauspielhaus)"
   },
@@ -6794,14 +6881,14 @@
    "title": "DRINKS & BEATS - Sunset Sips & Grooves zur Herbstkirmes",
    "date": "2026-10-30",
    "time": "18:00",
-   "end_date": "2026-10-30",
-   "venue": "Tonhallenufer",
+   "end_date": "",
+   "venue": "StadtStrand",
    "address": "Tonhallenufer",
    "locality": "Düsseldorf",
-   "price": "",
+   "price": "kostenlos",
    "url": "https://www.stadtstrand-duesseldorf.de/events/drinks-beats---sunset-sips-grooves-zur-herbstkirmes-2",
    "category": "вечеринка",
-   "description": "DRINKS & BEATS - Sunset Sips & Grooves zur Herbstkirmes",
+   "description": "Ab Mai ist auch der Kunst- und Kulturstrand an der Oberkasseler Brücke in seine Sommersaison gestartet.",
    "source": "StadtStrand"
   },
   {
@@ -6815,7 +6902,7 @@
    "price": "",
    "url": "https://www.schloss-benrath.de/veranstaltungs-detail/v/5948",
    "category": "детям",
-   "description": "Familienführung Taschenlampenführung im Naturkundemuseum Schloss Benrath.",
+   "description": "Taschenlampenführung durch das Naturkundemuseum bei Nacht.",
    "source": "Schloss Benrath",
    "horizon_days": 21
   },
@@ -6875,7 +6962,7 @@
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/samurai-x/2965/",
    "category": "театр",
-   "description": "von Takao Baba & Ensemble frei nach dem Film Die sieben Samurai von Akira Kurosawa",
+   "description": "von Takao Baba & Ensemble frei nach dem Film Die sieben Samurai von Akira Kurosawa Regie Takao Baba",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
     "Visit Düsseldorf"
@@ -7026,6 +7113,20 @@
    "end_date": ""
   },
   {
+   "title": "DEL2 Spieltag 13: Düsseldorfer EG - Blue Devils Weiden",
+   "date": "2026-10-30",
+   "time": "19:30",
+   "end_date": "",
+   "venue": "PSD Bank Dome",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/saison/spielplan/",
+   "category": "спорт",
+   "description": "",
+   "source": "DEG"
+  },
+  {
    "title": "Stephen Kings - Misery",
    "venue": "Theater an der Luegallee",
    "address": "",
@@ -7160,15 +7261,15 @@
    "title": "Trödel- und Antikmarkt am Aachener Platz",
    "date": "2026-10-31",
    "time": "08:00",
-   "end_date": "2026-10-31",
-   "venue": "Antik- und Trödelzelt am Aachener Platz",
+   "end_date": "",
+   "venue": "Antik- und Trödelzelt",
    "address": "Aachener Platz",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.troedelmarkt-aachenerplatz.de/",
    "category": "markt",
-   "description": "Antik- und Trödelzelt, Freigelände, Biergarten und Café Sperrmüll.",
-   "source": "Rынок Aachener Platz"
+   "description": "In der Zelthalle bietet der Trödelmarkt jeden Samstag den Besuchern ein ausgefallenes Angebot von Edeltrödel, Schmuck, Second-Hand-Kleidung, Antiquitäten, Raritäten, Kunst, Shabby-Chic- und Design-Objekten.",
+   "source": "Рынок Aachener Platz"
   },
   {
    "title": "Volksgarten parkrun Düsseldorf",
@@ -7194,8 +7295,8 @@
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.schloss-benrath.de/veranstaltungs-detail/v/5907",
-   "category": "выставка",
-   "description": "Guided Palace Tour in english at Schloss Benrath.",
+   "category": "экскурсия",
+   "description": "Guided Palace Tour in english.",
    "source": "Schloss Benrath",
    "horizon_days": 21
   },
@@ -7218,14 +7319,14 @@
    "date": "2026-10-31",
    "time": "11:30",
    "end_date": "2026-10-31",
-   "venue": "Antik- und Trödelzelt am Aachener Platz",
+   "venue": "Antik- und Trödelzelt",
    "address": "Aachener Platz",
    "locality": "Düsseldorf",
    "price": "Eintritt frei",
    "url": "https://www.troedelmarkt-aachenerplatz.de/musikprogramm/2026-10-31-blue-rose-new-orleans-jazzband/",
    "category": "konzert",
-   "description": "Blue Rose New Orleans Jazzband live am Aachener Platz.",
-   "source": "Rынок Aachener Platz"
+   "description": "Blue Rose New Orleans Jazzband live am Sa, 31.10.2026.",
+   "source": "Рынок Aachener Platz"
   },
   {
    "title": "RE: Nature – rethink. reconnect. regenerate.",
@@ -7285,7 +7386,7 @@
    "end_date": ""
   },
   {
-   "title": "Kürbisschnitzen",
+   "title": "Traditionelles Kürbisschnitzen",
    "date": "2026-10-31",
    "time": "15:00",
    "end_date": "",
@@ -7294,9 +7395,9 @@
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.carlsplatz-markt.de/",
-   "category": " событие",
+   "category": "детям",
    "description": "Traditionell findet am 31. Oktober 2026 ab 15 Uhr auf dem Obermarkt das traditionelle Kürbisschnitzen für Groß und Klein statt.",
-   "source": "Mr. Düsseldorf (RSS)"
+   "source": "Mr. Düsseldorf"
   },
   {
    "title": "StreamD Radio – Halloween Spezial",
@@ -7351,7 +7452,7 @@
    "price": "",
    "url": "https://www.schloss-benrath.de/veranstaltungs-detail/v/5949",
    "category": "детям",
-   "description": "Familienführung Taschenlampenführung als Halloween-Special.",
+   "description": "Taschenlampenführung als Halloween-Special.",
    "source": "Schloss Benrath",
    "horizon_days": 21
   },
@@ -7646,9 +7747,9 @@
    "address": "",
    "locality": "Düsseldorf",
    "price": "frei",
-   "url": "https://www.duesseldorf.de/hetjens/veranstaltungskalender",
+   "url": "https://t3dus.duesseldorf.de/hetjens/veranstaltungskalender#",
    "category": "детям",
-   "description": "Unser kleines Museumsmäuschen spielt gerne Verstecken und lädt zum Suchspiel ein.",
+   "description": "Suchspiel für Kinder und Familien im Hetjens Museum.",
    "source": "Hetjens – Deutsches Keramikmuseum",
    "horizon_days": 21
   },
@@ -7750,7 +7851,7 @@
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/die-tuer/2940/",
    "category": "театр",
-   "description": "Familienvorstellung von Gregory Caers und Ensemble",
+   "description": "von Gregory Caers und Ensemble Regie Gregory Caers",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
     "Visit Düsseldorf"
@@ -7813,6 +7914,20 @@
    "date": "2026-11-01",
    "time": "17:00",
    "end_date": ""
+  },
+  {
+   "title": "DEL2 Spieltag 14: Eispiraten Crimmitschau - Düsseldorfer EG",
+   "date": "2026-11-01",
+   "time": "17:00",
+   "end_date": "",
+   "venue": "",
+   "address": "",
+   "locality": "Crimmitschau",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/saison/spielplan/",
+   "category": "спорт",
+   "description": "",
+   "source": "DEG"
   },
   {
    "title": "INTER ALIA",
@@ -8085,7 +8200,7 @@
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/samurai-x/2966/",
    "category": "театр",
-   "description": "von Takao Baba & Ensemble frei nach dem Film Die sieben Samurai von Akira Kurosawa",
+   "description": "von Takao Baba & Ensemble frei nach dem Film Die sieben Samurai von Akira Kurosawa Regie Takao Baba",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
     "Visit Düsseldorf"
@@ -8228,7 +8343,7 @@
    "price": "",
    "url": "https://www.schloss-benrath.de/veranstaltungs-detail/v/5128",
    "category": "концерт",
-   "description": "Babykonzert im Schloss Benrath.",
+   "description": "Babykonzert auf Schloss Benrath.",
    "source": "Schloss Benrath",
    "horizon_days": 21,
    "also_in": [
@@ -8257,9 +8372,9 @@
    "venue": "Schauspielhaus, Foyer",
    "address": "Gustaf-Gründgens-Platz 1",
    "locality": "Düsseldorf",
-   "price": "Frei",
+   "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/move-it/3054/",
-   "category": "событие",
+   "category": "театр",
    "description": "Yoga — Bringt bitte Sportkleidung und Yogamatten mit.",
    "source": "D'haus (Schauspielhaus)"
   },
@@ -8299,9 +8414,9 @@
    "venue": "Central Brücke",
    "address": "Gustaf-Gründgens-Platz 1",
    "locality": "Düsseldorf",
-   "price": "Frei",
+   "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/freestyle-session-space/3055/",
-   "category": "событие",
+   "category": "театр",
    "description": "Freies Training für urbane Tänzer:innen",
    "source": "D'haus (Schauspielhaus)"
   },
@@ -8330,7 +8445,7 @@
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/die-verwandlung/3039/",
    "category": "театр",
-   "description": "nach Franz Kafka | in einer Bearbeitung von Dorle Trachternach, Kamilė Gudmonaitė und Ensemble",
+   "description": "nach Franz Kafka | in einer Bearbeitung von Dorle Trachternach, Kamilė Gudmonaitė und Ensemble Regie Kamilė Gudmonaitė",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -8404,18 +8519,18 @@
    "end_date": ""
   },
   {
-   "title": "Creole Nignt Birds",
+   "title": "Creole Nignt Birds @EmPöötzke",
    "date": "2026-11-04",
    "time": "20:30",
    "end_date": "",
    "venue": "Em Pöötzke",
-   "address": "Düsseldorf",
+   "address": "",
    "locality": "Düsseldorf",
    "price": "Eintritt frei!",
    "url": "https://www.troedelmarkt-aachenerplatz.de/",
    "category": "konzert",
    "description": "Foot tapping, finger snapping – echter New-Orleans-Jazz live.",
-   "source": "Rынок Aachener Platz"
+   "source": "Рынок Aachener Platz"
   },
   {
    "title": "Duò Lavoà Lapò",
@@ -8454,9 +8569,9 @@
    "address": "Gustaf-Gründgens-Platz",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/gate-von-erwin-wurm/3057/",
-   "category": "событие",
-   "description": "Enthüllung der Skulptur mit Stephan Keller, Oberbürgermeister der Landeshauptstadt Düsseldorf.",
+   "url": "https://www.dhaus.de/",
+   "category": "выставка",
+   "description": "Enthüllung der Skulptur mit Stephan Keller, Oberbürgermeister der Landeshauptstadt Düsseldorf und einem Come-together",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -8467,9 +8582,9 @@
    "venue": "Central Brücke",
    "address": "Gustaf-Gründgens-Platz 1",
    "locality": "Düsseldorf",
-   "price": "Frei",
+   "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/theaterbar/3056/",
-   "category": "событие",
+   "category": "театр",
    "description": "DRINKS, LIEBLINGSTEXTE, SHOWEINLAGEN UND LIVE-MUSIK",
    "source": "D'haus (Schauspielhaus)"
   },
@@ -8553,8 +8668,8 @@
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/bridgebeats-live-sessions/3049/",
-   "category": "концерт",
-   "description": "Bridge&Beats: Live Session",
+   "category": "театр",
+   "description": "",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -8578,15 +8693,15 @@
    "title": "Trödel- und Antikmarkt am Aachener Platz",
    "date": "2026-11-07",
    "time": "08:00",
-   "end_date": "2026-11-07",
-   "venue": "Antik- und Trödelzelt am Aachener Platz",
+   "end_date": "",
+   "venue": "Antik- und Trödelzelt",
    "address": "Aachener Platz",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.troedelmarkt-aachenerplatz.de/",
    "category": "markt",
-   "description": "Antik- und Trödelzelt, Freigelände, Biergarten und Café Sperrmüll.",
-   "source": "Rынок Aachener Platz"
+   "description": "In der Zelthalle bietet der Trödelmarkt jeden Samstag den Besuchern ein ausgefallenes Angebot von Edeltrödel, Schmuck, Second-Hand-Kleidung, Antiquitäten, Raritäten, Kunst, Shabby-Chic- und Design-Objekten.",
+   "source": "Рынок Aachener Platz"
   },
   {
    "title": "FC Ingolstadt 04 — Fortuna",
@@ -8629,7 +8744,7 @@
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/paradise-lost-all-over-again-2026/3043/",
    "category": "театр",
-   "description": "7 TODSÜNDEN: NEID von Yeşim Nela Keim Schaub, Lisa Pottstock",
+   "description": "7 TODSÜNDEN: NEID von Yeşim Nela Keim Schaub, Lisa Pottstock Regie Yeşim Nela Keim Schaub, Lisa Pottstock",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -8710,13 +8825,13 @@
    "date": "2026-11-08",
    "time": "11:00",
    "end_date": "2026-11-08",
-   "venue": "rund um die METRO Düsseldorf",
+   "venue": "METRO Düsseldorf",
    "address": "Walter-Eucken-Straße",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.radschlaegermarkt-duesseldorf.de/",
    "category": "markt",
-   "description": "Der Radschlägermarkt rund um die METRO Düsseldorf.",
+   "description": "Der nächste Radschlägermarkt rund um die METRO Düsseldorf.",
    "source": "Radschlägermarkt"
   },
   {
@@ -8744,7 +8859,7 @@
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/das-neinhorn/2948/",
    "category": "театр",
-   "description": "Familienvorstellung von Marc-Uwe Kling und Astrid Henn",
+   "description": "von Marc-Uwe Kling und Astrid Henn Regie Philipp Alfons Heitmann, Matts Johan Leenders",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -8839,9 +8954,9 @@
    "venue": "Schauspielhaus, Foyer",
    "address": "Gustaf-Gründgens-Platz 1",
    "locality": "Düsseldorf",
-   "price": "Frei",
+   "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/gegen-jeden-antisemitismus/3063/",
-   "category": "событие",
+   "category": "театр",
    "description": "Lesung mit Mitgliedern des Ensembles",
    "source": "D'haus (Schauspielhaus)"
   },
@@ -8911,9 +9026,9 @@
    "venue": "Schauspielhaus, Foyer",
    "address": "Gustaf-Gründgens-Platz 1",
    "locality": "Düsseldorf",
-   "price": "Frei",
+   "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/move-it/3066/",
-   "category": "событие",
+   "category": "театр",
    "description": "Tanz — Bringt bitte Sportkleidung mit.",
    "source": "D'haus (Schauspielhaus)"
   },
@@ -8925,9 +9040,9 @@
    "venue": "Central Brücke",
    "address": "Gustaf-Gründgens-Platz 1",
    "locality": "Düsseldorf",
-   "price": "Frei",
+   "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/freestyle-session-space/3071/",
-   "category": "событие",
+   "category": "театр",
    "description": "Freies Training für urbane Tänzer:innen",
    "source": "D'haus (Schauspielhaus)"
   },
@@ -8960,18 +9075,18 @@
    "source": "D'haus (Schauspielhaus)"
   },
   {
-   "title": "Creole Nignt Birds",
+   "title": "Creole Nignt Birds @EmPöötzke",
    "date": "2026-11-11",
    "time": "20:30",
    "end_date": "",
    "venue": "Em Pöötzke",
-   "address": "Düsseldorf",
+   "address": "",
    "locality": "Düsseldorf",
    "price": "Eintritt frei!",
    "url": "https://www.troedelmarkt-aachenerplatz.de/",
    "category": "konzert",
    "description": "Foot tapping, finger snapping – echter New-Orleans-Jazz live.",
-   "source": "Rынок Aachener Platz"
+   "source": "Рынок Aachener Platz"
   },
   {
    "title": "Das NEIN­horn",
@@ -8984,7 +9099,7 @@
    "price": "",
    "url": "https://www.dhaus.de/programm/spielplan/das-neinhorn/2950/",
    "category": "театр",
-   "description": "Familienvorstellung von Marc-Uwe Kling und Astrid Henn",
+   "description": "von Marc-Uwe Kling und Astrid Henn Regie Philipp Alfons Heitmann, Matts Johan Leenders",
    "source": "D'haus (Schauspielhaus)"
   },
   {
@@ -8995,9 +9110,9 @@
    "venue": "Schauspielhaus, Foyer",
    "address": "Gustaf-Gründgens-Platz 1",
    "locality": "Düsseldorf",
-   "price": "Frei",
+   "price": "frei",
    "url": "https://www.dhaus.de/programm/spielplan/sing-it/3070/",
-   "category": "событие",
+   "category": "театр",
    "description": "Afterwork-Singen",
    "source": "D'haus (Schauspielhaus)"
   },
@@ -9016,6 +9131,24 @@
    "source": "D'haus (Schauspielhaus)"
   },
   {
+   "title": "Don Toliver Düsseldorf Tickets",
+   "date": "2026-11-12",
+   "time": "",
+   "end_date": "2026-11-12",
+   "venue": "PSD Bank Dome",
+   "address": "PSD Bank Dome, Düsseldorf, Germany, Düsseldorf",
+   "locality": "Düsseldorf",
+   "price": "206.47",
+   "url": "https://allevents.in/d%C3%BCsseldorf/don-toliver-düsseldorf-tickets/100030484599932",
+   "category": "концерт",
+   "description": "",
+   "source": "allevents: все",
+   "also_in": [
+    "allevents: все",
+    "allevents: живая музыка"
+   ]
+  },
+  {
    "title": "Candlelight: Das Beste der 80er",
    "date": "2026-11-12",
    "time": "",
@@ -9026,24 +9159,6 @@
    "price": "34.00",
    "url": "https://allevents.in/dusseldorf/candlelight-das-beste-der-80er/2700030035612217",
    "category": "событие",
-   "description": "",
-   "source": "allevents: все",
-   "also_in": [
-    "allevents: все",
-    "allevents: живая музыка"
-   ]
-  },
-  {
-   "title": "Don Toliver Düsseldorf Tickets",
-   "date": "2026-11-12",
-   "time": "",
-   "end_date": "",
-   "venue": "PSD Bank Dome",
-   "address": "PSD Bank Dome, Düsseldorf, Germany, Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "206.47",
-   "url": "https://allevents.in/d%C3%BCsseldorf/don-toliver-düsseldorf-tickets/100030484599932",
-   "category": "концерт",
    "description": "",
    "source": "allevents: все",
    "also_in": [
@@ -9073,14 +9188,14 @@
    "title": "BINGO AM STRAND - die Winteredition jetzt im Klonkk",
    "date": "2026-11-13",
    "time": "19:00",
-   "end_date": "2026-11-13",
+   "end_date": "",
    "venue": "klOnkk",
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.stadtstrand-duesseldorf.de/events/bingo-am-strand---die-winteredition-jetzt-im-klonkk",
-   "category": "событие",
-   "description": "BINGO AM STRAND - die Winteredition jetzt im Klonkk",
+   "category": "детям",
+   "description": "Ab Mai ist auch der Kunst- und Kulturstrand an der Oberkasseler Brücke in seine Sommersaison gestartet.",
    "source": "StadtStrand"
   },
   {
@@ -9100,18 +9215,32 @@
    "away": true
   },
   {
+   "title": "DEL2 Spieltag 15: ECDC Memmingen - Düsseldorfer EG",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "end_date": "",
+   "venue": "",
+   "address": "",
+   "locality": "Memmingen",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/saison/spielplan/",
+   "category": "спорт",
+   "description": "",
+   "source": "DEG"
+  },
+  {
    "title": "Trödel- und Antikmarkt am Aachener Platz",
    "date": "2026-11-14",
    "time": "08:00",
-   "end_date": "2026-11-14",
-   "venue": "Antik- und Trödelzelt am Aachener Platz",
+   "end_date": "",
+   "venue": "Antik- und Trödelzelt",
    "address": "Aachener Platz",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.troedelmarkt-aachenerplatz.de/",
    "category": "markt",
-   "description": "Antik- und Trödelzelt, Freigelände, Biergarten und Café Sperrmüll.",
-   "source": "Rынок Aachener Platz"
+   "description": "In der Zelthalle bietet der Trödelmarkt jeden Samstag den Besuchern ein ausgefallenes Angebot von Edeltrödel, Schmuck, Second-Hand-Kleidung, Antiquitäten, Raritäten, Kunst, Shabby-Chic- und Design-Objekten.",
+   "source": "Рынок Aachener Platz"
   },
   {
    "title": "Good Charlotte Düsseldorf Tickets",
@@ -9129,8 +9258,7 @@
    "also_in": [
     "allevents: все",
     "allevents: концерты",
-    "allevents: все",
-    "allevents: живая музыка"
+    "allevents: все"
    ]
   },
   {
@@ -9210,6 +9338,20 @@
    "away": false
   },
   {
+   "title": "DEL2 Spieltag 16: Düsseldorfer EG - Ravensburg Towerstars",
+   "date": "2026-11-15",
+   "time": "17:00",
+   "end_date": "",
+   "venue": "PSD Bank Dome",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/saison/spielplan/",
+   "category": "спорт",
+   "description": "",
+   "source": "DEG"
+  },
+  {
    "title": "COMPAMED",
    "date": "2026-11-16",
    "time": "",
@@ -9254,18 +9396,32 @@
    "away": false
   },
   {
-   "title": "Creole Nignt Birds",
+   "title": "DEL2 Spieltag 17: Düsseldorfer EG - Starbulls Rosenheim",
+   "date": "2026-11-17",
+   "time": "19:30",
+   "end_date": "",
+   "venue": "PSD Bank Dome",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/saison/spielplan/",
+   "category": "спорт",
+   "description": "",
+   "source": "DEG"
+  },
+  {
+   "title": "Creole Nignt Birds @EmPöötzke",
    "date": "2026-11-18",
    "time": "20:30",
    "end_date": "",
    "venue": "Em Pöötzke",
-   "address": "Düsseldorf",
+   "address": "",
    "locality": "Düsseldorf",
    "price": "Eintritt frei!",
    "url": "https://www.troedelmarkt-aachenerplatz.de/",
    "category": "konzert",
    "description": "Foot tapping, finger snapping – echter New-Orleans-Jazz live.",
-   "source": "Rынок Aachener Platz"
+   "source": "Рынок Aachener Platz"
   },
   {
    "title": "The Prodigy in Düsseldorf",
@@ -9318,18 +9474,32 @@
    "away": true
   },
   {
+   "title": "DEL2 Spieltag 18: Dresdner Eislöwen - Düsseldorfer EG",
+   "date": "2026-11-20",
+   "time": "19:30",
+   "end_date": "",
+   "venue": "",
+   "address": "",
+   "locality": "Dresden",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/saison/spielplan/",
+   "category": "спорт",
+   "description": "",
+   "source": "DEG"
+  },
+  {
    "title": "Trödel- und Antikmarkt am Aachener Platz",
    "date": "2026-11-21",
    "time": "08:00",
-   "end_date": "2026-11-21",
-   "venue": "Antik- und Trödelzelt am Aachener Platz",
+   "end_date": "",
+   "venue": "Antik- und Trödelzelt",
    "address": "Aachener Platz",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.troedelmarkt-aachenerplatz.de/",
    "category": "markt",
-   "description": "Antik- und Trödelzelt, Freigelände, Biergarten und Café Sperrmüll.",
-   "source": "Rынок Aachener Platz"
+   "description": "In der Zelthalle bietet der Trödelmarkt jeden Samstag den Besuchern ein ausgefallenes Angebot von Edeltrödel, Schmuck, Second-Hand-Kleidung, Antiquitäten, Raritäten, Kunst, Shabby-Chic- und Design-Objekten.",
+   "source": "Рынок Aachener Platz"
   },
   {
    "title": "Fortuna — SG Sonnenhof Großaspach",
@@ -9409,18 +9579,32 @@
    "away": false
   },
   {
-   "title": "Creole Nignt Birds",
+   "title": "DEL2 Spieltag 19: Düsseldorfer EG - Lausitzer Füchse",
+   "date": "2026-11-22",
+   "time": "18:30",
+   "end_date": "",
+   "venue": "PSD Bank Dome",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/saison/spielplan/",
+   "category": "спорт",
+   "description": "",
+   "source": "DEG"
+  },
+  {
+   "title": "Creole Nignt Birds @EmPöötzke",
    "date": "2026-11-25",
    "time": "20:30",
    "end_date": "",
    "venue": "Em Pöötzke",
-   "address": "Düsseldorf",
+   "address": "",
    "locality": "Düsseldorf",
    "price": "Eintritt frei!",
    "url": "https://www.troedelmarkt-aachenerplatz.de/",
    "category": "konzert",
    "description": "Foot tapping, finger snapping – echter New-Orleans-Jazz live.",
-   "source": "Rынок Aachener Platz"
+   "source": "Рынок Aachener Platz"
   },
   {
    "title": "Freiburg - DEG",
@@ -9439,18 +9623,32 @@
    "away": true
   },
   {
+   "title": "DEL2 Spieltag 20: EHC Freiburg - Düsseldorfer EG",
+   "date": "2026-11-27",
+   "time": "19:30",
+   "end_date": "",
+   "venue": "",
+   "address": "",
+   "locality": "Freiburg im Breisgau",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/saison/spielplan/",
+   "category": "спорт",
+   "description": "",
+   "source": "DEG"
+  },
+  {
    "title": "Trödel- und Antikmarkt am Aachener Platz",
    "date": "2026-11-28",
    "time": "08:00",
-   "end_date": "2026-11-28",
-   "venue": "Antik- und Trödelzelt am Aachener Platz",
+   "end_date": "",
+   "venue": "Antik- und Trödelzelt",
    "address": "Aachener Platz",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.troedelmarkt-aachenerplatz.de/",
    "category": "markt",
-   "description": "Antik- und Trödelzelt, Freigelände, Biergarten und Café Sperrmüll.",
-   "source": "Rынок Aachener Platz"
+   "description": "In der Zelthalle bietet der Trödelmarkt jeden Samstag den Besuchern ein ausgefallenes Angebot von Edeltrödel, Schmuck, Second-Hand-Kleidung, Antiquitäten, Raritäten, Kunst, Shabby-Chic- und Design-Objekten.",
+   "source": "Рынок Aachener Platz"
   },
   {
    "title": "Würzburger Kickers — Fortuna",
@@ -9472,14 +9670,14 @@
    "title": "SATURDAY NIGHT PUBQUIZ im Klonkk",
    "date": "2026-11-28",
    "time": "19:00",
-   "end_date": "2026-11-28",
+   "end_date": "",
    "venue": "klOnkk",
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.stadtstrand-duesseldorf.de/events/saturday-night-pubquiz-im-klonkk",
-   "category": "событие",
-   "description": "SATURDAY NIGHT PUBQUIZ im Klonkk",
+   "category": "детям",
+   "description": "Ab Mai ist auch der Kunst- und Kulturstrand an der Oberkasseler Brücke in seine Sommersaison gestartet.",
    "source": "StadtStrand"
   },
   {
@@ -9527,6 +9725,20 @@
    "away": false
   },
   {
+   "title": "DEL2 Spieltag 21: Düsseldorfer EG - SC Bietigheim Steelers",
+   "date": "2026-11-29",
+   "time": "17:00",
+   "end_date": "",
+   "venue": "PSD Bank Dome",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/saison/spielplan/",
+   "category": "спорт",
+   "description": "",
+   "source": "DEG"
+  },
+  {
    "title": "Melan Trödelmarkt Düsseldorf Ikea",
    "date": "2026-11-29",
    "time": "",
@@ -9557,6 +9769,20 @@
    "away": false
   },
   {
+   "title": "DEL2 Spieltag 22: Düsseldorfer EG - EV Landshut",
+   "date": "2026-12-01",
+   "time": "19:30",
+   "end_date": "",
+   "venue": "PSD Bank Dome",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/saison/spielplan/",
+   "category": "спорт",
+   "description": "",
+   "source": "DEG"
+  },
+  {
    "title": "VALVE WORLD EXPO",
    "date": "2026-12-01",
    "time": "",
@@ -9571,18 +9797,18 @@
    "source": "Messe Düsseldorf"
   },
   {
-   "title": "Creole Nignt Birds",
+   "title": "Creole Nignt Birds @EmPöötzke",
    "date": "2026-12-02",
    "time": "20:30",
    "end_date": "",
    "venue": "Em Pöötzke",
-   "address": "Düsseldorf",
+   "address": "",
    "locality": "Düsseldorf",
    "price": "Eintritt frei!",
    "url": "https://www.troedelmarkt-aachenerplatz.de/",
    "category": "konzert",
    "description": "Foot tapping, finger snapping – echter New-Orleans-Jazz live.",
-   "source": "Rынок Aachener Platz"
+   "source": "Рынок Aachener Platz"
   },
   {
    "title": "sustainable solutions",
@@ -9615,18 +9841,32 @@
    "away": false
   },
   {
+   "title": "DEL2 Spieltag 23: Düsseldorfer EG - Eisbären Regensburg",
+   "date": "2026-12-04",
+   "time": "19:30",
+   "end_date": "",
+   "venue": "PSD Bank Dome",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/saison/spielplan/",
+   "category": "спорт",
+   "description": "",
+   "source": "DEG"
+  },
+  {
    "title": "Trödel- und Antikmarkt am Aachener Platz",
    "date": "2026-12-05",
    "time": "08:00",
-   "end_date": "2026-12-05",
-   "venue": "Antik- und Trödelzelt am Aachener Platz",
+   "end_date": "",
+   "venue": "Antik- und Trödelzelt",
    "address": "Aachener Platz",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.troedelmarkt-aachenerplatz.de/",
    "category": "markt",
-   "description": "Antik- und Trödelzelt, Freigelände, Biergarten und Café Sperrmüll.",
-   "source": "Rынок Aachener Platz"
+   "description": "In der Zelthalle bietet der Trödelmarkt jeden Samstag den Besuchern ein ausgefallenes Angebot von Edeltrödel, Schmuck, Second-Hand-Kleidung, Antiquitäten, Raritäten, Kunst, Shabby-Chic- und Design-Objekten.",
+   "source": "Рынок Aachener Platz"
   },
   {
    "title": "Fortuna — SV Wehen Wiesbaden",
@@ -9662,14 +9902,14 @@
    "title": "BINGO AM STRAND - die Weihnachtsedition",
    "date": "2026-12-06",
    "time": "14:00",
-   "end_date": "2026-12-06",
+   "end_date": "",
    "venue": "klOnkk",
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.stadtstrand-duesseldorf.de/events/bingo-am-strand---die-weihnachtsedition",
-   "category": "событие",
-   "description": "BINGO AM STRAND - die Weihnachtsedition",
+   "category": "детям",
+   "description": "Ab Mai ist auch der Kunst- und Kulturstrand an der Oberkasseler Brücke in seine Sommersaison gestartet.",
    "source": "StadtStrand"
   },
   {
@@ -9689,18 +9929,32 @@
    "away": true
   },
   {
-   "title": "Creole Nignt Birds",
+   "title": "DEL2 Spieltag 24: EC Bad Nauheim - Düsseldorfer EG",
+   "date": "2026-12-06",
+   "time": "18:30",
+   "end_date": "",
+   "venue": "",
+   "address": "",
+   "locality": "Bad Nauheim",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/saison/spielplan/",
+   "category": "спорт",
+   "description": "",
+   "source": "DEG"
+  },
+  {
+   "title": "Creole Nignt Birds @EmPöötzke",
    "date": "2026-12-09",
    "time": "20:30",
    "end_date": "",
    "venue": "Em Pöötzke",
-   "address": "Düsseldorf",
+   "address": "",
    "locality": "Düsseldorf",
    "price": "Eintritt frei!",
    "url": "https://www.troedelmarkt-aachenerplatz.de/",
    "category": "konzert",
    "description": "Foot tapping, finger snapping – echter New-Orleans-Jazz live.",
-   "source": "Rынок Aachener Platz"
+   "source": "Рынок Aachener Platz"
   },
   {
    "title": "Kassel - DEG",
@@ -9719,18 +9973,32 @@
    "away": true
   },
   {
+   "title": "DEL2 Spieltag 25: Blue Devils Weiden - Düsseldorfer EG",
+   "date": "2026-12-11",
+   "time": "19:30",
+   "end_date": "",
+   "venue": "",
+   "address": "",
+   "locality": "Weiden in der Oberpfalz",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/saison/spielplan/",
+   "category": "спорт",
+   "description": "",
+   "source": "DEG"
+  },
+  {
    "title": "Trödel- und Antikmarkt am Aachener Platz",
    "date": "2026-12-12",
    "time": "08:00",
-   "end_date": "2026-12-12",
-   "venue": "Antik- und Trödelzelt am Aachener Platz",
+   "end_date": "",
+   "venue": "Antik- und Trödelzelt",
    "address": "Aachener Platz",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.troedelmarkt-aachenerplatz.de/",
    "category": "markt",
-   "description": "Antik- und Trödelzelt, Freigelände, Biergarten und Café Sperrmüll.",
-   "source": "Rынок Aachener Platz"
+   "description": "In der Zelthalle bietet der Trödelmarkt jeden Samstag den Besuchern ein ausgefallenes Angebot von Edeltrödel, Schmuck, Second-Hand-Kleidung, Antiquitäten, Raritäten, Kunst, Shabby-Chic- und Design-Objekten.",
+   "source": "Рынок Aachener Platz"
   },
   {
    "title": "Viktoria Köln — Fortuna",
@@ -9753,13 +10021,13 @@
    "date": "2026-12-13",
    "time": "11:00",
    "end_date": "2026-12-13",
-   "venue": "rund um die METRO Düsseldorf",
+   "venue": "METRO Düsseldorf",
    "address": "Walter-Eucken-Straße",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.radschlaegermarkt-duesseldorf.de/",
    "category": "markt",
-   "description": "Der Radschlägermarkt rund um die METRO Düsseldorf.",
+   "description": "Der nächste Radschlägermarkt rund um die METRO Düsseldorf.",
    "source": "Radschlägermarkt"
   },
   {
@@ -9843,39 +10111,20 @@
    "horizon_days": 400
   },
   {
+   "time": "",
+   "end_date": "2027-07-04",
+   "address": "",
+   "locality": "",
+   "price": "",
+   "url": "",
+   "description": "",
    "title": "Düsseldorfer Frankreichfest",
    "date": "2027-07-02",
-   "time": "",
-   "end_date": "2027-07-04",
-   "venue": "Altstadt und Rheinuferpromenade",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://destination-duesseldorf.de/grossveranstaltungen/",
+   "venue": "Königsallee",
    "category": "фестиваль",
-   "description": "Das Düsseldorfer Frankreichfest ist pure Lebensfreude am Rhein!",
-   "source": "Großveranstaltungen (город)",
-   "horizon_days": 400,
+   "source": "visitduesseldorf.de",
    "big": true,
-   "also_in": [
-    "visitduesseldorf.de"
-   ]
-  },
-  {
-   "title": "Tour de Düsseldorf",
-   "date": "2027-07-03",
-   "time": "",
-   "end_date": "2027-07-04",
-   "venue": "Rhein",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://destination-duesseldorf.de/grossveranstaltungen/",
-   "category": "событие",
-   "description": "Die Tour de Düsseldorf ist ein Fest für alle, die Benzin im Blut und eine Schwäche für französischen Charme haben.",
-   "source": "Großveranstaltungen (город)",
-   "horizon_days": 400,
-   "big": true
+   "horizon_days": 400
   },
   {
    "time": "",
