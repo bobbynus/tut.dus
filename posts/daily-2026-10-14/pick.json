@@ -1,0 +1,47 @@
+{
+ "list": [
+  {
+   "time": "17:00",
+   "title": "Move it!",
+   "place": "Schauspielhaus, Foyer"
+  },
+  {
+   "time": "18:00",
+   "title": "SUNSET DANCE",
+   "place": "StadtStrand"
+  },
+  {
+   "time": "19:00",
+   "title": "Freestyle Session Space",
+   "place": "Central Brücke"
+  },
+  {
+   "time": "20:00",
+   "title": "Urgant Live",
+   "place": "Mitsubishi Electric HALLE"
+  },
+  {
+   "time": "",
+   "title": "Franz Marc",
+   "place": "K20 Kunstsammlung"
+  }
+ ],
+ "highlights": [
+  {
+   "title": "Move it!",
+   "text": "Танцевальное занятие в фойе театра, не забудьте взять с собой спортивную одежду.",
+   "time": "17:00",
+   "place": "Schauspielhaus, Foyer",
+   "price": "бесплатно",
+   "tag": "спорт"
+  },
+  {
+   "title": "SUNSET DANCE",
+   "text": "Танцы для всех желающих на набережной Тонхалле со специальной программой West Coast Swing.",
+   "time": "18:00",
+   "place": "StadtStrand",
+   "price": "бесплатно",
+   "tag": "фестиваль"
+  }
+ ]
+}
