@@ -1,0 +1,60 @@
+{
+ "list": [
+  {
+   "time": "18:00",
+   "title": "Сальса-вечеринка",
+   "place": "Tonhallenufer"
+  },
+  {
+   "time": "19:00",
+   "title": "Инфовстреча: Оракул",
+   "place": "Central 2"
+  },
+  {
+   "time": "19:30",
+   "title": "Хоккей: Düsseldorfer EG",
+   "place": "PSD BANK DOME"
+  },
+  {
+   "time": "19:30",
+   "title": "Бах и Star Wars",
+   "place": "Auferstehungskirche"
+  },
+  {
+   "time": "20:00",
+   "title": "Концерт NieR:Orchestra",
+   "place": "Mitsubishi Electric"
+  },
+  {
+   "time": "",
+   "title": "Выставка «Эва Рубинштейн»",
+   "place": "Museum für Gartenkunst"
+  }
+ ],
+ "highlights": [
+  {
+   "title": "Сальса-вечер на набережной",
+   "text": "Танцевальный мастер-класс и фиеста на свежем воздухе у Тонхалле.",
+   "time": "18:00",
+   "place": "Tonhallenufer",
+   "price": "бесплатно",
+   "tag": "вечер"
+  },
+  {
+   "title": "Бах встречает Звездные Войны",
+   "text": "Органист Давид Шоллмайер соединяет барочную музыку с космической эстетикой.",
+   "time": "19:30",
+   "place": "Auferstehungskirche",
+   "price": "",
+   "tag": "концерт"
+  },
+  {
+   "title": "Встреча с оракулом",
+   "text": "Интересное публичное событие по произведению Лив Стрёмквист.",
+   "time": "19:00",
+   "place": "Central 2",
+   "price": "бесплатно",
+   "tag": "бесплатно"
+  }
+ ]
+}
