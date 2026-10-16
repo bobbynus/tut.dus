@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-16T08:09",
- "count": 697,
+ "generated_at": "2026-10-16T13:17",
+ "count": 682,
  "events": [
   {
    "title": "A44:  Düsseldorf -> Essen",
@@ -184,7 +184,8 @@
    "description": "von Kim Langner nach dem Roman von George Orwell Regie Katharina Birch",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
-    "Prinz"
+    "Prinz",
+    "Visit Düsseldorf"
    ]
   },
   {
@@ -243,6 +244,7 @@
    "description": "Literaturtage Düsseldorf 2026",
    "source": "zakk",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -346,7 +348,8 @@
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
     "Visit Düsseldorf",
-    "Prinz"
+    "Prinz",
+    "Visit Düsseldorf"
    ]
   },
   {
@@ -445,7 +448,28 @@
    "url": "https://www.dhaus.de/programm/spielplan/die-moewe/3003/",
    "category": "театр",
    "description": "von Anton Tschechow Regie Barbara Frey",
-   "source": "D'haus (Schauspielhaus)"
+   "source": "D'haus (Schauspielhaus)",
+   "also_in": [
+    "Visit Düsseldorf"
+   ]
+  },
+  {
+   "title": "ROMEO & JULIA – Liebe ist alles – Die Tour",
+   "date": "2026-10-16",
+   "time": "19:30",
+   "end_date": "2026-10-25",
+   "venue": "Capitol Theater",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://prinz.de/events/romeo-julia-liebe-ist-alles-2/2026-10-16/",
+   "category": "театр",
+   "description": "ROMEO & JULIA im Capitol Theater Düsseldorf.",
+   "source": "Prinz",
+   "also_in": [
+    "Visit Düsseldorf",
+    "Visit Düsseldorf"
+   ]
   },
   {
    "title": "HitQuiz - den Song kenn ich!",
@@ -534,23 +558,6 @@
    "source": "Prinz"
   },
   {
-   "title": "ROMEO & JULIA – Liebe ist alles – Die Tour",
-   "date": "2026-10-16",
-   "time": "19:30",
-   "end_date": "2026-10-25",
-   "venue": "Capitol Theater",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/romeo-julia-liebe-ist-alles-2/2026-10-16/",
-   "category": "театр",
-   "description": "ROMEO & JULIA im Capitol Theater Düsseldorf.",
-   "source": "Prinz",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
-  },
-  {
    "title": "VHS-Theater FreiSpiel: Schneckenhäuser",
    "date": "2026-10-16",
    "time": "19:30",
@@ -607,6 +614,24 @@
    "end_date": ""
   },
   {
+   "title": "Falsche Schlange – Theater an der Luegallee",
+   "date": "2026-10-16",
+   "time": "20:00",
+   "end_date": "2026-10-25",
+   "venue": "Theater an der Luegallee",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://prinz.de/events/falsche-schlange-theater-an-der-luegallee/2026-10-16/",
+   "category": "театр",
+   "description": "Falsche Schlange im Theater an der Luegallee.",
+   "source": "Prinz",
+   "also_in": [
+    "Visit Düsseldorf",
+    "Visit Düsseldorf"
+   ]
+  },
+  {
    "title": "Disturbed by The Sickness",
    "date": "2026-10-16",
    "time": "20:00",
@@ -620,6 +645,7 @@
    "description": "Disturbed by The Sickness im Pitcher.",
    "source": "Prinz",
    "also_in": [
+    "allevents: выходные",
     "allevents: выходные"
    ]
   },
@@ -637,25 +663,42 @@
    "description": "NieR:Orchestra Concert in Düsseldorf.",
    "source": "Prinz",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
   {
-   "title": "The 5678's + The Naggs",
+   "title": "It’s a kind of Magic – Roncalli’s Apollo Varieté",
    "date": "2026-10-16",
    "time": "20:00",
    "end_date": "",
-   "venue": "Ratinger Straße 10, 40213 Düsseldorf, Germany",
-   "address": "Ratinger Straße 10, 40213 Düsseldorf, Deutschland, Dusseldorf",
-   "locality": "Dusseldorf",
+   "venue": "Roncalli's Apollo Variete",
+   "address": "",
+   "locality": "Düsseldorf",
    "price": "",
-   "url": "https://allevents.in/dusseldorf/the-5678s-the-naggs/200030298398137",
-   "category": "событие",
-   "description": "The 5678’s + The Naggs live im Ratinger Hof.",
-   "source": "allevents: все",
+   "url": "https://prinz.de/events/its-a-kind-of-magic-roncallis-apollo-variete/2026-10-16/",
+   "category": "театр",
+   "description": "It’s a kind of Magic im Apollo Varieté.",
+   "source": "Prinz",
    "also_in": [
-    "allevents: все",
-    "allevents: выходные",
+    "Visit Düsseldorf",
+    "Visit Düsseldorf"
+   ]
+  },
+  {
+   "title": "Kai Magnus Sting",
+   "date": "2026-10-16",
+   "time": "20:00",
+   "end_date": "",
+   "venue": "Bürgersaal Issum",
+   "address": "",
+   "locality": "Issum",
+   "price": "",
+   "url": "https://prinz.de/events/kai-magnus-sting/2026-10-16/",
+   "category": "театр",
+   "description": "Kai Magnus Sting in Issum.",
+   "source": "Prinz",
+   "also_in": [
     "Prinz"
    ]
   },
@@ -688,23 +731,6 @@
    "source": "Prinz"
   },
   {
-   "title": "Falsche Schlange – Theater an der Luegallee",
-   "date": "2026-10-16",
-   "time": "20:00",
-   "end_date": "2026-10-25",
-   "venue": "Theater an der Luegallee",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/falsche-schlange-theater-an-der-luegallee/2026-10-16/",
-   "category": "театр",
-   "description": "Falsche Schlange im Theater an der Luegallee.",
-   "source": "Prinz",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
-  },
-  {
    "title": "Goto Konrad – Blues-Rock To Thrill & Chill You!",
    "date": "2026-10-16",
    "time": "20:00",
@@ -717,23 +743,6 @@
    "category": "konzert",
    "description": "Blues-Rock mit Goto Konrad.",
    "source": "Prinz"
-  },
-  {
-   "title": "It’s a kind of Magic – Roncalli’s Apollo Varieté",
-   "date": "2026-10-16",
-   "time": "20:00",
-   "end_date": "",
-   "venue": "Roncalli's Apollo Variete",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/its-a-kind-of-magic-roncallis-apollo-variete/2026-10-16/",
-   "category": "театр",
-   "description": "It’s a kind of Magic im Apollo Varieté.",
-   "source": "Prinz",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
   },
   {
    "title": "Jan Ammann & Lisa Habermann – Tour 2026",
@@ -762,23 +771,6 @@
    "category": "театр",
    "description": "Jan van Weyde live.",
    "source": "Prinz"
-  },
-  {
-   "title": "Kai Magnus Sting",
-   "date": "2026-10-16",
-   "time": "20:00",
-   "end_date": "",
-   "venue": "Bürgersaal Issum",
-   "address": "",
-   "locality": "Issum",
-   "price": "",
-   "url": "https://prinz.de/events/kai-magnus-sting/2026-10-16/",
-   "category": "театр",
-   "description": "Kai Magnus Sting in Issum.",
-   "source": "Prinz",
-   "also_in": [
-    "Prinz"
-   ]
   },
   {
    "title": "Marikiscrycrycry",
@@ -1077,6 +1069,25 @@
    "source": "zakk"
   },
   {
+   "title": "Finissage: ECHT JETZT. Deutscher Jugendfotopreis 2026",
+   "date": "2026-10-16",
+   "time": "",
+   "end_date": "2026-11-15",
+   "venue": "KIT – Kunst im Tunnel",
+   "address": "Mannesmannufer 1b",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.kunst-im-tunnel.de/programm/kalender/finissage-echt-jetzt-deutscher-jugendfotopreis-2026/",
+   "category": "ausstellung",
+   "description": "ECHT JETZT richtet den Blick auf das, was junge Menschen bewegt: Auf ihre Fragen, ihre Beziehungen, ihre Perspektiven und ihre Bilder von Gegenwart. In einer Zeit des Wandels eröffnet die Ausstellung einen Raum für Vergewisserung, Austausch und Innehalten.",
+   "source": "KIT – Kunst im Tunnel",
+   "horizon_days": 21,
+   "also_in": [
+    "Visit Düsseldorf",
+    "Visit Düsseldorf"
+   ]
+  },
+  {
    "title": "Swiss & French Alps: Interlaken, Lauterbrunnen, Grindelwald, Chamonix & Geneva by Uniflucht\"",
    "date": "2026-10-16",
    "time": "",
@@ -1168,6 +1179,24 @@
    "horizon_days": 21,
    "also_in": [
     "KIT – Kunst im Tunnel"
+   ]
+  },
+  {
+   "title": "The 5678's + The Naggs",
+   "date": "2026-10-16",
+   "time": "",
+   "end_date": "",
+   "venue": "Ratinger Straße 10, 40213 Düsseldorf, Germany",
+   "address": "Ratinger Straße 10, 40213 Düsseldorf, Deutschland, Dusseldorf",
+   "locality": "Dusseldorf",
+   "price": "",
+   "url": "https://allevents.in/dusseldorf/the-5678s-the-naggs/200030298398137",
+   "category": "событие",
+   "description": "",
+   "source": "allevents: все",
+   "also_in": [
+    "allevents: все",
+    "allevents: выходные"
    ]
   },
   {
@@ -1289,24 +1318,6 @@
    "description": "",
    "source": "KIT – Kunst im Tunnel",
    "horizon_days": 21
-  },
-  {
-   "title": "Finissage: ECHT JETZT. Deutscher Jugendfotopreis 2026",
-   "date": "2026-10-16",
-   "time": "",
-   "end_date": "2026-11-15",
-   "venue": "KIT – Kunst im Tunnel",
-   "address": "Mannesmannufer 1b",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunst-im-tunnel.de/programm/kalender/finissage-echt-jetzt-deutscher-jugendfotopreis-2026/",
-   "category": "ausstellung",
-   "description": "ECHT JETZT richtet den Blick auf das, was junge Menschen bewegt: Auf ihre Fragen, ihre Beziehungen, ihre Perspektiven und ihre Bilder von Gegenwart. In einer Zeit des Wandels eröffnet die Ausstellung einen Raum für Vergewisserung, Austausch und Innehalten.",
-   "source": "KIT – Kunst im Tunnel",
-   "horizon_days": 21,
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
   },
   {
    "title": "Eva Rubinstein. Proof of Life",
@@ -1573,20 +1584,6 @@
    "date": "2026-10-16",
    "time": "",
    "end_date": "2026-11-01"
-  },
-  {
-   "title": "»Gemalte Gebete«. Bedrohte Wandmalereien in Synagogen der ukrainischen Bukowina",
-   "venue": "Stiftung Gerhart-Hauptmann-Haus",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Die Ausstellung präsentiert Wandmalereien ausgewählter Synagogen im ukrainischen Teil der Bukowina. Die Synagogen werden vor dem Hintergrund der jüdischen Geschichte und Kultur der Region präsentiert.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-16",
-   "time": "",
-   "end_date": "2026-10-30"
   },
   {
    "title": "Pip Culbert und Gerhard Hoehme: Something Old, Something New, Something Borrowed",
@@ -1911,20 +1908,6 @@
    "end_date": "2027-05-23"
   },
   {
-   "title": "Kaiserswerther Diakonie zeigt Werke von Walter Liggesmeyer",
-   "venue": "K3",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Die E.ON Art Collection übergibt der Kaiserswerther Diakonie 45 Gemälde von Walter Liggesmeyer (1938–2017).",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-16",
-   "time": "",
-   "end_date": "2026-12-31"
-  },
-  {
    "title": "Christoph Westermeier: Abbild, Bild und Bilder",
    "venue": "Goethe-Museum/Schloss Jägerhof",
    "address": "",
@@ -1993,20 +1976,6 @@
    "date": "2026-10-16",
    "time": "",
    "end_date": "2026-10-25"
-  },
-  {
-   "title": "Radu Darvas. Fotografien aus Siebenbürgen",
-   "venue": "Stiftung Gerhart-Hauptmann-Haus",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.g-h-h.de/veranstaltung/ausstellung-wiedergutmachung-fotografien-aus-siebenbuergen-von-radu-darvas",
-   "category": "выставка",
-   "description": "Ausstellung mit Fotografien aus Siebenbürgen von Radu Darvas. Die Fotos dokumentieren den Alltag der älteren Generation der Siebenbürger Sachsen in den Dörfern.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-16",
-   "time": "",
-   "end_date": "2026-11-13"
   },
   {
    "title": "Board games night @Holocafé",
@@ -2149,20 +2118,6 @@
    "end_date": "2027-04-28"
   },
   {
-   "title": "Trödelkult",
-   "date": "2026-10-17",
-   "time": "08:00",
-   "end_date": "",
-   "venue": "Antik- und Trödelzelt / Freigelände / Café Sperrmüll",
-   "address": "Aachener Platz",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/",
-   "category": "markt",
-   "description": "Antik- und Trödelzelt, Freigelände und Café Sperrmüll jeden Samstag.",
-   "source": "Rынок Aachener Platz"
-  },
-  {
    "title": "Volksgarten parkrun Düsseldorf",
    "venue": "Volksgarten",
    "address": "",
@@ -2204,20 +2159,6 @@
    "description": "",
    "source": "Schloss Benrath",
    "horizon_days": 21
-  },
-  {
-   "title": "Mento mit Los Apartamentos",
-   "date": "2026-10-17",
-   "time": "11:30",
-   "end_date": "14:30",
-   "venue": "Antik- und Trödelzelt am Aachener Platz",
-   "address": "Aachener Platz",
-   "locality": "Düsseldorf",
-   "price": "Eintritt frei",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/musikprogramm/2026-10-17-los-apartamentos/",
-   "category": "konzert",
-   "description": "Mento mit Los Apartamentos am Sa, 17.10.2026 in unserem Antik- und Trödelzelt am Aachener Platz.",
-   "source": "Rынок Aachener Platz"
   },
   {
    "title": "Brustkrebs-Aktionstag",
@@ -2321,6 +2262,7 @@
    "source": "Stadtmuseum",
    "horizon_days": 21,
    "also_in": [
+    "Пресс-служба города",
     "Пресс-служба города"
    ]
   },
@@ -2450,6 +2392,7 @@
    "description": "Ein Schauspiel von Heinrich von Kleist Regie Ulrich Rasche",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -3088,6 +3031,7 @@
    "description": "Ein Schauspiel von Heinrich von Kleist Regie Ulrich Rasche",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -3233,6 +3177,7 @@
    "description": "von Daniel Kehlmann Regie André Kaczmarczyk",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -3293,6 +3238,42 @@
    "end_date": ""
   },
   {
+   "title": "Silke Scheuermann: \"Zweites Buch der Unruhe\"",
+   "date": "2026-10-18",
+   "time": "19:00",
+   "end_date": "",
+   "venue": "zakk",
+   "address": "Fichtenstraße 40",
+   "locality": "Düsseldorf",
+   "price": "11,50 €",
+   "url": "https://www.zakk.de/event-detail?event=16250",
+   "category": "театр",
+   "description": "Literaturtage Düsseldorf 2026",
+   "source": "zakk",
+   "also_in": [
+    "Visit Düsseldorf",
+    "Visit Düsseldorf"
+   ]
+  },
+  {
+   "title": "PARADISE LOST ALL OVER AGAIN",
+   "date": "2026-10-18",
+   "time": "19:00",
+   "end_date": "",
+   "venue": "Central 2",
+   "address": "Gustaf-Gründgens-Platz 1",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.dhaus.de/programm/spielplan/paradise-lost-all-over-again-2026/3012/",
+   "category": "театр",
+   "description": "7 TODSÜNDEN: NEID von Yeşim Nela Keim Schaub, Lisa Pottstock",
+   "source": "D'haus (Schauspielhaus)",
+   "also_in": [
+    "Visit Düsseldorf",
+    "Visit Düsseldorf"
+   ]
+  },
+  {
    "title": "Beatrice Egli in Düsseldorf",
    "date": "2026-10-18",
    "time": "19:00",
@@ -3313,23 +3294,6 @@
    ]
   },
   {
-   "title": "PARADISE LOST ALL OVER AGAIN",
-   "date": "2026-10-18",
-   "time": "19:00",
-   "end_date": "",
-   "venue": "Central 2",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/paradise-lost-all-over-again-2026/3012/",
-   "category": "театр",
-   "description": "7 TODSÜNDEN: NEID von Yeşim Nela Keim Schaub, Lisa Pottstock",
-   "source": "D'haus (Schauspielhaus)",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
-  },
-  {
    "title": "7 TODSÜNDEN",
    "date": "2026-10-18",
    "time": "19:00",
@@ -3342,23 +3306,6 @@
    "category": "театр",
    "description": "Eine Gegenwartserkundung Theaterparcours",
    "source": "D'haus (Schauspielhaus)"
-  },
-  {
-   "title": "Silke Scheuermann: \"Zweites Buch der Unruhe\"",
-   "date": "2026-10-18",
-   "time": "19:00",
-   "end_date": "",
-   "venue": "zakk",
-   "address": "Fichtenstraße 40",
-   "locality": "Düsseldorf",
-   "price": "11,50 €",
-   "url": "https://www.zakk.de/event-detail?event=16250",
-   "category": "театр",
-   "description": "Literaturtage Düsseldorf 2026",
-   "source": "zakk",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
   },
   {
    "title": "Lola Land - Neo Revue: The Sexiest Show In Town",
@@ -3644,6 +3591,7 @@
    "description": "Literaturtage Düsseldorf 2026",
    "source": "zakk",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -3676,6 +3624,20 @@
    "end_date": ""
   },
   {
+   "title": "»Gemalte Gebete«. Bedrohte Wandmalereien in Synagogen der ukrainischen Bukowina",
+   "venue": "Stiftung Gerhart-Hauptmann-Haus",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Die Ausstellung präsentiert Wandmalereien ausgewählter Synagogen im ukrainischen Teil der Bukowina. Die Synagogen werden vor dem Hintergrund der jüdischen Geschichte und Kultur der Region präsentiert.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-19",
+   "time": "",
+   "end_date": "2026-10-30"
+  },
+  {
    "title": "Boys Club",
    "venue": "FFT Düsseldorf",
    "address": "",
@@ -3688,6 +3650,34 @@
    "date": "2026-10-19",
    "time": "",
    "end_date": "2026-10-23"
+  },
+  {
+   "title": "Kaiserswerther Diakonie zeigt Werke von Walter Liggesmeyer",
+   "venue": "K3",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Die E.ON Art Collection übergibt der Kaiserswerther Diakonie 45 Gemälde von Walter Liggesmeyer (1938–2017).",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-19",
+   "time": "",
+   "end_date": "2026-12-31"
+  },
+  {
+   "title": "Radu Darvas. Fotografien aus Siebenbürgen",
+   "venue": "Stiftung Gerhart-Hauptmann-Haus",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.g-h-h.de/veranstaltung/ausstellung-wiedergutmachung-fotografien-aus-siebenbuergen-von-radu-darvas",
+   "category": "выставка",
+   "description": "Ausstellung mit Fotografien aus Siebenbürgen von Radu Darvas. Die Fotos dokumentieren den Alltag der älteren Generation der Siebenbürger Sachsen in den Dörfern.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-19",
+   "time": "",
+   "end_date": "2026-11-13"
   },
   {
    "title": "kopfweide. junge literaturtage: Lesung Cornelia Boese: \"Arche Boa\"",
@@ -3718,23 +3708,6 @@
    "end_date": ""
   },
   {
-   "title": "Literarische Feierstunde zum 100. Geburtstag von Prof. Dr. Wilhelm Gössmann",
-   "date": "2026-10-20",
-   "time": "19:00",
-   "end_date": "",
-   "venue": "Heine-Institut",
-   "address": "Bilker Straße 12-14",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.duesseldorf.de/medienportal/pressedienst-einzelansicht/pld/heine-institut-erinnerung-an-prof-dr-wilhelm-goessmann",
-   "category": "выставка",
-   "description": "Aus diesem Anlass lädt das Heine-Institut, Bilker Straße 12-14, an diesem Tag um 19 Uhr zu einer literarischen Feierstunde ein.",
-   "source": "Пресс-служба города",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
-  },
-  {
    "title": "Werkstattlesung & Abschlussparty",
    "date": "2026-10-20",
    "time": "19:00",
@@ -3748,8 +3721,23 @@
    "description": "Literaturtage Düsseldorf 2026",
    "source": "zakk",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
+  },
+  {
+   "title": "Literarische Feierstunde: Erinnerung an Prof. Dr. Wilhelm Gössmann",
+   "date": "2026-10-20",
+   "time": "19:00",
+   "end_date": "",
+   "venue": "Heine-Institut",
+   "address": "Bilker Straße 12-14",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.duesseldorf.de/medienportal/pressedienst-einzelansicht/pld/heine-institut-erinnerung-an-prof-dr-wilhelm-goessmann",
+   "category": "событие",
+   "description": "Aus diesem Anlass lädt das Heine-Institut, Bilker Straße 12-14, an diesem Tag um 19 Uhr zu einer literarischen Feierstunde ein.",
+   "source": "Пресс-служба города"
   },
   {
    "title": "oeconomicum live – Wirtschaft erleben!",
@@ -3760,6 +3748,20 @@
    "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
    "category": "лекция",
    "description": "Die Rolle digitaler Vernetzung für Wirtschaftswachstum und Nachhaltigkeit.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-20",
+   "time": "19:00",
+   "end_date": ""
+  },
+  {
+   "title": "Prof. Dr. Wilhelm Gössmann zum 100. Geburtstag",
+   "venue": "Heinrich-Heine-Institut",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "лекция",
+   "description": "Am 20. Oktober wäre Prof. Dr. Wilhelm Gössmann 100 Jahre alt geworden. Aus diesem Anlass lädt das Heine-Institut zu einer literarischen Feierstunde ein.",
    "source": "Visit Düsseldorf",
    "date": "2026-10-20",
    "time": "19:00",
@@ -3878,7 +3880,10 @@
    "url": "https://www.dhaus.de/programm/spielplan/das-neinhorn/2945/",
    "category": "театр",
    "description": "von Marc-Uwe Kling und Astrid Henn Regie Philipp Alfons Heitmann, Matts Johan Leenders",
-   "source": "D'haus (Schauspielhaus)"
+   "source": "D'haus (Schauspielhaus)",
+   "also_in": [
+    "Visit Düsseldorf"
+   ]
   },
   {
    "title": "James Batchelor & Collaborators: Notes of Self",
@@ -3963,6 +3968,20 @@
    "category": "спорт",
    "description": "Freies Training für urbane Tänzer:innen",
    "source": "D'haus (Schauspielhaus)"
+  },
+  {
+   "title": "Taschenlampenführung im SchifffahrtMuseum",
+   "date": "2026-10-21",
+   "time": "19:00",
+   "end_date": "",
+   "venue": "SchifffahrtMuseum im Schlossturm",
+   "address": "Burgplatz 30",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.duesseldorf.de/medienportal/pressedienst-einzelansicht/pld/herbstferienprogramm-taschenlampenfuehrung-im-schifffahrtmuseum",
+   "category": "экскурсия",
+   "description": "Unter dem Titel 'Nachts im Museum' werden im SchifffahrtMuseum im Schlossturm, Burgplatz 30, Taschenlampenführungen für Familien mit Kindern ab 5 Jahren angeboten.",
+   "source": "Пресс-служба города"
   },
   {
    "title": "Forschung im Fokus: Demokratische Gesellschaft ausgestellt?",
@@ -4077,20 +4096,6 @@
    "end_date": ""
   },
   {
-   "title": "Creole Nignt Birds @EmPöötzke",
-   "date": "2026-10-21",
-   "time": "20:30",
-   "end_date": "",
-   "venue": "Em Pöötzke",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "Eintritt frei",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/",
-   "category": "konzert",
-   "description": "Foot tapping, finger snapping – echter New-Orleans-Jazz live.",
-   "source": "Rынок Aachener Platz"
-  },
-  {
    "title": "Tino Bomelino: ALLES WIRD SUPER GUT*",
    "date": "2026-10-21",
    "time": "",
@@ -4144,7 +4149,10 @@
    "url": "https://www.dhaus.de/programm/spielplan/das-neinhorn/2946/",
    "category": "театр",
    "description": "von Marc-Uwe Kling und Astrid Henn Regie Philipp Alfons Heitmann, Matts Johan Leenders",
-   "source": "D'haus (Schauspielhaus)"
+   "source": "D'haus (Schauspielhaus)",
+   "also_in": [
+    "Visit Düsseldorf"
+   ]
   },
   {
    "title": "Sing it!",
@@ -4232,6 +4240,7 @@
    "source": "Stadtmuseum",
    "horizon_days": 21,
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -4303,7 +4312,10 @@
    "url": "https://www.dhaus.de/programm/spielplan/ein-uebertritt/3017/",
    "category": "театр",
    "description": "von Elfriede Jelinek Regie Jossi Wieler",
-   "source": "D'haus (Schauspielhaus)"
+   "source": "D'haus (Schauspielhaus)",
+   "also_in": [
+    "Visit Düsseldorf"
+   ]
   },
   {
    "title": "Marcus S. Kleiner: Keine Macht für Niemand - Pop und Politik in Deutschland",
@@ -4521,6 +4533,20 @@
    "end_date": ""
   },
   {
+   "title": "Taschenlampenführung im SchifffahrtMuseum",
+   "date": "2026-10-23",
+   "time": "19:00",
+   "end_date": "",
+   "venue": "SchifffahrtMuseum im Schlossturm",
+   "address": "Burgplatz 30",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.duesseldorf.de/medienportal/pressedienst-einzelansicht/pld/herbstferienprogramm-taschenlampenfuehrung-im-schifffahrtmuseum",
+   "category": "экскурсия",
+   "description": "Unter dem Titel 'Nachts im Museum' werden im SchifffahrtMuseum im Schlossturm, Burgplatz 30, Taschenlampenführungen für Familien mit Kindern ab 5 Jahren angeboten.",
+   "source": "Пресс-служба города"
+  },
+  {
    "title": "Seniorentheater SeTA: Altweiberfrühling",
    "venue": "FFT Düsseldorf",
    "address": "",
@@ -4590,6 +4616,7 @@
    "description": "von Alice Birch nach Federico García Lorca Regie Lucia Bihler",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -4760,20 +4787,6 @@
    "end_date": "2026-11-01"
   },
   {
-   "title": "Trödelkult",
-   "date": "2026-10-24",
-   "time": "08:00",
-   "end_date": "",
-   "venue": "Antik- und Trödelzelt / Freigelände / Café Sperrmüll",
-   "address": "Aachener Platz",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/",
-   "category": "markt",
-   "description": "Antik- und Trödelzelt, Freigelände und Café Sperrmüll jeden Samstag.",
-   "source": "Rынок Aachener Platz"
-  },
-  {
    "title": "Volksgarten parkrun Düsseldorf",
    "venue": "Volksgarten",
    "address": "",
@@ -4829,20 +4842,6 @@
    "description": "",
    "source": "Schloss Benrath",
    "horizon_days": 21
-  },
-  {
-   "title": "Red Onion Hot Jazz",
-   "date": "2026-10-24",
-   "time": "11:30",
-   "end_date": "14:30",
-   "venue": "Antik- und Trödelzelt am Aachener Platz",
-   "address": "Aachener Platz",
-   "locality": "Düsseldorf",
-   "price": "Eintritt frei",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/musikprogramm/2026-10-24-red-onion-hot-jazz/",
-   "category": "konzert",
-   "description": "Vintage Jazz live am Aachener Platz.",
-   "source": "Rынок Aachener Platz"
   },
   {
    "title": "herman de vries - zero is the gate",
@@ -5056,7 +5055,10 @@
    "url": "https://www.dhaus.de/programm/spielplan/abba-jetzt/3020/",
    "category": "концерт",
    "description": "Das unverschämte Tribut an die schwedischen Popgötter",
-   "source": "D'haus (Schauspielhaus)"
+   "source": "D'haus (Schauspielhaus)",
+   "also_in": [
+    "Visit Düsseldorf"
+   ]
   },
   {
    "title": "Null Uhr",
@@ -5100,6 +5102,7 @@
    "description": "Mit den Studierenden des Düsseldorfer Schauspielstudios Texte und Musik aus dem Kabarett Friedrich Hollaenders",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -5534,6 +5537,7 @@
    "source": "Schloss Benrath",
    "horizon_days": 21,
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -5549,7 +5553,10 @@
    "url": "https://www.dhaus.de/programm/spielplan/das-neinhorn/2947/",
    "category": "детям",
    "description": "von Marc-Uwe Kling und Astrid Henn Regie Philipp Alfons Heitmann, Matts Johan Leenders",
-   "source": "D'haus (Schauspielhaus)"
+   "source": "D'haus (Schauspielhaus)",
+   "also_in": [
+    "Visit Düsseldorf"
+   ]
   },
   {
    "title": "DRINKS & BEATS - Sunset Sips & Grooves zur Herbstkirmes",
@@ -5779,20 +5786,6 @@
    "category": "рынок",
    "description": "Auf einem der gr&ouml;&szlig;ten OBI M&auml;rkte im Raum D&uuml;sseldorf findet einer der gr&ouml;&szlig;ten M&auml;rkte in NRW statt. F&uuml;r viele Besucher ist der 4. Sonntag, an dem der Markt in der Regel stattfindet, fest in den Kalender eingetragen. Das Warenangebot ist sehr abwechslungsreich ",
    "source": "Блошиные рынки (MFT)"
-  },
-  {
-   "title": "Kürbisschnitzen",
-   "date": "2026-10-25",
-   "time": "",
-   "end_date": "",
-   "venue": "D-Schänke",
-   "address": "Alt Niederkassel 49",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.d-schaenke.de/",
-   "category": " событие",
-   "description": "Am 25. Oktober lädt die D-Schänke wieder zum Kürbis Schnitzen ein und bringt damit ordentlich Herbststimmung ins Viertel.",
-   "source": "Mr. Düsseldorf (RSS)"
   },
   {
    "title": "A59:  AD Düsseldorf-Süd (in Richtung Düsseldorf-Benrath)",
@@ -6077,7 +6070,24 @@
    "url": "https://www.dhaus.de/programm/spielplan/inter-alia/3028/",
    "category": "театр",
    "description": "von Suzie Miller Regie Anna Stiepani",
-   "source": "D'haus (Schauspielhaus)"
+   "source": "D'haus (Schauspielhaus)",
+   "also_in": [
+    "Visit Düsseldorf"
+   ]
+  },
+  {
+   "title": "Taschenlampenführung im SchifffahrtMuseum",
+   "date": "2026-10-28",
+   "time": "19:00",
+   "end_date": "",
+   "venue": "SchifffahrtMuseum im Schlossturm",
+   "address": "Burgplatz 30",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.duesseldorf.de/medienportal/pressedienst-einzelansicht/pld/herbstferienprogramm-taschenlampenfuehrung-im-schifffahrtmuseum",
+   "category": "экскурсия",
+   "description": "Unter dem Titel 'Nachts im Museum' werden im SchifffahrtMuseum im Schlossturm, Burgplatz 30, Taschenlampenführungen für Familien mit Kindern ab 5 Jahren angeboten.",
+   "source": "Пресс-служба города"
   },
   {
    "title": "Soundcinema 2026: Acceleration",
@@ -6164,20 +6174,6 @@
    "end_date": ""
   },
   {
-   "title": "Creole Nignt Birds @EmPöötzke",
-   "date": "2026-10-28",
-   "time": "20:30",
-   "end_date": "",
-   "venue": "Em Pöötzke",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "Eintritt frei",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/",
-   "category": "konzert",
-   "description": "Foot tapping, finger snapping – echter New-Orleans-Jazz live.",
-   "source": "Rынок Aachener Platz"
-  },
-  {
    "title": "Langer Donnerstag",
    "date": "2026-10-29",
    "time": "18:00",
@@ -6205,6 +6201,20 @@
    "category": "театр",
    "description": "Offenes Theatertraining",
    "source": "D'haus (Schauspielhaus)"
+  },
+  {
+   "title": "Fußballgedichte im Heine-Institut",
+   "date": "2026-10-29",
+   "time": "19:00",
+   "end_date": "",
+   "venue": "Heine-Institut",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.duesseldorf.de/medienportal/pressedienst-einzelansicht/pld/fussballgedichte-im-heine-institut",
+   "category": "выставка",
+   "description": "Auf diese Frage geht Jan von Holtum, Kurator der Ausstellung und stellvertretender Direktor des Heine-Instituts, am Donnerstag, 29. Oktober, 2026, 19 Uhr, in seinem Vortrag zur Sonderausstellung im Heine-Institut ein.",
+   "source": "Пресс-служба города"
   },
   {
    "title": "Der Ball ist rund – Fußballgedichte in Facetten",
@@ -6288,7 +6298,10 @@
    "url": "https://www.dhaus.de/programm/spielplan/blutbuch/3031/",
    "category": "театр",
    "description": "von Kim de l’Horizon von und mit Lucia Kotikova nach einer Fassung und Inszenierung von Sebastian Schug",
-   "source": "D'haus (Schauspielhaus)"
+   "source": "D'haus (Schauspielhaus)",
+   "also_in": [
+    "Visit Düsseldorf"
+   ]
   },
   {
    "title": "Götz Widmann",
@@ -6473,6 +6486,7 @@
    "description": "von Ingmar Bergman Regie Thorleifur Örn Arnarsson",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -6490,6 +6504,7 @@
    "description": "von Takao Baba & Ensemble frei nach dem Film Die sieben Samurai von Akira Kurosawa",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -6771,20 +6786,6 @@
    "end_date": "2026-11-03"
   },
   {
-   "title": "Trödelkult",
-   "date": "2026-10-31",
-   "time": "08:00",
-   "end_date": "",
-   "venue": "Antik- und Trödelzelt / Freigelände / Café Sperrmüll",
-   "address": "Aachener Platz",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/",
-   "category": "markt",
-   "description": "Antik- und Trödelzelt, Freigelände und Café Sperrmüll jeden Samstag.",
-   "source": "Rынок Aachener Platz"
-  },
-  {
    "title": "Volksgarten parkrun Düsseldorf",
    "venue": "Volksgarten",
    "address": "",
@@ -6826,20 +6827,6 @@
    "date": "2026-10-31",
    "time": "11:00",
    "end_date": ""
-  },
-  {
-   "title": "Blue Rose New Orleans Jazzband",
-   "date": "2026-10-31",
-   "time": "11:30",
-   "end_date": "14:30",
-   "venue": "Antik- und Trödelzelt am Aachener Platz",
-   "address": "Aachener Platz",
-   "locality": "Düsseldorf",
-   "price": "Eintritt frei",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/musikprogramm/2026-10-31-blue-rose-new-orleans-jazzband/",
-   "category": "konzert",
-   "description": "Vintage Jazz live am Aachener Platz.",
-   "source": "Rынок Aachener Platz"
   },
   {
    "title": "RE: Nature – rethink. reconnect. regenerate.",
@@ -6904,7 +6891,7 @@
    "time": "15:00",
    "end_date": "",
    "venue": "Carlsplatz",
-   "address": "Carlsplatz",
+   "address": "40213 Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.carlsplatz-markt.de/",
@@ -6998,6 +6985,20 @@
    "end_date": ""
   },
   {
+   "title": "Halloween im Aquazoo",
+   "date": "2026-10-31",
+   "time": "19:00",
+   "end_date": "",
+   "venue": "Aquazoo Löbbecke Museum",
+   "address": "Kaiserswerther Straße 380",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.duesseldorf.de/medienportal/pressedienst-einzelansicht/pld/halloween-im-aquazoo-gruseln-zwischen-schaben-haien-und-zombie-ameisen",
+   "category": "экскурсия",
+   "description": "Bei einer exklusiven Halloween-Führung am Samstag, 31. Oktober 2026, geht es von 19 bis 20.30 Uhr im Aquazoo Löbbecke Museum um die unheimlichen Seiten der Natur.",
+   "source": "Пресс-служба города"
+  },
+  {
    "title": "Die Helene-Fischer-Show",
    "venue": "Messe Düsseldorf",
    "address": "",
@@ -7079,7 +7080,10 @@
    "url": "https://www.dhaus.de/programm/spielplan/inter-alia/3035/",
    "category": "театр",
    "description": "von Suzie Miller Regie Anna Stiepani",
-   "source": "D'haus (Schauspielhaus)"
+   "source": "D'haus (Schauspielhaus)",
+   "also_in": [
+    "Visit Düsseldorf"
+   ]
   },
   {
    "title": "EIN ÜBERTRITT",
@@ -7365,6 +7369,7 @@
    "description": "von Wajdi Mouawad Regie Bassam Ghazi",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -7382,6 +7387,7 @@
    "description": "von Gregory Caers und Ensemble Regie Gregory Caers",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -7455,7 +7461,10 @@
    "url": "https://www.dhaus.de/programm/spielplan/inter-alia/3038/",
    "category": "театр",
    "description": "von Suzie Miller Regie Anna Stiepani",
-   "source": "D'haus (Schauspielhaus)"
+   "source": "D'haus (Schauspielhaus)",
+   "also_in": [
+    "Visit Düsseldorf"
+   ]
   },
   {
    "title": "Hosted by Sonja Reischl & Takao Baba: Performance Session X",
@@ -7545,7 +7554,7 @@
    "title": "The Jury Experience – Der 20-Millionen-Dollar-Raub",
    "date": "2026-11-01",
    "time": "",
-   "end_date": "2027-02-13",
+   "end_date": "",
    "venue": "Capitol Theater",
    "address": "Erkrather Str. 30, Düsseldorf-Stadtbezirk 3// 40233, Dusseldorf",
    "locality": "Dusseldorf",
@@ -7586,6 +7595,7 @@
    "description": "von Gregory Caers und Ensemble Regie Gregory Caers",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -7717,6 +7727,7 @@
    "description": "von Gregory Caers und Ensemble Regie Gregory Caers",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -7734,6 +7745,7 @@
    "description": "von Takao Baba & Ensemble frei nach dem Film Die sieben Samurai von Akira Kurosawa",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -8050,20 +8062,6 @@
    "end_date": ""
   },
   {
-   "title": "Creole Nignt Birds @EmPöötzke",
-   "date": "2026-11-04",
-   "time": "20:30",
-   "end_date": "",
-   "venue": "Em Pöötzke",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "Eintritt frei",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/",
-   "category": "konzert",
-   "description": "Foot tapping, finger snapping – echter New-Orleans-Jazz live.",
-   "source": "Rынок Aachener Platz"
-  },
-  {
    "title": "Duò Lavoà Lapò",
    "venue": "Jazz-Schmiede Düsseldorf",
    "address": "",
@@ -8219,6 +8217,7 @@
    "description": "von Alice Birch nach Federico García Lorca Regie Lucia Bihler",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -8691,20 +8690,6 @@
    ]
   },
   {
-   "title": "Trödelkult",
-   "date": "2026-11-07",
-   "time": "08:00",
-   "end_date": "",
-   "venue": "Antik- und Trödelzelt / Freigelände / Café Sperrmüll",
-   "address": "Aachener Platz",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/",
-   "category": "markt",
-   "description": "Antik- und Trödelzelt, Freigelände und Café Sperrmüll jeden Samstag.",
-   "source": "Rынок Aachener Platz"
-  },
-  {
    "title": "FC Ingolstadt 04 — Fortuna",
    "date": "2026-11-07",
    "time": "14:00",
@@ -9076,20 +9061,6 @@
    "source": "D'haus (Schauspielhaus)"
   },
   {
-   "title": "Creole Nignt Birds @EmPöötzke",
-   "date": "2026-11-11",
-   "time": "20:30",
-   "end_date": "",
-   "venue": "Em Pöötzke",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "Eintritt frei",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/",
-   "category": "konzert",
-   "description": "Foot tapping, finger snapping – echter New-Orleans-Jazz live.",
-   "source": "Rынок Aachener Platz"
-  },
-  {
    "title": "Das NEIN­horn",
    "date": "2026-11-12",
    "time": "10:00",
@@ -9289,20 +9260,6 @@
    "away": true
   },
   {
-   "title": "Trödelkult",
-   "date": "2026-11-14",
-   "time": "08:00",
-   "end_date": "",
-   "venue": "Antik- und Trödelzelt / Freigelände / Café Sperrmüll",
-   "address": "Aachener Platz",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/",
-   "category": "markt",
-   "description": "Antik- und Trödelzelt, Freigelände und Café Sperrmüll jeden Samstag.",
-   "source": "Rынок Aachener Platz"
-  },
-  {
    "title": "ZANURZENIA | EINTAUCHEN",
    "date": "2026-11-14",
    "time": "18:00",
@@ -9485,20 +9442,6 @@
    "away": false
   },
   {
-   "title": "Creole Nignt Birds @EmPöötzke",
-   "date": "2026-11-18",
-   "time": "20:30",
-   "end_date": "",
-   "venue": "Em Pöötzke",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "Eintritt frei",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/",
-   "category": "konzert",
-   "description": "Foot tapping, finger snapping – echter New-Orleans-Jazz live.",
-   "source": "Rынок Aachener Platz"
-  },
-  {
    "title": "The Prodigy Düsseldorf Tickets",
    "date": "2026-11-18",
    "time": "",
@@ -9564,20 +9507,6 @@
    "also_in": [
     "allevents: все"
    ]
-  },
-  {
-   "title": "Trödelkult",
-   "date": "2026-11-21",
-   "time": "08:00",
-   "end_date": "",
-   "venue": "Antik- und Trödelzelt / Freigelände / Café Sperrmüll",
-   "address": "Aachener Platz",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/",
-   "category": "markt",
-   "description": "Antik- und Trödelzelt, Freigelände und Café Sperrmüll jeden Samstag.",
-   "source": "Rынок Aachener Platz"
   },
   {
    "title": "Fortuna — SG Sonnenhof Großaspach",
@@ -9675,20 +9604,6 @@
    ]
   },
   {
-   "title": "Creole Nignt Birds @EmPöötzke",
-   "date": "2026-11-25",
-   "time": "20:30",
-   "end_date": "",
-   "venue": "Em Pöötzke",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "Eintritt frei",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/",
-   "category": "konzert",
-   "description": "Foot tapping, finger snapping – echter New-Orleans-Jazz live.",
-   "source": "Rынок Aachener Platz"
-  },
-  {
    "title": "Freiburg - DEG",
    "date": "2026-11-27",
    "time": "19:30",
@@ -9703,20 +9618,6 @@
    "source": "DEG iCal",
    "team": "DEG",
    "away": true
-  },
-  {
-   "title": "Trödelkult",
-   "date": "2026-11-28",
-   "time": "08:00",
-   "end_date": "",
-   "venue": "Antik- und Trödelzelt / Freigelände / Café Sperrmüll",
-   "address": "Aachener Platz",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/",
-   "category": "markt",
-   "description": "Antik- und Trödelzelt, Freigelände und Café Sperrmüll jeden Samstag.",
-   "source": "Rынок Aachener Platz"
   },
   {
    "title": "Würzburger Kickers — Fortuna",
@@ -9837,20 +9738,6 @@
    "source": "Messe Düsseldorf"
   },
   {
-   "title": "Creole Nignt Birds @EmPöötzke",
-   "date": "2026-12-02",
-   "time": "20:30",
-   "end_date": "",
-   "venue": "Em Pöötzke",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "Eintritt frei",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/",
-   "category": "konzert",
-   "description": "Foot tapping, finger snapping – echter New-Orleans-Jazz live.",
-   "source": "Rынок Aachener Platz"
-  },
-  {
    "title": "sustainable solutions",
    "date": "2026-12-02",
    "time": "",
@@ -9879,20 +9766,6 @@
    "source": "DEG iCal",
    "team": "DEG",
    "away": false
-  },
-  {
-   "title": "Trödelkult",
-   "date": "2026-12-05",
-   "time": "08:00",
-   "end_date": "",
-   "venue": "Antik- und Trödelzelt / Freigelände / Café Sperrmüll",
-   "address": "Aachener Platz",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/",
-   "category": "markt",
-   "description": "Antik- und Trödelzelt, Freigelände und Café Sperrmüll jeden Samstag.",
-   "source": "Rынок Aachener Platz"
   },
   {
    "title": "Fortuna — SV Wehen Wiesbaden",
@@ -9955,20 +9828,6 @@
    "away": true
   },
   {
-   "title": "Creole Nignt Birds @EmPöötzke",
-   "date": "2026-12-09",
-   "time": "20:30",
-   "end_date": "",
-   "venue": "Em Pöötzke",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "Eintritt frei",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/",
-   "category": "konzert",
-   "description": "Foot tapping, finger snapping – echter New-Orleans-Jazz live.",
-   "source": "Rынок Aachener Platz"
-  },
-  {
    "title": "Kassel - DEG",
    "date": "2026-12-11",
    "time": "19:30",
@@ -9983,20 +9842,6 @@
    "source": "DEG iCal",
    "team": "DEG",
    "away": true
-  },
-  {
-   "title": "Trödelkult",
-   "date": "2026-12-12",
-   "time": "08:00",
-   "end_date": "",
-   "venue": "Antik- und Trödelzelt / Freigelände / Café Sperrmüll",
-   "address": "Aachener Platz",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/",
-   "category": "markt",
-   "description": "Antik- und Trödelzelt, Freigelände und Café Sperrmüll jeden Samstag.",
-   "source": "Rынок Aachener Platz"
   },
   {
    "title": "Viktoria Köln — Fortuna",
