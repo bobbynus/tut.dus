@@ -1,0 +1,52 @@
+{
+ "list": [
+  {
+   "time": "09:00",
+   "title": "Утренний забег parkrun",
+   "place": "Volksgarten"
+  },
+  {
+   "time": "15:00",
+   "title": "Мюзикл «Ганзель и Гретель»",
+   "place": "Tersteegenkirche"
+  },
+  {
+   "time": "18:00",
+   "title": "DJ-сеты и закаты у реки",
+   "place": "Tonhallenufer"
+  },
+  {
+   "time": "20:00",
+   "title": "Концерт George Dalaras",
+   "place": "Tonhalle Düsseldorf"
+  },
+  {
+   "time": "21:00",
+   "title": "Барный вечер с DJ-сетом",
+   "place": "Bilker Bunker"
+  },
+  {
+   "time": "",
+   "title": "Ночной креативный рынок",
+   "place": "RheinRiff"
+  }
+ ],
+ "highlights": [
+  {
+   "title": "Закаты и музыка у реки",
+   "text": "Отличная возможность провести вечер субботы у воды под приятную музыку и в кругу друзей.",
+   "time": "18:00",
+   "place": "Tonhallenufer",
+   "price": "бесплатно",
+   "tag": "фестиваль"
+  },
+  {
+   "title": "Семейный концерт",
+   "text": "Магическая музыкальная история по мотивам знаменитой сказки для всей семьи.",
+   "time": "15:00",
+   "place": "Tersteegenkirche",
+   "price": "от 15 €",
+   "tag": "детям"
+  }
+ ]
+}
