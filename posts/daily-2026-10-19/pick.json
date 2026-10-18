@@ -1,0 +1,58 @@
+{
+ "list": [
+  {
+   "time": "14:00",
+   "title": "Мир грибов в парке Бенрат",
+   "place": "Schloss Benrath",
+   "price": ""
+  },
+  {
+   "time": "18:00",
+   "title": "Первые женщины-парламентарии",
+   "place": "Zentralbibliothek",
+   "price": ""
+  },
+  {
+   "time": "19:30",
+   "title": "Чтение романа Лены Горелик",
+   "place": "Orangerie Benrath",
+   "price": ""
+  },
+  {
+   "time": "20:00",
+   "title": "Тасим Дургун: шоу между культур",
+   "place": "Tonhalle Düsseldorf",
+   "price": ""
+  },
+  {
+   "time": "",
+   "title": "Индийский фестиваль Durga Puja",
+   "place": "Flinger Broich",
+   "price": ""
+  },
+  {
+   "time": "",
+   "title": "Выставка Jörg Immendorff",
+   "place": "Kunstpalast",
+   "price": ""
+  }
+ ],
+ "highlights": [
+  {
+   "title": "Индийский фестиваль Durga Puja",
+   "text": "Пятидневный праздник с ритуалами, индийской кухней и культурными вечерами.",
+   "time": "",
+   "place": "Flinger Broich",
+   "price": "бесплатно",
+   "tag": "фестиваль"
+  },
+  {
+   "title": "Мир грибов в парке Бенрат",
+   "text": "Познавательная экскурсия по парку для детей и взрослых.",
+   "time": "14:00",
+   "place": "Schloss Benrath",
+   "price": "бесплатно",
+   "tag": "детям"
+  }
+ ]
+}
