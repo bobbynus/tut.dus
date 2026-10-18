@@ -75,7 +75,7 @@ python3 tools/stories/to_video.py posts/<папка>       # PNG-сторис �
 python3 tools/footage.py                              # какие футажи свободны (учёт в data/footage-usage.json)
 DRY_RUN=1 POST=<имя> python3 tools/publish.py         # проверить пост без публикации
 ```
-Нужны: Python 3.11+, ffmpeg, ImageMagick, Node 22 + Playwright (Chromium). Карусели — JPG 1080×1350;
+Нужны: Python 3.11+, ffmpeg, ImageMagick, Node 22 + Playwright (Chromium). Карусели — JPG 1080×1440 (3:4 — формат ленты и сетки профиля Instagram; 4:5 обрезается по краям);
 промежуточные PNG сторис не коммитим (место в репозитории).
 
 ## Медиа

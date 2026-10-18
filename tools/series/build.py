@@ -18,14 +18,15 @@ issue.json:
   ]
 }
 Фон — путь из library/ (подпись автора берётся из library/backgrounds.json); null — фирменный фон.
-Результат: c1.jpg… (1080×1350), caption.txt, post.json со статусом manual (черновик придёт владельцу в Telegram).
+Результат: c1.jpg… (1080×1440, формат 3:4 как в ленте Instagram), caption.txt, post.json со статусом manual (черновик придёт владельцу в Telegram).
 """
 import html, json, subprocess, sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
 CSS = """
-  .slide.v2 { padding: 88px 80px 96px }
+  /* Instagram показывает ленту и сетку профиля в 3:4 — слайд 1080×1440, поля шире, чтобы ничего не резалось */
+  .slide.v2 { height: 1440px; padding: 104px 92px 112px }
   .v2 .big { font: 900 186px/0.92 var(--display); letter-spacing: -.045em; margin: 6px 0 10px; white-space: nowrap }
   .v2 .big em { font-style: normal; color: var(--red) }
   .v2 .what { font: 600 40px/1.25 var(--body); max-width: 900px }

@@ -209,7 +209,8 @@ def handle_manual(post_dir, spec, now):
         when = publish_at.astimezone(BERLIN)
         header = (f"📝 <b>Черновик: {_html.escape(spec.get('title', post_dir.name))}</b>\n"
                   f"Опубликовать: <b>{WD[when.weekday()]} {when:%d.%m} в {when:%H:%M}</b>\n\n"
-                  f"1. Сохраните файлы ниже (по порядку).\n2. Instagram → новый пост → {KIND.get(spec['type'], spec['type'])}.\n"
+                  f"1. Сохраните файлы ниже (по порядку).\n2. Instagram → новый пост → {KIND.get(spec['type'], spec['type'])}. "
+                  f"Формат кадра — 3:4 (картинки уже в нём), без обрезки.\n"
                   f"3. Музыка: {_html.escape(spec.get('music_hint', 'спокойная инструментальная, без слов'))}.\n"
                   f"4. Вставьте подпись из последнего сообщения.\n\n"
                   f"После публикации пост сам уйдёт в Telegram-канал.")
