@@ -1,0 +1,52 @@
+{
+ "list": [
+  {
+   "time": "10:00",
+   "title": "IGD Durgapuja 2026",
+   "place": "Flinger Broich"
+  },
+  {
+   "time": "19:30",
+   "title": "21. IDO-Festival: Kuba calling",
+   "place": "Maxhaus"
+  },
+  {
+   "time": "20:00",
+   "title": "Jam Session",
+   "place": "Jazz-Schmiede"
+  },
+  {
+   "time": "20:00",
+   "title": "Helmut Lotti goes Classic",
+   "place": "Tonhalle Düsseldorf"
+  },
+  {
+   "time": "",
+   "title": "WingTsun - Selbstverteidigung",
+   "place": "zakk"
+  },
+  {
+   "time": "",
+   "title": "Niki de Saint Phalle",
+   "place": "Kunstpalast"
+  }
+ ],
+ "highlights": [
+  {
+   "title": "Helmut Lotti goes Classic",
+   "text": "Feierliche 30th Anniversary Edition des belgischen Künstlers in der Tonhalle.",
+   "time": "20:00",
+   "place": "Tonhalle Düsseldorf",
+   "price": "от 15 €",
+   "tag": "концерт"
+  },
+  {
+   "title": "WingTsun - Selbstverteidigung",
+   "text": "Kostenloses Kennenlerntraining für alle Interessierten im zakk.",
+   "time": "",
+   "place": "zakk",
+   "price": "бесплатно",
+   "tag": "спорт"
+  }
+ ]
+}
