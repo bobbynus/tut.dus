@@ -1,0 +1,55 @@
+{
+ "list": [
+  {
+   "time": "17:00",
+   "title": "Move it!",
+   "place": "Schauspielhaus, Foyer"
+  },
+  {
+   "time": "19:00",
+   "title": "Freestyle Session Space",
+   "place": "Central Brücke"
+  },
+  {
+   "time": "19:30",
+   "title": "Modern Jazz trifft Orgel",
+   "place": "Kirche Urdenbach"
+  },
+  {
+   "time": "20:00",
+   "title": "Karat",
+   "place": "Tonhalle Düsseldorf"
+  },
+  {
+   "time": "",
+   "title": "Jörg Immendorff",
+   "place": "Kunstpalast"
+  }
+ ],
+ "highlights": [
+  {
+   "title": "Move it!",
+   "text": "Приглашаем на открытое занятие по йоге в фойе театра.",
+   "time": "17:00",
+   "place": "Schauspielhaus, Foyer",
+   "price": "бесплатно",
+   "tag": "спорт"
+  },
+  {
+   "title": "Modern Jazz trifft Orgel",
+   "text": "Современный джаз с неожиданными поворотами и органная музыка.",
+   "time": "19:30",
+   "place": "Kirche Urdenbach (ev.)",
+   "price": "",
+   "tag": "концерт"
+  },
+  {
+   "title": "Karat",
+   "text": "Концерт известной берлинской группы в Тонхалле.",
+   "time": "20:00",
+   "place": "Tonhalle Düsseldorf",
+   "price": "",
+   "tag": "концерт"
+  }
+ ]
+}
