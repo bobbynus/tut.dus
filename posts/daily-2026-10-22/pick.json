@@ -1,0 +1,52 @@
+{
+ "list": [
+  {
+   "time": "10:00",
+   "title": "Das NEINhorn",
+   "place": "Central 1"
+  },
+  {
+   "time": "17:00",
+   "title": "Sing it!",
+   "place": "Schauspielhaus, Foyer"
+  },
+  {
+   "time": "18:00",
+   "title": "THEATERBAR",
+   "place": "Central Brücke"
+  },
+  {
+   "time": "19:00",
+   "title": "Фортепианный вечер",
+   "place": "Stadtmuseum Düsseldorf"
+  },
+  {
+   "time": "19:30",
+   "title": "EIN ÜBERTRITT",
+   "place": "Schauspielhaus"
+  },
+  {
+   "time": "",
+   "title": "Концерт Heinz Rudolf Kunze",
+   "place": "Mitsubishi Electric HAL"
+  }
+ ],
+ "highlights": [
+  {
+   "title": "Общий вокал Sing it!",
+   "text": "Отличная возможность попеть вместе после работы в дружеской атмосферке.",
+   "time": "17:00",
+   "place": "Schauspielhaus, Foyer",
+   "price": "бесплатно",
+   "tag": "вечер"
+  },
+  {
+   "title": "THEATERBAR",
+   "text": "Вас ждут напитки, любимые тексты, шоу и живая музыка.",
+   "time": "18:00",
+   "place": "Central Brücke",
+   "price": "бесплатно",
+   "tag": "вечер"
+  }
+ ]
+}
