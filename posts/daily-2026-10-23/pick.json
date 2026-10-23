@@ -1,0 +1,52 @@
+{
+ "list": [
+  {
+   "time": "18:00",
+   "title": "Ночной поход с фонарями в замке Бенрат",
+   "place": "Schloss Benrath"
+  },
+  {
+   "time": "18:00",
+   "title": "Осенняя ярмарка в Дюссельдорфе",
+   "place": "Tonhallenufer"
+  },
+  {
+   "time": "19:30",
+   "title": "IDO-Фестиваль: Орган и барабаны",
+   "place": "Johanneskirche (ev.)"
+  },
+  {
+   "time": "20:00",
+   "title": "Концерт группы Wenet в Jazz-Schmiede",
+   "place": "Jazz-Schmiede Düsseldorf"
+  },
+  {
+   "time": "",
+   "title": "Выставка «Святая Розалия из Палермо»",
+   "place": "Zentralbibliothek KAP1"
+  },
+  {
+   "time": "",
+   "title": "Выставка молодежного фото «Echt jetzt»",
+   "place": "KIT - Kunst im Tunnel"
+  }
+ ],
+ "highlights": [
+  {
+   "title": "Осенняя ярмарка на набережной",
+   "text": "Яркая праздничная атмосфера, аттракционы и развлечения для всей семьи на берегу Рейна.",
+   "time": "18:00",
+   "place": "Tonhallenufer",
+   "price": "",
+   "tag": "фестиваль"
+  },
+  {
+   "title": "Фестиваль органной музыки",
+   "text": "Масштабное музыкальное событие объединяет звучание классического органа и японских барабанов.",
+   "time": "19:30",
+   "place": "Johanneskirche (ev.)",
+   "price": "от 15 €",
+   "tag": "концерт"
+  }
+ ]
+}
