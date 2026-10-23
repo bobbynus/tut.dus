@@ -20,7 +20,7 @@ concurrency:
 
 jobs:
   stories:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04  # закреплено: на 26.04 Playwright не ставится (октябрь 2026)
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
