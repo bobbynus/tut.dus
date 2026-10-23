@@ -18,7 +18,7 @@ concurrency:
 
 jobs:
   tick:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04  # закреплено: на 26.04 Playwright не ставится (октябрь 2026)
     timeout-minutes: 355
     steps:
       - uses: actions/checkout@v4
