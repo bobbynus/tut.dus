@@ -1,7 +1,6 @@
 {
- "day": "2026-10-22",
+ "day": "2026-10-23",
  "calls": {
-  "gemini-3.5-flash-lite": 9,
-  "gemini-3.5-flash": 1
+  "gemini-3.5-flash-lite": 4
  }
 }
