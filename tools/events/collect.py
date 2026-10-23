@@ -280,7 +280,11 @@ def main():
     from traffic import closures
     events += closures(report)
     from toubiz import events as visit_duesseldorf
-    events += visit_duesseldorf(report)
+    vd = visit_duesseldorf(report)
+    if not vd:  # календарь временно недоступен — оставляем прошлые данные, а не теряем сотни событий
+        vd = [e for e in previous if e.get("source") == "Visit Düsseldorf"]
+        report.append(f"· Visit Düsseldorf: оставлены прошлые данные ({len(vd)} записей)")
+    events += vd
     from sports import fortuna, deg, tidy_deg, tidy_fortuna
     deg_ical = deg(report)
     if deg_ical:  # официальный календарь точнее — версию Gemini отбрасываем
