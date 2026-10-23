@@ -1,0 +1,60 @@
+{
+ "list": [
+  {
+   "time": "09:00",
+   "title": "Volksgarten parkrun",
+   "place": "Volksgarten"
+  },
+  {
+   "time": "10:00",
+   "title": "День библиотек",
+   "place": "Zentralbibliothek im KAP1"
+  },
+  {
+   "time": "13:00",
+   "title": "Kindergroschenkirmes",
+   "place": "Schloss Eller"
+  },
+  {
+   "time": "18:00",
+   "title": "Queen of Sand",
+   "place": "Düsseldorf"
+  },
+  {
+   "time": "20:00",
+   "title": "Helge Schneider",
+   "place": "Tonhalle Düsseldorf"
+  },
+  {
+   "time": "",
+   "title": "Осенняя ярмарка",
+   "place": "Tonhallenufer"
+  }
+ ],
+ "highlights": [
+  {
+   "title": "Volksgarten parkrun",
+   "text": "Бесплатный еженедельный забег в парке для всех желающих в комфортном темпе.",
+   "time": "09:00",
+   "place": "Volksgarten",
+   "price": "бесплатно",
+   "tag": "спорт"
+  },
+  {
+   "title": "День библиотек",
+   "text": "Городские библиотеки Дюссельдорфа участвуют в общегерманском дне открытых дверей.",
+   "time": "10:00",
+   "place": "Zentralbibliothek im KAP1",
+   "price": "бесплатно",
+   "tag": "бесплатно"
+  },
+  {
+   "title": "Осенняя ярмарка",
+   "text": "Традиционная осенняя ярмарка у Тонхалле с яркой развлекательной программой.",
+   "time": "",
+   "place": "Tonhallenufer",
+   "price": "",
+   "tag": "фестиваль"
+  }
+ ]
+}
