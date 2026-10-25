@@ -1,0 +1,60 @@
+{
+ "list": [
+  {
+   "time": "16:00",
+   "title": "Детский спектакль «Das Neinhorn»",
+   "place": "Staufenplatz"
+  },
+  {
+   "time": "18:00",
+   "title": "Консультация полиции в KAP1",
+   "place": "Zentralbibliothek im KAP1"
+  },
+  {
+   "time": "19:00",
+   "title": "Балет «Schwanensee»",
+   "place": "Capitol Theater"
+  },
+  {
+   "time": "19:30",
+   "title": "IDO-Festival: Джаз и орган",
+   "place": "Friedenskirche (ev.)"
+  },
+  {
+   "time": "",
+   "title": "Осенняя ярмарка Herbstkirmes",
+   "place": "Tonhallenufer"
+  },
+  {
+   "time": "",
+   "title": "Halloween на Kasematten",
+   "place": "Kasematten"
+  }
+ ],
+ "highlights": [
+  {
+   "title": "Спектакль «Das Neinhorn»",
+   "text": "Сказка про упрямого единорога для всей семьи на площадке Staufenplatz.",
+   "time": "16:00",
+   "place": "Staufenplatz",
+   "price": "",
+   "tag": "детям"
+  },
+  {
+   "title": "IDO-Festival: Джаз и орган",
+   "text": "Frederik Köster и Kit Downes исполнят джазовую трубу с органом в Friedenskirche.",
+   "time": "19:30",
+   "place": "Friedenskirche (ev.)",
+   "price": "",
+   "tag": "концерт"
+  },
+  {
+   "title": "Осенняя ярмарка Herbstkirmes",
+   "text": "Ярмарка с развлечениями проходит на берегу Рейна у Tonhallenufer.",
+   "time": "",
+   "place": "Tonhallenufer",
+   "price": "",
+   "tag": "фестиваль"
+  }
+ ]
+}
