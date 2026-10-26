@@ -1,0 +1,55 @@
+{
+ "list": [
+  {
+   "time": "10:00",
+   "title": "Мастер-класс для детей: Франц Марк",
+   "place": "K20"
+  },
+  {
+   "time": "",
+   "title": "Осенняя ярмарка Herbstkirmes",
+   "place": "Tonhallenufer"
+  },
+  {
+   "time": "20:15",
+   "title": "Вечеринка сальсы Noche de la Salsa",
+   "place": "tanzhaus nrw"
+  },
+  {
+   "time": "",
+   "title": "Международный органный фестиваль IDO",
+   "place": "Площадки города"
+  },
+  {
+   "time": "19:00",
+   "title": "Спектакль INTER ALIA",
+   "place": "Schauspielhaus"
+  }
+ ],
+ "highlights": [
+  {
+   "title": "Осенняя ярмарка Herbstkirmes",
+   "text": "Традиционные аттракционы и развлечения на берегу Рейна для всей семьи.",
+   "time": "",
+   "place": "Tonhallenufer",
+   "price": "",
+   "tag": "фестиваль"
+  },
+  {
+   "title": "Вечеринка Noche de la Salsa",
+   "text": "Еженедельный вечер танцев от эксперта сальсы Иваны Скавуццо.",
+   "time": "20:15",
+   "place": "tanzhaus nrw",
+   "price": "",
+   "tag": "вечер"
+  },
+  {
+   "title": "Детский воркшоп в K20",
+   "text": "Творческое занятие для детей от 10 до 12 лет к выставке Франца Марка.",
+   "time": "10:00",
+   "place": "K20",
+   "price": "",
+   "tag": "детям"
+  }
+ ]
+}
