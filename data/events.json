@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-26T09:09",
- "count": 757,
+ "generated_at": "2026-10-26T15:13",
+ "count": 762,
  "events": [
   {
    "title": "A44:  Düsseldorf -> Essen",
@@ -128,7 +128,7 @@
    "title": "A44:  AK Meerbusch (aus Richtung Bovert)",
    "date": "2026-10-01",
    "time": "00:00",
-   "end_date": "2026-11-16",
+   "end_date": "2026-11-23",
    "end_time": "00:00",
    "venue": "A57 6-streifiger Ausbau zw. AK Meerbusch und AS KR-Oppum",
    "address": "",
@@ -136,7 +136,7 @@
    "price": "",
    "url": "https://www.autobahn.de/",
    "category": "важное",
-   "description": "Zeitraum dieser Bauphase: Beginn: 01.10.26 um 00:00 Uhr Ende: 16.11.26 um 00:00 Uhr (Ende der Gesamtmaßnahme: 01.11.27) Auffahrt auf die A57: AK Meerbusch (aus Richtung Bovert) Länge: konnte nicht ermittelt werden A57 6-streifiger Ausbau zw",
+   "description": "Zeitraum dieser Bauphase: Beginn: 01.10.26 um 00:00 Uhr Ende: 23.11.26 um 00:00 Uhr (Ende der Gesamtmaßnahme: 01.11.27) Auffahrt auf die A57: AK Meerbusch (aus Richtung Bovert) Länge: konnte nicht ermittelt werden A57 6-streifiger Ausbau zw",
    "source": "Autobahn GmbH",
    "traffic": true
   },
@@ -144,7 +144,7 @@
    "title": "A44:  Düsseldorf -> Mönchengladbach",
    "date": "2026-10-01",
    "time": "00:00",
-   "end_date": "2026-11-16",
+   "end_date": "2026-11-23",
    "end_time": "00:00",
    "venue": "A57 6-streifiger Ausbau zw. AK Meerbusch und AS KR-Oppum",
    "address": "",
@@ -152,7 +152,7 @@
    "price": "",
    "url": "https://www.autobahn.de/",
    "category": "важное",
-   "description": "Zeitraum dieser Bauphase: Beginn: 01.10.26 um 00:00 Uhr Ende: 16.11.26 um 00:00 Uhr (Ende der Gesamtmaßnahme: 01.11.27) Von A44: Düsseldorf -> Mönchengladbach, 0.6 km vor AK Meerbusch, aus Richtung Lank-Latum; in A44: AK Meerbusch auf die A",
+   "description": "Zeitraum dieser Bauphase: Beginn: 01.10.26 um 00:00 Uhr Ende: 23.11.26 um 00:00 Uhr (Ende der Gesamtmaßnahme: 01.11.27) Von A44: Düsseldorf -> Mönchengladbach, 0.6 km vor AK Meerbusch, aus Richtung Lank-Latum; in A44: AK Meerbusch auf die A",
    "source": "Autobahn GmbH",
    "traffic": true
   },
@@ -404,6 +404,7 @@
    "description": "Schwanensee – Solenne Ballet Classique.",
    "source": "Prinz",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -507,7 +508,7 @@
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://kasematten-duesseldorf.de/26-31-10-26-horror-halloween-week/",
-   "category": "veчеринка",
+   "category": "vecherinka",
    "description": "Wenn am Rhein die Lichter glitzern, verwandeln sich die Kasematten an Halloween in eine düstere Partymeile.",
    "source": "Mr. Düsseldorf"
   },
@@ -706,20 +707,6 @@
    "date": "2026-10-26",
    "time": "",
    "end_date": "2026-10-29"
-  },
-  {
-   "title": "Kaiserswerther Diakonie zeigt Werke von Walter Liggesmeyer",
-   "venue": "K3",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Die E.ON Art Collection übergibt der Kaiserswerther Diakonie 45 Gemälde von Walter Liggesmeyer (1938–2017).",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-26",
-   "time": "",
-   "end_date": "2026-12-31"
   },
   {
    "title": "Radu Darvas. Fotografien aus Siebenbürgen",
@@ -1122,6 +1109,20 @@
    "end_date": "2027-05-23"
   },
   {
+   "title": "Kaiserswerther Diakonie zeigt Werke von Walter Liggesmeyer",
+   "venue": "K3",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Die E.ON Art Collection übergibt der Kaiserswerther Diakonie 45 Gemälde von Walter Liggesmeyer (1938–2017).",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-27",
+   "time": "",
+   "end_date": "2026-12-31"
+  },
+  {
    "title": "Playground. Ein Spielplatz im Museum",
    "venue": "K20 Kunstsammlung Nordrhein-Westfalen",
    "address": "",
@@ -1290,6 +1291,7 @@
    "description": "von Suzie Miller Regie Anna Stiepani.",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -1787,6 +1789,7 @@
    "description": "von Kim de l’Horizon von und mit Lucia Kotikova nach einer Fassung und Inszenierung von Sebastian Schug.",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -2061,6 +2064,7 @@
    "description": "von Ingmar Bergman Regie Thorleifur Örn Arnarsson.",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -2078,6 +2082,7 @@
    "description": "von Takao Baba & Ensemble frei nach dem Film Die sieben Samurai von Akira Kurosawa Regie Takao Baba.",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -2153,6 +2158,7 @@
    "description": "von Anton Tschechow Regie Barbara Frey.",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -2171,6 +2177,20 @@
    "source": "DEG iCal",
    "team": "DEG",
    "away": false
+  },
+  {
+   "title": "Spieltag 13: Düsseldorfer EG vs. EC Kassel Huskies",
+   "date": "2026-10-30",
+   "time": "19:30",
+   "end_date": "",
+   "venue": "PSD BANK DOME",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.ticket-onlineshop.com/ols/deg/de/del2/channel/shop/areaplan/venue/event/676992?utm_source=DEG+Homepage&utm_medium=Spielplan+Seite&utm_campaign=ECK_30102026",
+   "category": "sport",
+   "description": "Heimspiel der Düsseldorfer EG in der DEL2 gegen die Kassel Huskies.",
+   "source": "DEG"
   },
   {
    "title": "Eishockey: Düsseldorfer EG - EC Kassel Huskies",
@@ -2213,20 +2233,6 @@
    "date": "2026-10-30",
    "time": "19:30",
    "end_date": ""
-  },
-  {
-   "title": "DEL2: DEG vs. EC KASSEL HUSKIES",
-   "date": "2026-10-30",
-   "time": "19:30",
-   "end_date": "",
-   "venue": "PSD BANK DOME",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.ticket-onlineshop.com/ols/deg/de/del2/channel/shop/areaplan/venue/event/676992?utm_source=DEG+Homepage&utm_medium=Scoreboard+Leiste&utm_campaign=ECK_30102026",
-   "category": "спорт",
-   "description": "",
-   "source": "DEG"
   },
   {
    "title": "A57: B1 - Sanierungsarbeiten an den Übergangskonstruktionen",
@@ -2569,8 +2575,8 @@
    "locality": "Bergheim-Glessen",
    "price": "",
    "url": "https://glessener-muehlenhof.de/halloween/",
-   "category": "детям",
-   "description": "Der Glessener Mühlenhof macht daraus gleich einen ganzen Erlebnistag für Groß und Klein.",
+   "category": "detjam",
+   "description": "Halloween auf dem Bauernhof?",
    "source": "Mr. Düsseldorf"
   },
   {
@@ -2648,14 +2654,14 @@
    "title": "Butterzart – Indoor in the Hood x Halloween",
    "date": "2026-10-31",
    "time": "14:00",
-   "end_date": "2026-10-31",
+   "end_date": "",
    "venue": "Vino Tinto & Friends",
    "address": "Bagelstraße 124",
    "locality": "Düsseldorf",
-   "price": "frei",
-   "url": "",
-   "category": "veчеринка",
-   "description": "Die beliebte Düsseldorfer Daydrinking-Eventreihe ist zurück im Vino Tinto & Friends in Pempelfort.",
+   "price": "Eintritt frei",
+   "url": "https://www.mrduesseldorf.de/happy-halloween-duesseldorf-2026/",
+   "category": "vecherinka",
+   "description": "Unter dem Motto „Indoor in the Hood x Halloween“ wird diesmal in gemütlicher Wohnzimmer-Atmosphäre gefeiert.",
    "source": "Mr. Düsseldorf"
   },
   {
@@ -2673,23 +2679,6 @@
    "end_date": ""
   },
   {
-   "title": "Halloween @ Theater an der Luegallee",
-   "date": "2026-10-31",
-   "time": "15:00",
-   "end_date": "",
-   "venue": "Theater an der Luegallee",
-   "address": "Luegallee 4",
-   "locality": "Düsseldorf",
-   "price": "27 Euro, ermäßigt 22 Euro",
-   "url": "https://theaterluegallee.de/veranstaltungen/halloween.html",
-   "category": "театр",
-   "description": "Gruselgeschichten, makabere Anekdoten und düstere Gedichte: Im Theater an der Luegallee wird Halloween dieses Jahr wieder herrlich schaurig.",
-   "source": "Mr. Düsseldorf",
-   "also_in": [
-    "Mr. Düsseldorf"
-   ]
-  },
-  {
    "title": "Ausstellungsführung: Franz Marc",
    "date": "2026-10-31",
    "time": "15:00",
@@ -2703,6 +2692,20 @@
    "description": "In der einstündigen Führung durch die Ausstellung werden Marcs tiefe Naturverbundenheit, seine Sehnsucht nach Harmonie sowie sein Weg zur Abstraktion und zur kubistischen Auflösung der Formen erlebbar.",
    "source": "Kunstsammlung NRW: календарь",
    "horizon_days": 21
+  },
+  {
+   "title": "Halloween @ Theater an der Luegallee",
+   "date": "2026-10-31",
+   "time": "15:00",
+   "end_date": "",
+   "venue": "Theater an der Luegallee",
+   "address": "Luegallee 4",
+   "locality": "Düsseldorf",
+   "price": "27 Euro, ermäßigt 22 Euro",
+   "url": "https://theaterluegallee.de/veranstaltungen/halloween.html",
+   "category": "teatr",
+   "description": "Gruselgeschichten, makabere Anekdoten und düstere Gedichte: Im Theater an der Luegallee wird Halloween dieses Jahr wieder herrlich schaurig.",
+   "source": "Mr. Düsseldorf"
   },
   {
    "title": "Don’t Look Back. Der Kom(m)ödchen Jahresvor- und Rückblick",
@@ -2736,13 +2739,13 @@
    "title": "Halloween-Abend für Kinder im KIT",
    "date": "2026-10-31",
    "time": "17:00",
-   "end_date": "2026-10-31",
+   "end_date": "",
    "venue": "KIT Kunst im Tunnel",
    "address": "Mannesmannufer 1b",
    "locality": "Düsseldorf",
    "price": "kostenlos",
    "url": "https://www.kunst-im-tunnel.de/programm/kalender/halloween-abend-fuer-kinder-im-tunnel-sind-die-geister-los-2/",
-   "category": "детям",
+   "category": "detjam",
    "description": "Am 31. Oktober erwartet Kids ein kreativer Gruselabend mit Taschenlampenführung, Geisterstickern und eigenen Monster-Collagen.",
    "source": "Mr. Düsseldorf"
   },
@@ -2804,6 +2807,20 @@
    "end_date": ""
   },
   {
+   "title": "Die Zauberflöte",
+   "venue": "Deutsche Oper am Rhein",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.westticket.de/eventseries/4156269?affiliate=5VD",
+   "category": "концерт",
+   "description": "Die Flucht vor einer Riesenschlange raubt Prinz Tamino Nerven und Bewusstsein. Drei Damen eilen dem Ohnmächtigen beherzt zu Hilfe.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-31",
+   "time": "18:00",
+   "end_date": ""
+  },
+  {
    "title": "Halloween Heights @ Otto’s Skybar",
    "date": "2026-10-31",
    "time": "19:00",
@@ -2813,8 +2830,8 @@
    "locality": "Düsseldorf",
    "price": "Eintritt frei",
    "url": "https://www.hyattrestaurants.com/de/dusseldorf/restaurant/ottos-skybar/events/dance-of-the-creatures-above-the-clouds",
-   "category": "veчеринка",
-   "description": "In der Otto’s Skybar erwartet dich eine Party über den Dächern der Stadt.",
+   "category": "vecherinka",
+   "description": "Halloween mit bestem Ausblick: In der Otto’s Skybar erwartet dich eine Party über den Dächern der Stadt.",
    "source": "Mr. Düsseldorf"
   },
   {
@@ -2827,7 +2844,7 @@
    "locality": "Düsseldorf",
    "price": "10 Euro",
    "url": "https://chapiteau-duesseldorf.de/events/halloween-party-eintritt/",
-   "category": "veчеринка",
+   "category": "vecherinka",
    "description": "Für mondsüchtige Midager steigt die Ü40 Halloween-Party im Event-Zelt Chapiteau in Düsseldorf.",
    "source": "Mr. Düsseldorf"
   },
@@ -2841,7 +2858,7 @@
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.k-d.com/produkt/ghost-ship/",
-   "category": "veчеринка",
+   "category": "vecherinka",
    "description": "Wenn Zombies, Vampire und andere Schauergestalten das KD Partyschiff entern, dann ist es wieder soweit: Spooky Halloween in Düsseldorf, genauer gesagt über den Untiefen des Rheins.",
    "source": "Mr. Düsseldorf"
   },
@@ -2855,7 +2872,7 @@
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.eventim-light.com/de/a/6336dfde52067d67e8f296c2/e/69dc93c2033faf7a4fb2a49e?lang=de",
-   "category": "veчеринка",
+   "category": "vecherinka",
    "description": "Feiere Halloween in Düsseldorf auf dem Rhein und erlebe eine einzigartige Party auf der MS RheinFantasie.",
    "source": "Mr. Düsseldorf"
   },
@@ -2930,23 +2947,6 @@
    "end_date": ""
   },
   {
-   "title": "Die Zauberflöte",
-   "date": "2026-10-31",
-   "time": "19:30",
-   "end_date": "",
-   "venue": "Deutsche Oper am Rhein",
-   "address": "Heinrich-Heine-Allee 16a",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.operamrhein.de/spielplan/a-z/die-zauberfloete/",
-   "category": "концерт",
-   "description": "In der Deutschen Oper am Rhein wird der Klassiker in der multimedialen Kult-Inszenierung von Barrie Kosky gezeigt und verbindet große Oper mit fantasievollen Animationen und starkem Bühnenbild.",
-   "source": "Mr. Düsseldorf",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
-  },
-  {
    "title": "INTER ALIA",
    "date": "2026-10-31",
    "time": "19:30",
@@ -2959,6 +2959,20 @@
    "category": "театр",
    "description": "von Suzie Miller Regie Anna Stiepani.",
    "source": "D'haus (Schauspielhaus)"
+  },
+  {
+   "title": "Halloween im Opernhaus: Die Zauberflöte",
+   "date": "2026-10-31",
+   "time": "19:30",
+   "end_date": "",
+   "venue": "Deutsche Oper am Rhein",
+   "address": "Heinrich-Heine-Allee 16a",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.operamrhein.de/spielplan/a-z/die-zauberfloete/",
+   "category": "teatr",
+   "description": "In der Deutschen Oper am Rhein wird der Klassiker in der multimedialen Kult-Inszenierung von Barrie Kosky gezeigt und verbindet große Oper mit fantasievollen Animationen und starkem Bühnenbild.",
+   "source": "Mr. Düsseldorf"
   },
   {
    "title": "EIN ÜBERTRITT (ALLES AUF ENDE)",
@@ -2984,7 +2998,7 @@
    "locality": "Düsseldorf",
    "price": "11,34 Euro",
    "url": "https://www.brauhaus-alterbahnhof.de/seite/events-events",
-   "category": "veчеринка",
+   "category": "vecherinka",
    "description": "Feiere Halloween in Düsseldorf im Brauhaus Alter Bahnhof!",
    "source": "Mr. Düsseldorf"
   },
@@ -3072,6 +3086,7 @@
    "description": "zakk vs. Zombies.",
    "source": "zakk",
    "also_in": [
+    "allevents: все",
     "allevents: все"
    ]
   },
@@ -3085,7 +3100,7 @@
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://nachtresidenz.ticket.io/6i7Izq8y/",
-   "category": "veчеринка",
+   "category": "vecherinka",
    "description": "Mit der „größten Halloween Party in Düsseldorf“ lockt die Nachtresidenz, die sich für den 31.10.2026 keine geringere Location als den Rheinturm im Medienhafen mit ins Boot geholt hat.",
    "source": "Mr. Düsseldorf"
   },
@@ -3099,7 +3114,7 @@
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://zakk.de/event-detail?event=16257",
-   "category": "veчеринка",
+   "category": "vecherinka",
    "description": "Halloween in Düsseldorf wird im zakk richtig rockig!",
    "source": "Mr. Düsseldorf"
   },
@@ -3113,7 +3128,7 @@
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://hawa.ticket.io/vzNFU2Af/?lang=de",
-   "category": "veчеринка",
+   "category": "vecherinka",
    "description": "Halloween 2026 wird am Düsseldorfer Flughafen richtig groß gefeiert.",
    "source": "Mr. Düsseldorf"
   },
@@ -3127,7 +3142,7 @@
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://stahlwerk.de/event/halloween-party",
-   "category": "veчеринка",
+   "category": "vecherinka",
    "description": "Im Stahlwerk erwartet dich die perfekte Mischung aus Grusel und Nostalgie!",
    "source": "Mr. Düsseldorf"
   },
@@ -3141,7 +3156,7 @@
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.candy-event.de/events/halloween-duesseldorf/",
-   "category": "veчеринка",
+   "category": "vecherinka",
    "description": "Die Halloween Party im Rudas gehört längst zu den festen Halloween Traditionen in Düsseldorf und ist wie in jedem Jahr ein absolutes Halloween-Highlight.",
    "source": "Mr. Düsseldorf"
   },
@@ -3155,7 +3170,7 @@
    "locality": "Neuss",
    "price": "",
    "url": "https://102.ticket.io/D9e17QsK/?redirectFromEventInPast=1",
-   "category": "veчеринка",
+   "category": "vecherinka",
    "description": "Die legendäre HALLOWEEN-Nacht im 102 Club in Neuss ist zurück und ich kann dir garantieren: Es wird wieder wild!",
    "source": "Mr. Düsseldorf"
   },
@@ -3169,7 +3184,7 @@
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://nbk.ticket.io/2hC0AfSZ/?lang=de",
-   "category": "veчеринка",
+   "category": "vecherinka",
    "description": "Freu dich bei GLAM BANG! im Ratinger Hof auf eine queere Halloween Party in Düsseldorf.",
    "source": "Mr. Düsseldorf"
   },
@@ -3435,6 +3450,7 @@
    "description": "von Wajdi Mouawad Regie Bassam Ghazi.",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -3452,6 +3468,7 @@
    "description": "von Gregory Caers und Ensemble Regie Gregory Caers.",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -3484,6 +3501,7 @@
    "source": "Kunstpalast",
    "horizon_days": 120,
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -3518,17 +3536,17 @@
    "end_date": ""
   },
   {
-   "title": "DEL2: Eispiraten Crimmitschau vs. DEG",
+   "title": "Spieltag 14: Eisbären Regensburg vs. Düsseldorfer EG",
    "date": "2026-11-01",
    "time": "17:00",
    "end_date": "",
    "venue": "",
    "address": "",
-   "locality": "Crimmitschau",
+   "locality": "Regensburg",
    "price": "",
-   "url": "",
-   "category": "спорт",
-   "description": "",
+   "url": "https://www.deg-eishockey.de/gamecenter/a73df7e28c2dcfa87581a413fda152e8/",
+   "category": "sport",
+   "description": "Auswärtsspiel der Düsseldorfer EG.",
    "source": "DEG"
   },
   {
@@ -3625,7 +3643,7 @@
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://chapiteau-duesseldorf.de/events/burlesque-night/",
-   "category": "вечеринка",
+   "category": "show",
    "description": "Tauche an Halloween 2026 in ein extravagantes Burlesque-Event ein, mit internationalen Künstlerinnen im Chapiteau in Düsseldorf!",
    "source": "Mr. Düsseldorf"
   },
@@ -3679,24 +3697,6 @@
    ]
   },
   {
-   "title": "JADED HEART // Support: CHERRY BOMB",
-   "date": "2026-11-01",
-   "time": "",
-   "end_date": "",
-   "venue": "Pitcher - Rock'n'Roll Headquarter Düsseldorf",
-   "address": "Oberbilker Allee 29,Düsseldorf, Germany, Dusseldorf",
-   "locality": "Dusseldorf",
-   "price": "",
-   "url": "https://allevents.in/dusseldorf/jaded-heart-support-cherry-bomb/200030122585952",
-   "category": "событие",
-   "description": "",
-   "source": "allevents: все",
-   "also_in": [
-    "allevents: все",
-    "allevents: выходные"
-   ]
-  },
-  {
    "title": "Eckhard Froeschlin - Aus der Zeit geätzt (Radierungen 1981 - 2026)",
    "venue": "Kultur Bahnhof Eller",
    "address": "",
@@ -3709,6 +3709,20 @@
    "date": "2026-11-01",
    "time": "",
    "end_date": "2026-12-13"
+  },
+  {
+   "title": "JADED HEART // Support: CHERRY BOMB",
+   "date": "2026-11-01",
+   "time": "",
+   "end_date": "",
+   "venue": "Pitcher - Rock'n'Roll Headquarter Düsseldorf",
+   "address": "Oberbilker Allee 29,Düsseldorf, Germany, Dusseldorf",
+   "locality": "Dusseldorf",
+   "price": "",
+   "url": "https://allevents.in/dusseldorf/jaded-heart-support-cherry-bomb/200030122585952",
+   "category": "событие",
+   "description": "",
+   "source": "allevents: выходные"
   },
   {
    "title": "Fachtag: Einsamkeit als Risiko bei jungen Eltern",
@@ -3738,6 +3752,7 @@
    "description": "von Gregory Caers und Ensemble Regie Gregory Caers.",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -3897,6 +3912,7 @@
    "description": "von Gregory Caers und Ensemble Regie Gregory Caers.",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -3914,6 +3930,7 @@
    "description": "von Takao Baba & Ensemble frei nach dem Film Die sieben Samurai von Akira Kurosawa Regie Takao Baba.",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -4445,6 +4462,7 @@
    "description": "von Kim Langner nach dem Roman von George Orwell Regie Katharina Birch.",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -4591,6 +4609,7 @@
    "description": "von Alice Birch nach Federico García Lorca Regie Lucia Bihler.",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -4665,6 +4684,7 @@
    "source": "Kunstpalast",
    "horizon_days": 120,
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -4724,6 +4744,7 @@
    "description": "von Kim Langner nach dem Roman von George Orwell Regie Katharina Birch.",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -4915,6 +4936,7 @@
    "source": "Kunstpalast",
    "horizon_days": 120,
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -5500,6 +5522,20 @@
    "away": true
   },
   {
+   "title": "Textile Reparatur-Werkstatt",
+   "venue": "",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "событие",
+   "description": "Unter Anleitung der Düsseldorfer Modedesignerin Tina Miyake können Düsseldorfer:innen ihre liebsten Kleidungsstücke stopfen, flicken und reparieren.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-07",
+   "time": "14:00",
+   "end_date": ""
+  },
+  {
    "title": "Familienführung: Thomas Schütte. Im Gegenteil",
    "date": "2026-11-07",
    "time": "15:00",
@@ -5626,6 +5662,7 @@
    "description": "von Daniel Kehlmann Regie André Kaczmarczyk.",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -6127,6 +6164,7 @@
    "description": "von Ingmar Bergman Regie Thorleifur Örn Arnarsson.",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -6144,6 +6182,7 @@
    "description": "von Marc-Uwe Kling und Astrid Henn Regie Philipp Alfons Heitmann, Matts Johan Leenders.",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -6233,6 +6272,7 @@
    "description": "Ein Schauspiel von Heinrich von Kleist Regie Ulrich Rasche.",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -6972,6 +7012,7 @@
    "description": "von Kim de l’Horizon von und mit Lucia Kotikova nach einer Fassung und Inszenierung von Sebastian Schug.",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -7265,6 +7306,20 @@
    "horizon_days": 21
   },
   {
+   "title": "Residency Insights",
+   "venue": "WELTKUNSTZIMMER",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Die Residency Insights bieten Einblicke in laufende Arbeitsprozesse und Beschäftigungen sowie vor Ort entstandene Werke und schaffen Raum für Austausch und angeregte Gespräche.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-13",
+   "time": "18:00",
+   "end_date": ""
+  },
+  {
    "title": "Visual Arts Yoga",
    "date": "2026-11-13",
    "time": "18:15",
@@ -7350,6 +7405,7 @@
    "description": "von Alice Birch nach Federico García Lorca Regie Lucia Bihler.",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -7468,6 +7524,20 @@
    "end_date": ""
   },
   {
+   "title": "Spieltag 15: ECDC Memmingen vs. Düsseldorfer EG",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "end_date": "",
+   "venue": "",
+   "address": "",
+   "locality": "Memmingen",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/gamecenter/b25d101a699a148996e41b752183c1ff/",
+   "category": "sport",
+   "description": "Auswärtsspiel der Düsseldorfer EG.",
+   "source": "DEG"
+  },
+  {
    "title": "Als das Würstchen Huppsi machte",
    "venue": "",
    "address": "",
@@ -7480,20 +7550,6 @@
    "date": "2026-11-13",
    "time": "20:00",
    "end_date": ""
-  },
-  {
-   "title": "DEL2: ECDC Memmingen vs. DEG",
-   "date": "2026-11-13",
-   "time": "20:00",
-   "end_date": "",
-   "venue": "",
-   "address": "",
-   "locality": "Memmingen",
-   "price": "",
-   "url": "",
-   "category": "спорт",
-   "description": "",
-   "source": "DEG"
   },
   {
    "title": "SingAlong - Das große Mitsing-Event",
@@ -7580,6 +7636,20 @@
    "description": "GYM. Fit mit Kunst",
    "source": "Kunstpalast",
    "horizon_days": 120
+  },
+  {
+   "title": "Residency Insights",
+   "venue": "WELTKUNSTZIMMER",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Die Residency Insights bieten Einblicke in laufende Arbeitsprozesse und Beschäftigungen sowie vor Ort entstandene Werke und schaffen Raum für Austausch und angeregte Gespräche.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-14",
+   "time": "14:00",
+   "end_date": ""
   },
   {
    "title": "Siebenbürger Sachsen – wohin?",
@@ -7752,6 +7822,7 @@
    "description": "Ein Schauspiel von Heinrich von Kleist Regie Ulrich Rasche.",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -8138,6 +8209,20 @@
    "end_date": ""
   },
   {
+   "title": "Residency Insights",
+   "venue": "WELTKUNSTZIMMER",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Die Residency Insights bieten Einblicke in laufende Arbeitsprozesse und Beschäftigungen sowie vor Ort entstandene Werke und schaffen Raum für Austausch und angeregte Gespräche.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-15",
+   "time": "14:00",
+   "end_date": ""
+  },
+  {
    "title": "Tischtennis: Borussia Düsseldorf - ASC Grünwetterbach",
    "venue": "ARAG CenterCourt - Borussia Düsseldorf",
    "address": "",
@@ -8311,6 +8396,7 @@
    "source": "Kunstpalast",
    "horizon_days": 120,
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -8329,6 +8415,20 @@
    "source": "DEG iCal",
    "team": "DEG",
    "away": false
+  },
+  {
+   "title": "Spieltag 16: Düsseldorfer EG vs. EC Ravensburg",
+   "date": "2026-11-15",
+   "time": "17:00",
+   "end_date": "",
+   "venue": "PSD BANK DOME",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.ticket-onlineshop.com/ols/deg/de/del2/channel/shop/areaplan/venue/event/676994?utm_source=DEG+Homepage&utm_medium=Spielplan+Seite&utm_campaign=RVT_15112026",
+   "category": "sport",
+   "description": "Heimspiel der Düsseldorfer EG.",
+   "source": "DEG"
   },
   {
    "title": "Die Meistersinger von Nürnberg",
@@ -8357,20 +8457,6 @@
    "date": "2026-11-15",
    "time": "17:00",
    "end_date": ""
-  },
-  {
-   "title": "DEL2: DEG vs. EV Ravensburg Towerstars",
-   "date": "2026-11-15",
-   "time": "17:00",
-   "end_date": "",
-   "venue": "PSD BANK DOME",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.ticket-onlineshop.com/ols/deg/de/del2/channel/shop/areaplan/venue/event/676994?utm_source=DEG+Homepage&utm_medium=Scoreboard+Leiste&utm_campaign=RVT_15112026",
-   "category": "спорт",
-   "description": "",
-   "source": "DEG"
   },
   {
    "title": "Grenzgang Reise-Reportage: Sebastian Lehrke - Neuseeland – Freiheit und Wildnis am Ende der Welt",
@@ -8403,6 +8489,7 @@
    "description": "von Takao Baba & Ensemble frei nach dem Film Die sieben Samurai von Akira Kurosawa Regie Takao Baba.",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -8710,7 +8797,7 @@
    "away": false
   },
   {
-   "title": "DEL2: DEG vs. Starbulls Rosenheim",
+   "title": "Spieltag 17: Düsseldorfer EG vs. Starbulls Rosenheim",
    "date": "2026-11-17",
    "time": "19:30",
    "end_date": "",
@@ -8718,9 +8805,9 @@
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.ticket-onlineshop.com/ols/deg/de/del2/channel/shop/areaplan/venue/event/676996?utm_source=DEG+Homepage&utm_medium=Scoreboard+Leiste&utm_campaign=SBR_17112026",
-   "category": "спорт",
-   "description": "",
+   "url": "https://www.ticket-onlineshop.com/ols/deg/de/del2/channel/shop/areaplan/venue/event/676996?utm_source=DEG+Homepage&utm_medium=Spielplan+Seite&utm_campaign=SBR_17112026",
+   "category": "sport",
+   "description": "Heimspiel der Düsseldorfer EG.",
    "source": "DEG"
   },
   {
@@ -9051,7 +9138,7 @@
    "source": "D'haus (Schauspielhaus)"
   },
   {
-   "title": "DEL2: Dresdner Eislöwen vs. DEG",
+   "title": "Spieltag 18: Dresdner Eislöwen vs. Düsseldorfer EG",
    "date": "2026-11-20",
    "time": "19:30",
    "end_date": "",
@@ -9059,9 +9146,9 @@
    "address": "",
    "locality": "Dresden",
    "price": "",
-   "url": "",
-   "category": "спорт",
-   "description": "",
+   "url": "https://www.deg-eishockey.de/gamecenter/07174691a71524008f90724f96682642/",
+   "category": "sport",
+   "description": "Auswärtsspiel der Düsseldorfer EG.",
    "source": "DEG"
   },
   {
@@ -9365,7 +9452,7 @@
    "away": false
   },
   {
-   "title": "DEL2: DEG vs. Lausitzer Füchse",
+   "title": "Spieltag 19: Düsseldorfer EG vs. Lausitzer Füchse",
    "date": "2026-11-22",
    "time": "18:30",
    "end_date": "",
@@ -9373,9 +9460,9 @@
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.ticket-onlineshop.com/ols/deg/de/del2/channel/shop/areaplan/venue/event/676998?utm_source=DEG+Homepage&utm_medium=Scoreboard+Leiste&utm_campaign=LFX_22112026",
-   "category": "спорт",
-   "description": "",
+   "url": "https://www.ticket-onlineshop.com/ols/deg/de/del2/channel/shop/areaplan/venue/event/676998?utm_source=DEG+Homepage&utm_medium=Spielplan+Seite&utm_campaign=LFX_22112026",
+   "category": "sport",
+   "description": "Heimspiel der Düsseldorfer EG.",
    "source": "DEG"
   },
   {
@@ -9551,6 +9638,7 @@
    "description": "",
    "source": "allevents: все",
    "also_in": [
+    "allevents: все",
     "allevents: все"
    ]
   },
@@ -9631,7 +9719,7 @@
    "away": true
   },
   {
-   "title": "DEL2: EHC Freiburg vs. DEG",
+   "title": "Spieltag 20: EHC Freiburg vs. Düsseldorfer EG",
    "date": "2026-11-27",
    "time": "19:30",
    "end_date": "",
@@ -9639,9 +9727,9 @@
    "address": "",
    "locality": "Freiburg",
    "price": "",
-   "url": "",
-   "category": "спорт",
-   "description": "",
+   "url": "https://www.deg-eishockey.de/gamecenter/dba16a218cf8cab83396f133239d5bdb/",
+   "category": "sport",
+   "description": "Auswärtsspiel der Düsseldorfer EG.",
    "source": "DEG"
   },
   {
@@ -9823,7 +9911,7 @@
    "away": false
   },
   {
-   "title": "DEL2: DEG vs. Bietigheim Steelers",
+   "title": "Spieltag 21: Düsseldorfer EG vs. SC Bietigheim-Bissingen",
    "date": "2026-11-29",
    "time": "17:00",
    "end_date": "",
@@ -9831,9 +9919,9 @@
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.ticket-onlineshop.com/ols/deg/de/del2/channel/shop/areaplan/venue/event/677000?utm_source=DEG+Homepage&utm_medium=Scoreboard+Leiste&utm_campaign=SCB_29112026",
-   "category": "спорт",
-   "description": "",
+   "url": "https://www.ticket-onlineshop.com/ols/deg/de/del2/channel/shop/areaplan/venue/event/677000?utm_source=DEG+Homepage&utm_medium=Spielplan+Seite&utm_campaign=SCB_29112026",
+   "category": "sport",
+   "description": "Heimspiel der Düsseldorfer EG.",
    "source": "DEG"
   },
   {
@@ -9897,7 +9985,7 @@
    "away": false
   },
   {
-   "title": "DEL2: DEG vs. EV Landshut",
+   "title": "Spieltag 22: Düsseldorfer EG vs. EV Landshut",
    "date": "2026-12-01",
    "time": "19:30",
    "end_date": "",
@@ -9905,9 +9993,9 @@
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "",
-   "category": "спорт",
-   "description": "",
+   "url": "https://www.deg-eishockey.de/gamecenter/0d243cdfc2a44a61e318f1ec8763a9c6/",
+   "category": "sport",
+   "description": "Heimspiel der Düsseldorfer EG.",
    "source": "DEG"
   },
   {
@@ -10015,7 +10103,7 @@
    "away": false
   },
   {
-   "title": "DEL2: DEG vs. Eisbären Regensburg",
+   "title": "Spieltag 23: Düsseldorfer EG vs. Eisbären Regensburg",
    "date": "2026-12-04",
    "time": "19:30",
    "end_date": "",
@@ -10023,9 +10111,9 @@
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "",
-   "category": "спорт",
-   "description": "",
+   "url": "https://www.deg-eishockey.de/gamecenter/92eb8dadb42447eeb747807a5be1afc8/",
+   "category": "sport",
+   "description": "Heimspiel der Düsseldorfer EG als Schoolsday.",
    "source": "DEG"
   },
   {
@@ -10193,7 +10281,7 @@
    "away": true
   },
   {
-   "title": "DEL2: EC Bad Nauheim vs. DEG",
+   "title": "Spieltag 24: EC Bad Nauheim vs. Düsseldorfer EG",
    "date": "2026-12-06",
    "time": "18:30",
    "end_date": "",
@@ -10201,9 +10289,9 @@
    "address": "",
    "locality": "Bad Nauheim",
    "price": "",
-   "url": "",
-   "category": "спорт",
-   "description": "",
+   "url": "https://www.deg-eishockey.de/gamecenter/b4e5597b72a793605976f6be506269cc/",
+   "category": "sport",
+   "description": "Auswärtsspiel der Düsseldorfer EG.",
    "source": "DEG"
   },
   {
@@ -10311,7 +10399,7 @@
    "away": true
   },
   {
-   "title": "DEL2: EC Kassel Huskies vs. DEG",
+   "title": "Spieltag 25: EC Kassel Huskies vs. Düsseldorfer EG",
    "date": "2026-12-11",
    "time": "19:30",
    "end_date": "",
@@ -10319,9 +10407,9 @@
    "address": "",
    "locality": "Kassel",
    "price": "",
-   "url": "",
-   "category": "спорт",
-   "description": "",
+   "url": "https://www.deg-eishockey.de/gamecenter/02b36aabcce1a5eb6432591f96106a42/",
+   "category": "sport",
+   "description": "Auswärtsspiel der Düsseldorfer EG.",
    "source": "DEG"
   },
   {
@@ -10643,17 +10731,17 @@
    "away": true
   },
   {
-   "title": "DEL2: Blue Devils Weiden vs. DEG",
+   "title": "Spieltag 26: Bad Tölz / Löwen Frankfurt vs. Düsseldorfer EG",
    "date": "2026-12-18",
    "time": "20:00",
    "end_date": "",
    "venue": "",
    "address": "",
-   "locality": "Weiden",
+   "locality": "Bad Tölz",
    "price": "",
-   "url": "",
-   "category": "спорт",
-   "description": "",
+   "url": "https://www.deg-eishockey.de/gamecenter/04b033e361a7afd46e47bdcac25a55e4/",
+   "category": "sport",
+   "description": "Auswärtsspiel der Düsseldorfer EG.",
    "source": "DEG"
   },
   {
@@ -10794,7 +10882,7 @@
    "away": true
   },
   {
-   "title": "DEL2: Starbulls Rosenheim vs. DEG",
+   "title": "Spieltag 27: Starbulls Rosenheim vs. Düsseldorfer EG",
    "date": "2026-12-20",
    "time": "17:00",
    "end_date": "",
@@ -10802,9 +10890,9 @@
    "address": "",
    "locality": "Rosenheim",
    "price": "",
-   "url": "",
-   "category": "спорт",
-   "description": "",
+   "url": "https://www.deg-eishockey.de/gamecenter/0bd244a0a3329c1fd9dcc911da13093d/",
+   "category": "sport",
+   "description": "Auswärtsspiel der Düsseldorfer EG.",
    "source": "DEG"
   },
   {
@@ -10853,7 +10941,7 @@
    "away": false
   },
   {
-   "title": "DEL2: DEG vs. ECDC Memmingen",
+   "title": "Spieltag 28: Düsseldorfer EG vs. ECDC Memmingen",
    "date": "2026-12-23",
    "time": "19:30",
    "end_date": "",
@@ -10861,9 +10949,9 @@
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "",
-   "category": "спорт",
-   "description": "",
+   "url": "https://www.deg-eishockey.de/gamecenter/3cfad10e8349a8886f1c81db44b87085/",
+   "category": "sport",
+   "description": "Heimspiel der Düsseldorfer EG.",
    "source": "DEG"
   },
   {
@@ -10919,13 +11007,13 @@
    "date": "2027-03-21",
    "time": "",
    "end_date": "",
-   "venue": "Galopprennbahn Düsseldorf",
+   "venue": "Galopprennbahn Grafenberg",
    "address": "Rennbahnstr. 20",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.duesseldorf-galopp.de/con-termine/termine_renntage.php",
-   "category": "спорт",
-   "description": "",
+   "category": "sport",
+   "description": "Pferderennen auf der Galopprennbahn Düsseldorf.",
    "source": "Скачки Grafenberg",
    "horizon_days": 400
   },
@@ -10934,13 +11022,13 @@
    "date": "2027-04-11",
    "time": "",
    "end_date": "",
-   "venue": "Galopprennbahn Düsseldorf",
+   "venue": "Galopprennbahn Grafenberg",
    "address": "Rennbahnstr. 20",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.duesseldorf-galopp.de/con-termine/termine_renntage.php",
-   "category": "спорт",
-   "description": "",
+   "category": "sport",
+   "description": "Pferderennen mit Kalkmann-Frühjahrs-Meile, Gr. 3.",
    "source": "Скачки Grafenberg",
    "horizon_days": 400
   },
@@ -10965,13 +11053,13 @@
    "date": "2027-04-24",
    "time": "",
    "end_date": "",
-   "venue": "Galopprennbahn Düsseldorf",
+   "venue": "Galopprennbahn Grafenberg",
    "address": "Rennbahnstr. 20",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.duesseldorf-galopp.de/con-termine/termine_renntage.php",
-   "category": "спорт",
-   "description": "",
+   "category": "sport",
+   "description": "Pferderennen mit Henkel-Stutenpreis, LR.",
    "source": "Скачки Grafenberg",
    "horizon_days": 400
   },
@@ -10996,13 +11084,13 @@
    "date": "2027-05-23",
    "time": "",
    "end_date": "",
-   "venue": "Galopprennbahn Düsseldorf",
+   "venue": "Galopprennbahn Grafenberg",
    "address": "Rennbahnstr. 20",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.duesseldorf-galopp.de/con-termine/termine_renntage.php",
-   "category": "спорт",
-   "description": "",
+   "category": "sport",
+   "description": "Pferderennen mit 107. German 1000 Guineas, Gr. 2.",
    "source": "Скачки Grafenberg",
    "horizon_days": 400
   },
@@ -11011,13 +11099,13 @@
    "date": "2027-06-19",
    "time": "",
    "end_date": "",
-   "venue": "Galopprennbahn Düsseldorf",
+   "venue": "Galopprennbahn Grafenberg",
    "address": "Rennbahnstr. 20",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.duesseldorf-galopp.de/con-termine/termine_renntage.php",
-   "category": "спорт",
-   "description": "",
+   "category": "sport",
+   "description": "Pferderennen mit Diana-Trial, LR.",
    "source": "Скачки Grafenberg",
    "horizon_days": 400
   },
@@ -11038,17 +11126,17 @@
    "horizon_days": 400
   },
   {
-   "title": "Rheinkirmes",
+   "title": "Rheinkirmes 2027",
    "date": "2027-07-16",
    "time": "",
    "end_date": "2027-07-25",
-   "venue": "",
+   "venue": "Rheinufer",
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://rheinkirmes-duesseldorf.de/termine-rheinkirmes/",
-   "category": "фестиваль",
-   "description": "",
+   "category": "festival",
+   "description": "Größte Kirmes am Rhein.",
    "source": "Rheinkirmes",
    "horizon_days": 400,
    "big": true,
@@ -11077,13 +11165,13 @@
    "date": "2027-08-01",
    "time": "",
    "end_date": "",
-   "venue": "Galopprennbahn Düsseldorf",
+   "venue": "Galopprennbahn Grafenberg",
    "address": "Rennbahnstr. 20",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.duesseldorf-galopp.de/con-termine/termine_renntage.php",
-   "category": "спорт",
-   "description": "",
+   "category": "sport",
+   "description": "Pferderennen mit 169. Henkel-Preis der Diana, Gr. 1.",
    "source": "Скачки Grafenberg",
    "horizon_days": 400
   },
@@ -11092,13 +11180,13 @@
    "date": "2027-08-15",
    "time": "",
    "end_date": "",
-   "venue": "Galopprennbahn Düsseldorf",
+   "venue": "Galopprennbahn Grafenberg",
    "address": "Rennbahnstr. 20",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.duesseldorf-galopp.de/con-termine/termine_renntage.php",
-   "category": "спорт",
-   "description": "",
+   "category": "sport",
+   "description": "Pferderennen mit 41. Großer Sparkassen Familien-Cup, LR.",
    "source": "Скачки Grafenberg",
    "horizon_days": 400
   },
@@ -11107,13 +11195,13 @@
    "date": "2027-09-12",
    "time": "",
    "end_date": "",
-   "venue": "Galopprennbahn Düsseldorf",
+   "venue": "Galopprennbahn Grafenberg",
    "address": "Rennbahnstr. 20",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.duesseldorf-galopp.de/con-termine/termine_renntage.php",
-   "category": "спорт",
-   "description": "",
+   "category": "sport",
+   "description": "Pferderennen mit BBAG Auktionsrennen.",
    "source": "Скачки Grafenberg",
    "horizon_days": 400
   },
@@ -11122,13 +11210,13 @@
    "date": "2027-10-10",
    "time": "",
    "end_date": "",
-   "venue": "Galopprennbahn Düsseldorf",
+   "venue": "Galopprennbahn Grafenberg",
    "address": "Rennbahnstr. 20",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.duesseldorf-galopp.de/con-termine/termine_renntage.php",
-   "category": "спорт",
-   "description": "",
+   "category": "sport",
+   "description": "Pferderennen mit 107. Großer Preis der Landeshauptstadt Düsseldorf, Gr. 3.",
    "source": "Скачки Grafenberg",
    "horizon_days": 400
   }
