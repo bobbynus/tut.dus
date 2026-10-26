@@ -1,0 +1,60 @@
+{
+ "list": [
+  {
+   "time": "20:00",
+   "title": "Bob Dylan EU/UK 2026",
+   "place": "Mitsubishi Electric HALLE"
+  },
+  {
+   "time": "20:00",
+   "title": "Jam Session",
+   "place": "Jazz-Schmiede Düsseldorf"
+  },
+  {
+   "time": "",
+   "title": "Herbstkirmes",
+   "place": "Tonhallenufer"
+  },
+  {
+   "time": "16:00",
+   "title": "K21 Workshop für Vorschulkinder",
+   "place": "K21"
+  },
+  {
+   "time": "",
+   "title": "Santa Rosalia",
+   "place": "Zentralbibliothek KAP1"
+  },
+  {
+   "time": "",
+   "title": "Deutscher Jugendfotopreis",
+   "place": "KIT - Kunst im Tunnel"
+  }
+ ],
+ "highlights": [
+  {
+   "title": "Bob Dylan EU/UK 2026",
+   "text": "Kein Solokünstler hat die Musikgeschichte so nachhaltig geprägt wie Bob Dylan.",
+   "time": "20:00",
+   "place": "Mitsubishi Electric HALLE",
+   "price": "",
+   "tag": "концерт"
+  },
+  {
+   "title": "Herbstkirmes",
+   "text": "Vom 23. bis 31. Oktober erwartet die Besucher wieder ein buntes Programm.",
+   "time": "",
+   "place": "Tonhallenufer",
+   "price": "бесплатно",
+   "tag": "фестиваль"
+  },
+  {
+   "title": "Santa Rosalia",
+   "text": "Die Ausstellung erzählt die Geschichte der Schutzheiligen von Palermo.",
+   "time": "",
+   "place": "Zentralbibliothek im KAP1",
+   "price": "бесплатно",
+   "tag": "выставка"
+  }
+ ]
+}
