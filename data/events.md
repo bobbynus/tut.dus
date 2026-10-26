@@ -1,6 +1,6 @@
 # События Дюссельдорфа
 
-Собрано 26.10.2026 09:09: 757 событий (из 1076 найденных до фильтра и удаления дублей).
+Собрано 26.10.2026 15:13: 762 событий (из 992 найденных до фильтра и удаления дублей).
 
 
 ## Чт 06.03
@@ -71,7 +71,7 @@
 - **Düsseldorf Comedy Club – Für Freunde** — 20:00 · Comedy für Freunde Düsseldorf · событие — [ссылка](https://prinz.de/events/duesseldorf-comedy-club-fuer-freunde/2026-10-26/)
 - **Thalia Düsseldorf** — 20:30 · Thalia Mayersche Düsseldorf Königsallee · событие — [ссылка](https://prinz.de/events/thalia-duesseldorf-83700/2026-10-26/)
 - **Brandi Carlile Düsseldorf Tickets** — Mitsubishi Electric Halle · 💶 950.00 · событие — [ссылка](https://allevents.in/d%C3%BCsseldorf/brandi-carlile-düsseldorf-tickets/100029194430938)
-- **Halloween Kasematten Düsseldorf** — Kasematten · veчеринка — [ссылка](https://kasematten-duesseldorf.de/26-31-10-26-horror-halloween-week/)
+- **Halloween Kasematten Düsseldorf** — Kasematten · vecherinka — [ссылка](https://kasematten-duesseldorf.de/26-31-10-26-horror-halloween-week/)
 - **Eva Rubinstein. Proof of Life** — Museum für Gartenkunst · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Plastikmüll im Rhein. Die große Reise des kleinen Plastiks** — Naturkundemuseum · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Waffen der Tiere** — Aquazoo Löbbecke Museum · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
@@ -86,7 +86,6 @@
 - **Pareidolie** — von fraunberg art gallery · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Herbstkirmes** — Tonhallenufer · фестиваль — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **"50 Jahre Spektrum76 – Was vor 50 Jahren begann, hat bis heute Bestand"** — Rathaus · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
-- **Kaiserswerther Diakonie zeigt Werke von Walter Liggesmeyer** — K3 · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Radu Darvas. Fotografien aus Siebenbürgen** — Stiftung Gerhart-Hauptmann-Haus · выставка — [ссылка](https://www.g-h-h.de/veranstaltung/ausstellung-wiedergutmachung-fotografien-aus-siebenbuergen-von-radu-darvas)
 - **Panoramafahrt auf dem Rhein (KD Düsseldorf)** — событие — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 
@@ -118,6 +117,7 @@
 - **Niki de Saint Phalle - Dream Machine** — Kunstpalast · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Jörg Immendorff** — Kunstpalast · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Asia Pop** — NRW-Forum · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
+- **Kaiserswerther Diakonie zeigt Werke von Walter Liggesmeyer** — K3 · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Playground. Ein Spielplatz im Museum** — K20 Kunstsammlung Nordrhein-Westfalen · выставка — [ссылка](https://shop.kunstsammlung.de/de/offers/a571)
 - **Spot on: 100 Jahre GeSoLei** — Kunstpalast · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **The brush was not the point** — выставка — [ссылка](https://www.meierbach.xyz/)
@@ -200,10 +200,10 @@
 - **Schleuse Zwei: Barabend mit DJ-Set – Clara Luise** — 19:00 · Schleuse Zwei im Bilker Bunker · вечеринка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **DIE MÖWE** — 19:30 · Schauspielhaus, Großes Haus · театр — [ссылка](https://www.dhaus.de/programm/spielplan/die-moewe/3033/)
 - **DEG - Kassel** — 19:30 · PSD Bank Dome · спорт — [ссылка](https://www.deg-eishockey.de/)
+- **Spieltag 13: Düsseldorfer EG vs. EC Kassel Huskies** — 19:30 · PSD BANK DOME · sport — [ссылка](https://www.ticket-onlineshop.com/ols/deg/de/del2/channel/shop/areaplan/venue/event/676992?utm_source=DEG+Homepage&utm_medium=Spielplan+Seite&utm_campaign=ECK_30102026)
 - **Eishockey: Düsseldorfer EG - EC Kassel Huskies** — 19:30 · PSD BANK DOME · спорт — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **21. IDO-Festival: Orgel trifft 103 Posaunen - Selig sind ...** — 19:30 · Johanneskirche (ev.) · концерт — [ссылка](https://www.ido-festival.com/programm-orgelfestival/veranstaltung/id/687/)
 - **Meisterklasse** — 19:30 · Maxhaus · концерт — [ссылка](https://www.westticket.de/eventseries/3904507?affiliate=5VD)
-- **DEL2: DEG vs. EC KASSEL HUSKIES** — 19:30 · PSD BANK DOME · спорт — [ссылка](https://www.ticket-onlineshop.com/ols/deg/de/del2/channel/shop/areaplan/venue/event/676992?utm_source=DEG+Homepage&utm_medium=Scoreboard+Leiste&utm_campaign=ECK_30102026)
 - **A57: B1 - Sanierungsarbeiten an den Übergangskonstruktionen** — 20:00 · B1 - Sanierungsarbeiten an den Übergangskonstruktionen · важное — [ссылка](https://www.autobahn.de/)
 - **50 Jahrs of KISS in Germany - Official KISS Fan Celebration** — 20:00 · Mitsubishi Electric HALLE · событие — [ссылка](https://de.shopkissonline.com/products/kiss-kiss-50-germany)
 - **Bülbül Club** — 20:00 · tanzhaus nrw · театр — [ссылка](https://tanzhaus-nrw.de/de/kalender)
@@ -230,49 +230,50 @@
 
 ## Сб 31.10
 
-- **Kindergeisterzug @ Glessener Mühlenhof** — 09:00 · Glessener Mühlenhof · детям — [ссылка](https://glessener-muehlenhof.de/halloween/)
+- **Kindergeisterzug @ Glessener Mühlenhof** — 09:00 · Glessener Mühlenhof · detjam — [ссылка](https://glessener-muehlenhof.de/halloween/)
 - **Volksgarten parkrun Düsseldorf** — 09:00 · Volksgarten · спорт — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Guided Palace Tour in english** — 11:00 · Schloss Benrath · экскурсия — [ссылка](https://www.schloss-benrath.de/veranstaltungs-detail/v/5907)
 - **Supermäuschen und der Fuchs** — 11:00 · Puppentheater Helmholtzstraße · театр — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Blue Rose New Orleans Jazzband** — 11:30 · Antik- und Trödelzelt am Aachener Platz · 💶 Eintritt frei · konzert — [ссылка](https://www.troedelmarkt-aachenerplatz.de/musikprogramm/2026-10-31-blue-rose-new-orleans-jazzband/)
 - **Repair Café** — 13:00 · Zentralbibliothek im KAP1 · событие — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
-- **Butterzart – Indoor in the Hood x Halloween** — 14:00 · Vino Tinto & Friends · 💶 frei · veчеринка
+- **Butterzart – Indoor in the Hood x Halloween** — 14:00 · Vino Tinto & Friends · 💶 Eintritt frei · vecherinka — [ссылка](https://www.mrduesseldorf.de/happy-halloween-duesseldorf-2026/)
 - **Mitsingkonzert "Geh aus mein Herz und suche Freud ...." - 350 Jahre Paul Gerhardt** — 14:00 · концерт — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
-- **Halloween @ Theater an der Luegallee** — 15:00 · Theater an der Luegallee · 💶 27 Euro, ermäßigt 22 Euro · театр — [ссылка](https://theaterluegallee.de/veranstaltungen/halloween.html)
 - **Ausstellungsführung: Franz Marc** — 15:00 · K20 · экскурсия — [ссылка](https://www.kunstsammlung.de/de/events/ausstellungsfuehrung-franz-marc)
+- **Halloween @ Theater an der Luegallee** — 15:00 · Theater an der Luegallee · 💶 27 Euro, ermäßigt 22 Euro · teatr — [ссылка](https://theaterluegallee.de/veranstaltungen/halloween.html)
 - **Don’t Look Back. Der Kom(m)ödchen Jahresvor- und Rückblick** — 16:00 · Kom(m)ödchen · театр — [ссылка](https://www.kommoedchen.de/spielplan/dont-look-back/)
 - **StreamD Radio – Halloween Spezial** — 16:00 · Zentralbibliothek im KAP1 · лекция — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
-- **Halloween-Abend für Kinder im KIT** — 17:00 · KIT Kunst im Tunnel · 💶 kostenlos · детям — [ссылка](https://www.kunst-im-tunnel.de/programm/kalender/halloween-abend-fuer-kinder-im-tunnel-sind-die-geister-los-2/)
+- **Halloween-Abend für Kinder im KIT** — 17:00 · KIT Kunst im Tunnel · 💶 kostenlos · detjam — [ссылка](https://www.kunst-im-tunnel.de/programm/kalender/halloween-abend-fuer-kinder-im-tunnel-sind-die-geister-los-2/)
 - **Süßes oder Saures! Geisterjagd im Schloss** — 17:00 · Goethe-Museum/Schloss Jägerhof · событие — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Chiara Bersani: Will You become a Zombie with Me?** — 17:00 · tanzhaus nrw · театр — [ссылка](https://tanzhaus-nrw.de/de/veranstaltung/2026/10/will-you-become-a-zombie-with-me)
 - **FAMILIENFÜHRUNG | Taschenlampenführung. Halloween-Special** — 18:00 · Schloss Benrath · деттями — [ссылка](https://www.schloss-benrath.de/veranstaltungs-detail/v/5949)
 - **21. IDO-Festival: Pilot und Spiele - Musiktheater** — 18:00 · Bergerkirche (ev.) · концерт — [ссылка](https://www.ido-festival.com/programm-orgelfestival/veranstaltung/id/688/)
-- **Halloween Heights @ Otto’s Skybar** — 19:00 · Lindner Hotel Düsseldorf Seestern · 💶 Eintritt frei · veчеринка — [ссылка](https://www.hyattrestaurants.com/de/dusseldorf/restaurant/ottos-skybar/events/dance-of-the-creatures-above-the-clouds)
-- **Halloween Ü40** — 19:00 · Chapiteau · 💶 10 Euro · veчеринка — [ссылка](https://chapiteau-duesseldorf.de/events/halloween-party-eintritt/)
-- **KD Ghostship** — 19:00 · KD Anlegestelle · veчеринка — [ссылка](https://www.k-d.com/produkt/ghost-ship/)
-- **MS RheinFantasie** — 19:00 · MS RheinFantasie · veчеринка — [ссылка](https://www.eventim-light.com/de/a/6336dfde52067d67e8f296c2/e/69dc93c2033faf7a4fb2a49e?lang=de)
+- **Die Zauberflöte** — 18:00 · Deutsche Oper am Rhein · концерт — [ссылка](https://www.westticket.de/eventseries/4156269?affiliate=5VD)
+- **Halloween Heights @ Otto’s Skybar** — 19:00 · Lindner Hotel Düsseldorf Seestern · 💶 Eintritt frei · vecherinka — [ссылка](https://www.hyattrestaurants.com/de/dusseldorf/restaurant/ottos-skybar/events/dance-of-the-creatures-above-the-clouds)
+- **Halloween Ü40** — 19:00 · Chapiteau · 💶 10 Euro · vecherinka — [ссылка](https://chapiteau-duesseldorf.de/events/halloween-party-eintritt/)
+- **KD Ghostship** — 19:00 · KD Anlegestelle · vecherinka — [ссылка](https://www.k-d.com/produkt/ghost-ship/)
+- **MS RheinFantasie** — 19:00 · MS RheinFantasie · vecherinka — [ссылка](https://www.eventim-light.com/de/a/6336dfde52067d67e8f296c2/e/69dc93c2033faf7a4fb2a49e?lang=de)
 - **Die Helene-Fischer-Show** — 19:00 · Messe Düsseldorf · театр — [ссылка](https://www.ticketmaster.de/event/die-helene-fischer-show-2026-tickets/734815574)
 - **Ritteressen Schloss Garath** — 19:00 · Schloss Garath - Rittersaal · событие — [ссылка](https://www.schloss-benrath-ritteressen.de/kartenbestellung)
 - **Schleuse Zwei: Barabend mit DJ-Set – Colkin** — 19:00 · Schleuse Zwei im Bilker Bunker · вечеринка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Sinfoniekonzert der Camerata Louis Spohr - Menschen & Geschichte** — 19:00 · Tonhalle Düsseldorf · концерт — [ссылка](https://www.westticket.de/eventseries/4110627?affiliate=5VD)
 - **Halloween Party 2026 auf Rhein der Rheinischen Post** — 19:00 · KD Pier · вечеринка — [ссылка](https://www.eventim-light.com/de/a/6336dfde52067d67e8f296c2/e/69dc93c2033faf7a4fb2a49e)
-- **Die Zauberflöte** — 19:30 · Deutsche Oper am Rhein · концерт — [ссылка](https://www.operamrhein.de/spielplan/a-z/die-zauberfloete/)
 - **INTER ALIA** — 19:30 · Schauspielhaus, Großes Haus · театр — [ссылка](https://www.dhaus.de/programm/spielplan/inter-alia/3035/)
+- **Halloween im Opernhaus: Die Zauberflöte** — 19:30 · Deutsche Oper am Rhein · teatr — [ссылка](https://www.operamrhein.de/spielplan/a-z/die-zauberfloete/)
 - **EIN ÜBERTRITT (ALLES AUF ENDE)** — 20:00 · Schauspielhaus, Kleines Haus · театр — [ссылка](https://www.dhaus.de/programm/spielplan/ein-uebertritt/3036/)
-- **Halloween Night Alter Bahnhof** — 20:00 · Brauhaus Alter Bahnhof · 💶 11,34 Euro · veчеринка — [ссылка](https://www.brauhaus-alterbahnhof.de/seite/events-events)
+- **Halloween Night Alter Bahnhof** — 20:00 · Brauhaus Alter Bahnhof · 💶 11,34 Euro · vecherinka — [ссылка](https://www.brauhaus-alterbahnhof.de/seite/events-events)
 - **Es ist wieder ... Halloween - Geschichten zum Gruseln, Schaudern und Bibbern** — 20:00 · Theater an der Luegallee · театр — [ссылка](https://theaterluegallee.de/theaterkarten/hinzufuegen/?mode=notepad_add&event=7354)
 - **Ein Übertritt** — 20:00 · D'haus Düsseldorfer Schauspielhaus · театр — [ссылка](https://www.westticket.de/eventseries/4234397?affiliate=5VD)
 - **Frieda Braun: Sprechpause** — 20:00 · Savoy Theater · театр — [ссылка](https://www.westticket.de/eventseries/1426251?affiliate=5VD)
 - **Heinz Gröning: Dr. Laugh`s beste Medizin** — 20:00 · KaBARett Flin · театр — [ссылка](https://tickets.neanderticket.de/tickets/nr=623430;client=kabarettflin)
 - **Kira Linn - Her Wings** — 20:30 · Jazz-Schmiede Düsseldorf · концерт — [ссылка](https://www.jazz-schmiede.de)
 - **Halloween Party** — 21:00 · zakk · 💶 12,50 € · вечеринка — [ссылка](https://www.zakk.de/event-detail?event=16257)
-- **Sweet HELL of COOKIES & Scream** — 21:00 · Rheinturm / Nachtresidenz · veчеринка — [ссылка](https://nachtresidenz.ticket.io/6i7Izq8y/)
-- **zakk vs. Zombies!** — 21:00 · zakk · veчеринка — [ссылка](https://zakk.de/event-detail?event=16257)
-- **Hawā Halloween** — 21:00 · Flughafen Düsseldorf · veчеринка — [ссылка](https://hawa.ticket.io/vzNFU2Af/?lang=de)
-- **Halloween im Stahlwerk** — 22:00 · Stahlwerk · veчеринка — [ссылка](https://stahlwerk.de/event/halloween-party)
-- **HALLOWEEN im Rudas** — 22:00 · Rudas Studio · veчеринка — [ссылка](https://www.candy-event.de/events/halloween-duesseldorf/)
-- **The Halloween Night** — 22:00 · 102 Club · veчеринка — [ссылка](https://102.ticket.io/D9e17QsK/?redirectFromEventInPast=1)
-- **GLAM BANG! Halloween Party** — 22:30 · Ratinger Hof · veчеринка — [ссылка](https://nbk.ticket.io/2hC0AfSZ/?lang=de)
+- **Sweet HELL of COOKIES & Scream** — 21:00 · Rheinturm / Nachtresidenz · vecherinka — [ссылка](https://nachtresidenz.ticket.io/6i7Izq8y/)
+- **zakk vs. Zombies!** — 21:00 · zakk · vecherinka — [ссылка](https://zakk.de/event-detail?event=16257)
+- **Hawā Halloween** — 21:00 · Flughafen Düsseldorf · vecherinka — [ссылка](https://hawa.ticket.io/vzNFU2Af/?lang=de)
+- **Halloween im Stahlwerk** — 22:00 · Stahlwerk · vecherinka — [ссылка](https://stahlwerk.de/event/halloween-party)
+- **HALLOWEEN im Rudas** — 22:00 · Rudas Studio · vecherinka — [ссылка](https://www.candy-event.de/events/halloween-duesseldorf/)
+- **The Halloween Night** — 22:00 · 102 Club · vecherinka — [ссылка](https://102.ticket.io/D9e17QsK/?redirectFromEventInPast=1)
+- **GLAM BANG! Halloween Party** — 22:30 · Ratinger Hof · vecherinka — [ссылка](https://nbk.ticket.io/2hC0AfSZ/?lang=de)
 - **Purgatory: Halloween Edition 3** — Maritim Hotel Düsseldorf · 💶 89.12 · событие — [ссылка](https://allevents.in/d%C3%BCsseldorf/purgatory-halloween-edition-3/100001768486222899)
 - **BOLLYWEEN PARTY PART 2 IN DÜSSELDORF** — KLUB KULB · 💶 10.77 · вечеринка — [ссылка](https://allevents.in/d%C3%BCsseldorf/bollyween-party-part-2-in-dÜsseldorf/100001998679321654)
 - **RAVEMANIA // HALLOWEEN RAVE SPECIAL 2026** — R25-Kulturschlachthof · событие — [ссылка](https://allevents.in/dusseldorf/ravemania-halloween-rave-special-2026/200030679861053)
@@ -298,19 +299,19 @@
 - **Julia Jäger | Matthias Habich** — 17:00 · Kunstpalast · театр — [ссылка](https://www.kunstpalast.de/de/event/julia-jaeger-matthias-habich/?date=1.11.2026&time=17:00)
 - **Crimmitschau - DEG** — 17:00 · на выезде · спорт — [ссылка](https://www.deg-eishockey.de/)
 - **Benefiz-Versteigerung zugunsten der Palliativ-Station der Uni-Klinik Düsseldorf** — 17:00 · Brauerei Schumacher · событие — [ссылка](https://himmelundaehd.de/termine/ereignis/17-21-allerheiligenversteigerung-zugunsten-des-foerdervereins-fuer-palliativ-medizin)
-- **DEL2: Eispiraten Crimmitschau vs. DEG** — 17:00 · спорт
+- **Spieltag 14: Eisbären Regensburg vs. Düsseldorfer EG** — 17:00 · sport — [ссылка](https://www.deg-eishockey.de/gamecenter/a73df7e28c2dcfa87581a413fda152e8/)
 - **INTER ALIA** — 18:00 · Schauspielhaus, Großes Haus · театр — [ссылка](https://www.dhaus.de/programm/spielplan/inter-alia/3038/)
 - **Hosted by Sonja Reischl & Takao Baba: Performance Session X** — 18:00 · tanzhaus nrw · театр — [ссылка](https://tanzhaus-nrw.de/de/veranstaltung/2026/04/performance-session-x)
 - **Tina Teubner und Ben Süverkrüp: Protokolle der Sehnsucht – Ein Feuerwerk der Melancholie** — 18:00 · Kom(m)ödchen · концерт — [ссылка](https://www.kommoedchen.de/spielplan/?wk=1)
 - **Matthias Reuter: Ich bin noch gut** — 18:00 · KaBARett Flin · театр — [ссылка](https://tickets.neanderticket.de/tickets/nr=623431;client=kabarettflin)
 - **21. IDO-Festival: Großes IDO-Finale mit dem Städtischen Musikverein: Fauré Requiem** — 18:00 · концерт — [ссылка](https://www.ido-festival.com/programm-orgelfestival/veranstaltung/id/693/)
 - **westcoast JAZZ** — 20:00 · Destille · концерт — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
-- **Hot Halloween Burlesque** — 21:00 · Chapiteau · вечеринка — [ссылка](https://chapiteau-duesseldorf.de/events/burlesque-night/)
+- **Hot Halloween Burlesque** — 21:00 · Chapiteau · show — [ссылка](https://chapiteau-duesseldorf.de/events/burlesque-night/)
 - **Burlesque Night N°9** — 21:00 · театр — [ссылка](https://eventimlight.queue-it.net/?c=eventimlight&e=shopde&ver=v3-javascript-3.7.10&cver=150&man=Shop%20DE&t=https%3A%2F%2Fwww.eventim-light.com%2Fde%2Fa%2F5878d394e4b08461fe7ed8c3%2Fe%2F6a0dd5c3bb43a7d920ef6f6c)
 - **The Jury Experience – Der 20-Millionen-Dollar-Raub** — Capitol Theater · 💶 26.00 · событие — [ссылка](https://allevents.in/dusseldorf/the-jury-experience-der-20-millionen-dollar-raub/2700029248181816)
 - **Die Meistersinger von Nürnberg** — Opernshop: Heinrich-Heine-Allee 24, 40213 Düsseldorf, Germany · событие — [ссылка](https://allevents.in/dusseldorf/die-meistersinger-von-nürnberg/200030752869854)
-- **JADED HEART // Support: CHERRY BOMB** — Pitcher - Rock'n'Roll Headquarter Düsseldorf · событие — [ссылка](https://allevents.in/dusseldorf/jaded-heart-support-cherry-bomb/200030122585952)
 - **Eckhard Froeschlin - Aus der Zeit geätzt (Radierungen 1981 - 2026)** — Kultur Bahnhof Eller · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
+- **JADED HEART // Support: CHERRY BOMB** — Pitcher - Rock'n'Roll Headquarter Düsseldorf · событие — [ссылка](https://allevents.in/dusseldorf/jaded-heart-support-cherry-bomb/200030122585952)
 
 ## Пн 02.11
 
@@ -451,6 +452,7 @@
 - **Familienführung** — 13:45 · Kunstpalast · экскурсия — [ссылка](https://www.kunstpalast.de/de/event/familienfuehrung-joerg-immendorff/?date=7.11.2026&time=13:45)
 - **Barre** — 14:00 · Kunstpalast · спорт — [ссылка](https://www.kunstpalast.de/de/event/barre-gym-fit-mit-kunst/?date=7.11.2026&time=14:00)
 - **FC Ingolstadt 04 — Fortuna** — 14:00 · на выезде (FC Ingolstadt 04) · спорт — [ссылка](https://www.f95.de/)
+- **Textile Reparatur-Werkstatt** — 14:00 · событие — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Familienführung: Thomas Schütte. Im Gegenteil** — 15:00 · K21 · деттями — [ссылка](https://www.kunstsammlung.de/de/events/familienfuehrung-thomas-schuette-im-gegenteil)
 - **Eishockey: Deutschland Cup 2026** — 15:00 · PSD BANK DOME · спорт — [ссылка](https://www.ticket-onlineshop.com/ols/deb/)
 - **Rosenpfeffer: Es könnte so leicht sein** — 15:00 · Theater an der Luegallee · концерт — [ссылка](https://theaterluegallee.de/theaterkarten/hinzufuegen/?mode=notepad_add&event=7377)
@@ -589,6 +591,7 @@
 - **Werk:Klub (für alle zwischen 16 und 26 Jahren)** — 15:00 · K21 · событие — [ссылка](https://www.kunstsammlung.de/de/events/workshop-werkklub-fuer-alle-zwischen-16-und-26-jahren)
 - **Workshop: Kunst, aber wie!?** — 16:00 · K20 · событие — [ссылка](https://www.kunstsammlung.de/de/events/k20-kunst-aber-wie-fuer-erwachsene_0425)
 - **Sneak Peek. Preview für junge Erwachsene: Thomas Schütte** — 16:00 · K21 · событие — [ссылка](https://www.kunstsammlung.de/de/events/sneak-peek-preview-fuer-junge-erwachsene-thomas-schuette)
+- **Residency Insights** — 18:00 · WELTKUNSTZIMMER · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Visual Arts Yoga** — 18:15 · Kunstpalast · спорт — [ссылка](https://www.kunstpalast.de/de/event/oeffentliche-fuehrung-visual-arts-yoga/?date=13.11.2026&time=18:15)
 - **Ausstellungseröffnung: Thomas Schütte** — 19:00 · K21 · 💶 frei · выставка — [ссылка](https://www.kunstsammlung.de/de/events/ausstellungseroeffnung-thomas-schuette)
 - **OPEN STAGE** — 19:00 · Central 2 · 💶 Frei · театр — [ссылка](https://www.dhaus.de/programm/spielplan/open-stage/3076/)
@@ -603,8 +606,8 @@
 - **Piano Solo: Hayato Sumino, Klavier** — 20:00 · Tonhalle Düsseldorf · концерт — [ссылка](https://www.westticket.de/eventseries/4137827?affiliate=5VD)
 - **David Werker: Überleben mit 40 - Langsam gewöhn' ich mich an mich!** — 20:00 · KaBARett Flin · театр — [ссылка](https://tickets.neanderticket.de/tickets/nr=630263;client=kabarettflin)
 - **Arnulf Rating: Jahrespresseschau** — 20:00 · Kom(m)ödchen · театр — [ссылка](https://tickets.kommoedchen.de/selection/event/date?productId=10229856434589)
+- **Spieltag 15: ECDC Memmingen vs. Düsseldorfer EG** — 20:00 · sport — [ссылка](https://www.deg-eishockey.de/gamecenter/b25d101a699a148996e41b752183c1ff/)
 - **Als das Würstchen Huppsi machte** — 20:00 · театр — [ссылка](https://himmelundaehd.de/termine/ereignis/28-manes-meckenstock-lott-jonn)
-- **DEL2: ECDC Memmingen vs. DEG** — 20:00 · спорт
 - **SingAlong - Das große Mitsing-Event** — 20:15 · концерт — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Accordion Affairs** — 20:30 · Jazz-Schmiede Düsseldorf · концерт — [ссылка](https://www.jazz-schmiede.de/kaufen/313916/)
 
@@ -614,6 +617,7 @@
 - **Ruth Janßen: Das Frauencafé Hexenkessel** — 10:00 · BiBaBuZe · выставка — [ссылка](https://www.bibabuze.de)
 - **Yoga** — 12:30 · Kunstpalast · спорт — [ссылка](https://www.kunstpalast.de/de/event/yoga-gym-fit-mit-kunst/?date=14.11.2026&time=12:30)
 - **High Heels Beginner** — 14:00 · Kunstpalast · спорт — [ссылка](https://www.kunstpalast.de/de/event/high-heels-beginner-gym-fit-mit-kunst/?date=14.11.2026&time=14:00)
+- **Residency Insights** — 14:00 · WELTKUNSTZIMMER · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Siebenbürger Sachsen – wohin?** — 14:00 · Stiftung Gerhart-Hauptmann-Haus · лекция — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Ausstellungsführung: Franz Marc** — 15:00 · K20 · экскурсия — [ссылка](https://www.kunstsammlung.de/de/events/ausstellungsfuehrung-franz-marc)
 - **KURATORINNENFÜHRUNG | Upside Down / Inside Out** — 15:00 · Schloss Benrath · экскурсия — [ссылка](https://www.schloss-benrath.de/veranstaltungs-detail/v/6150)
@@ -655,6 +659,7 @@
 - **UNBUBBLED MEETS VIELLEICHT_REGEN** — 12:00 · Central Brücke · событие — [ссылка](https://www.dhaus.de/programm/spielplan/take-off-festival/3082/)
 - **ニキズ・ナナ・アート / Niki’s NANA Art** — 12:00 · Kunstpalast · детям — [ссылка](https://www.kunstpalast.de/de/event/japanischer-familienworkshop-niki-de-saint-phalle/?date=15.11.2026&time=12:00)
 - **Die Morgensterne: Emanuel Akopian, Violine** — 12:00 · концерт — [ссылка](https://www.rubinstein-akademie.de/termine/)
+- **Residency Insights** — 14:00 · WELTKUNSTZIMMER · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Tischtennis: Borussia Düsseldorf - ASC Grünwetterbach** — 14:00 · ARAG CenterCourt - Borussia Düsseldorf · спорт — [ссылка](https://borussia-duesseldorf.reservix.de/events)
 - **Ausstellungsführung: Thomas Schütte** — 14:30 · K21 · экскурсия — [ссылка](https://www.kunstsammlung.de/de/events/ausstellungsfuehrung-thomas-schuette)
 - **Ausstellungsführung: Franz Marc** — 15:00 · K20 · экскурсия — [ссылка](https://www.kunstsammlung.de/de/events/ausstellungsfuehrung-franz-marc)
@@ -668,9 +673,9 @@
 - **Sonntagsorgel** — 16:00 · St. Andreas · концерт — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Hubertus Meyer-Burckhardt | Stephan Schäfer** — 17:00 · Kunstpalast · театр — [ссылка](https://www.kunstpalast.de/de/event/hubertus-meyer-burckhardt-stephan-schaefer/?date=15.11.2026&time=17:00)
 - **DEG - Ravensburg** — 17:00 · PSD Bank Dome · спорт — [ссылка](https://www.deg-eishockey.de/)
+- **Spieltag 16: Düsseldorfer EG vs. EC Ravensburg** — 17:00 · PSD BANK DOME · sport — [ссылка](https://www.ticket-onlineshop.com/ols/deg/de/del2/channel/shop/areaplan/venue/event/676994?utm_source=DEG+Homepage&utm_medium=Spielplan+Seite&utm_campaign=RVT_15112026)
 - **Die Meistersinger von Nürnberg** — 17:00 · Deutsche Oper am Rhein · концерт — [ссылка](https://www.westticket.de/eventseries/4156233?affiliate=5VD)
 - **Eishockey: Düsseldorfer EG - Ravensburg Towerstars** — 17:00 · PSD BANK DOME · спорт — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
-- **DEL2: DEG vs. EV Ravensburg Towerstars** — 17:00 · PSD BANK DOME · спорт — [ссылка](https://www.ticket-onlineshop.com/ols/deg/de/del2/channel/shop/areaplan/venue/event/676994?utm_source=DEG+Homepage&utm_medium=Scoreboard+Leiste&utm_campaign=RVT_15112026)
 - **Grenzgang Reise-Reportage: Sebastian Lehrke - Neuseeland – Freiheit und Wildnis am Ende der Welt** — 17:30 · Savoy Theater · лекция — [ссылка](https://www.grenzgang.de/programm/neuseeland/)
 - **Samurai X** — 18:00 · Central 1 · театр — [ссылка](https://www.dhaus.de/programm/spielplan/samurai-x/2967/)
 - **FAMILIENFÜHRUNG | Taschenlampenführung. Nachts im Naturkundemuseum** — 18:00 · Schloss Benrath · деттями — [ссылка](https://www.schloss-benrath.de/veranstaltungs-detail/v/6159)
@@ -700,7 +705,7 @@
 
 - **Workshop zum Thema Antisemitismus** — 10:00 · Central 2 · 💶 Eintritt frei · событие — [ссылка](https://www.dhaus.de/programm/spielplan/workshop-zum-thema-antisemitismus/3044/)
 - **DEG - Rosenheim** — 19:30 · PSD Bank Dome · спорт — [ссылка](https://www.deg-eishockey.de/)
-- **DEL2: DEG vs. Starbulls Rosenheim** — 19:30 · PSD BANK DOME · спорт — [ссылка](https://www.ticket-onlineshop.com/ols/deg/de/del2/channel/shop/areaplan/venue/event/676996?utm_source=DEG+Homepage&utm_medium=Scoreboard+Leiste&utm_campaign=SBR_17112026)
+- **Spieltag 17: Düsseldorfer EG vs. Starbulls Rosenheim** — 19:30 · PSD BANK DOME · sport — [ссылка](https://www.ticket-onlineshop.com/ols/deg/de/del2/channel/shop/areaplan/venue/event/676996?utm_source=DEG+Homepage&utm_medium=Spielplan+Seite&utm_campaign=SBR_17112026)
 
 ## Ср 18.11
 
@@ -732,7 +737,7 @@
 - **Werk:Klub (für alle zwischen 16 und 26 Jahren)** — 15:00 · K21 · событие — [ссылка](https://www.kunstsammlung.de/de/events/workshop-werkklub-fuer-alle-zwischen-16-und-26-jahren)
 - **Dresden - DEG** — 17:00 · на выезде · спорт — [ссылка](https://www.deg-eishockey.de/)
 - **FANNY UND ALEXANDER** — 19:30 · Schauspielhaus, Kleines Haus · театр — [ссылка](https://www.dhaus.de/programm/spielplan/fanny-und-alexander-2026/3092/)
-- **DEL2: Dresdner Eislöwen vs. DEG** — 19:30 · спорт
+- **Spieltag 18: Dresdner Eislöwen vs. Düsseldorfer EG** — 19:30 · sport — [ссылка](https://www.deg-eishockey.de/gamecenter/07174691a71524008f90724f96682642/)
 - **Sessions** — 20:00 · Schauspielhaus, Foyer · вечеринка — [ссылка](https://www.dhaus.de/programm/spielplan/sessions/3053/)
 - **Hatsune Miku Düsseldorf Tickets** — PSD Bank Dome · 💶 107.58 · событие — [ссылка](https://allevents.in/d%C3%BCsseldorf/hatsune-miku-düsseldorf-tickets/100029864495535)
 
@@ -759,7 +764,7 @@
 - **Johann von Bülow und Stefan Wilkening, Rezitation | Maria Reiter, Akkordeon** — 17:00 · Kunstpalast · концерт — [ссылка](https://www.kunstpalast.de/de/event/buelow-wilkening-reiter/?date=22.11.2026&time=17:00)
 - **Der Vogel hat kein Recht, so zu singen, wie er singt.** — 18:00 · Central 2 · концерт — [ссылка](https://www.dhaus.de/programm/spielplan/der-vogel-hat-kein-recht-so-zu-singen-wie-er-singt/3052/)
 - **DEG - Weißwasser** — 18:30 · PSD Bank Dome · спорт — [ссылка](https://www.deg-eishockey.de/)
-- **DEL2: DEG vs. Lausitzer Füchse** — 18:30 · PSD BANK DOME · спорт — [ссылка](https://www.ticket-onlineshop.com/ols/deg/de/del2/channel/shop/areaplan/venue/event/676998?utm_source=DEG+Homepage&utm_medium=Scoreboard+Leiste&utm_campaign=LFX_22112026)
+- **Spieltag 19: Düsseldorfer EG vs. Lausitzer Füchse** — 18:30 · PSD BANK DOME · sport — [ссылка](https://www.ticket-onlineshop.com/ols/deg/de/del2/channel/shop/areaplan/venue/event/676998?utm_source=DEG+Homepage&utm_medium=Spielplan+Seite&utm_campaign=LFX_22112026)
 
 ## Вт 24.11
 
@@ -788,7 +793,7 @@
 - **Taschenlampenführung für Familien** — 18:15 · Kunstpalast · экскурсия — [ссылка](https://www.kunstpalast.de/de/event/taschenlampenfuehrung-fuer-familien-niki-de-saint-phalle/?date=27.11.2026&time=18:15)
 - **Taschenlampenführung für Erwachsene** — 18:45 · Kunstpalast · экскурсия — [ссылка](https://www.kunstpalast.de/de/event/taschenlampenfuehrung-fuer-erwachsene-niki-de-saint-phalle/?date=27.11.2026&time=18:45)
 - **Freiburg - DEG** — 19:30 · на выезде · спорт — [ссылка](https://www.deg-eishockey.de/)
-- **DEL2: EHC Freiburg vs. DEG** — 19:30 · спорт
+- **Spieltag 20: EHC Freiburg vs. Düsseldorfer EG** — 19:30 · sport — [ссылка](https://www.deg-eishockey.de/gamecenter/dba16a218cf8cab83396f133239d5bdb/)
 - **Vivaldi – Die vier Jahreszeiten** — 20:00 · Kunstpalast · концерт — [ссылка](https://www.kunstpalast.de/de/event/vivaldi-die-vier-jahreszeiten/?date=27.11.2026&time=20:00)
 
 ## Сб 28.11
@@ -807,7 +812,7 @@
 - **ADVENTS- und MITSINGKONZERT** — 15:00 · klOnkk · концерт — [ссылка](https://www.stadtstrand-duesseldorf.de/events/advents--und-mitsingkonzert)
 - **Daniel Ottensamer, Klarinette | Stephan Koncz, Violoncello | Christoph Traxler, Klavier** — 17:00 · Kunstpalast · концерт — [ссылка](https://www.kunstpalast.de/de/event/christoph-traxler-stephan-koncz-daniel-ottensamer-nov-26/?date=29.11.2026&time=17:00)
 - **DEG - Bietigheim** — 17:00 · PSD Bank Dome · спорт — [ссылка](https://www.deg-eishockey.de/)
-- **DEL2: DEG vs. Bietigheim Steelers** — 17:00 · PSD BANK DOME · спорт — [ссылка](https://www.ticket-onlineshop.com/ols/deg/de/del2/channel/shop/areaplan/venue/event/677000?utm_source=DEG+Homepage&utm_medium=Scoreboard+Leiste&utm_campaign=SCB_29112026)
+- **Spieltag 21: Düsseldorfer EG vs. SC Bietigheim-Bissingen** — 17:00 · PSD BANK DOME · sport — [ссылка](https://www.ticket-onlineshop.com/ols/deg/de/del2/channel/shop/areaplan/venue/event/677000?utm_source=DEG+Homepage&utm_medium=Spielplan+Seite&utm_campaign=SCB_29112026)
 - **Melan Trödelmarkt Düsseldorf Ikea** — D&uuml;sseldorf Ikea · рынок — [ссылка](https://meine-flohmarkt-termine.de/melan-trodelmarkt-dusseldorf-ikea/23830629/details)
 
 ## Вт 01.12
@@ -815,7 +820,7 @@
 - **Palastplausch** — 14:45 · Kunstpalast · событие — [ссылка](https://www.kunstpalast.de/de/event/palastplausch-zero-kunst/?date=1.12.2026&time=14:45)
 - **Visual Arts Yoga** — 16:00 · Kunstpalast · спорт — [ссылка](https://www.kunstpalast.de/de/event/oeffentliche-fuehrung-visual-arts-yoga/?date=1.12.2026&time=16:00)
 - **DEG - Landshut** — 19:30 · PSD Bank Dome · спорт — [ссылка](https://www.deg-eishockey.de/)
-- **DEL2: DEG vs. EV Landshut** — 19:30 · PSD BANK DOME · спорт
+- **Spieltag 22: Düsseldorfer EG vs. EV Landshut** — 19:30 · PSD BANK DOME · sport — [ссылка](https://www.deg-eishockey.de/gamecenter/0d243cdfc2a44a61e318f1ec8763a9c6/)
 - **VALVE WORLD EXPO** — Düsseldorf/Messegelände · выставка
 
 ## Ср 02.12
@@ -832,7 +837,7 @@
 
 - **Werk:Klub (für alle zwischen 16 und 26 Jahren)** — 15:00 · K21 · событие — [ссылка](https://www.kunstsammlung.de/de/events/workshop-werkklub-fuer-alle-zwischen-16-und-26-jahren)
 - **DEG - Regensburg** — 19:30 · PSD Bank Dome · спорт — [ссылка](https://www.deg-eishockey.de/)
-- **DEL2: DEG vs. Eisbären Regensburg** — 19:30 · PSD BANK DOME · спорт
+- **Spieltag 23: Düsseldorfer EG vs. Eisbären Regensburg** — 19:30 · PSD BANK DOME · sport — [ссылка](https://www.deg-eishockey.de/gamecenter/92eb8dadb42447eeb747807a5be1afc8/)
 - **Sebastian Knauer, Klavier | Johannes Strate, Gesang** — 21:00 · Kunstpalast · концерт — [ссылка](https://www.kunstpalast.de/de/event/sebastian-knauer-johannes-strate/?date=4.12.2026&time=21:00)
 
 ## Сб 05.12
@@ -850,7 +855,7 @@
 - **BINGO AM STRAND - die Weihnachtsedition** — 14:00 · klOnkk · событие — [ссылка](https://www.stadtstrand-duesseldorf.de/events/bingo-am-strand---die-weihnachtsedition)
 - **Martina Gedeck, Rezitation | Sebastian Knauer, Klavier** — 17:00 · Kunstpalast · концерт — [ссылка](https://www.kunstpalast.de/de/event/vorlage-ub-va-rss-tickets-demnaechst/?date=6.12.2026&time=17:00)
 - **Bad Nauheim - DEG** — 18:30 · на выезде · спорт — [ссылка](https://www.deg-eishockey.de/)
-- **DEL2: EC Bad Nauheim vs. DEG** — 18:30 · спорт
+- **Spieltag 24: EC Bad Nauheim vs. Düsseldorfer EG** — 18:30 · sport — [ссылка](https://www.deg-eishockey.de/gamecenter/b4e5597b72a793605976f6be506269cc/)
 - **Flohmarkt am Blumengroßmarkt Düsseldorf** — am Blumengro&szlig;markt · рынок — [ссылка](https://meine-flohmarkt-termine.de/flohmarkt-am-blumengrossmarkt-dusseldorf/23679623/details)
 - **Mädelsflohmarkt-Weiberkram Düsseldorf RheinRiff** — RheinRiff · рынок — [ссылка](https://meine-flohmarkt-termine.de/madelsflohmarkt-weiberkram-dusseldorf-rheinriff/23826032/details)
 
@@ -867,7 +872,7 @@
 
 - **Werk:Klub (für alle zwischen 16 und 26 Jahren)** — 15:00 · K21 · событие — [ссылка](https://www.kunstsammlung.de/de/events/workshop-werkklub-fuer-alle-zwischen-16-und-26-jahren)
 - **Kassel - DEG** — 19:30 · на выезде · спорт — [ссылка](https://www.deg-eishockey.de/)
-- **DEL2: EC Kassel Huskies vs. DEG** — 19:30 · спорт
+- **Spieltag 25: EC Kassel Huskies vs. Düsseldorfer EG** — 19:30 · sport — [ссылка](https://www.deg-eishockey.de/gamecenter/02b36aabcce1a5eb6432591f96106a42/)
 - **Candlelight: Tribut an Linkin Park** — Palais Wittgenstein · 💶 36.00 · событие — [ссылка](https://allevents.in/dusseldorf/candlelight-tribut-an-linkin-park/2700030035613938)
 
 ## Сб 12.12
@@ -904,7 +909,7 @@
 - **Werk:Klub (für alle zwischen 16 und 26 Jahren)** — 15:00 · K21 · событие — [ссылка](https://www.kunstsammlung.de/de/events/workshop-werkklub-fuer-alle-zwischen-16-und-26-jahren)
 - **Treffpunkt Museum** — 15:45 · Kunstpalast · экскурсия — [ссылка](https://www.kunstpalast.de/de/event/treffpunkt-museum-winfred-gaul-werke-aus-der-sammlung-kemp/?date=18.12.2026&time=15:45)
 - **Weiden - DEG** — 20:00 · на выезде · спорт — [ссылка](https://www.deg-eishockey.de/)
-- **DEL2: Blue Devils Weiden vs. DEG** — 20:00 · спорт
+- **Spieltag 26: Bad Tölz / Löwen Frankfurt vs. Düsseldorfer EG** — 20:00 · sport — [ссылка](https://www.deg-eishockey.de/gamecenter/04b033e361a7afd46e47bdcac25a55e4/)
 
 ## Сб 19.12
 
@@ -920,14 +925,14 @@
 
 - **Axel Milberg, Rezitation | Caspar Frantz, Klavier** — 17:00 · Kunstpalast · концерт — [ссылка](https://www.kunstpalast.de/de/event/axel-milberg-caspar-frantz/?date=20.12.2026&time=17:00)
 - **Rosenheim - DEG** — 17:00 · на выезде · спорт — [ссылка](https://www.deg-eishockey.de/)
-- **DEL2: Starbulls Rosenheim vs. DEG** — 17:00 · спорт
+- **Spieltag 27: Starbulls Rosenheim vs. Düsseldorfer EG** — 17:00 · sport — [ссылка](https://www.deg-eishockey.de/gamecenter/0bd244a0a3329c1fd9dcc911da13093d/)
 - **Melan Trödelmarkt Düsseldorf Ikea** — D&uuml;sseldorf Ikea · рынок — [ссылка](https://meine-flohmarkt-termine.de/melan-trodelmarkt-dusseldorf-ikea/23830630/details)
 
 ## Ср 23.12
 
 - **Pilates** — 18:30 · Kunstpalast · спорт — [ссылка](https://www.kunstpalast.de/de/event/pilates-gym-fit-mit-kunst/?date=23.12.2026&time=18:30)
 - **DEG - Memmingen** — 19:30 · PSD Bank Dome · спорт — [ссылка](https://www.deg-eishockey.de/)
-- **DEL2: DEG vs. ECDC Memmingen** — 19:30 · PSD BANK DOME · спорт
+- **Spieltag 28: Düsseldorfer EG vs. ECDC Memmingen** — 19:30 · PSD BANK DOME · sport — [ссылка](https://www.deg-eishockey.de/gamecenter/3cfad10e8349a8886f1c81db44b87085/)
 
 ## Чт 04.02
 
@@ -943,11 +948,11 @@
 
 ## Вс 21.03
 
-- **Fortuna-Renntag** — Galopprennbahn Düsseldorf · спорт — [ссылка](https://www.duesseldorf-galopp.de/con-termine/termine_renntage.php)
+- **Fortuna-Renntag** — Galopprennbahn Grafenberg · sport — [ссылка](https://www.duesseldorf-galopp.de/con-termine/termine_renntage.php)
 
 ## Вс 11.04
 
-- **Düsseldorf International Race Day** — Galopprennbahn Düsseldorf · спорт — [ссылка](https://www.duesseldorf-galopp.de/con-termine/termine_renntage.php)
+- **Düsseldorf International Race Day** — Galopprennbahn Grafenberg · sport — [ссылка](https://www.duesseldorf-galopp.de/con-termine/termine_renntage.php)
 
 ## Вс 18.04
 
@@ -955,7 +960,7 @@
 
 ## Сб 24.04
 
-- **Henkel-Stutenpreis** — Galopprennbahn Düsseldorf · спорт — [ссылка](https://www.duesseldorf-galopp.de/con-termine/termine_renntage.php)
+- **Henkel-Stutenpreis** — Galopprennbahn Grafenberg · sport — [ссылка](https://www.duesseldorf-galopp.de/con-termine/termine_renntage.php)
 
 ## Пт 30.04
 
@@ -963,11 +968,11 @@
 
 ## Вс 23.05
 
-- **Königsallee-Renntag** — Galopprennbahn Düsseldorf · спорт — [ссылка](https://www.duesseldorf-galopp.de/con-termine/termine_renntage.php)
+- **Königsallee-Renntag** — Galopprennbahn Grafenberg · sport — [ссылка](https://www.duesseldorf-galopp.de/con-termine/termine_renntage.php)
 
 ## Сб 19.06
 
-- **Mittsommer-Renntag** — Galopprennbahn Düsseldorf · спорт — [ссылка](https://www.duesseldorf-galopp.de/con-termine/termine_renntage.php)
+- **Mittsommer-Renntag** — Galopprennbahn Grafenberg · sport — [ссылка](https://www.duesseldorf-galopp.de/con-termine/termine_renntage.php)
 
 ## Пт 02.07
 
@@ -975,7 +980,7 @@
 
 ## Пт 16.07
 
-- **Rheinkirmes** — фестиваль — [ссылка](https://rheinkirmes-duesseldorf.de/termine-rheinkirmes/)
+- **Rheinkirmes 2027** — Rheinufer · festival — [ссылка](https://rheinkirmes-duesseldorf.de/termine-rheinkirmes/)
 
 ## Пт 23.07
 
@@ -983,19 +988,19 @@
 
 ## Вс 01.08
 
-- **Henkel-Preis der Diana** — Galopprennbahn Düsseldorf · спорт — [ссылка](https://www.duesseldorf-galopp.de/con-termine/termine_renntage.php)
+- **Henkel-Preis der Diana** — Galopprennbahn Grafenberg · sport — [ссылка](https://www.duesseldorf-galopp.de/con-termine/termine_renntage.php)
 
 ## Вс 15.08
 
-- **Großer Sparkassen-Familientag** — Galopprennbahn Düsseldorf · спорт — [ссылка](https://www.duesseldorf-galopp.de/con-termine/termine_renntage.php)
+- **Großer Sparkassen-Familientag** — Galopprennbahn Grafenberg · sport — [ссылка](https://www.duesseldorf-galopp.de/con-termine/termine_renntage.php)
 
 ## Вс 12.09
 
-- **Gourmet-Renntag** — Galopprennbahn Düsseldorf · спорт — [ссылка](https://www.duesseldorf-galopp.de/con-termine/termine_renntage.php)
+- **Gourmet-Renntag** — Galopprennbahn Grafenberg · sport — [ссылка](https://www.duesseldorf-galopp.de/con-termine/termine_renntage.php)
 
 ## Вс 10.10
 
-- **Renntag der Landeshauptstadt Düsseldorf** — Galopprennbahn Düsseldorf · спорт — [ссылка](https://www.duesseldorf-galopp.de/con-termine/termine_renntage.php)
+- **Renntag der Landeshauptstadt Düsseldorf** — Galopprennbahn Grafenberg · sport — [ссылка](https://www.duesseldorf-galopp.de/con-termine/termine_renntage.php)
 
 ## Источники
 
@@ -1033,13 +1038,13 @@
 - … Stadtmuseum: в очередь нейросети
 - … Hetjens – Deutsches Keramikmuseum: в очередь нейросети
 - … Theatermuseum: в очередь нейросети
-- ✓ Gemini (gemini-3.5-flash-lite): 131 событий из Рынок Aachener Platz, Radschlägermarkt, Prinz, D'haus (Schauspielhaus), Tonhalle, zakk, StadtStrand
-- ✓ Gemini (gemini-3.5-flash-lite): 53 событий из Mr. Düsseldorf (RSS), Borussia Düsseldorf (настольный теннис), DEG (расписание), Großveranstaltungen (город), Rheinkirmes, Скачки Grafenberg, Полиция Дюссельдорфа (пресс-релизы)
-- ✓ Gemini (gemini-3.5-flash-lite): 168 событий из Пресс-служба города, Kunstpalast, Kunstsammlung NRW (K20/K21), NRW-Forum, Aquazoo Löbbecke, Rheinbahn, Fortuna (kicker)
-- ✓ Gemini (gemini-3.5-flash-lite): 69 событий из Kunstsammlung NRW: календарь, KIT – Kunst im Tunnel, Kunsthalle Düsseldorf, Schloss Benrath, Stadtmuseum, Hetjens – Deutsches Keramikmuseum, Theatermuseum
+- ✗ Gemini: gemini-3.5-flash-lite: HTTP 503 — оставлены прошлые данные (127 событий)
+- ✓ Gemini (gemini-3.5-flash-lite): 52 событий из Mr. Düsseldorf (RSS), Borussia Düsseldorf (настольный теннис), DEG (расписание), Großveranstaltungen (город), Rheinkirmes, Скачки Grafenberg, Полиция Дюссельдорфа (пресс-релизы)
+- ✗ Gemini: gemini-3.5-flash-lite: HTTP 503 — оставлены прошлые данные (105 событий)
+- ✗ Gemini: gemini-3.5-flash-lite: HTTP 503 — оставлены прошлые данные (49 событий)
 - ✓ Ежегодные события (annual.json)
 - ✓ Autobahn: 9 перекрытий в радиусе 15 км
-- ✓ Visit Düsseldorf (toubiz): 310 событий, 353 записей на 21 дн. (пропущено экскурсий 62, дальше 20 км 0)
+- ✓ Visit Düsseldorf (toubiz): 312 событий, 357 записей на 21 дн. (пропущено экскурсий 64, дальше 20 км 0)
 - ✓ DEG (iCal): 52 матчей
 - ✓ Fortuna (OpenLigaDB, сезон 2026): 39 матчей — 3. Лига, Кубок Германии
 - · Доступные модели Flash: gemini-2.5-flash, gemini-2.5-flash-image, gemini-2.5-flash-lite, gemini-2.5-flash-native-audio-latest, gemini-2.5-flash-native-audio-preview-09-2025, gemini-2.5-flash-native-audio-preview-12-2025, gemini-2.5-flash-preview-tts, gemini-3-flash-preview, gemini-3.1-flash-image, gemini-3.1-flash-image-preview, gemini-3.1-flash-lite, gemini-3.1-flash-lite-image, gemini-3.1-flash-lite-preview, gemini-3.1-flash-live-preview, gemini-3.1-flash-tts-preview, gemini-3.5-flash, gemini-3.5-flash-lite, gemini-3.6-flash, gemini-3.7-flash, gemini-3.8-flash, gemini-3.8-flash-lite-tts, gemini-3.8-flash-tts, gemini-flash-latest, gemini-flash-lite-latest, gemini-omni-1.1-flash, gemini-omni-flash-preview
