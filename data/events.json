@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-28T09:08",
- "count": 777,
+ "generated_at": "2026-10-28T15:10",
+ "count": 679,
  "events": [
   {
    "title": "A44:  Düsseldorf -> Essen",
@@ -33,96 +33,6 @@
    "description": "Zeitraum dieser Bauphase: Beginn: 06.03.25 um 00:00 Uhr Ende: 01.04.28 um 00:00 Uhr (Ende der Gesamtmaßnahme: 01.04.28) A44: Essen -> Düsseldorf, zwischen 0.5 km hinter AS Ratingen-Schwarzbach und 2.7 km vor AS Düsseldorf-Flughafen Länge: 5",
    "source": "Autobahn GmbH",
    "traffic": true
-  },
-  {
-   "title": "Playground",
-   "date": "2026-04-25",
-   "time": "",
-   "end_date": "2027-05-09",
-   "venue": "K21",
-   "address": "Ständehausstraße 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstsammlung.de/de/exhibitions/ein-spielplatz-im-museum",
-   "category": "выставка",
-   "description": "Ein Spielplatz im Museum von Sonia Kazovsky",
-   "source": "Kunstsammlung NRW (K20/K21)",
-   "horizon_days": 120
-  },
-  {
-   "title": "Spot on: 100 Jahre GeSoLei",
-   "date": "2026-05-08",
-   "time": "",
-   "end_date": "2027-02-21",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "17 € / ermäßigt 13 €",
-   "url": "https://www.kunstpalast.de/de/event/spot-on-gesolei/",
-   "category": "выставка",
-   "description": "Spot on: 100 Jahre GeSoLei Ausstellung im Kunstpalast.",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
-   "title": "Niki de Saint Phalle. Dream Machine",
-   "date": "2026-09-10",
-   "time": "",
-   "end_date": "2027-02-07",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "17 € / ermäßigt 13 €",
-   "url": "https://www.kunstpalast.de/de/event/nikidesaintphalle/",
-   "category": "выставка",
-   "description": "Niki de Saint Phalle. Dream Machine Ausstellung im Kunstpalast.",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
-   "title": "Franz Marc",
-   "date": "2026-09-12",
-   "time": "",
-   "end_date": "2027-01-24",
-   "venue": "K20",
-   "address": "Grabbeplatz 5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstsammlung.de/de/exhibitions/franz-marc-2026",
-   "category": "выставка",
-   "description": "Die Suche nach einer besseren Welt",
-   "source": "Kunstsammlung NRW (K20/K21)",
-   "horizon_days": 120
-  },
-  {
-   "title": "ASIA POP",
-   "date": "2026-09-17",
-   "time": "",
-   "end_date": "2027-05-23",
-   "venue": "NRW-Forum",
-   "address": "Ehrenhof 2",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.nrw-forum.de/ausstellungen/asia-pop",
-   "category": "выставка",
-   "description": "Das NRW-Forum präsentiert mit ASIA POP die erste umfassende Ausstellung in Deutschland, die sich dieser Entwicklung und ihren kulturpolitischen, wirtschaftlichen und ästhetischen Einflüssen widmet.",
-   "source": "NRW-Forum",
-   "horizon_days": 120
-  },
-  {
-   "title": "Jörg Immendorff",
-   "date": "2026-09-25",
-   "time": "",
-   "end_date": "2027-01-10",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "17 € / ermäßigt 13 €",
-   "url": "https://www.kunstpalast.de/de/event/immendorff/",
-   "category": "выставка",
-   "description": "Jörg Immendorff Ausstellung im Kunstpalast.",
-   "source": "Kunstpalast",
-   "horizon_days": 120
   },
   {
    "title": "A44:  AK Meerbusch (aus Richtung Bovert)",
@@ -205,36 +115,6 @@
    "traffic": true
   },
   {
-   "title": "Julia Phillips",
-   "date": "2026-10-09",
-   "time": "",
-   "end_date": "2027-08-29",
-   "venue": "K21",
-   "address": "Ständehausstraße 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstsammlung.de/de/exhibitions/preistraeger-k21-global-art-award-2026-julia-phillips",
-   "category": "выставка",
-   "description": "Julia Phillips Preisträger K21 Global Art Award 2026.",
-   "source": "Kunstsammlung NRW (K20/K21)",
-   "horizon_days": 120
-  },
-  {
-   "title": "Winfred Gaul",
-   "date": "2026-10-15",
-   "time": "",
-   "end_date": "2027-02-07",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "17 € / ermäßigt 13 €",
-   "url": "https://www.kunstpalast.de/de/event/winfred-gaul/",
-   "category": "выставка",
-   "description": "Winfred Gaul Ausstellung im Kunstpalast.",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
    "title": "A59:  AD Düsseldorf-Süd (in Richtung Düsseldorf-Benrath)",
    "date": "2026-10-26",
    "time": "05:00",
@@ -293,20 +173,6 @@
    "end_date": ""
   },
   {
-   "title": "Altstadt Kneipentour mit allen Bier- & Kneipengeschichten auf deinem Smartphone",
-   "date": "2026-10-28",
-   "time": "10:00",
-   "end_date": "2026-10-28",
-   "venue": "Bolker Straße",
-   "address": "Bolker Straße",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/altstadt-kneipentour-mit-allen-bier-kneipengeschichten-auf-deinem-smartphone/2026-10-28/",
-   "category": "экскурсия",
-   "description": "Altstadt Kneipentour mit allen Bier- & Kneipengeschichten auf deinem Smartphone",
-   "source": "Prinz"
-  },
-  {
    "title": "Bin gleich fertig!",
    "date": "2026-10-28",
    "time": "10:00",
@@ -322,6 +188,20 @@
    "also_in": [
     "Prinz"
    ]
+  },
+  {
+   "title": "Altstadt Kneipentour mit allen Bier- & Kneipengeschichten auf deinem Smartphone",
+   "date": "2026-10-28",
+   "time": "10:00",
+   "end_date": "2026-10-28",
+   "venue": "Bolker Straße",
+   "address": "Bolker Straße",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://prinz.de/events/altstadt-kneipentour-mit-allen-bier-kneipengeschichten-auf-deinem-smartphone/2026-10-28/",
+   "category": "экскурсия",
+   "description": "Altstadt Kneipentour mit allen Bier- & Kneipengeschichten auf deinem Smartphone",
+   "source": "Prinz"
   },
   {
    "title": "»Gemalte Gebete«. Bedrohte Wandmalereien in Synagogen der ukrainischen Bukowina",
@@ -534,7 +414,8 @@
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
     "Visit Düsseldorf",
-    "Prinz"
+    "Prinz",
+    "Visit Düsseldorf"
    ]
   },
   {
@@ -677,6 +558,7 @@
    "description": "Comedyflash – Die Stand Up Comedy Show in Düsseldorf",
    "source": "Prinz",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -751,33 +633,18 @@
    "end_date": ""
   },
   {
-   "title": "Alles Kunst?! Von Aldi bis Rubens",
+   "title": "Horror Halloween Week",
    "date": "2026-10-28",
    "time": "",
-   "end_date": "2027-02-25",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "17 € / ermäßigt 13 €",
-   "url": "https://www.kunstpalast.de/de/event/alles-kunst/",
-   "category": "выставка",
-   "description": "Alles Kunst?! Von Aldi bis Rubens Ausstellung in der Sammlung des Kunstpalasts.",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
-   "title": "Kreuzung Marbacher Straße/Kappeler Straße: Umbau für mehr Schulwegsicherheit",
-   "date": "2026-10-28",
-   "time": "",
-   "end_date": "2026-12-31",
-   "venue": "Kreuzung Marbacher Straße/Kappeler Straße",
-   "address": "",
+   "end_date": "2026-10-31",
+   "venue": "Kasematten Düsseldorf",
+   "address": "Untere Rheinwerft",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.duesseldorf.de/medienportal/pressedienst-einzelansicht/pld/kreuzung-marbacher-strasse-kappeler-strasse-umbau-fuer-mehr-schulwegsicherheit",
-   "category": "важное",
-   "description": "Die Landeshauptstadt Düsseldorf baut die Kreuzung Marbacher Straße/Kappeler Straße im Zusammenhang mit dem neuen Schulcampus an der Benrodestraße/Marbacher Straße um.",
-   "source": "Пресс-служба города"
+   "url": "https://kasematten-duesseldorf.de/26-31-10-26-horror-halloween-week/",
+   "category": "vecherynika",
+   "description": "Direkt an der Promenade wird eine Woche lang gefeiert, getanzt und angestoßen – mit Blick auf den Rhein und die Skyline.",
+   "source": "Mr. Düsseldorf (RSS)"
   },
   {
    "title": "Waffen der Tiere",
@@ -1158,20 +1025,6 @@
    "end_date": "2026-11-16"
   },
   {
-   "title": "Ivan Geddert: Spatenprobe",
-   "venue": "BLOOM",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.bloomduesseldorf.de/",
-   "category": "выставка",
-   "description": "Die Ausstellung versammelt eine Auswahl neuer skulpturaler Arbeiten des in Berlin lebenden und arbeitenden Künstlers Ivan Geddert.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-28",
-   "time": "",
-   "end_date": "2026-11-14"
-  },
-  {
    "title": "Raus ins Museum! Rein in Deine Sammlung",
    "venue": "K20 Kunstsammlung Nordrhein-Westfalen",
    "address": "",
@@ -1240,20 +1093,6 @@
    "date": "2026-10-28",
    "time": "",
    "end_date": "2027-05-23"
-  },
-  {
-   "title": "Kaiserswerther Diakonie zeigt Werke von Walter Liggesmeyer",
-   "venue": "K3",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Die E.ON Art Collection übergibt der Kaiserswerther Diakonie 45 Gemälde von Walter Liggesmeyer (1938–2017).",
-   "source": "Visit Düsseldorf",
-   "date": "2026-10-28",
-   "time": "",
-   "end_date": "2026-12-31"
   },
   {
    "title": "Leise rieselt der Schmäh - Wiener Kaffeehausgeschichten",
@@ -1510,21 +1349,6 @@
    "source": "D'haus (Schauspielhaus)"
   },
   {
-   "title": "Visual Arts Yoga",
-   "date": "2026-10-29",
-   "time": "19:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/oeffentliche-fuehrung-visual-arts-yoga/?date=29.10.2026&time=19:00",
-   "category": "спорт",
-   "description": "Gesundheit stärken, Kunst erleben",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
    "title": "Der Ball ist rund – Fußballgedichte in Facetten",
    "venue": "Heinrich-Heine-Institut",
    "address": "",
@@ -1608,6 +1432,7 @@
    "description": "von Kim de l’Horizon nach einer Fassung und Inszenierung von Sebastian Schug",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -1736,6 +1561,20 @@
    "date": "2026-10-29",
    "time": "",
    "end_date": "2026-11-13"
+  },
+  {
+   "title": "Kaiserswerther Diakonie zeigt Werke von Walter Liggesmeyer",
+   "venue": "K3",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Die E.ON Art Collection übergibt der Kaiserswerther Diakonie 45 Gemälde von Walter Liggesmeyer (1938–2017).",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-29",
+   "time": "",
+   "end_date": "2026-12-31"
   },
   {
    "title": "Don’t Look Back. Der Kom(m)ödchen Jahresvor- und Rückblick",
@@ -1869,36 +1708,6 @@
    "end_date": ""
   },
   {
-   "title": "Taschenlampenführung für Familien",
-   "date": "2026-10-30",
-   "time": "18:15",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/taschenlampenfuehrung-fuer-familien-joerg-immendorff/?date=30.10.2026&time=18:15",
-   "category": "экскурсия",
-   "description": "Immendorff",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
-   "title": "Taschenlampenführung für Erwachsene",
-   "date": "2026-10-30",
-   "time": "18:45",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/taschenlampenfuehrung-fuer-erwachsene-joerg-immendorff/?date=30.10.2026&time=18:45",
-   "category": "экскурсия",
-   "description": "Immendorff",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
    "title": "FANNY UND ALEXANDER",
    "date": "2026-10-30",
    "time": "19:00",
@@ -1912,6 +1721,7 @@
    "description": "von Ingmar Bergman Regie Thorleifur Örn Arnarsson",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -1929,6 +1739,7 @@
    "description": "von Takao Baba & Ensemble frei nach dem Film Die sieben Samurai von Akira Kurosawa Regie Takao Baba",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -2004,8 +1815,23 @@
    "description": "von Anton Tschechow Regie Barbara Frey",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
+  },
+  {
+   "title": "DEG vs. ECK",
+   "date": "2026-10-30",
+   "time": "19:30",
+   "end_date": "",
+   "venue": "PSD BANK DOME",
+   "address": "Tensestraße",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/gamecenter/b5d59ba5af1e2e40bc14020420a7d090/",
+   "category": "sport",
+   "description": "DEL2 Spiel",
+   "source": "DEG"
   },
   {
    "title": "DEG - Kassel",
@@ -2022,20 +1848,6 @@
    "source": "DEG iCal",
    "team": "DEG",
    "away": false
-  },
-  {
-   "title": "Spieltag 13: Düsseldorfer EG vs. EC Kassel Huskies",
-   "date": "2026-10-30",
-   "time": "19:30",
-   "end_date": "",
-   "venue": "PSD BANK DOME",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/b5d59ba5af1e2e40bc14020420a7d090/",
-   "category": "sport",
-   "description": "DEL2 Spieltag",
-   "source": "DEG"
   },
   {
    "title": "Eishockey: Düsseldorfer EG - EC Kassel Huskies",
@@ -2164,21 +1976,6 @@
    "date": "2026-10-30",
    "time": "20:00",
    "end_date": ""
-  },
-  {
-   "title": "Rame Lahaj & Arma Ensemble",
-   "date": "2026-10-30",
-   "time": "20:30",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/rame-lahaj/?date=30.10.2026&time=20:30",
-   "category": "концерт",
-   "description": "International Tour „Passion & Origin“",
-   "source": "Kunstpalast",
-   "horizon_days": 120
   },
   {
    "title": "Rame Lahaj & Virtuosi Orchestra",
@@ -2327,6 +2124,20 @@
    "end_date": "2026-11-14"
   },
   {
+   "title": "Ivan Geddert: Spatenprobe",
+   "venue": "BLOOM",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.bloomduesseldorf.de/",
+   "category": "выставка",
+   "description": "Die Ausstellung versammelt eine Auswahl neuer skulpturaler Arbeiten des in Berlin lebenden und arbeitenden Künstlers Ivan Geddert.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-10-30",
+   "time": "",
+   "end_date": "2026-11-14"
+  },
+  {
    "title": "Ballett am Rhein: Forsythe/Eyal",
    "venue": "Deutsche Oper am Rhein",
    "address": "",
@@ -2468,20 +2279,6 @@
    "end_date": ""
   },
   {
-   "title": "Blue Rose New Orleans Jazzband",
-   "date": "2026-10-31",
-   "time": "11:30",
-   "end_date": "2026-10-31",
-   "venue": "Antik- und Trödelzelt am Aachener Platz",
-   "address": "Aachener Platz",
-   "locality": "Düsseldorf",
-   "price": "frei",
-   "url": "https://www.troedelmarkt-aachenerplatz.de/musikprogramm/2026-10-31-blue-rose-new-orleans-jazzband/",
-   "category": "konzert",
-   "description": "Vintage Jazz mit Blue Rose New Orleans Jazzband am Sa, 31.10.2026 in unserem Antik- und Trödelzelt am Aachener Platz.",
-   "source": "Rынок Aachener Platz"
-  },
-  {
    "title": "Repair Café",
    "venue": "Zentralbibliothek im KAP1",
    "address": "",
@@ -2503,11 +2300,11 @@
    "venue": "Vino Tinto & Friends",
    "address": "Bagelstraße 124",
    "locality": "Düsseldorf",
-   "price": "Eintritt frei",
+   "price": "frei",
    "url": "https://www.mrduesseldorf.de/happy-halloween-duesseldorf-2026/",
-   "category": "vechiretska",
+   "category": "vecherynika",
    "description": "Die beliebte Düsseldorfer Daydrinking-Eventreihe ist zurück im Vino Tinto & Friends in Pempelfort.",
-   "source": "Mr. Düsseldorf"
+   "source": "Mr. Düsseldorf (RSS)"
   },
   {
    "title": "Mitsingkonzert \"Geh aus mein Herz und suche Freud ....\" - 350 Jahre Paul Gerhardt",
@@ -2624,7 +2421,7 @@
    "end_date": ""
   },
   {
-   "title": "KD Ghostship",
+   "title": "Ghostship @ KD Partyschiff",
    "date": "2026-10-31",
    "time": "19:00",
    "end_date": "2026-10-31",
@@ -2633,37 +2430,37 @@
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.k-d.com/produkt/ghost-ship/",
-   "category": "vechiretska",
-   "description": "Wenn Zombies, Vampire und andere Schauergestalten das KD Partyschiff entern, dann ist es wieder soweit: Spooky Halloween in Düsseldorf, genauer gesagt über den Untiefen des Rheins.",
-   "source": "Mr. Düsseldorf"
+   "category": "vecherynika",
+   "description": "Wenn Zombies, Vampire und andere Schauergestalten das KD Partyschiff entern, dann ist es wieder soweit: Spooky Halloween in Düsseldorf.",
+   "source": "Mr. Düsseldorf (RSS)"
   },
   {
-   "title": "Tanz der Kreaturen über den Wolken",
+   "title": "Tanz der Kreaturen über den Wolken @ Otto’s Skybar",
    "date": "2026-10-31",
    "time": "19:00",
    "end_date": "",
-   "venue": "Lindner Hotel Düsseldorf Seestern (Otto’s Skybar)",
+   "venue": "Lindner Hotel Düsseldorf Seestern",
    "address": "Lütticher Straße 130",
    "locality": "Düsseldorf",
-   "price": "Eintritt frei",
+   "price": "frei",
    "url": "https://www.hyattrestaurants.com/de/dusseldorf/restaurant/ottos-skybar/events/dance-of-the-creatures-above-the-clouds",
-   "category": "vechiretska",
+   "category": "vecherynika",
    "description": "In der Otto’s Skybar erwartet dich eine Party über den Dächern der Stadt.",
-   "source": "Mr. Düsseldorf"
+   "source": "Mr. Düsseldorf (RSS)"
   },
   {
-   "title": "Halloween Ü40",
+   "title": "Halloween Ü40 @ Chapiteau",
    "date": "2026-10-31",
    "time": "19:00",
    "end_date": "",
-   "venue": "Event-Zelt Chapiteau",
+   "venue": "Chapiteau",
    "address": "Flinger Broich 70",
    "locality": "Düsseldorf",
    "price": "10 €",
    "url": "https://chapiteau-duesseldorf.de/events/halloween-party-eintritt/",
-   "category": "vechiretska",
+   "category": "vecherynika",
    "description": "Für mondsüchtige Midager steigt die Ü40 Halloween-Party im Event-Zelt Chapiteau in Düsseldorf.",
-   "source": "Mr. Düsseldorf"
+   "source": "Mr. Düsseldorf (RSS)"
   },
   {
    "title": "Halloween auf dem Rhein",
@@ -2675,9 +2472,9 @@
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.eventim-light.com/de/a/6336dfde52067d67e8f296c2/e/69dc93c2033faf7a4fb2a49e?lang=de",
-   "category": "vechiretska",
+   "category": "vecherynika",
    "description": "Feiere Halloween in Düsseldorf auf dem Rhein und erlebe eine einzigartige Party auf der MS RheinFantasie.",
-   "source": "Mr. Düsseldorf"
+   "source": "Mr. Düsseldorf (RSS)"
   },
   {
    "title": "Die Helene-Fischer-Show",
@@ -2787,9 +2584,9 @@
    "locality": "Düsseldorf",
    "price": "11,34 €",
    "url": "https://www.brauhaus-alterbahnhof.de/seite/events-events",
-   "category": "vechiretska",
+   "category": "vecherynika",
    "description": "Am 31. Oktober wird die Location zum Schauplatz einer gruseligen Nacht voller Spaß und Spannung.",
-   "source": "Mr. Düsseldorf"
+   "source": "Mr. Düsseldorf (RSS)"
   },
   {
    "title": "Es ist wieder ... Halloween - Geschichten zum Gruseln, Schaudern und Bibbern",
@@ -2866,14 +2663,28 @@
    "date": "2026-10-31",
    "time": "21:00",
    "end_date": "",
-   "venue": "Rheinturm / Nachtresidenz",
+   "venue": "Rheinturm & Nachtresidenz",
    "address": "Stromstraße 20 / Bahnstraße 13-15",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://nachtresidenz.ticket.io/6i7Izq8y/",
-   "category": "vechiretska",
+   "category": "vecherynika",
    "description": "Mit der „größten Halloween Party in Düsseldorf“ lockt die Nachtresidenz, die sich für den 31.10.2026 keine geringere Location als den Rheinturm im Medienhafen mit ins Boot geholt hat.",
-   "source": "Mr. Düsseldorf"
+   "source": "Mr. Düsseldorf (RSS)"
+  },
+  {
+   "title": "Hawā Halloween am Flughafen",
+   "date": "2026-10-31",
+   "time": "21:00",
+   "end_date": "",
+   "venue": "Flughafen Düsseldorf",
+   "address": "Flughafenstraße",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://hawa.ticket.io/vzNFU2Af/?lang=de",
+   "category": "vecherynika",
+   "description": "Hawā lädt zum vierten mal ein und verwandelt den Flughafen Bahnhof für eine die Nacht in eine spektakuläre Indoor-Party.",
+   "source": "Mr. Düsseldorf (RSS)"
   },
   {
    "title": "zakk vs. Zombies!",
@@ -2885,23 +2696,9 @@
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://zakk.de/event-detail?event=16257",
-   "category": "vechiretska",
+   "category": "vecherynika",
    "description": "Halloween in Düsseldorf wird im zakk richtig rockig!",
-   "source": "Mr. Düsseldorf"
-  },
-  {
-   "title": "Hawā Halloween",
-   "date": "2026-10-31",
-   "time": "21:00",
-   "end_date": "",
-   "venue": "Flughafen Düsseldorf",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://hawa.ticket.io/vzNFU2Af/?lang=de",
-   "category": "vechiretska",
-   "description": "Hawā lädt zum vierten mal ein und verwandelt den Flughafen Bahnhof für eine die Nacht in eine spektakuläre Indoor-Party.",
-   "source": "Mr. Düsseldorf"
+   "source": "Mr. Düsseldorf (RSS)"
   },
   {
    "title": "I Love 80’s & I Love 90’s Halloween-Party",
@@ -2913,9 +2710,9 @@
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://stahlwerk.de/event/halloween-party",
-   "category": "vechiretska",
+   "category": "vecherynika",
    "description": "Im Stahlwerk erwartet dich die perfekte Mischung aus Grusel und Nostalgie!",
-   "source": "Mr. Düsseldorf"
+   "source": "Mr. Düsseldorf (RSS)"
   },
   {
    "title": "HALLOWEEN @ Rudas Studio",
@@ -2927,9 +2724,9 @@
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.candy-event.de/events/halloween-duesseldorf/",
-   "category": "vechiretska",
+   "category": "vecherynika",
    "description": "Die Halloween Party im Rudas gehört längst zu den festen Halloween Traditionen in Düsseldorf und ist wie in jedem Jahr ein absolutes Halloween-Highlight.",
-   "source": "Mr. Düsseldorf"
+   "source": "Mr. Düsseldorf (RSS)"
   },
   {
    "title": "The Halloween Night @ 102 Club",
@@ -2941,9 +2738,9 @@
    "locality": "Neuss",
    "price": "",
    "url": "https://102.ticket.io/D9e17QsK/?redirectFromEventInPast=1",
-   "category": "vechiretska",
+   "category": "vecherynika",
    "description": "Die legendäre HALLOWEEN-Nacht im 102 Club in Neuss ist zurück und ich kann dir garantieren: Es wird wieder wild!",
-   "source": "Mr. Düsseldorf"
+   "source": "Mr. Düsseldorf (RSS)"
   },
   {
    "title": "GLAM BANG! Halloween Party",
@@ -2955,9 +2752,9 @@
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://nbk.ticket.io/2hC0AfSZ/?lang=de",
-   "category": "vechiretska",
+   "category": "vecherynika",
    "description": "Freu dich bei GLAM BANG! im Ratinger Hof auf eine queere Halloween Party in Düsseldorf.",
-   "source": "Mr. Düsseldorf"
+   "source": "Mr. Düsseldorf (RSS)"
   },
   {
    "title": "Purgatory: Halloween Edition 3",
@@ -3009,6 +2806,7 @@
    "description": "zakk vs. Zombies",
    "source": "zakk",
    "also_in": [
+    "allevents: все",
     "allevents: все"
    ]
   },
@@ -3252,6 +3050,7 @@
    "description": "von Wajdi Mouawad Regie Bassam Ghazi",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -3269,6 +3068,7 @@
    "description": "von Gregory Caers und Ensemble Regie Gregory Caers",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -3287,22 +3087,18 @@
    "end_date": ""
   },
   {
-   "title": "Julia Jäger | Matthias Habich",
+   "title": "DEG vs. EPC",
    "date": "2026-11-01",
    "time": "17:00",
    "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
+   "venue": "PSD BANK DOME",
+   "address": "Tensestraße",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.kunstpalast.de/de/event/julia-jaeger-matthias-habich/?date=1.11.2026&time=17:00",
-   "category": "театр",
-   "description": "Lesung",
-   "source": "Kunstpalast",
-   "horizon_days": 120,
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
+   "url": "https://www.deg-eishockey.de/gamecenter/a73df7e28c2dcfa87581a413fda152e8/",
+   "category": "sport",
+   "description": "DEL2 Spiel",
+   "source": "DEG"
   },
   {
    "title": "Crimmitschau - DEG",
@@ -3335,18 +3131,18 @@
    "end_date": ""
   },
   {
-   "title": "Spieltag 14: Eispiraten Crimmitschau vs. Düsseldorfer EG",
+   "title": "Lesung - Julia Jäger & Matthias Habich",
+   "venue": "Robert-Schumann-Saal",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.westticket.de/eventseries/4132538?affiliate=5VD",
+   "category": "лекция",
+   "description": "Sathyan Ramesh: Lélé - Alles beginnt mit einem Dankesbrief: Ein älterer Witwer schreibt an die Absenderin eines maßgefertigten Hundehalsbands, das er im Internet bestellt hatte.",
+   "source": "Visit Düsseldorf",
    "date": "2026-11-01",
    "time": "17:00",
-   "end_date": "",
-   "venue": "",
-   "address": "",
-   "locality": "Crimmitschau",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/a73df7e28c2dcfa87581a413fda152e8/",
-   "category": "sport",
-   "description": "DEL2 Spieltag",
-   "source": "DEG"
+   "end_date": ""
   },
   {
    "title": "INTER ALIA",
@@ -3464,7 +3260,7 @@
    "title": "The Jury Experience – Der 20-Millionen-Dollar-Raub",
    "date": "2026-11-01",
    "time": "",
-   "end_date": "2027-02-13",
+   "end_date": "",
    "venue": "Capitol Theater",
    "address": "Erkrather Str. 30, Düsseldorf-Stadtbezirk 3// 40233, Dusseldorf",
    "locality": "Dusseldorf",
@@ -3555,22 +3351,9 @@
    "description": "von Gregory Caers und Ensemble Regie Gregory Caers",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
-  },
-  {
-   "title": "Haupt- und Finanzausschuss tagt am 2. November im Rathaus",
-   "date": "2026-11-02",
-   "time": "16:00",
-   "end_date": "",
-   "venue": "Rathaus",
-   "address": "Marktplatz 2",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.duesseldorf.de/medienportal/pressedienst-einzelansicht/pld/haupt-und-finanzausschuss-tagt-am-2-november-im-rathaus",
-   "category": "важное",
-   "description": "Der Haupt- und Finanzausschuss kommt am Montag, 2. November 2026, 16 Uhr, im Plenarsaal des Rathauses, Marktplatz 2, zu seiner nächsten Sitzung zusammen.",
-   "source": "Пресс-служба города"
   },
   {
    "title": "Ferire per amare – verletzen, um zu lieben",
@@ -3728,6 +3511,7 @@
    "description": "von Gregory Caers und Ensemble Regie Gregory Caers",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -3745,6 +3529,7 @@
    "description": "von Takao Baba & Ensemble frei nach dem Film Die sieben Samurai von Akira Kurosawa Regie Takao Baba",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -3761,35 +3546,6 @@
    "date": "2026-11-03",
    "time": "14:00",
    "end_date": ""
-  },
-  {
-   "title": "Palastplausch",
-   "date": "2026-11-03",
-   "time": "14:45",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/palastplausch-geschichte-der-glaskunst/?date=3.11.2026&time=14:45",
-   "category": "событие",
-   "description": "Gespräche bei Kunst, Kaffee und Kuchen",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
-   "title": "Gleichstellungsausschuss tagt am 3. November",
-   "date": "2026-11-03",
-   "time": "16:00",
-   "end_date": "",
-   "venue": "Rathaus",
-   "address": "Marktplatz 2",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.duesseldorf.de/medienportal/pressedienst-einzelansicht/pld/gleichstellungsausschuss-tagt-am-3-november",
-   "category": "важное",
-   "description": "Der Ausschuss für Gleichstellung und Antidiskriminierung kommt am Dienstag, 3. November 2026, um 16 Uhr im Rathaus, Marktplatz 2, Sitzungssaal 1. Obergeschoss, zu seiner nächsten Sitzung zusammen.",
-   "source": "Пресс-служба города"
   },
   {
    "title": "Hauptsache singen!",
@@ -4055,35 +3811,6 @@
    "end_date": ""
   },
   {
-   "title": "BELVEDERE-GESPRÄCH",
-   "date": "2026-11-04",
-   "time": "18:30",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/belvedere-gespraech-150-jahre-henkel-mit-dr-bagel-trah/?date=4.11.2026&time=18:30",
-   "category": "событие",
-   "description": "150 Jahre HENKEL mit Dr. Bagel-Trah",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
-   "title": "\"Sag mal ehrlich\": Wie Gespräche über den Klimawandel gelingen können",
-   "date": "2026-11-04",
-   "time": "18:30",
-   "end_date": "",
-   "venue": "Bürgerhaus Salzmannbau",
-   "address": "Himmelgeister Straße 107h",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.duesseldorf.de/medienportal/pressedienst-einzelansicht/pld/sag-mal-ehrlich-wie-gespraeche-ueber-den-klimawandel-gelingen-koennen",
-   "category": "событие",
-   "description": "Wie können Gespräche über den Klimawandel gelingen, ohne dass unterschiedliche Meinungen zum Streit führen?",
-   "source": "Пресс-служба города"
-  },
-  {
    "title": "_Open House Workshop: Change and the Given. Rollenspiel-Session im Playground für Erwachsene",
    "date": "2026-11-04",
    "time": "19:00",
@@ -4309,6 +4036,20 @@
    "end_date": "2026-11-28"
   },
   {
+   "title": "Farbwelten",
+   "venue": "DRK „zentrum plus“ Friedrichstadt",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Farbwelten sind mehr als Farben: Sie übermitteln Gefühle und Stimmungen und entspringen dem Inneren – wie die Worte eines Gedichtes.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-04",
+   "time": "",
+   "end_date": "2027-02-26"
+  },
+  {
    "title": "1984 – Dystopie 2.0",
    "date": "2026-11-05",
    "time": "11:00",
@@ -4322,6 +4063,7 @@
    "description": "von Kim Langner nach dem Roman von George Orwell Regie Katharina Birch",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -4339,6 +4081,7 @@
    "description": "Enthüllung der Skulptur mit Stephan Keller, Oberbürgermeister der Landeshauptstadt Düsseldorf und einem Come-together der Freunde des Kunstpalasts und des Düsseldorfer Schauspielhauses (fds)",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -4401,35 +4144,6 @@
    "horizon_days": 21
   },
   {
-   "title": "Startschuss für GYM",
-   "date": "2026-11-05",
-   "time": "18:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/afterworkout-gym-fit-mit-kunst-2/?date=5.11.2026&time=18:00",
-   "category": "спорт",
-   "description": "GYM. Fit mit Kunst",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
-   "title": "Filmabend mit anschließender Diskussion im Bürgerhaus Salzmannbau",
-   "date": "2026-11-05",
-   "time": "18:30",
-   "end_date": "",
-   "venue": "Bürgerhaus Salzmannbau",
-   "address": "Himmelgeister Straße 107h",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.duesseldorf.de/medienportal/pressedienst-einzelansicht/pld/filmabend-mit-anschliessender-diskussion-im-buergerhaus-salzmannbau",
-   "category": " событие",
-   "description": "Greenpeace Düsseldorf und das Bürgerhaus Salzmannbau laden am Donnerstag, 5. November 2026, um 18.30 Uhr zu der Filmvorführung \"High Noon - Europa im Energierausch\" in den barrierefreien Saal des Bürgerhauses , Himmelgeister Straße 107h, ein.",
-   "source": "Пресс-служба города"
-  },
-  {
    "title": "Forschung im Fokus: Sprachen als Geheimniswahrer",
    "venue": "Haus der Universität",
    "address": "",
@@ -4485,6 +4199,7 @@
    "description": "von Alice Birch nach Federico García Lorca Regie Lucia Bihler",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -4545,24 +4260,6 @@
    "end_date": ""
   },
   {
-   "title": "GYM. Fit mit Kunst",
-   "date": "2026-11-05",
-   "time": "",
-   "end_date": "2027-02-21",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "17 € / ermäßigt 13 €",
-   "url": "https://www.kunstpalast.de/de/event/gym/",
-   "category": "выставка",
-   "description": "GYM. Fit mit Kunst Ausstellung im Kunstpalast.",
-   "source": "Kunstpalast",
-   "horizon_days": 120,
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
-  },
-  {
    "title": "China verstehen I",
    "date": "2026-11-05",
    "time": "",
@@ -4589,6 +4286,20 @@
    "category": "событие",
    "description": "Über Künstliche Intelligenz, Rassismus und Antisemitismus",
    "source": "zakk"
+  },
+  {
+   "title": "GYM. Fit mit Kunst",
+   "venue": "Kunstpalast",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Die Sammlung des Kunstpalastes ist stets in Bewegung – im wahrsten Sinne des Wortes: Zum Jubiläum der GeSoLei zieht ein Sportparcours in den Sammlungsrundgang ein.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-05",
+   "time": "",
+   "end_date": "2027-02-21"
   },
   {
    "title": "Fototage",
@@ -4618,6 +4329,7 @@
    "description": "von Kim Langner nach dem Roman von George Orwell Regie Katharina Birch",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -4650,21 +4362,6 @@
    "description": "In regelmäßigem Wechsel werden verschiedene Drucktechniken erprobt.",
    "source": "Kunstsammlung NRW: календарь",
    "horizon_days": 21
-  },
-  {
-   "title": "K20 Druckwerkstatt",
-   "date": "2026-11-06",
-   "time": "15:00",
-   "end_date": "",
-   "venue": "K20",
-   "address": "Grabbeplatz 5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstsammlung.de/de/events/k20-druckwerkstatt",
-   "category": "детям",
-   "description": "Workshop",
-   "source": "Kunstsammlung NRW (K20/K21)",
-   "horizon_days": 120
   },
   {
    "title": "K21 Kleines Studio XL: Kunst-Werkstatt für Kinder",
@@ -4781,24 +4478,6 @@
    "end_date": ""
   },
   {
-   "title": "Eine Hommage an Ludovico Einaudi",
-   "date": "2026-11-06",
-   "time": "20:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/hommage-an-ludovico-eindaudi/?date=6.11.2026&time=20:00",
-   "category": "концерт",
-   "description": "Klavierwerke von Ludovico Einaudi interpretiert von Burak Çebi",
-   "source": "Kunstpalast",
-   "horizon_days": 120,
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
-  },
-  {
    "title": "EIN ÜBERTRITT (ALLES AUF ENDE)",
    "date": "2026-11-06",
    "time": "20:00",
@@ -4905,6 +4584,20 @@
    "url": "https://tanzhaus-nrw.de/de/veranstaltung/2026/11/angels-of-anarchy",
    "category": "театр",
    "description": "Zentimeter um Zentimeter / wird die Grenze verschoben.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-06",
+   "time": "20:00",
+   "end_date": ""
+  },
+  {
+   "title": "Eine Hommage an Ludovico Einaudi",
+   "venue": "Robert-Schumann-Saal",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.westticket.de/eventseries/3328485?affiliate=5VD",
+   "category": "концерт",
+   "description": "Tauchen Sie ein in die gefühlvolle Welt der Klänge von Ludovico Einaudi, einem der bedeutendsten und meistgehörten Komponisten der Klassik und Neoklassik.",
    "source": "Visit Düsseldorf",
    "date": "2026-11-06",
    "time": "20:00",
@@ -5263,21 +4956,6 @@
    "end_date": ""
   },
   {
-   "title": "Auf den Spuren von Jörg Immendorff",
-   "date": "2026-11-07",
-   "time": "11:15",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/auf-den-spuren-von-joerg-immendorff-stadtrundgang-durch-duesseldorf/?date=7.11.2026&time=11:15",
-   "category": "экскурсия",
-   "description": "Stadtrundgang durch Düsseldorf",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
    "title": "K20 Achtsamkeitsworkshop: Stille Wahrnehmung. Sehen als Erfahrung",
    "date": "2026-11-07",
    "time": "11:30",
@@ -5314,21 +4992,6 @@
    ]
   },
   {
-   "title": "HIIT",
-   "date": "2026-11-07",
-   "time": "11:30",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/hiit-gym-fit-mit-kunst/?date=7.11.2026&time=11:30",
-   "category": "спорт",
-   "description": "GYM. Fit mit Kunst",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
    "title": "Offener Familienworkshop im Playground",
    "date": "2026-11-07",
    "time": "12:00",
@@ -5345,36 +5008,6 @@
    "also_in": [
     "Kunstsammlung NRW: календарь"
    ]
-  },
-  {
-   "title": "Familienführung",
-   "date": "2026-11-07",
-   "time": "13:45",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/familienfuehrung-joerg-immendorff/?date=7.11.2026&time=13:45",
-   "category": "экскурсия",
-   "description": "Immendorff",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
-   "title": "Barre",
-   "date": "2026-11-07",
-   "time": "14:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/barre-gym-fit-mit-kunst/?date=7.11.2026&time=14:00",
-   "category": "спорт",
-   "description": "GYM. Fit mit Kunst",
-   "source": "Kunstpalast",
-   "horizon_days": 120
   },
   {
    "title": "FC Ingolstadt 04 — Fortuna",
@@ -5533,6 +5166,7 @@
    "description": "von Daniel Kehlmann Regie André Kaczmarczyk",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -5745,8 +5379,7 @@
    "description": "",
    "source": "allevents: все",
    "also_in": [
-    "allevents: все",
-    "allevents: живая музыка"
+    "allevents: все"
    ]
   },
   {
@@ -5934,21 +5567,6 @@
    "horizon_days": 21
   },
   {
-   "title": "インメンドルフズ・クリスマス / Immendorff’s Christmas",
-   "date": "2026-11-08",
-   "time": "14:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/familienworkshop-auf-japanisch-joerg-immendorff/?date=8.11.2026&time=14:00",
-   "category": "детям",
-   "description": "ファミリー・ワークショップ / Japanischer Familienworkshop",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
    "title": "Ausstellungsführung: Franz Marc",
    "date": "2026-11-08",
    "time": "15:00",
@@ -6035,6 +5653,7 @@
    "description": "von Ingmar Bergman Regie Thorleifur Örn Arnarsson",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -6052,6 +5671,7 @@
    "description": "von Marc-Uwe Kling und Astrid Henn Regie Philipp Alfons Heitmann, Matts Johan Leenders",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -6083,21 +5703,6 @@
    "date": "2026-11-08",
    "time": "16:00",
    "end_date": ""
-  },
-  {
-   "title": "Sabin Tambrea, Rezitation | Guadagnini Trio",
-   "date": "2026-11-08",
-   "time": "17:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/sabin-tambrea/?date=8.11.2026&time=17:00",
-   "category": "концерт",
-   "description": "Zweiklang! Wort und Musik",
-   "source": "Kunstpalast",
-   "horizon_days": 120
   },
   {
    "title": "Zweiklang! Wort und Musik - Sabin Tambrea, Rezitation & Guadagnini Trio",
@@ -6141,6 +5746,7 @@
    "description": "Ein Schauspiel von Heinrich von Kleist Regie Ulrich Rasche",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -6250,17 +5856,18 @@
    "title": "Candlelight: Queen vs. ABBA",
    "date": "2026-11-08",
    "time": "",
-   "end_date": "2026-11-08",
-   "venue": "Palais Wittgenstein",
-   "address": "Bilker Straße 7-9, Düsseldorf-Stadtbezirk 1// 40213, Dusseldorf",
+   "end_date": "",
+   "venue": "Event-Theater Schwanenhöfe",
+   "address": "Erkrather Straße 234b, Düsseldorf// 40233, Dusseldorf",
    "locality": "Dusseldorf",
-   "price": "32.00",
-   "url": "https://allevents.in/dusseldorf/candlelight-queen-vs-abba/2700030035615407",
+   "price": "40.50",
+   "url": "https://allevents.in/dusseldorf/candlelight-queen-vs-abba/2700026402373450",
    "category": "событие",
    "description": "",
    "source": "allevents: все",
    "also_in": [
-    "allevents: все"
+    "allevents: все",
+    "allevents: живая музыка"
    ]
   },
   {
@@ -6523,21 +6130,6 @@
    "source": "D'haus (Schauspielhaus)"
   },
   {
-   "title": "Visual Arts Yoga",
-   "date": "2026-11-10",
-   "time": "16:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/oeffentliche-fuehrung-visual-arts-yoga/?date=10.11.2026&time=16:00",
-   "category": "спорт",
-   "description": "Gesundheit stärken, Kunst erleben",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
    "title": "100 Jahre GeSoLei - Impressionen einer Ausstellung",
    "venue": "Zentralbibliothek im KAP1",
    "address": "",
@@ -6655,21 +6247,6 @@
    "source": "D'haus (Schauspielhaus)"
   },
   {
-   "title": "Pilates",
-   "date": "2026-11-11",
-   "time": "18:30",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/pilates-gym-fit-mit-kunst/?date=11.11.2026&time=18:30",
-   "category": "спорт",
-   "description": "GYM. Fit mit Kunst",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
    "title": "Freestyle Session Space",
    "date": "2026-11-11",
    "time": "19:00",
@@ -6726,18 +6303,22 @@
    "source": "D'haus (Schauspielhaus)"
   },
   {
-   "title": "Mireille Mathieu - Good Bye My Love Goodbye",
-   "venue": "Tonhalle Düsseldorf",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.westticket.de/eventseries/3914964?affiliate=5VD",
-   "category": "концерт",
-   "description": "Mireille Mathieu ist ein kulturelles Phänomen – eine lebende Legende und Ikone. Seit Jahrzehnten begeistert sie mit künstlerischer Beständigkeit, emotionaler Tiefe und Hingabe zur Musik.",
-   "source": "Visit Düsseldorf",
+   "title": "Mireille Mathieu Düsseldorf Tickets",
    "date": "2026-11-11",
    "time": "20:00",
-   "end_date": ""
+   "end_date": "",
+   "venue": "Tonhalle",
+   "address": "Tonhalle, Düsseldorf, Germany, Düsseldorf",
+   "locality": "Düsseldorf",
+   "price": "100.17",
+   "url": "https://allevents.in/d%C3%BCsseldorf/mireille-mathieu-düsseldorf-tickets/100028719604055",
+   "category": "событие",
+   "description": "Mireille Mathieu ist ein kulturelles Phänomen – eine lebende Legende und Ikone. Seit Jahrzehnten begeistert sie mit künstlerischer Beständigkeit, emotionaler Tiefe und Hingabe zur Musik.",
+   "source": "allevents: все",
+   "also_in": [
+    "allevents: все",
+    "Visit Düsseldorf"
+   ]
   },
   {
    "title": "Pippo Pollina & Quartetto Acustico: La vita è bella così com'è",
@@ -6853,21 +6434,6 @@
    "end_date": ""
   },
   {
-   "title": "AfterWorkOut",
-   "date": "2026-11-12",
-   "time": "18:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/afterworkout-gym-fit-mit-kunst/?date=12.11.2026&time=18:00",
-   "category": "спорт",
-   "description": "GYM. Fit mit Kunst",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
    "title": "Elli Unruh: »Fische im Trüben«",
    "venue": "Stiftung Gerhart-Hauptmann-Haus",
    "address": "",
@@ -6895,6 +6461,7 @@
    "description": "von Kim de l’Horizon nach einer Fassung und Inszenierung von Sebastian Schug",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -7003,25 +6570,6 @@
    "end_date": ""
   },
   {
-   "title": "Don Toliver Düsseldorf Tickets",
-   "date": "2026-11-12",
-   "time": "",
-   "end_date": "2026-11-12",
-   "venue": "PSD Bank Dome",
-   "address": "PSD Bank Dome, Düsseldorf, Germany, Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "206.47",
-   "url": "https://allevents.in/d%C3%BCsseldorf/don-toliver-düsseldorf-tickets/100030484599932",
-   "category": "концерт",
-   "description": "",
-   "source": "allevents: все",
-   "also_in": [
-    "allevents: все",
-    "allevents: концерты",
-    "allevents: живая музыка"
-   ]
-  },
-  {
    "title": "Candlelight: Das Beste der 80er",
    "date": "2026-11-12",
    "time": "",
@@ -7032,6 +6580,25 @@
    "price": "34.00",
    "url": "https://allevents.in/dusseldorf/candlelight-das-beste-der-80er/2700030035612217",
    "category": "событие",
+   "description": "",
+   "source": "allevents: все",
+   "also_in": [
+    "allevents: все",
+    "allevents: концерты",
+    "allevents: живая музыка"
+   ]
+  },
+  {
+   "title": "Don Toliver Düsseldorf Tickets",
+   "date": "2026-11-12",
+   "time": "",
+   "end_date": "",
+   "venue": "PSD Bank Dome",
+   "address": "PSD Bank Dome, Düsseldorf, Germany, Düsseldorf",
+   "locality": "Düsseldorf",
+   "price": "206.47",
+   "url": "https://allevents.in/d%C3%BCsseldorf/don-toliver-düsseldorf-tickets/100030484599932",
+   "category": "концерт",
    "description": "",
    "source": "allevents: все",
    "also_in": [
@@ -7125,24 +6692,6 @@
    "end_date": ""
   },
   {
-   "title": "Grumpy Guide",
-   "date": "2026-11-13",
-   "time": "14:15",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/grumpy-guide-eine-hoechst-unangenehme-tour-durch-die-sammlung/?date=13.11.2026&time=14:15",
-   "category": "экскурсия",
-   "description": "Eine höchst unangenehme Tour durch die Sammlung",
-   "source": "Kunstpalast",
-   "horizon_days": 120,
-   "also_in": [
-    "Kunstpalast"
-   ]
-  },
-  {
    "title": "Workshop: Kunst, aber wie!?",
    "date": "2026-11-13",
    "time": "16:00",
@@ -7187,21 +6736,6 @@
    "end_date": ""
   },
   {
-   "title": "Visual Arts Yoga",
-   "date": "2026-11-13",
-   "time": "18:15",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/oeffentliche-fuehrung-visual-arts-yoga/?date=13.11.2026&time=18:15",
-   "category": "спорт",
-   "description": "Gesundheit stärken, Kunst erleben",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
    "title": "Ausstellungseröffnung: Thomas Schütte",
    "date": "2026-11-13",
    "time": "19:00",
@@ -7216,6 +6750,7 @@
    "source": "Kunstsammlung NRW: календарь",
    "horizon_days": 21,
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
@@ -7276,6 +6811,7 @@
    "description": "von Alice Birch nach Federico García Lorca Regie Lucia Bihler",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -7292,6 +6828,20 @@
    "category": "театр",
    "description": "frei nach William Shakespeare Regie Bassam Ghazi",
    "source": "D'haus (Schauspielhaus)"
+  },
+  {
+   "title": "DEG vs. MEM",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "end_date": "",
+   "venue": "PSD BANK DOME",
+   "address": "Tensestraße",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/gamecenter/b25d101a699a148996e41b752183c1ff/",
+   "category": "sport",
+   "description": "DEL2 Spiel",
+   "source": "DEG"
   },
   {
    "title": "Memmingen - DEG",
@@ -7394,20 +6944,6 @@
    "end_date": ""
   },
   {
-   "title": "Spieltag 15: ECDC Memmingen vs. Düsseldorfer EG",
-   "date": "2026-11-13",
-   "time": "20:00",
-   "end_date": "",
-   "venue": "",
-   "address": "",
-   "locality": "Memmingen",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/b25d101a699a148996e41b752183c1ff/",
-   "category": "sport",
-   "description": "DEL2 Spieltag",
-   "source": "DEG"
-  },
-  {
    "title": "Als das Würstchen Huppsi machte",
    "venue": "",
    "address": "",
@@ -7462,36 +6998,6 @@
    "date": "2026-11-14",
    "time": "09:00",
    "end_date": ""
-  },
-  {
-   "title": "Yoga",
-   "date": "2026-11-14",
-   "time": "12:30",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/yoga-gym-fit-mit-kunst/?date=14.11.2026&time=12:30",
-   "category": "спорт",
-   "description": "GYM. Fit mit Kunst",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
-   "title": "High Heels Beginner",
-   "date": "2026-11-14",
-   "time": "14:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/high-heels-beginner-gym-fit-mit-kunst/?date=14.11.2026&time=14:00",
-   "category": "спорт",
-   "description": "GYM. Fit mit Kunst",
-   "source": "Kunstpalast",
-   "horizon_days": 120
   },
   {
    "title": "Residency Insights",
@@ -7550,21 +7056,6 @@
    "description": "",
    "source": "Schloss Benrath",
    "horizon_days": 21
-  },
-  {
-   "title": "KPOP Demon Hunters",
-   "date": "2026-11-14",
-   "time": "15:30",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/kpop-demon-hunters/?date=14.11.2026&time=15:30",
-   "category": "концерт",
-   "description": "an epic musical journey",
-   "source": "Kunstpalast",
-   "horizon_days": 120
   },
   {
    "title": "Kpop Demon Hunters - An epic musical journey",
@@ -7692,6 +7183,7 @@
    "description": "Ein Schauspiel von Heinrich von Kleist Regie Ulrich Rasche",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -7859,21 +7351,6 @@
     "allevents: живая музыка",
     "allevents: все"
    ]
-  },
-  {
-   "title": "Thomas Schütte",
-   "date": "2026-11-14",
-   "time": "",
-   "end_date": "2027-04-11",
-   "venue": "K21",
-   "address": "Ständehausstraße 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstsammlung.de/de/exhibitions/thomas-schuette-2026",
-   "category": "выставка",
-   "description": "Thomas Schütte Ausstellung in der K21.",
-   "source": "Kunstsammlung NRW (K20/K21)",
-   "horizon_days": 120
   },
   {
    "title": "NACHTYARD - Der kreative Nachtmarkt in DÜSSELDORF",
@@ -8061,21 +7538,6 @@
    "category": "театр",
    "description": "Brunch im Rahmen des take-off: Festivals",
    "source": "D'haus (Schauspielhaus)"
-  },
-  {
-   "title": "ニキズ・ナナ・アート / Niki’s NANA Art",
-   "date": "2026-11-15",
-   "time": "12:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/japanischer-familienworkshop-niki-de-saint-phalle/?date=15.11.2026&time=12:00",
-   "category": "детям",
-   "description": "ファミリー・ワークショップ / Japanischer Familienworkshop",
-   "source": "Kunstpalast",
-   "horizon_days": 120
   },
   {
    "title": "Die Morgensterne: Emanuel Akopian, Violine",
@@ -8268,22 +7730,18 @@
    "end_date": ""
   },
   {
-   "title": "Hubertus Meyer-Burckhardt | Stephan Schäfer",
+   "title": "DEG vs. RVT",
    "date": "2026-11-15",
    "time": "17:00",
    "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
+   "venue": "PSD BANK DOME",
+   "address": "Tensestraße",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.kunstpalast.de/de/event/hubertus-meyer-burckhardt-stephan-schaefer/?date=15.11.2026&time=17:00",
-   "category": "театр",
-   "description": "Lesung",
-   "source": "Kunstpalast",
-   "horizon_days": 120,
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
+   "url": "https://www.deg-eishockey.de/gamecenter/0f5e00fb7b1900651f384c2343c3c671/",
+   "category": "sport",
+   "description": "DEL2 Spiel",
+   "source": "DEG"
   },
   {
    "title": "DEG - Ravensburg",
@@ -8300,20 +7758,6 @@
    "source": "DEG iCal",
    "team": "DEG",
    "away": false
-  },
-  {
-   "title": "Spieltag 16: Düsseldorfer EG vs. Ravensburg Towerstars",
-   "date": "2026-11-15",
-   "time": "17:00",
-   "end_date": "",
-   "venue": "PSD BANK DOME",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/0f5e00fb7b1900651f384c2343c3c671/",
-   "category": "sport",
-   "description": "DEL2 Spieltag",
-   "source": "DEG"
   },
   {
    "title": "Die Meistersinger von Nürnberg",
@@ -8338,6 +7782,20 @@
    "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
    "category": "спорт",
    "description": "Der PSD BANK DOME ist seit 2006 die Heimspielstätte der Düsseldorfer EG. Bis zu 15.151 Fans haben in der hochmodernen Multifunktionshalle Platz für Titel, Tränen und Triumphe.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-15",
+   "time": "17:00",
+   "end_date": ""
+  },
+  {
+   "title": "Lesung - Hubertus Meyer-Burckhardt | Stephan Schäfer",
+   "venue": "Robert-Schumann-Saal",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.westticket.de/eventseries/4132538?affiliate=5VD",
+   "category": "лекция",
+   "description": "Zwei Freunde. Ein Sofa. Viele Geschichten.: Hubertus Meyer-Burckhardt trifft Stephan Schäfer – live im Gespräch",
    "source": "Visit Düsseldorf",
    "date": "2026-11-15",
    "time": "17:00",
@@ -8374,6 +7832,7 @@
    "description": "von Takao Baba & Ensemble frei nach dem Film Die sieben Samurai von Akira Kurosawa Regie Takao Baba",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -8721,21 +8180,6 @@
    "end_date": ""
   },
   {
-   "title": "BELVEDERE-GESPRÄCH",
-   "date": "2026-11-17",
-   "time": "18:30",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/belvedere-gespraech-mit-oberbuergermeister-dr-stephan-keller/?date=17.11.2026&time=18:30",
-   "category": "событие",
-   "description": "mit Oberbürgermeister Dr. Stephan Keller",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
    "title": "Nordöstliches Leuchten",
    "venue": "Stiftung Gerhart-Hauptmann-Haus",
    "address": "",
@@ -8748,6 +8192,20 @@
    "date": "2026-11-17",
    "time": "19:00",
    "end_date": ""
+  },
+  {
+   "title": "DEG vs. SBR",
+   "date": "2026-11-17",
+   "time": "19:30",
+   "end_date": "",
+   "venue": "PSD BANK DOME",
+   "address": "Tensestraße",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/gamecenter/24b4f5ed2bbb1da9e448164dcbafda0a/",
+   "category": "sport",
+   "description": "DEL2 Spiel",
+   "source": "DEG"
   },
   {
    "title": "DEG - Rosenheim",
@@ -8764,20 +8222,6 @@
    "source": "DEG iCal",
    "team": "DEG",
    "away": false
-  },
-  {
-   "title": "Spieltag 17: Düsseldorfer EG vs. Saale Bulls Halle",
-   "date": "2026-11-17",
-   "time": "19:30",
-   "end_date": "",
-   "venue": "PSD BANK DOME",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/24b4f5ed2bbb1da9e448164dcbafda0a/",
-   "category": "sport",
-   "description": "DEL2 Spieltag",
-   "source": "DEG"
   },
   {
    "title": "Eishockey: Düsseldorfer EG - Starbulls Rosenheim",
@@ -8835,6 +8279,7 @@
    "description": "Ein Stück über Mut und Freundschaft von Saša Stanišić Regie Carmen Schwarz",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -8963,36 +8408,6 @@
    "date": "2026-11-18",
    "time": "18:00",
    "end_date": ""
-  },
-  {
-   "title": "GYM x ASIA POP: Let’s Dance to K-Pop!",
-   "date": "2026-11-18",
-   "time": "18:30",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/gym-x-asia-pop-lets-dance-to-k-pop/?date=18.11.2026&time=18:30",
-   "category": "спорт",
-   "description": "Dance-Workshop für Einsteiger*innen",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
-   "title": "Muay Thai",
-   "date": "2026-11-18",
-   "time": "18:30",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/muay-thai-gym-fit-mit-kunst/?date=18.11.2026&time=18:30",
-   "category": "спорт",
-   "description": "GYM. Fit mit Kunst",
-   "source": "Kunstpalast",
-   "horizon_days": 120
   },
   {
    "title": "Queere Geschichte(n) – gestern und heute",
@@ -9125,21 +8540,6 @@
     "allevents: все",
     "Visit Düsseldorf"
    ]
-  },
-  {
-   "title": "Élisabeth Pion, Klavier",
-   "date": "2026-11-18",
-   "time": "20:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/talente-entdecken-elisabeth-pion/?date=18.11.2026&time=20:00",
-   "category": "концерт",
-   "description": "Talente entdecken",
-   "source": "Kunstpalast",
-   "horizon_days": 120
   },
   {
    "title": "Kunst gegen Bares",
@@ -9284,36 +8684,6 @@
    "source": "D'haus (Schauspielhaus)"
   },
   {
-   "title": "Live Drawing: GYM Edition",
-   "date": "2026-11-19",
-   "time": "18:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/live-drawing-gym-edition/?date=19.11.2026&time=18:00",
-   "category": "событие",
-   "description": "GYM. Fit mit Kunst",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
-   "title": "AfterWorkOut",
-   "date": "2026-11-19",
-   "time": "18:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/afterworkout-gym-fit-mit-kunst/?date=19.11.2026&time=18:00",
-   "category": "спорт",
-   "description": "GYM. Fit mit Kunst",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
    "title": "Drei Schwestern",
    "date": "2026-11-19",
    "time": "19:00",
@@ -9326,21 +8696,6 @@
    "category": "театр",
    "description": "von Katharina Bill / Anton Tschechow Regie Katharina Bill",
    "source": "D'haus (Schauspielhaus)"
-  },
-  {
-   "title": "VALEARA Soul Sessions",
-   "date": "2026-11-19",
-   "time": "19:00",
-   "end_date": "",
-   "venue": "Robert-Schumann-Saal",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/valeara-soul-session/?date=19.11.2026&time=19:00",
-   "category": "спорт",
-   "description": "Ein Yogaabend im Robert-Schumann-Saal zu den Klängen von Handpan und Harfe",
-   "source": "Kunstpalast",
-   "horizon_days": 120
   },
   {
    "title": "DIE MÖWE",
@@ -9418,17 +8773,17 @@
    "source": "D'haus (Schauspielhaus)"
   },
   {
-   "title": "Spieltag 18: Dresdner Eislöwen vs. Düsseldorfer EG",
+   "title": "DEG vs. DRE",
    "date": "2026-11-20",
    "time": "19:30",
    "end_date": "",
-   "venue": "",
-   "address": "",
-   "locality": "Dresden",
+   "venue": "PSD BANK DOME",
+   "address": "Tensestraße",
+   "locality": "Düsseldorf",
    "price": "",
    "url": "https://www.deg-eishockey.de/gamecenter/07174691a71524008f90724f96682642/",
    "category": "sport",
-   "description": "DEL2 Spieltag",
+   "description": "DEL2 Spiel",
    "source": "DEG"
   },
   {
@@ -9478,36 +8833,6 @@
    "also_in": [
     "allevents: все"
    ]
-  },
-  {
-   "title": "HIIT",
-   "date": "2026-11-21",
-   "time": "11:30",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/hiit-gym-fit-mit-kunst/?date=21.11.2026&time=11:30",
-   "category": "спорт",
-   "description": "GYM. Fit mit Kunst",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
-   "title": "Barre",
-   "date": "2026-11-21",
-   "time": "14:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/barre-gym-fit-mit-kunst/?date=21.11.2026&time=14:00",
-   "category": "спорт",
-   "description": "GYM. Fit mit Kunst",
-   "source": "Kunstpalast",
-   "horizon_days": 120
   },
   {
    "title": "Fortuna — SG Sonnenhof Großaspach",
@@ -9582,21 +8907,6 @@
    "source": "D'haus (Schauspielhaus)"
   },
   {
-   "title": "Joris & MIKIS Takeover! Ensemble",
-   "date": "2026-11-21",
-   "time": "21:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/joris-mikis-takeover-ensemble/?date=21.11.2026&time=21:00",
-   "category": "концерт",
-   "description": "440Hz – Klassik & Pop",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
    "title": "Moonlight Market – Düsseldorfs Nachtmarkt im Blumengroßmarkt",
    "date": "2026-11-21",
    "time": "",
@@ -9642,39 +8952,6 @@
    "source": "Блошиные рынки (MFT)"
   },
   {
-   "title": "Auf den Spuren von Jörg Immendorff",
-   "date": "2026-11-22",
-   "time": "11:15",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/auf-den-spuren-von-joerg-immendorff-stadtrundgang-durch-duesseldorf/?date=22.11.2026&time=11:15",
-   "category": "экскурсия",
-   "description": "Stadtrundgang durch Düsseldorf",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
-   "title": "Grumpy Guide",
-   "date": "2026-11-22",
-   "time": "14:15",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/grumpy-guide-eine-hoechst-unangenehme-tour-durch-die-sammlung/?date=22.11.2026&time=14:15",
-   "category": "экскурсия",
-   "description": "Eine höchst unangenehme Tour durch die Sammlung",
-   "source": "Kunstpalast",
-   "horizon_days": 120,
-   "also_in": [
-    "Kunstpalast"
-   ]
-  },
-  {
    "title": "EIN ÜBERTRITT (ALLES AUF ENDE)",
    "date": "2026-11-22",
    "time": "16:00",
@@ -9687,21 +8964,6 @@
    "category": "театр",
    "description": "von Elfriede Jelinek Regie Jossi Wieler",
    "source": "D'haus (Schauspielhaus)"
-  },
-  {
-   "title": "Johann von Bülow und Stefan Wilkening, Rezitation | Maria Reiter, Akkordeon",
-   "date": "2026-11-22",
-   "time": "17:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/buelow-wilkening-reiter/?date=22.11.2026&time=17:00",
-   "category": "концерт",
-   "description": "Zweiklang! Wort und Musik",
-   "source": "Kunstpalast",
-   "horizon_days": 120
   },
   {
    "title": "Der Vogel hat kein Recht, so zu singen, wie er singt.",
@@ -9718,6 +8980,20 @@
    "source": "D'haus (Schauspielhaus)"
   },
   {
+   "title": "DEG vs. LFX",
+   "date": "2026-11-22",
+   "time": "18:30",
+   "end_date": "",
+   "venue": "PSD BANK DOME",
+   "address": "Tensestraße",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/gamecenter/427647c46e604d42f62b3ad6f55db223/",
+   "category": "sport",
+   "description": "DEL2 Spiel",
+   "source": "DEG"
+  },
+  {
    "title": "DEG - Weißwasser",
    "date": "2026-11-22",
    "time": "18:30",
@@ -9732,20 +9008,6 @@
    "source": "DEG iCal",
    "team": "DEG",
    "away": false
-  },
-  {
-   "title": "Spieltag 19: Düsseldorfer EG vs. Lausitzer Füchse",
-   "date": "2026-11-22",
-   "time": "18:30",
-   "end_date": "",
-   "venue": "PSD BANK DOME",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/427647c46e604d42f62b3ad6f55db223/",
-   "category": "sport",
-   "description": "DEL2 Spieltag",
-   "source": "DEG"
   },
   {
    "title": "\"HEROES\" – Alexander Scheer singt David Bowie",
@@ -9793,21 +9055,6 @@
    "source": "D'haus (Schauspielhaus)"
   },
   {
-   "title": "Helga Meister über Jörg Immendorff",
-   "date": "2026-11-24",
-   "time": "18:30",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/helga-meister-ueber-joerg-immendorff-joerg-immendorff/?date=24.11.2026&time=18:30",
-   "category": "событие",
-   "description": "Immendorff",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
    "title": "Muse Düsseldorf Tickets",
    "date": "2026-11-24",
    "time": "",
@@ -9845,36 +9092,6 @@
    ]
   },
   {
-   "title": "Niki de Saint Phalle und ihre Kraft zur Selbstermächtigung",
-   "date": "2026-11-25",
-   "time": "16:15",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/themenfuehrung-niki-de-saint-phalle/?date=25.11.2026&time=16:15",
-   "category": "экскурсия",
-   "description": "Themenführung anlässlich des Internationalen Tages gegen Gewalt an Frauen",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
-   "title": "Pilates",
-   "date": "2026-11-25",
-   "time": "18:30",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/pilates-gym-fit-mit-kunst/?date=25.11.2026&time=18:30",
-   "category": "спорт",
-   "description": "GYM. Fit mit Kunst",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
    "title": "Westlife European tour at 25",
    "date": "2026-11-25",
    "time": "",
@@ -9891,66 +9108,6 @@
     "allevents: все",
     "allevents: концерты"
    ]
-  },
-  {
-   "title": "Aquarell-Workshop für Erwachsene",
-   "date": "2026-11-26",
-   "time": "17:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/aquarell-workshop-fuer-erwachsene-26-11-2026/?date=26.11.2026&time=17:00",
-   "category": "событие",
-   "description": "Malerische Landschaft",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
-   "title": "AfterWorkOut",
-   "date": "2026-11-26",
-   "time": "18:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/afterworkout-gym-fit-mit-kunst/?date=26.11.2026&time=18:00",
-   "category": "спорт",
-   "description": "GYM. Fit mit Kunst",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
-   "title": "Zeichen-Workshop für Erwachsene",
-   "date": "2026-11-26",
-   "time": "18:30",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/zeichen-workshop-fuer-erwachsene-26-11-2026/?date=26.11.2026&time=18:30",
-   "category": "событие",
-   "description": "Erkunden, Experimentieren, Erschaffen",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
-   "title": "Lars Reichow",
-   "date": "2026-11-26",
-   "time": "20:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/lars-reichow/?date=26.11.2026&time=20:00",
-   "category": "театр",
-   "description": "Kabarett",
-   "source": "Kunstpalast",
-   "horizon_days": 120
   },
   {
    "title": "Bryson Tiller Düsseldorf Tickets",
@@ -9971,49 +9128,18 @@
    ]
   },
   {
-   "title": "Treffpunkt Museum",
+   "title": "DEG vs. FRB",
    "date": "2026-11-27",
-   "time": "15:45",
+   "time": "19:30",
    "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
+   "venue": "PSD BANK DOME",
+   "address": "Tensestraße",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.kunstpalast.de/de/event/treffpunkt-museum-joerg-immendorff/?date=27.11.2026&time=15:45",
-   "category": "экскурсия",
-   "description": "Immendorff",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
-   "title": "Taschenlampenführung für Familien",
-   "date": "2026-11-27",
-   "time": "18:15",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/taschenlampenfuehrung-fuer-familien-niki-de-saint-phalle/?date=27.11.2026&time=18:15",
-   "category": "экскурсия",
-   "description": "Niki de Saint Phalle. Dream Machine",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
-   "title": "Taschenlampenführung für Erwachsene",
-   "date": "2026-11-27",
-   "time": "18:45",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/taschenlampenfuehrung-fuer-erwachsene-niki-de-saint-phalle/?date=27.11.2026&time=18:45",
-   "category": "экскурсия",
-   "description": "Niki de Saint Phalle. Dream Machine",
-   "source": "Kunstpalast",
-   "horizon_days": 120
+   "url": "https://www.deg-eishockey.de/gamecenter/dba16a218cf8cab83396f133239d5bdb/",
+   "category": "sport",
+   "description": "DEL2 Spiel",
+   "source": "DEG"
   },
   {
    "title": "Freiburg - DEG",
@@ -10032,65 +9158,6 @@
    "away": true
   },
   {
-   "title": "Spieltag 20: EHC Freiburg vs. Düsseldorfer EG",
-   "date": "2026-11-27",
-   "time": "19:30",
-   "end_date": "",
-   "venue": "",
-   "address": "",
-   "locality": "Freiburg",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/dba16a218cf8cab83396f133239d5bdb/",
-   "category": "sport",
-   "description": "DEL2 Spieltag",
-   "source": "DEG"
-  },
-  {
-   "title": "Vivaldi – Die vier Jahreszeiten",
-   "date": "2026-11-27",
-   "time": "20:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/vivaldi-die-vier-jahreszeiten/?date=27.11.2026&time=20:00",
-   "category": "концерт",
-   "description": "Kammerorchester der Neuen Philharmonie Hamburg",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
-   "title": "Yoga",
-   "date": "2026-11-28",
-   "time": "12:30",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/yoga-gym-fit-mit-kunst/?date=28.11.2026&time=12:30",
-   "category": "спорт",
-   "description": "GYM. Fit mit Kunst",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
-   "title": "High Heels Beginner",
-   "date": "2026-11-28",
-   "time": "14:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/high-heels-beginner-gym-fit-mit-kunst/?date=28.11.2026&time=14:00",
-   "category": "спорт",
-   "description": "GYM. Fit mit Kunst",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
    "title": "Würzburger Kickers — Fortuna",
    "date": "2026-11-28",
    "time": "14:00",
@@ -10105,21 +9172,6 @@
    "source": "OpenLigaDB",
    "team": "Fortuna",
    "away": true
-  },
-  {
-   "title": "Familienführung",
-   "date": "2026-11-28",
-   "time": "15:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/familienfuehrung-niki-de-saint-phalle-28-11-2026/?date=28.11.2026&time=15:00",
-   "category": "экскурсия",
-   "description": "Niki de Saint Phalle. Dream Machine",
-   "source": "Kunstpalast",
-   "horizon_days": 120
   },
   {
    "title": "SATURDAY NIGHT PUBQUIZ - Adventsedition",
@@ -10164,21 +9216,6 @@
    "source": "Блошиные рынки (MFT)"
   },
   {
-   "title": "インメンドルフズ・クリスマス / Immendorff’s Christmas",
-   "date": "2026-11-29",
-   "time": "14:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/japanischer-familienworkshop-immendorff/?date=29.11.2026&time=14:00",
-   "category": "детям",
-   "description": "ファミリー・ワークショップ / Japanischer Familienworkshop",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
    "title": "ADVENTS- und MITSINGKONZERT",
    "date": "2026-11-29",
    "time": "15:00",
@@ -10193,19 +9230,18 @@
    "source": "StadtStrand"
   },
   {
-   "title": "Daniel Ottensamer, Klarinette | Stephan Koncz, Violoncello | Christoph Traxler, Klavier",
+   "title": "DEG vs. SCB",
    "date": "2026-11-29",
    "time": "17:00",
    "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
+   "venue": "PSD BANK DOME",
+   "address": "Tensestraße",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.kunstpalast.de/de/event/christoph-traxler-stephan-koncz-daniel-ottensamer-nov-26/?date=29.11.2026&time=17:00",
-   "category": "концерт",
-   "description": "erstKlassik!",
-   "source": "Kunstpalast",
-   "horizon_days": 120
+   "url": "https://www.deg-eishockey.de/gamecenter/6dbb3c2d75b11ebda4540b683bc7514a/",
+   "category": "sport",
+   "description": "DEL2 Spiel",
+   "source": "DEG"
   },
   {
    "title": "DEG - Bietigheim",
@@ -10224,20 +9260,6 @@
    "away": false
   },
   {
-   "title": "Spieltag 21: Düsseldorfer EG vs. SC Bietigheim-Bissingen",
-   "date": "2026-11-29",
-   "time": "17:00",
-   "end_date": "",
-   "venue": "PSD BANK DOME",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/6dbb3c2d75b11ebda4540b683bc7514a/",
-   "category": "sport",
-   "description": "DEL2 Spieltag",
-   "source": "DEG"
-  },
-  {
    "title": "Melan Trödelmarkt Düsseldorf Ikea",
    "date": "2026-11-29",
    "time": "",
@@ -10252,34 +9274,18 @@
    "source": "Блошиные рынки (MFT)"
   },
   {
-   "title": "Palastplausch",
+   "title": "DEG vs. EVL",
    "date": "2026-12-01",
-   "time": "14:45",
+   "time": "19:30",
    "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
+   "venue": "PSD BANK DOME",
+   "address": "Tensestraße",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.kunstpalast.de/de/event/palastplausch-zero-kunst/?date=1.12.2026&time=14:45",
-   "category": "событие",
-   "description": "Gespräche bei Kunst, Kaffee und Kuchen",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
-   "title": "Visual Arts Yoga",
-   "date": "2026-12-01",
-   "time": "16:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/oeffentliche-fuehrung-visual-arts-yoga/?date=1.12.2026&time=16:00",
-   "category": "спорт",
-   "description": "Gesundheit stärken, Kunst erleben",
-   "source": "Kunstpalast",
-   "horizon_days": 120
+   "url": "https://www.deg-eishockey.de/gamecenter/0d243cdfc2a44a61e318f1ec8763a9c6/",
+   "category": "sport",
+   "description": "DEL2 Spiel",
+   "source": "DEG"
   },
   {
    "title": "DEG - Landshut",
@@ -10298,20 +9304,6 @@
    "away": false
   },
   {
-   "title": "Spieltag 22: Düsseldorfer EG vs. EV Landshut",
-   "date": "2026-12-01",
-   "time": "19:30",
-   "end_date": "",
-   "venue": "PSD BANK DOME",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/0d243cdfc2a44a61e318f1ec8763a9c6/",
-   "category": "sport",
-   "description": "DEL2 Spieltag",
-   "source": "DEG"
-  },
-  {
    "title": "VALVE WORLD EXPO",
    "date": "2026-12-01",
    "time": "",
@@ -10324,21 +9316,6 @@
    "category": "выставка",
    "description": "VALVE WORLD EXPO - 14. Internationale Fachmesse mit Kongress für Industrie-Armaturen",
    "source": "Messe Düsseldorf"
-  },
-  {
-   "title": "Muay Thai",
-   "date": "2026-12-02",
-   "time": "18:30",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/muay-thai-gym-fit-mit-kunst/?date=2.12.2026&time=18:30",
-   "category": "спорт",
-   "description": "GYM. Fit mit Kunst",
-   "source": "Kunstpalast",
-   "horizon_days": 120
   },
   {
    "title": "sustainable solutions",
@@ -10355,49 +9332,18 @@
    "source": "Messe Düsseldorf"
   },
   {
-   "title": "Aquarell-Workshop für Erwachsene",
-   "date": "2026-12-03",
-   "time": "17:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/aquarell-workshop-fuer-erwachsene-3-12-2026/?date=3.12.2026&time=17:00",
-   "category": "событие",
-   "description": "Ein Moment in Farbe",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
-   "title": "AfterWorkOut",
-   "date": "2026-12-03",
-   "time": "18:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/afterworkout-gym-fit-mit-kunst/?date=3.12.2026&time=18:00",
-   "category": "спорт",
-   "description": "GYM. Fit mit Kunst",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
-   "title": "K20 Druckwerkstatt",
+   "title": "DEG vs. EBR (Schoolsday)",
    "date": "2026-12-04",
-   "time": "15:00",
+   "time": "19:30",
    "end_date": "",
-   "venue": "K20",
-   "address": "Grabbeplatz 5",
+   "venue": "PSD BANK DOME",
+   "address": "Tensestraße",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.kunstsammlung.de/de/events/k20-druckwerkstatt",
-   "category": "детям",
-   "description": "Workshop",
-   "source": "Kunstsammlung NRW (K20/K21)",
-   "horizon_days": 120
+   "url": "https://www.deg-eishockey.de/gamecenter/92eb8dadb42447eeb747807a5be1afc8/",
+   "category": "sport",
+   "description": "DEL2 Spiel",
+   "source": "DEG"
   },
   {
    "title": "DEG - Regensburg",
@@ -10416,65 +9362,6 @@
    "away": false
   },
   {
-   "title": "Spieltag 23: Düsseldorfer EG vs. EHC Bayreuth",
-   "date": "2026-12-04",
-   "time": "19:30",
-   "end_date": "",
-   "venue": "PSD BANK DOME",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/92eb8dadb42447eeb747807a5be1afc8/",
-   "category": "sport",
-   "description": "DEL2 Spieltag",
-   "source": "DEG"
-  },
-  {
-   "title": "Sebastian Knauer, Klavier | Johannes Strate, Gesang",
-   "date": "2026-12-04",
-   "time": "21:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/sebastian-knauer-johannes-strate/?date=4.12.2026&time=21:00",
-   "category": "концерт",
-   "description": "440Hz – Klassik & Pop",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
-   "title": "HIIT",
-   "date": "2026-12-05",
-   "time": "11:30",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/hiit-gym-fit-mit-kunst/?date=5.12.2026&time=11:30",
-   "category": "спорт",
-   "description": "GYM. Fit mit Kunst",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
-   "title": "Barre",
-   "date": "2026-12-05",
-   "time": "14:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/barre-gym-fit-mit-kunst/?date=5.12.2026&time=14:00",
-   "category": "спорт",
-   "description": "GYM. Fit mit Kunst",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
    "title": "Fortuna — SV Wehen Wiesbaden",
    "date": "2026-12-05",
    "time": "14:00",
@@ -10489,24 +9376,6 @@
    "source": "OpenLigaDB",
    "team": "Fortuna",
    "away": false
-  },
-  {
-   "title": "Familienführung",
-   "date": "2026-12-05",
-   "time": "14:30",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/familienfuehrung-niki-de-saint-phalle-5-12-2026/?date=5.12.2026&time=14:30",
-   "category": "экскурсия",
-   "description": "Niki de Saint Phalle. Dream Machine",
-   "source": "Kunstpalast",
-   "horizon_days": 120,
-   "also_in": [
-    "Kunstpalast"
-   ]
   },
   {
    "title": "FIESTA LATINA XMAS SPECIAL: Caribbean Feeling - karibisches Urlaubsfeeling zum Advent",
@@ -10551,19 +9420,18 @@
    "source": "StadtStrand"
   },
   {
-   "title": "Martina Gedeck, Rezitation | Sebastian Knauer, Klavier",
+   "title": "DEG vs. ECN",
    "date": "2026-12-06",
-   "time": "17:00",
+   "time": "18:30",
    "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
+   "venue": "PSD BANK DOME",
+   "address": "Tensestraße",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.kunstpalast.de/de/event/vorlage-ub-va-rss-tickets-demnaechst/?date=6.12.2026&time=17:00",
-   "category": "концерт",
-   "description": "Zweiklang! Wort und Musik",
-   "source": "Kunstpalast",
-   "horizon_days": 120
+   "url": "https://www.deg-eishockey.de/gamecenter/b4e5597b72a793605976f6be506269cc/",
+   "category": "sport",
+   "description": "DEL2 Spiel",
+   "source": "DEG"
   },
   {
    "title": "Bad Nauheim - DEG",
@@ -10580,20 +9448,6 @@
    "source": "DEG iCal",
    "team": "DEG",
    "away": true
-  },
-  {
-   "title": "Spieltag 24: EC Bad Nauheim vs. Düsseldorfer EG",
-   "date": "2026-12-06",
-   "time": "18:30",
-   "end_date": "",
-   "venue": "",
-   "address": "",
-   "locality": "Bad Nauheim",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/b4e5597b72a793605976f6be506269cc/",
-   "category": "sport",
-   "description": "DEL2 Spieltag",
-   "source": "DEG"
   },
   {
    "title": "Flohmarkt am Blumengroßmarkt Düsseldorf",
@@ -10624,64 +9478,32 @@
    "source": "Блошиные рынки (MFT)"
   },
   {
-   "title": "Visual Arts Yoga",
-   "date": "2026-12-08",
-   "time": "16:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/oeffentliche-fuehrung-visual-arts-yoga/?date=8.12.2026&time=16:00",
-   "category": "спорт",
-   "description": "Gesundheit stärken, Kunst erleben",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
-   "title": "Pilates",
-   "date": "2026-12-09",
-   "time": "18:30",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/pilates-gym-fit-mit-kunst/?date=9.12.2026&time=18:30",
-   "category": "спорт",
-   "description": "GYM. Fit mit Kunst",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
-   "title": "Rudelsingen",
-   "date": "2026-12-09",
-   "time": "20:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/rudelsingen-dez-2026/?date=9.12.2026&time=20:00",
-   "category": "концерт",
-   "description": "von Schlager bis Rock",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
-   "title": "AfterWorkOut",
+   "title": "Weihnachtscircus Düsseldorf",
    "date": "2026-12-10",
-   "time": "18:00",
+   "time": "",
+   "end_date": "2027-01-03",
+   "venue": "Staufenplatz",
+   "address": "Staufenplatz 10",
+   "locality": "Düsseldorf",
+   "price": "ab 15 €",
+   "url": "https://weihnachtscircus-duesseldorf.ticket.io/pkjjxn/",
+   "category": "festivals",
+   "description": "Akrobatik, Jonglage, Comedy und jede Menge Emotionen: Der Weihnachtscircus Düsseldorf kehrt zurück.",
+   "source": "Mr. Düsseldorf (RSS)"
+  },
+  {
+   "title": "DEG vs. ECK",
+   "date": "2026-12-11",
+   "time": "19:30",
    "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
+   "venue": "PSD BANK DOME",
+   "address": "Tensestraße",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.kunstpalast.de/de/event/afterworkout-gym-fit-mit-kunst/?date=10.12.2026&time=18:00",
-   "category": "спорт",
-   "description": "GYM. Fit mit Kunst",
-   "source": "Kunstpalast",
-   "horizon_days": 120
+   "url": "https://www.deg-eishockey.de/gamecenter/02b36aabcce1a5eb6432591f96106a42/",
+   "category": "sport",
+   "description": "DEL2 Spiel",
+   "source": "DEG"
   },
   {
    "title": "Kassel - DEG",
@@ -10700,67 +9522,6 @@
    "away": true
   },
   {
-   "title": "Spieltag 25: EC Kassel Huskies vs. Düsseldorfer EG",
-   "date": "2026-12-11",
-   "time": "19:30",
-   "end_date": "",
-   "venue": "",
-   "address": "",
-   "locality": "Kassel",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/02b36aabcce1a5eb6432591f96106a42/",
-   "category": "sport",
-   "description": "DEL2 Spieltag",
-   "source": "DEG"
-  },
-  {
-   "title": "Candlelight: Tribut an Linkin Park",
-   "date": "2026-12-11",
-   "time": "",
-   "end_date": "2027-01-30",
-   "venue": "Palais Wittgenstein",
-   "address": "Bilker Straße 7-9, Düsseldorf-Stadtbezirk 1// 40213, Dusseldorf",
-   "locality": "Dusseldorf",
-   "price": "36.00",
-   "url": "https://allevents.in/dusseldorf/candlelight-tribut-an-linkin-park/2700030035613938",
-   "category": "событие",
-   "description": "",
-   "source": "allevents: все",
-   "also_in": [
-    "allevents: все"
-   ]
-  },
-  {
-   "title": "Yoga",
-   "date": "2026-12-12",
-   "time": "12:30",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/yoga-gym-fit-mit-kunst/?date=12.12.2026&time=12:30",
-   "category": "спорт",
-   "description": "GYM. Fit mit Kunst",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
-   "title": "High Heels Beginner",
-   "date": "2026-12-12",
-   "time": "14:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/high-heels-beginner-gym-fit-mit-kunst/?date=12.12.2026&time=14:00",
-   "category": "спорт",
-   "description": "GYM. Fit mit Kunst",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
    "title": "Viktoria Köln — Fortuna",
    "date": "2026-12-12",
    "time": "14:00",
@@ -10775,21 +9536,6 @@
    "source": "OpenLigaDB",
    "team": "Fortuna",
    "away": true
-  },
-  {
-   "title": "Katharina, Anna und Nellie Thalbach",
-   "date": "2026-12-12",
-   "time": "20:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/weihnachten-bei-den-thalbachs-2026/?date=12.12.2026&time=20:00",
-   "category": "театр",
-   "description": "Lesung",
-   "source": "Kunstpalast",
-   "horizon_days": 120
   },
   {
    "title": "NACHTYARD - Der kreative Nachtmarkt in DÜSSELDORF",
@@ -10820,20 +9566,6 @@
    "source": "Блошиные рынки (MFT)"
   },
   {
-   "title": "Verleihung des Heine-Preises 2026",
-   "date": "2026-12-12",
-   "time": "",
-   "end_date": "",
-   "venue": "",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.duesseldorf.de/medienportal/pressedienst-einzelansicht/pld/verleihung-des-heine-preises-2026-am-12-dezember",
-   "category": "событие",
-   "description": "Der Autorin, Dramatikerin und Theaterregisseurin Nino Haratischwili wird der Heine-Preis 2026 der Landeshauptstadt Düsseldorf verliehen.",
-   "source": "Пресс-служба города"
-  },
-  {
    "title": "Radschlägermarkt Düsseldorf",
    "date": "2026-12-13",
    "time": "11:00",
@@ -10846,66 +9578,6 @@
    "category": "markt",
    "description": "Unsere kommenden Termine RADSCHLÄGERMARKT DÜSSELDORF rund um die METRO Düsseldorf.",
    "source": "Radschlägermarkt"
-  },
-  {
-   "title": "Auf den Spuren von Jörg Immendorff",
-   "date": "2026-12-13",
-   "time": "11:15",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/auf-den-spuren-von-joerg-immendorff-stadtrundgang-durch-duesseldorf/?date=13.12.2026&time=11:15",
-   "category": "экскурсия",
-   "description": "Stadtrundgang durch Düsseldorf",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
-   "title": "Fonts, Pixels, Prints",
-   "date": "2026-12-13",
-   "time": "13:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/beyond-lines-lamy-creativ-sessions-im-palast-studio-11-10-2026/?date=13.12.2026&time=13:00",
-   "category": "событие",
-   "description": "Beyond Lines – Lamy creative sessions im Palast Studio mit Andreas Ruhe",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
-   "title": "GYM. フィット・ミット・クンスト/ GYM. Fit mit Kunst",
-   "date": "2026-12-13",
-   "time": "14:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/familienworkshop-auf-japanisch-gym-fit-mit-kunst/?date=13.12.2026&time=14:00",
-   "category": "детям",
-   "description": "ファミリー・ワークショップ / Japanischer Familienworkshop",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
-   "title": "Annette Frier | Maren Kroymann",
-   "date": "2026-12-13",
-   "time": "17:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/annette-frier-maren-kroymann/?date=13.12.2026&time=17:00",
-   "category": "театр",
-   "description": "Lesung",
-   "source": "Kunstpalast",
-   "horizon_days": 120
   },
   {
    "title": "Radschlägermarkt Düsseldorf an der METRO",
@@ -10950,67 +9622,18 @@
    "source": "Блошиные рынки (MFT)"
   },
   {
-   "title": "Visual Arts Yoga",
-   "date": "2026-12-15",
-   "time": "16:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/oeffentliche-fuehrung-visual-arts-yoga/?date=15.12.2026&time=16:00",
-   "category": "спорт",
-   "description": "Gesundheit stärken, Kunst erleben",
-   "source": "Kunstpalast",
-   "horizon_days": 120,
-   "also_in": [
-    "Kunstpalast"
-   ]
-  },
-  {
-   "title": "Muay Thai",
-   "date": "2026-12-16",
-   "time": "18:30",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/muay-thai-gym-fit-mit-kunst/?date=16.12.2026&time=18:30",
-   "category": "спорт",
-   "description": "GYM. Fit mit Kunst",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
-   "title": "Jochen Malmsheimer und Uwe Rössler",
-   "date": "2026-12-16",
+   "title": "DEG vs. BDW",
+   "date": "2026-12-18",
    "time": "20:00",
    "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
+   "venue": "PSD BANK DOME",
+   "address": "Tensestraße",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.kunstpalast.de/de/event/jochen-malmsheimer-und-uwe-roessler/?date=16.12.2026&time=20:00",
-   "category": "театр",
-   "description": "Kabarett",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
-   "title": "Treffpunkt Museum",
-   "date": "2026-12-18",
-   "time": "15:45",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/treffpunkt-museum-winfred-gaul-werke-aus-der-sammlung-kemp/?date=18.12.2026&time=15:45",
-   "category": "экскурсия",
-   "description": "Winfred Gaul. Werke aus der Sammlung Kemp",
-   "source": "Kunstpalast",
-   "horizon_days": 120
+   "url": "https://www.deg-eishockey.de/gamecenter/04b033e361a7afd46e47bdcac25a55e4/",
+   "category": "sport",
+   "description": "DEL2 Spiel",
+   "source": "DEG"
   },
   {
    "title": "Weiden - DEG",
@@ -11027,50 +9650,6 @@
    "source": "DEG iCal",
    "team": "DEG",
    "away": true
-  },
-  {
-   "title": "Spieltag 26: Bad Tölz vs. Düsseldorfer EG",
-   "date": "2026-12-18",
-   "time": "20:00",
-   "end_date": "",
-   "venue": "",
-   "address": "",
-   "locality": "Bad Tölz",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/04b033e361a7afd46e47bdcac25a55e4/",
-   "category": "sport",
-   "description": "DEL2 Spieltag",
-   "source": "DEG"
-  },
-  {
-   "title": "HIIT",
-   "date": "2026-12-19",
-   "time": "11:30",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/hiit-gym-fit-mit-kunst/?date=19.12.2026&time=11:30",
-   "category": "спорт",
-   "description": "GYM. Fit mit Kunst",
-   "source": "Kunstpalast",
-   "horizon_days": 120
-  },
-  {
-   "title": "Barre",
-   "date": "2026-12-19",
-   "time": "14:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/barre-gym-fit-mit-kunst/?date=19.12.2026&time=14:00",
-   "category": "спорт",
-   "description": "GYM. Fit mit Kunst",
-   "source": "Kunstpalast",
-   "horizon_days": 120
   },
   {
    "title": "Fortuna — Rot-Weiss Essen",
@@ -11134,19 +9713,18 @@
    "source": "Блошиные рынки (MFT)"
   },
   {
-   "title": "Axel Milberg, Rezitation | Caspar Frantz, Klavier",
+   "title": "DEG vs. SBR",
    "date": "2026-12-20",
    "time": "17:00",
    "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
+   "venue": "PSD BANK DOME",
+   "address": "Tensestraße",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.kunstpalast.de/de/event/axel-milberg-caspar-frantz/?date=20.12.2026&time=17:00",
-   "category": "концерт",
-   "description": "Zweiklang! Wort und Musik",
-   "source": "Kunstpalast",
-   "horizon_days": 120
+   "url": "https://www.deg-eishockey.de/gamecenter/0bd244a0a3329c1fd9dcc911da13093d/",
+   "category": "sport",
+   "description": "DEL2 Spiel",
+   "source": "DEG"
   },
   {
    "title": "Rosenheim - DEG",
@@ -11165,20 +9743,6 @@
    "away": true
   },
   {
-   "title": "Spieltag 27: Saale Bulls Halle vs. Düsseldorfer EG",
-   "date": "2026-12-20",
-   "time": "17:00",
-   "end_date": "",
-   "venue": "",
-   "address": "",
-   "locality": "Halle",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/0bd244a0a3329c1fd9dcc911da13093d/",
-   "category": "sport",
-   "description": "DEL2 Spieltag",
-   "source": "DEG"
-  },
-  {
    "title": "Melan Trödelmarkt Düsseldorf Ikea",
    "date": "2026-12-20",
    "time": "",
@@ -11193,19 +9757,18 @@
    "source": "Блошиные рынки (MFT)"
   },
   {
-   "title": "Pilates",
+   "title": "DEG vs. MEM",
    "date": "2026-12-23",
-   "time": "18:30",
+   "time": "19:30",
    "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
+   "venue": "PSD BANK DOME",
+   "address": "Tensestraße",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.kunstpalast.de/de/event/pilates-gym-fit-mit-kunst/?date=23.12.2026&time=18:30",
-   "category": "спорт",
-   "description": "GYM. Fit mit Kunst",
-   "source": "Kunstpalast",
-   "horizon_days": 120
+   "url": "https://www.deg-eishockey.de/gamecenter/3cfad10e8349a8886f1c81db44b87085/",
+   "category": "sport",
+   "description": "DEL2 Spiel",
+   "source": "DEG"
   },
   {
    "title": "DEG - Memmingen",
@@ -11224,33 +9787,18 @@
    "away": false
   },
   {
-   "title": "Spieltag 28: Düsseldorfer EG vs. ECDC Memmingen",
-   "date": "2026-12-23",
-   "time": "19:30",
+   "title": "DEG vs. RVT",
+   "date": "2026-12-26",
+   "time": "18:30",
    "end_date": "",
    "venue": "PSD BANK DOME",
-   "address": "",
+   "address": "Tensestraße",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/3cfad10e8349a8886f1c81db44b87085/",
+   "url": "https://www.deg-eishockey.de/gamecenter/15e62b5719a53824cb5c555de4454cfb/",
    "category": "sport",
-   "description": "DEL2 Spieltag",
+   "description": "DEL2 Spiel",
    "source": "DEG"
-  },
-  {
-   "title": "Sebastian Manz, Klarinette | Schumann Quartett",
-   "date": "2026-12-26",
-   "time": "17:00",
-   "end_date": "",
-   "venue": "Kunstpalast",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/schumann-quartett-sebastian-manz/?date=26.12.2026&time=17:00",
-   "category": "концерт",
-   "description": "erstKlassik!",
-   "source": "Kunstpalast",
-   "horizon_days": 120
   },
   {
    "title": "Ravensburg - DEG",
@@ -11267,20 +9815,6 @@
    "source": "DEG iCal",
    "team": "DEG",
    "away": true
-  },
-  {
-   "title": "Spieltag 29: Ravensburg Towerstars vs. Düsseldorfer EG",
-   "date": "2026-12-26",
-   "time": "18:30",
-   "end_date": "",
-   "venue": "",
-   "address": "",
-   "locality": "Ravensburg",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/15e62b5719a53824cb5c555de4454cfb/",
-   "category": "sport",
-   "description": "DEL2 Spieltag",
-   "source": "DEG"
   },
   {
    "time": "11:11",
