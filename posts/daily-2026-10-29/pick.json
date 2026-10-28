@@ -1,0 +1,60 @@
+{
+ "list": [
+  {
+   "time": "19:00",
+   "title": "Sing mit...",
+   "place": "Jazz-Schmiede Düsseldorf"
+  },
+  {
+   "time": "19:30",
+   "title": "21. IDO-Festival",
+   "place": "St. Franziskus-Xaverius"
+  },
+  {
+   "time": "20:00",
+   "title": "Keshavara – live",
+   "place": "Bilker Bunker"
+  },
+  {
+   "time": "",
+   "title": "Herbstkirmes",
+   "place": "Tonhallenufer"
+  },
+  {
+   "time": "09:00",
+   "title": "Santa Rosalia",
+   "place": "Zentralbibliothek"
+  },
+  {
+   "time": "",
+   "title": "Horror Halloween Week",
+   "place": "Kasematten"
+  }
+ ],
+ "highlights": [
+  {
+   "title": "Sing mit...",
+   "text": "Каждый желающий может присоединиться и спеть популярные мелодии.",
+   "time": "19:00",
+   "place": "Jazz-Schmiede Düsseldorf",
+   "price": "",
+   "tag": "концерт"
+  },
+  {
+   "title": "Herbstkirmes",
+   "place": "Tonhallenufer",
+   "price": "",
+   "tag": "фестиваль",
+   "text": "Яркая осенняя ярмарка на набережной перед закрытием.",
+   "time": ""
+  },
+  {
+   "title": "Santa Rosalia",
+   "text": "Выставка об истории покровительницы Палермо и традиционных празднествах.",
+   "time": "09:00",
+   "place": "Zentralbibliothek im KAP1",
+   "price": "бесплатно",
+   "tag": "бесплатно"
+  }
+ ]
+}
