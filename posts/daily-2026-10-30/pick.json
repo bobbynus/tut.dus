@@ -1,0 +1,60 @@
+{
+ "list": [
+  {
+   "time": "",
+   "title": "Осенняя ярмарка Herbstkirmes",
+   "place": "Tonhallenufer"
+  },
+  {
+   "time": "18:00",
+   "title": "Экскурсия с фонариками для семей",
+   "place": "Schloss Benrath"
+  },
+  {
+   "time": "19:00",
+   "title": "Барный вечер с DJ Clara Luise",
+   "place": "Schleuse Zwei"
+  },
+  {
+   "time": "19:30",
+   "title": "Концерт: Орган и 103 тромбона",
+   "place": "Johanneskirche (ev.)"
+  },
+  {
+   "time": "19:30",
+   "title": "Хоккей: DEG — EC Kassel Huskies",
+   "place": "PSD BANK DOME"
+  },
+  {
+   "time": "20:30",
+   "title": "Джаз: Michael Stephenson Trio",
+   "place": "Jazz-Schmiede Düsseldorf"
+  }
+ ],
+ "highlights": [
+  {
+   "title": "Осенняя ярмарка Herbstkirmes",
+   "text": "Праздничная ярмарка на берегу Рейна с развлечениями для всей семьи.",
+   "time": "",
+   "place": "Tonhallenufer",
+   "price": "",
+   "tag": "фестиваль"
+  },
+  {
+   "title": "Концерт: Орган и 103 тромбона",
+   "text": "Встреча органа и более сотни музыкантов на фестивале IDO.",
+   "time": "19:30",
+   "place": "Johanneskirche (ev.)",
+   "price": "",
+   "tag": "концерт"
+  },
+  {
+   "title": "Экскурсия с фонариками",
+   "text": "Семейная экскурсия с фонариками по музею естественной истории.",
+   "time": "18:00",
+   "place": "Schloss Benrath",
+   "price": "",
+   "tag": "детям"
+  }
+ ]
+}
