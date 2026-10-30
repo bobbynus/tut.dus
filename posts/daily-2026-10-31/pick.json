@@ -1,0 +1,60 @@
+{
+ "list": [
+  {
+   "time": "11:00",
+   "title": "Кукольный спектакль Supermäuschen",
+   "place": "Puppentheater"
+  },
+  {
+   "time": "11:30",
+   "title": "Концерт Blue Rose New Orleans Jazzband",
+   "place": "Aachener Platz"
+  },
+  {
+   "time": "13:00",
+   "title": "Осенняя ярмарка Herbstkirmes",
+   "place": "Tonhallenufer"
+  },
+  {
+   "time": "17:00",
+   "title": "Охота на привидений в замке",
+   "place": "Goethe-Museum"
+  },
+  {
+   "time": "18:00",
+   "title": "Фестиваль IDO: Pilot und Spiele",
+   "place": "Bergerkirche"
+  },
+  {
+   "time": "19:00",
+   "title": "Вечер с DJ-сетом в Bilker Bunker",
+   "place": "Bilker Bunker"
+  }
+ ],
+ "highlights": [
+  {
+   "title": "Джаз на Aachener Platz",
+   "text": "Концерт традиционного джаза в шатре блошиного рынка на Aachener Platz.",
+   "time": "11:30",
+   "place": "Aachener Platz",
+   "price": "бесплатно",
+   "tag": "бесплатно"
+  },
+  {
+   "title": "Охота на привидений в замке",
+   "text": "Хеллоуинская детская программа с поиском привидений в музее Гёте и парке.",
+   "time": "17:00",
+   "place": "Goethe-Museum",
+   "price": "",
+   "tag": "детям"
+  },
+  {
+   "title": "Осенняя ярмарка Herbstkirmes",
+   "text": "Традиционная осенняя ярмарка с аттракционами и развлечениями на берегу Рейна.",
+   "time": "13:00",
+   "place": "Tonhallenufer",
+   "price": "",
+   "tag": "фестиваль"
+  }
+ ]
+}
