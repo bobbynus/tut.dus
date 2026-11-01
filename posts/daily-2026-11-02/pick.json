@@ -1,0 +1,60 @@
+{
+ "list": [
+  {
+   "time": "",
+   "title": "Шествия Святого Мартина",
+   "place": "Районы города"
+  },
+  {
+   "time": "19:30",
+   "title": "Органный концерт в базилике",
+   "place": "Basilika St. Lambertus"
+  },
+  {
+   "time": "20:00",
+   "title": "Концерт Salted Caramel",
+   "place": "Tonhalle Düsseldorf"
+  },
+  {
+   "time": "",
+   "title": "Книжная ярмарка в библиотеке",
+   "place": "Gerhart-Hauptmann-Haus"
+  },
+  {
+   "time": "18:00",
+   "title": "Лекция Ferire per amare",
+   "place": "Zentralbibliothek im KAP1"
+  },
+  {
+   "time": "10:00",
+   "title": "Спектакль Die Tür",
+   "place": "Central 2"
+  }
+ ],
+ "highlights": [
+  {
+   "title": "Шествия Святого Мартина",
+   "text": "Традиционные вечерние шествия с фонариками для всей семьи в районах Дюссельдорфа.",
+   "time": "",
+   "place": "Районы города",
+   "price": "бесплатно",
+   "tag": "детям"
+  },
+  {
+   "title": "Органный концерт в базилике",
+   "text": "Вечер органной музыки высокого уровня в исторической атмосфере St. Lambertus.",
+   "time": "19:30",
+   "place": "Basilika St. Lambertus",
+   "price": "",
+   "tag": "концерт"
+  },
+  {
+   "title": "Книжная ярмарка в библиотеке",
+   "text": "Большой выбор художественной и специальной литературы из библиотечных фондов.",
+   "time": "",
+   "place": "Gerhart-Hauptmann-Haus",
+   "price": "",
+   "tag": "рынок"
+  }
+ ]
+}
