@@ -1,0 +1,60 @@
+{
+ "list": [
+  {
+   "time": "18:00",
+   "title": "Hauptsache singen!",
+   "place": "Johanneskirche (ev.)"
+  },
+  {
+   "time": "20:00",
+   "title": "Jam Session",
+   "place": "Jazz-Schmiede Düsseldorf"
+  },
+  {
+   "time": "",
+   "title": "Bücherbasar in der Bibliothek",
+   "place": "Stiftung Gerhart-Hauptm."
+  },
+  {
+   "time": "18:00",
+   "title": "Miu: Poetry of Moving Lights",
+   "place": "FFT Düsseldorf"
+  },
+  {
+   "time": "",
+   "title": "Playground. Ein Spielplatz",
+   "place": "K20 Kunstsammlung NRW"
+  },
+  {
+   "time": "",
+   "title": "Düsseldorf 1941",
+   "place": "Mahn- und Gedenkstätte"
+  }
+ ],
+ "highlights": [
+  {
+   "title": "Hauptsache singen!",
+   "text": "Gemeinsam bekannte Lieder singen – ohne Vorkenntnisse, ohne Verpflichtung und ohne Anmeldung.",
+   "time": "18:00",
+   "place": "Johanneskirche (ev.)",
+   "price": "бесплатно",
+   "tag": "концерт"
+  },
+  {
+   "title": "Bücherbasar",
+   "place": "Stiftung Gerhart-Hauptm.",
+   "price": "бесплатно",
+   "tag": "рынок",
+   "text": "Большой выбор литературы и редких изданий из библиотечных фондов по доступным ценам.",
+   "time": ""
+  },
+  {
+   "title": "Playground: Игровая площадка",
+   "place": "K20 Kunstsammlung NRW",
+   "price": "",
+   "tag": "детям",
+   "text": "Интерактивная музейная площадка, где дети могут играть, бегать и исследовать пространство.",
+   "time": ""
+  }
+ ]
+}
