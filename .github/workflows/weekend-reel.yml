@@ -1,0 +1,57 @@
+name: Weekend reel
+
+# Рилс «Выходные за 30 секунд» (tools/reels/weekend.py): собирается в среду вечером,
+# бот присылает черновик владельцу, публикация в четверг 19:00 из приложения с трендовым звуком.
+on:
+  schedule:
+    - cron: "40 17 * * 3"   # среда ~18:40 по Берлину зимой
+  workflow_dispatch:
+    inputs:
+      friday:
+        description: "Пятница выходных (YYYY-MM-DD). Пусто — ближайшая"
+        required: false
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: weekend-reel
+
+jobs:
+  stories:
+    runs-on: ubuntu-24.04  # закреплено: на 26.04 Playwright не ставится (октябрь 2026)
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - name: Install renderer
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
+          npm i -g playwright@1.56.1 >/dev/null
+          npx playwright install --with-deps chromium >/dev/null
+          cd design && npm ci --silent
+      - name: Build stories
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          WEEKEND_FRIDAY: ${{ inputs.friday }}
+        run: python3 tools/reels/weekend.py
+      - name: Commit
+        run: |
+          if [ -n "$(git status --porcelain posts data)" ]; then
+            git config user.name "tut.dus bot"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add posts data && git commit -m "Weekend reel ${{ inputs.friday }} [skip ci]"
+            git pull --rebase -q && git push
+          fi
+      - name: Alert on failure
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          title="Рилс «Выходные» не собрался"
+          gh label create "внимание" --color e2001a --force -R "$GITHUB_REPOSITORY" >/dev/null
+          if [ -z "$(gh issue list -R "$GITHUB_REPOSITORY" --label "внимание" --state open --search "$title in:title" --json number -q '.[].number')" ]; then
+            gh issue create -R "$GITHUB_REPOSITORY" --label "внимание" --title "$title" \
+              --body "@${GITHUB_REPOSITORY_OWNER} Сборка рилса «Выходные» упала: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID — черновик не придёт, пока не починим. Напишите Claude."
+          fi

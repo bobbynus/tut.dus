@@ -4,6 +4,7 @@
 - events-collect.yml — если сегодня (по Берлину) ещё не было сбора и уже после 10:00
 - daily-stories.yml  — если после 20:00 нет сторис на завтра
 - health.yml         — если после 09:30 сегодня ещё не было проверки «нужно ли внимание»
+- weekend-reel.yml   — в среду после 19:00, если рилса «Выходные» ещё нет
 """
 import json
 from datetime import datetime, timedelta
@@ -28,4 +29,7 @@ except Exception:
     health = ""
 if (now.hour, now.minute) >= (9, 30) and health != now.date().isoformat():
     todo.append("health.yml")
+fri = now.date() + timedelta(days=(4 - now.weekday()) % 7)
+if now.weekday() == 2 and now.hour >= 19 and not (ROOT / "posts" / f"r-weekend-{fri}" / "post.json").exists():
+    todo.append("weekend-reel.yml")
 print(" ".join(todo))

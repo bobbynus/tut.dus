@@ -52,7 +52,8 @@ def plan(seg, base):
     layer = seg.get("image") if "image" in seg else seg.get("overlay")
     need = read_seconds(texts.get(Path(layer).stem, 0)) if layer else 0.0
     if "image" in seg:
-        return max(d, need), 1.0
+        full = max(d, need)
+        return (min(full, float(seg["max"])) if seg.get("max") else full), 1.0
     slow = seg.get("slow") or (min(need / d, MAX_SLOW) if need > d else 1.0)
     return d * slow, slow
 
