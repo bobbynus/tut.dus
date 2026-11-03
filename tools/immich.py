@@ -60,15 +60,26 @@ def diagnose(path):
 
 
 def ping():
+    """Проверяем ровно то, что нужно: поиск (asset.read), миниатюры (asset.view), скачивание (asset.download)."""
+    import urllib.error
     diagnose("/server/ping")
     print("сервер:", req("/server/ping"))
-    me = req("/users/me")
-    print("вход выполнен, пользователь:", me.get("name") or "есть")
     try:
-        st = req("/server/statistics") if me.get("isAdmin") else None
-        if st: print("всего фото:", st.get("photos"), "видео:", st.get("videos"))
-    except Exception:
-        pass
+        res = req("/search/metadata", {"city": "Düsseldorf", "page": 1, "size": 1})
+        items = res.get("assets", {}).get("items", [])
+        print(f"поиск: работает, всего с местом Düsseldorf: {res.get('assets', {}).get('total', '?')}")
+    except urllib.error.HTTPError as e:
+        print(f"поиск: {e.code} — у ключа нет права asset.read"); return
+    if not items:
+        print("с местом «Düsseldorf» ничего не нашлось — проверим, как называется город в метаданных"); return
+    aid = items[0]["id"]
+    for what, path, perm in (("миниатюра", f"/assets/{aid}/thumbnail?size=thumbnail", "asset.view"),
+                             ("скачивание", f"/assets/{aid}/original", "asset.download")):
+        try:
+            req(path, raw=True, timeout=120)
+            print(f"{what}: работает")
+        except urllib.error.HTTPError as e:
+            print(f"{what}: {e.code} — у ключа нет права {perm}")
 
 
 def search(city, kind, limit):
