@@ -1,0 +1,14 @@
+{
+  "type": "reel",
+  "status": "manual",
+  "title": "Выходные 6–8 ноября",
+  "caption_file": "caption.txt",
+  "media": [
+    "reel.mp4"
+  ],
+  "cover": "cover.jpg",
+  "share_to_feed": true,
+  "publish_at": "2026-11-05T19:00:00+01:00",
+  "send_at": "2026-11-04T20:00:00+01:00",
+  "music_hint": "трендовый бодрый звук из Instagram (текста немного — можно со словами)"
+}
