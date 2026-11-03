@@ -1,0 +1,60 @@
+{
+ "list": [
+  {
+   "time": "",
+   "title": "Шествия Св. Мартина",
+   "place": "Районы Дюссельдорфа"
+  },
+  {
+   "time": "",
+   "title": "Книжный базар в библиотеке",
+   "place": "Gerhart-Hauptmann-Haus"
+  },
+  {
+   "time": "18:00",
+   "title": "Концерт Die Earworms и Youlity",
+   "place": "Дюссельдорф"
+  },
+  {
+   "time": "19:00",
+   "title": "Спектакль Alles hört auf Tells Kommando",
+   "place": "Bücherei Derendorf"
+  },
+  {
+   "time": "20:00",
+   "title": "Импро-театр Phönixallee",
+   "place": "Theater an der Luegallee"
+  },
+  {
+   "time": "20:30",
+   "title": "Концерт Duò Lavoà Lapò",
+   "place": "Jazz-Schmiede Düsseldorf"
+  }
+ ],
+ "highlights": [
+  {
+   "title": "Шествия Св. Мартина",
+   "text": "Традиционные вечерние шествия для детей и родителей проходят в разных районах города.",
+   "time": "",
+   "place": "Районы Дюссельдорфа",
+   "price": "",
+   "tag": "детям"
+  },
+  {
+   "title": "Книжный базар в библиотеке",
+   "text": "Распродажа списанных изданий и дубликатов из фондов библиотеки по самым разным темам.",
+   "time": "",
+   "place": "Gerhart-Hauptmann-Haus",
+   "price": "",
+   "tag": "рынок"
+  },
+  {
+   "title": "Концерт Duò Lavoà Lapò",
+   "text": "Французский дуэт исполнит окситанскую вокальную музыку в сопровождении рамочных барабанов.",
+   "time": "20:30",
+   "place": "Jazz-Schmiede Düsseldorf",
+   "price": "",
+   "tag": "концерт"
+  }
+ ]
+}
