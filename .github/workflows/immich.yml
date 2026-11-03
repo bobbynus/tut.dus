@@ -6,8 +6,8 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: "ping | scan | import"
-        default: "scan"
+        description: "album | ping | scan | import"
+        default: "album"
       picks:
         description: "import: номера с темами, через пробел (12:rhein,bridge 15:altstadt)"
         required: false
@@ -55,6 +55,16 @@ jobs:
           path: immich-out/
           run-id: ${{ inputs.scan_run }}
           github-token: ${{ github.token }}
+      - name: Album
+        if: inputs.mode == 'album'
+        env:
+          IMMICH_URL: ${{ secrets.IMMICH_URL }}
+          IMMICH_API_KEY: ${{ secrets.IMMICH_API_KEY }}
+        run: |
+          python3 tools/immich.py album
+          git config user.name "tut.dus bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add library data/immich-imported.json 2>/dev/null; git diff --cached --quiet || { git commit -qm "Footage from Immich album [skip ci]" && git pull -q --rebase && git push -q; }
       - name: Import
         if: inputs.mode == 'import'
         env:

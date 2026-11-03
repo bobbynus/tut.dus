@@ -11,6 +11,7 @@
   immich.py ping
   immich.py scan [--city Düsseldorf] [--limit 150]
   immich.py import <номер:темы,через,запятую> ...      (номера из candidates.json последнего scan)
+  immich.py album                                        (всё новое из альбома «tut.dus» — его наполняет владелец)
 """
 import hashlib, json, os, subprocess, sys, urllib.error, urllib.request
 from pathlib import Path
@@ -195,6 +196,28 @@ def import_(specs, cands_file):
     DONE.write_text(json.dumps(sorted(seen), indent=0) + "\n")
 
 
+def album(name="tut.dus", limit=20):
+    """Импорт кадров, которые владелец сам положил в альбом «tut.dus» (нужно право album.read).
+    Темы ставятся «city» + new — точные проставляет Claude после просмотра уже импортированных файлов."""
+    albums = req("/albums")
+    al = next((a for a in albums if a.get("albumName", "").strip().lower() == name.lower()), None)
+    if not al:
+        sys.exit(f"Альбом «{name}» не найден — создайте его в Immich и добавьте кадры")
+    assets = req(f"/albums/{al['id']}").get("assets", [])
+    seen = done()
+    new = [a for a in assets if h(a["id"]) not in seen and a.get("type") in ("VIDEO", "IMAGE")][:limit]
+    print(f"в альбоме {len(assets)}, новых {len(new)}")
+    cands = [{"n": i, "id": a["id"], "type": a["type"]} for i, a in enumerate(new, 1)]
+    if not cands:
+        return
+    tmpf = ROOT / "_album.json"
+    tmpf.write_text(json.dumps(cands))
+    try:
+        import_([f"{c['n']}:city,new" for c in cands], tmpf)
+    finally:
+        tmpf.unlink(missing_ok=True)
+
+
 if __name__ == "__main__":
     if not BASE or not KEY:
         sys.exit("Нет IMMICH_URL / IMMICH_API_KEY")
@@ -207,3 +230,5 @@ if __name__ == "__main__":
              int(a[a.index("--limit") + 1]) if "--limit" in a else 60)
     elif cmd == "import":
         import_(sys.argv[3:], sys.argv[2])
+    elif cmd == "album":
+        album()
