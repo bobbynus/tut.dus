@@ -198,7 +198,9 @@ def main():
     important.sort(key=lambda e: e.get("source") == "Autobahn GmbH")  # сначала полиция и город, потом автобаны
     for e in important[:2]:  # демонстрации, перекрытия — плашкой
         when = f" с {e['time']}" if e.get("time") and e["time"] != "00:00" else ""
-        notes.append(f"Внимание{when}: {e['title']}" + (f" ({e['venue']})" if e.get("venue") else ""))
+        venue = e.get("venue", "")
+        same = venue and (venue in e["title"] or e["title"].split(":", 1)[-1].strip() in venue)
+        notes.append(f"Внимание{when}: {e['title']}" + (f" ({venue})" if venue and not same else ""))
     if not today and not ongoing and not games and not notes:
         print("На сегодня событий нет — сторис не делаем"); return
     try:

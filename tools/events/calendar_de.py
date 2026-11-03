@@ -59,11 +59,12 @@ def notices(day):
     out = []
     h = {**holidays_nrw(day.year), **holidays_nrw(day.year + 1)}
     sp = {**special_days(day.year), **special_days(day.year + 1)}
-    if day in h:
+    # праздник в воскресенье ничего не меняет: магазины и так закрыты — о закрытии не предупреждаем
+    if day in h and day.weekday() != 6:
         out.append(f"Сегодня праздник: {h[day]}. Магазины закрыты")
     for n, word in ((1, "Завтра"), (2, "Послезавтра")):
         d = day + timedelta(days=n)
-        if d in h:
+        if d in h and d.weekday() != 6:
             out.append(f"{word}, {d:%d.%m} — {h[d]}: магазины закрыты. Закупитесь заранее")
             break
     if day in SHOPPING_SUNDAYS:
