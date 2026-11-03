@@ -94,6 +94,18 @@ def search(city, kind, limit):
     return items
 
 
+def secs(a):
+    """Длительность видео: в разных версиях Immich это строка «ч:мм:сс.ммм» или число (секунды или миллисекунды)."""
+    d = a.get("duration")
+    if isinstance(d, (int, float)):
+        return d / 1000 if d > 10000 else float(d)
+    try:
+        h_, m, sec = (d or "0:0:0").split(":")
+        return int(h_) * 3600 + int(m) * 60 + float(sec)
+    except Exception:
+        return 0.0
+
+
 def scan(city="Düsseldorf", limit=60):
     OUT.mkdir(exist_ok=True)
     seen = done()
@@ -103,14 +115,10 @@ def scan(city="Düsseldorf", limit=60):
         ok = [a for a in found if not a.get("people") and h(a["id"]) not in seen and not a.get("isArchived")
               and not a.get("isTrashed")]
         if kind == "VIDEO":  # совсем короткие и очень длинные не берём
-            def secs(a):
-                d = (a.get("duration") or "0:0:0").split(":")
-                try: return int(d[0]) * 3600 + int(d[1]) * 60 + float(d[2])
-                except Exception: return 0
             ok = [a for a in ok if 4 <= secs(a) <= 180]
         print(f"{kind}: найдено {len(found)}, без людей и новых {len(ok)}")
         cands += [{"id": a["id"], "type": kind, "date": (a.get("fileCreatedAt") or "")[:10],
-                   "dur": a.get("duration", "")} for a in ok[:limit]]
+                   "dur": round(secs(a)) if kind == "VIDEO" else 0} for a in ok[:limit]]
     thumbs = OUT / "thumbs"; thumbs.mkdir(exist_ok=True)
     no_view = False  # у ключа может не быть права asset.view — тогда миниатюру делаем из оригинала
     for n, c in enumerate(cands, 1):
@@ -144,7 +152,7 @@ def scan(city="Düsseldorf", limit=60):
         for c in part:
             f = thumbs / f"{c['n']:03d}.webp"
             if f.exists():
-                label = f"{c['n']} {'▶ ' + c['dur'].split('.')[0][-5:] if c['type'] == 'VIDEO' else ''} {c['date']}"
+                label = f"{c['n']} {'▶ %d с' % c['dur'] if c['type'] == 'VIDEO' else ''} {c['date']}"
                 args += ["-label", label, str(f)]
         if args:
             subprocess.run(["montage", "-pointsize", "12", *args, "-geometry", "200x200+3+3", "-tile", "8x",
