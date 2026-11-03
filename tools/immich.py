@@ -26,7 +26,7 @@ def req(path, body=None, raw=False, timeout=120):
     r = urllib.request.Request(f"{BASE}/api{path}", method="POST" if body is not None else "GET",
                                data=json.dumps(body).encode() if body is not None else None,
                                headers={"x-api-key": KEY, "Accept": "application/json" if not raw else "*/*",
-                                        "Content-Type": "application/json"})
+                                        "Content-Type": "application/json", "User-Agent": "tut.dus-immich/1.0"})
     with urllib.request.urlopen(r, timeout=timeout) as resp:
         return resp.read() if raw else json.load(resp)
 
@@ -39,7 +39,28 @@ def done():
     return set(json.loads(DONE.read_text())) if DONE.exists() else set()
 
 
+def diagnose(path):
+    """Кто отвечает на запрос: сам Immich или прокси/защита перед ним. Ключ и адрес не печатаются."""
+    import urllib.error
+    from urllib.parse import urlparse
+    u = urlparse(BASE)
+    print(f"адрес: схема {u.scheme}, путь в адресе: {'есть (' + u.path + ')' if u.path not in ('', '/') else 'нет'}")
+    for with_key in (False, True):
+        hdr = {"User-Agent": "tut.dus-immich/1.0", "Accept": "application/json"}
+        if with_key: hdr["x-api-key"] = KEY
+        try:
+            with urllib.request.urlopen(urllib.request.Request(BASE + "/api" + path, headers=hdr), timeout=30) as r:
+                print(f"{'с ключом' if with_key else 'без ключа'}: {r.status}, server={r.headers.get('server')}")
+        except urllib.error.HTTPError as e:
+            body = e.read()[:300].decode("utf-8", "replace").replace("\n", " ")
+            print(f"{'с ключом' if with_key else 'без ключа'}: {e.code}, server={e.headers.get('server')}, "
+                  f"cf-ray={'да' if e.headers.get('cf-ray') else 'нет'}, ответ: {body[:200]}")
+        except Exception as e:
+            print(f"{'с ключом' if with_key else 'без ключа'}: ошибка {type(e).__name__}: {e}")
+
+
 def ping():
+    diagnose("/server/ping")
     print("сервер:", req("/server/ping"))
     me = req("/users/me")
     print("вход выполнен, пользователь:", me.get("name") or "есть")
