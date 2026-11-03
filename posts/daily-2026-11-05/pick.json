@@ -1,0 +1,60 @@
+{
+ "list": [
+  {
+   "time": "15:00",
+   "title": "Скульптура GATE von Erwin Wurm",
+   "place": "Gustaf-Gründgens-Platz"
+  },
+  {
+   "time": "16:15",
+   "title": "Хоккей: Deutschland Cup 2026",
+   "place": "PSD BANK DOME"
+  },
+  {
+   "time": "20:00",
+   "title": "Концерт Wildes Holz: Klassiker",
+   "place": "Savoy Theater"
+  },
+  {
+   "time": "20:00",
+   "title": "Спектакль Stephen Kings - Misery",
+   "place": "Theater an der Luegallee"
+  },
+  {
+   "time": "",
+   "title": "Шествия Святого Мартина",
+   "place": "Районы Дюссельдорфа"
+  },
+  {
+   "time": "",
+   "title": "Книжный базар Bücherbasar",
+   "place": "Gerhart-Hauptmann-Haus"
+  }
+ ],
+ "highlights": [
+  {
+   "title": "Скульптура GATE von Erwin Wurm",
+   "text": "Торжественное открытие скульптуры Эрвина Вурма с участием бургомистра Дюссельдорфа.",
+   "time": "",
+   "place": "",
+   "price": "",
+   "tag": "выставка"
+  },
+  {
+   "title": "Хоккей: Deutschland Cup 2026",
+   "text": "Четыре национальные сборные сражаются за титул турнира на арене PSD BANK DOME.",
+   "time": "",
+   "place": "",
+   "price": "",
+   "tag": "спорт"
+  },
+  {
+   "title": "Шествия Святого Мартина",
+   "text": "Традиционные вечерние костюмированные шествия с фонариками для детей и родителей.",
+   "time": "",
+   "place": "",
+   "price": "",
+   "tag": "детям"
+  }
+ ]
+}
