@@ -12,7 +12,7 @@
   immich.py scan [--city Düsseldorf] [--limit 150]
   immich.py import <номер:темы,через,запятую> ...      (номера из candidates.json последнего scan)
 """
-import hashlib, json, os, subprocess, sys, urllib.request
+import hashlib, json, os, subprocess, sys, urllib.error, urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -94,7 +94,7 @@ def search(city, kind, limit):
     return items
 
 
-def scan(city="Düsseldorf", limit=150):
+def scan(city="Düsseldorf", limit=60):
     OUT.mkdir(exist_ok=True)
     seen = done()
     cands = []
@@ -112,12 +112,31 @@ def scan(city="Düsseldorf", limit=150):
         cands += [{"id": a["id"], "type": kind, "date": (a.get("fileCreatedAt") or "")[:10],
                    "dur": a.get("duration", "")} for a in ok[:limit]]
     thumbs = OUT / "thumbs"; thumbs.mkdir(exist_ok=True)
+    no_view = False  # у ключа может не быть права asset.view — тогда миниатюру делаем из оригинала
     for n, c in enumerate(cands, 1):
         c["n"] = n
+        out = thumbs / f"{n:03d}.webp"
         try:
-            (thumbs / f"{n:03d}.webp").write_bytes(req(f"/assets/{c['id']}/thumbnail?size=thumbnail", raw=True))
+            if not no_view:
+                out.write_bytes(req(f"/assets/{c['id']}/thumbnail?size=thumbnail", raw=True))
+                continue
+        except urllib.error.HTTPError as e:
+            if e.code != 403:
+                print(f"  миниатюра {n}: {e}"); continue
+            no_view = True
+            print("  нет права asset.view — миниатюры делаю из оригиналов (медленнее)")
+        try:
+            tmp = OUT / f"_{n}.orig"
+            tmp.write_bytes(req(f"/assets/{c['id']}/original", raw=True, timeout=600))
+            if c["type"] == "VIDEO":
+                subprocess.run(["ffmpeg", "-nostdin", "-loglevel", "error", "-y", "-ss", "2", "-i", str(tmp),
+                                "-frames:v", "1", "-vf", "scale=300:-2", str(out.with_suffix(".jpg"))], check=True)
+                out.with_suffix(".jpg").rename(out)
+            else:
+                subprocess.run(["convert", str(tmp) + "[0]", "-auto-orient", "-thumbnail", "300x300", str(out)], check=True)
+            tmp.unlink()
         except Exception as e:
-            print(f"  миниатюра {n}: {e}")
+            print(f"  миниатюра {n} из оригинала: {e}")
     # таблицы по 48 штук с номерами (у видео — значок ▶ и длительность)
     for i in range(0, len(cands), 48):
         part = cands[i:i + 48]
@@ -177,6 +196,6 @@ if __name__ == "__main__":
     elif cmd == "scan":
         a = sys.argv[2:]
         scan(a[a.index("--city") + 1] if "--city" in a else "Düsseldorf",
-             int(a[a.index("--limit") + 1]) if "--limit" in a else 150)
+             int(a[a.index("--limit") + 1]) if "--limit" in a else 60)
     elif cmd == "import":
         import_(sys.argv[3:], sys.argv[2])
