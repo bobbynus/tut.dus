@@ -1,0 +1,43 @@
+{
+ "output": "reel.mp4",
+ "transition": 0.35,
+ "segments": [
+  {
+   "image": "w0.png",
+   "duration": 4.0,
+   "max": 4.0
+  },
+  {
+   "image": "w1.png",
+   "duration": 7.0,
+   "max": 7.0
+  },
+  {
+   "image": "w2.png",
+   "duration": 7.0,
+   "max": 7.0
+  },
+  {
+   "image": "w3.png",
+   "duration": 7.0,
+   "max": 7.0
+  },
+  {
+   "image": "w4.png",
+   "duration": 7.0,
+   "max": 7.0
+  },
+  {
+   "image": "w5.png",
+   "duration": 7.0,
+   "max": 7.0
+  },
+  {
+   "image": "w6.png",
+   "duration": 7.0,
+   "max": 7.0
+  }
+ ],
+ "music": "../../library/music/upbeat-sub_clair-background-music-591220.mp3",
+ "music_start": 4
+}
