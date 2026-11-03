@@ -32,7 +32,7 @@ def candidates():
     evs = json.loads((ROOT / "data" / "events.json").read_text())["events"]
     out = []
     for e in evs:
-        if e.get("traffic") or e.get("category") == "важное" or not keep(e):
+        if e.get("traffic") or e.get("category") == "важное" or e.get("away") or not keep(e):  # выезд — не «куда пойти»
             continue
         try:
             d = date.fromisoformat(e["date"]); end = date.fromisoformat(e.get("end_date") or e["date"])
