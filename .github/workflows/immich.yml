@@ -1,0 +1,68 @@
+name: Immich
+
+# Кадры из Immich владельца (tools/immich.py). scan — таблица миниатюр в artifact на сутки (не в репозиторий);
+# import — только отобранные номера: без звука и метаданных, в library/ и каталог фонов.
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "ping | scan | import"
+        default: "scan"
+      picks:
+        description: "import: номера с темами, через пробел (12:rhein,bridge 15:altstadt)"
+        required: false
+      scan_run:
+        description: "import: номер запуска scan, из которого брать список"
+        required: false
+
+permissions:
+  contents: write
+  actions: read
+
+concurrency:
+  group: immich
+
+jobs:
+  immich:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install tools
+        if: inputs.mode != 'ping'
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg imagemagick >/dev/null
+      - name: Ping
+        if: inputs.mode == 'ping'
+        env:
+          IMMICH_URL: ${{ secrets.IMMICH_URL }}
+          IMMICH_API_KEY: ${{ secrets.IMMICH_API_KEY }}
+        run: python3 tools/immich.py ping
+      - name: Scan
+        if: inputs.mode == 'scan'
+        env:
+          IMMICH_URL: ${{ secrets.IMMICH_URL }}
+          IMMICH_API_KEY: ${{ secrets.IMMICH_API_KEY }}
+        run: python3 tools/immich.py scan
+      - uses: actions/upload-artifact@v4
+        if: inputs.mode == 'scan'
+        with:
+          name: immich-scan
+          path: immich-out/
+          retention-days: 1
+      - uses: actions/download-artifact@v4
+        if: inputs.mode == 'import'
+        with:
+          name: immich-scan
+          path: immich-out/
+          run-id: ${{ inputs.scan_run }}
+          github-token: ${{ github.token }}
+      - name: Import
+        if: inputs.mode == 'import'
+        env:
+          IMMICH_URL: ${{ secrets.IMMICH_URL }}
+          IMMICH_API_KEY: ${{ secrets.IMMICH_API_KEY }}
+          PICKS: ${{ inputs.picks }}
+        run: |
+          python3 tools/immich.py import immich-out/candidates.json $PICKS
+          git config user.name "tut.dus bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add library data/immich-imported.json && git commit -qm "Footage from Immich [skip ci]" && git pull -q --rebase && git push -q
