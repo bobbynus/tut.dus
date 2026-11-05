@@ -1,0 +1,60 @@
+{
+ "list": [
+  {
+   "time": "08:00",
+   "title": "Блошиный рынок на Aachener Platz",
+   "place": "Aachener Platz"
+  },
+  {
+   "time": "09:00",
+   "title": "Забег Volksgarten parkrun",
+   "place": "Volksgarten"
+  },
+  {
+   "time": "11:30",
+   "title": "Джаз: Woodhouse feat. Eva Lange",
+   "place": "Antik- und Trödelzelt"
+  },
+  {
+   "time": "12:00",
+   "title": "Семейный мастер-класс в K20",
+   "place": "K20"
+  },
+  {
+   "time": "19:00",
+   "title": "Барный вечер с DJ Arnelegtauf",
+   "place": "Schleuse Zwei"
+  },
+  {
+   "time": "19:30",
+   "title": "Спектакль «Метель»",
+   "place": "Schauspielhaus"
+  }
+ ],
+ "highlights": [
+  {
+   "title": "Джазовый концерт Woodhouse",
+   "text": "Бесплатный живой джаз в исполнении Woodhouse и Eva Lange на Aachener Platz.",
+   "time": "11:30",
+   "place": "Antik- und Trödelzelt",
+   "price": "бесплатно",
+   "tag": "бесплатно"
+  },
+  {
+   "title": "Спектакль «Метель»",
+   "text": "Постановка Кирилла Серебренникова по повести Владимира Сорокина на большой сцене.",
+   "time": "19:30",
+   "place": "Schauspielhaus",
+   "price": "",
+   "tag": "театр"
+  },
+  {
+   "title": "Семейный workshop в K20",
+   "text": "Творческое занятие в K20: дети и взрослые мастерят собственные куклы и костюмы.",
+   "time": "12:00",
+   "place": "K20",
+   "price": "",
+   "tag": "детям"
+  }
+ ]
+}
