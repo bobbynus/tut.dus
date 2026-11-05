@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-05T11:39",
- "count": 705,
+ "generated_at": "2026-11-05T16:31",
+ "count": 706,
  "events": [
   {
    "title": "A44:  Düsseldorf -> Essen",
@@ -192,6 +192,7 @@
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
     "Visit Düsseldorf",
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -238,6 +239,7 @@
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
     "Visit Düsseldorf",
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -270,6 +272,7 @@
    "source": "Kunstsammlung NRW: календарь",
    "horizon_days": 21,
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -401,6 +404,7 @@
    "description": "von Alice Birch nach Federico García Lorca Regie Lucia Bihler",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
@@ -826,34 +830,6 @@
    "end_date": "2026-12-13"
   },
   {
-   "title": "60 Jahre diplomatische Beziehungen zwischen Israel und Deutschland",
-   "venue": "Rathaus",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Die Verbindungen zwischen Deutschland und Israel sind heute vielfältig und stark: durch Städtepartnerschaften, Kultur, Sport, Tourismus und wirtschaftliche Zusammenarbeit.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-05",
-   "time": "",
-   "end_date": "2026-11-30"
-  },
-  {
-   "title": "Farbwelten",
-   "venue": "DRK „zentrum plus“ Friedrichstadt",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Farbwelten sind mehr als Farben: Sie übermitteln Gefühle und Stimmungen und entspringen dem Inneren – wie die Worte eines Gedichtes.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-05",
-   "time": "",
-   "end_date": "2027-02-26"
-  },
-  {
    "title": "Julia Reisinger. Iniusta iustitia",
    "venue": "Kunsthalle Düsseldorf",
    "address": "",
@@ -880,20 +856,6 @@
    "date": "2026-11-05",
    "time": "",
    "end_date": "2027-02-21"
-  },
-  {
-   "title": "Düsseldorf 1941. Jahr der Eskalation",
-   "venue": "Mahn- und Gedenkstätte Düsseldorf",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Die Mahn- und Gedenkstätte zeigt ab Dienstag, 3. November 2026, ihre neue Sonderausstellung \"Düsseldorf 1941. Jahr der Eskalation\".",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-05",
-   "time": "",
-   "end_date": "2027-08-28"
   },
   {
    "title": "Sienna Maria Baumann: Declutter",
@@ -980,20 +942,6 @@
    "end_date": "2027-05-23"
   },
   {
-   "title": "Kaiserswerther Diakonie zeigt Werke von Walter Liggesmeyer",
-   "venue": "K3",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Die E.ON Art Collection übergibt der Kaiserswerther Diakonie 45 Gemälde von Walter Liggesmeyer (1938–2017).",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-05",
-   "time": "",
-   "end_date": "2026-12-31"
-  },
-  {
    "title": "Leise rieselt der Schmäh - Wiener Kaffeehausgeschichten",
    "venue": "Roncalli’s Apollo-Varieté",
    "address": "",
@@ -1006,20 +954,6 @@
    "date": "2026-11-05",
    "time": "",
    "end_date": "2027-01-10"
-  },
-  {
-   "title": "Playground. Ein Spielplatz im Museum",
-   "venue": "K20 Kunstsammlung Nordrhein-Westfalen",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://shop.kunstsammlung.de/de/offers/a571",
-   "category": "выставка",
-   "description": "Die Ausstellung „Playground“ lädt Kinder dazu ein, zu berühren, zu klettern, zu rennen und ihrer Fantasie freien Lauf zu lassen – in einer träumerischen Landschaft, die wie aus einer anderen Welt wirkt.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-05",
-   "time": "",
-   "end_date": "2027-07-18"
   },
   {
    "title": "Spot on: 100 Jahre GeSoLei",
@@ -1092,6 +1026,23 @@
    "source": "zakk"
   },
   {
+   "title": "Fototage",
+   "venue": "Foto Koch",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "событие",
+   "description": "Fotografie erleben, Neuheiten entdecken und echte Profi-Tipps mitnehmen: Bei den Fototagen am 6. & 7. November erwarten dich spannende Live-Workshops, Fotowalks, Clean & Check und exklusive Messe-Deals.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-06",
+   "time": "10:00",
+   "end_date": "",
+   "also_in": [
+    "allevents: выходные"
+   ]
+  },
+  {
    "title": "Markus Berg: Rhythmus - Geometrie und Musik",
    "venue": "BiBaBuZe",
    "address": "",
@@ -1119,6 +1070,7 @@
    "description": "von Kim Langner nach dem Roman von George Orwell Regie Katharina Birch",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
@@ -1309,6 +1261,7 @@
    "description": "von Anton Tschechow Regie Barbara Frey",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
@@ -1583,25 +1536,6 @@
    ]
   },
   {
-   "title": "Fototage",
-   "date": "2026-11-06",
-   "time": "",
-   "end_date": "2026-11-07",
-   "venue": "Foto Koch",
-   "address": "Schadowstraße 62, Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://allevents.in/d%C3%BCsseldorf/fototage/100002001042911214",
-   "category": "событие",
-   "description": "",
-   "source": "allevents: все",
-   "also_in": [
-    "allevents: все",
-    "allevents: выходные",
-    "Visit Düsseldorf"
-   ]
-  },
-  {
    "title": "Barhopping für Singles – Die Speeddating Alternative",
    "date": "2026-11-06",
    "time": "",
@@ -1726,6 +1660,76 @@
    "date": "2026-11-06",
    "time": "",
    "end_date": "2026-11-14"
+  },
+  {
+   "title": "60 Jahre diplomatische Beziehungen zwischen Israel und Deutschland",
+   "venue": "Rathaus",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Die Verbindungen zwischen Deutschland und Israel sind heute vielfältig und stark: durch Städtepartnerschaften, Kultur, Sport, Tourismus und wirtschaftliche Zusammenarbeit.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-06",
+   "time": "",
+   "end_date": "2026-11-30"
+  },
+  {
+   "title": "Farbwelten",
+   "venue": "DRK „zentrum plus“ Friedrichstadt",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Farbwelten sind mehr als Farben: Sie übermitteln Gefühle und Stimmungen und entspringen dem Inneren – wie die Worte eines Gedichtes.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-06",
+   "time": "",
+   "end_date": "2027-02-26"
+  },
+  {
+   "title": "Düsseldorf 1941. Jahr der Eskalation",
+   "venue": "Mahn- und Gedenkstätte Düsseldorf",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Die Mahn- und Gedenkstätte zeigt ab Dienstag, 3. November 2026, ihre neue Sonderausstellung \"Düsseldorf 1941. Jahr der Eskalation\".",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-06",
+   "time": "",
+   "end_date": "2027-08-28"
+  },
+  {
+   "title": "Kaiserswerther Diakonie zeigt Werke von Walter Liggesmeyer",
+   "venue": "K3",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Die E.ON Art Collection übergibt der Kaiserswerther Diakonie 45 Gemälde von Walter Liggesmeyer (1938–2017).",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-06",
+   "time": "",
+   "end_date": "2026-12-31"
+  },
+  {
+   "title": "Playground. Ein Spielplatz im Museum",
+   "venue": "K20 Kunstsammlung Nordrhein-Westfalen",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://shop.kunstsammlung.de/de/offers/a571",
+   "category": "выставка",
+   "description": "Die Ausstellung „Playground“ lädt Kinder dazu ein, zu berühren, zu klettern, zu rennen und ihrer Fantasie freien Lauf zu lassen – in einer träumerischen Landschaft, die wie aus einer anderen Welt wirkt.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-06",
+   "time": "",
+   "end_date": "2027-07-18"
   },
   {
    "title": "Ballett am Rhein: Forsythe/Eyal",
@@ -2286,6 +2290,7 @@
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
     "Visit Düsseldorf",
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -2424,17 +2429,18 @@
    "title": "Candlelight: Ed Sheeran & Coldplay",
    "date": "2026-11-07",
    "time": "",
-   "end_date": "2026-11-07",
-   "venue": "Palais Wittgenstein",
-   "address": "Bilker Straße 7-9, Düsseldorf-Stadtbezirk 1// 40213, Dusseldorf",
+   "end_date": "",
+   "venue": "Event-Theater Schwanenhöfe",
+   "address": "Erkrather Straße 234b, Düsseldorf// 40233, Dusseldorf",
    "locality": "Dusseldorf",
-   "price": "34.00",
-   "url": "https://allevents.in/dusseldorf/candlelight-ed-sheeran-and-coldplay/2700030035614552",
+   "price": "44.00",
+   "url": "https://allevents.in/dusseldorf/candlelight-ed-sheeran-and-coldplay/2700026036558958",
    "category": "событие",
    "description": "",
    "source": "allevents: все",
    "also_in": [
     "allevents: все",
+    "allevents: концерты",
     "allevents: живая музыка",
     "allevents: выходные"
    ]
@@ -2875,6 +2881,7 @@
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
     "Visit Düsseldorf",
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -2892,6 +2899,7 @@
    "description": "von Marc-Uwe Kling und Astrid Henn Regie Philipp Alfons Heitmann, Matts Johan Leenders",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
@@ -2981,6 +2989,7 @@
    "description": "Ein Schauspiel von Heinrich von Kleist Regie Ulrich Rasche",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
@@ -3300,6 +3309,7 @@
    "description": "von Suzie Miller Regie Anna Stiepani",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
@@ -3634,8 +3644,8 @@
    "source": "D'haus (Schauspielhaus)"
   },
   {
-   "title": "Lesung mit Melanie Raabe",
-   "venue": "Zentralbibliothek im KAP1",
+   "title": "Melanie Raabe: Daisy - Und all deine Geheimnisse werden mir gehören",
+   "venue": "Bolland & Böttcher - Ihre Buchhandlung OHG",
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
@@ -3901,6 +3911,7 @@
    "description": "von Kim de l’Horizon nach einer Fassung und Inszenierung von Sebastian Schug",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
@@ -4247,6 +4258,7 @@
    "horizon_days": 21,
    "also_in": [
     "Visit Düsseldorf",
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -4334,6 +4346,7 @@
    "description": "von Alice Birch nach Federico García Lorca Regie Lucia Bihler",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
@@ -4795,6 +4808,7 @@
    "description": "Ein Schauspiel von Heinrich von Kleist Regie Ulrich Rasche",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
@@ -5503,6 +5517,7 @@
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
     "Visit Düsseldorf",
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -5520,6 +5535,7 @@
    "description": "von Takao Baba & Ensemble frei nach dem Film Die sieben Samurai von Akira Kurosawa Regie Takao Baba",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
@@ -5768,23 +5784,6 @@
    "end_date": ""
   },
   {
-   "title": "Meet GPC Medical Ltd. at MEDICA 2026 in Düsseldorf, Germany",
-   "date": "2026-11-16",
-   "time": "",
-   "end_date": "2026-11-19",
-   "venue": "Messe Düsseldorf",
-   "address": "Stockumer Kirchstraße 61, Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://allevents.in/d%C3%BCsseldorf/meet-gpc-medical-ltd-at-medica-2026-in-düsseldorf-germany/100002003443671954",
-   "category": "событие",
-   "description": "",
-   "source": "allevents: все",
-   "also_in": [
-    "allevents: все"
-   ]
-  },
-  {
    "title": "COMPAMED",
    "date": "2026-11-16",
    "time": "",
@@ -5816,6 +5815,23 @@
    "source": "Messe Düsseldorf",
    "also_in": [
     "Visit Düsseldorf"
+   ]
+  },
+  {
+   "title": "Meet GPC Medical Ltd. at MEDICA 2026 in Düsseldorf, Germany",
+   "date": "2026-11-16",
+   "time": "",
+   "end_date": "",
+   "venue": "Messe Düsseldorf",
+   "address": "Stockumer Kirchstraße 61, Düsseldorf",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://allevents.in/d%C3%BCsseldorf/meet-gpc-medical-ltd-at-medica-2026-in-düsseldorf-germany/100002003443671954",
+   "category": "событие",
+   "description": "",
+   "source": "allevents: все",
+   "also_in": [
+    "allevents: все"
    ]
   },
   {
@@ -6002,6 +6018,7 @@
    "description": "Ein Stück über Mut und Freundschaft von Saša Stanišić Regie Carmen Schwarz",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
@@ -6335,6 +6352,7 @@
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
     "Visit Düsseldorf",
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -6498,6 +6516,7 @@
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
     "Visit Düsseldorf",
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -6527,6 +6546,20 @@
    "source": "Visit Düsseldorf",
    "date": "2026-11-19",
    "time": "19:00",
+   "end_date": ""
+  },
+  {
+   "title": "Club der Erstlinge, die Dritte - zu Gast: Anton Wolfpril",
+   "venue": "Café Mittendrin, Gemeindezentrum Ev. Kirchengemeinde Gerresheim",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "вечеринка",
+   "description": "In Anton Wolfprils humorigen Kurzgeschichten trifft man auf Mensch & Maschine. Der Citroën 2CV - die Ente - steht im Mittelpunkt des Geschehens, doch schnell bekommt man heraus, dass sich die Handlungen viel um Antons Familie, Freunde & seinem 2CV-Stammtisch drehen.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-19",
+   "time": "19:15",
    "end_date": ""
   },
   {
@@ -6674,20 +6707,6 @@
    ]
   },
   {
-   "title": "Candlelight: Queen vs. ABBA",
-   "date": "2026-11-19",
-   "time": "",
-   "end_date": "2027-03-28",
-   "venue": "Palais Wittgenstein",
-   "address": "Bilker Straße 7-9, Düsseldorf-Stadtbezirk 1// 40213, Dusseldorf",
-   "locality": "Dusseldorf",
-   "price": "32.00",
-   "url": "https://allevents.in/dusseldorf/candlelight-queen-vs-abba/2700030035615407",
-   "category": "концерт",
-   "description": "",
-   "source": "allevents: концерты"
-  },
-  {
    "title": "Benrather Weihnachtsdörfchen",
    "venue": "Marktplatz Benrath",
    "address": "",
@@ -6827,6 +6846,7 @@
    "description": "Ein Stück über Mut und Freundschaft von Saša Stanišić Regie Carmen Schwarz",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
@@ -7058,6 +7078,7 @@
    "description": "von Ingmar Bergman Regie Thorleifur Örn Arnarsson",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
@@ -7797,6 +7818,7 @@
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
     "Visit Düsseldorf",
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -8358,7 +8380,7 @@
    "price": "",
    "url": "https://eintrittskarten.io/shop/kantorei-an-matthaei/P7f4a94e9d7e528d02dfd48e",
    "category": "концерт",
-   "description": "Mitreißendes musikalisches Drama voller Kontraste und ein Plädoyer für Toleranz und Mäßigung",
+   "description": "Mitreißendes musikalisches Drama voller Kontraste und ein Plädoyer für Toleranz und Mäßigung.",
    "source": "Visit Düsseldorf",
    "date": "2026-11-22",
    "time": "18:00",
@@ -8912,6 +8934,7 @@
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
     "Visit Düsseldorf",
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -9157,6 +9180,7 @@
    "description": "von Alice Birch nach Federico García Lorca Regie Lucia Bihler",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -9425,6 +9449,23 @@
    "category": "детям",
    "description": "",
    "source": "StadtStrand"
+  },
+  {
+   "title": "ZAUBERSALON RHEINLAND: SimSalaBim | Die Magische DinnerShow | Saison 26/27",
+   "date": "2026-11-28",
+   "time": "",
+   "end_date": "",
+   "venue": "Event-Theater Schwanenhöfe",
+   "address": "Erkrather Straße 234b, Düsseldorf",
+   "locality": "Düsseldorf",
+   "price": "6.95",
+   "url": "https://allevents.in/d%C3%BCsseldorf/zaubersalon-rheinland-simsalabim-die-magische-dinnershow-saison-26-27/100001990099318634",
+   "category": "событие",
+   "description": "",
+   "source": "allevents: все",
+   "also_in": [
+    "allevents: все"
+   ]
   },
   {
    "title": "Trödelmarkt Düsseldorf Schützenplatz",
