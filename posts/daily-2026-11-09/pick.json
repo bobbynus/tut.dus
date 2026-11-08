@@ -1,0 +1,60 @@
+{
+ "list": [
+  {
+   "time": "18:00",
+   "title": "9 ноября — против антисемитизма",
+   "place": "Schauspielhaus, Foyer"
+  },
+  {
+   "time": "20:00",
+   "title": "Концерт «Sternzeichen: Enigma»",
+   "place": "Tonhalle Düsseldorf"
+  },
+  {
+   "time": "",
+   "title": "Шествия св. Мартина",
+   "place": "Районы города"
+  },
+  {
+   "time": "",
+   "title": "Каток «Kö on Ice»",
+   "place": "Königsallee"
+  },
+  {
+   "time": "",
+   "title": "Книжный базар в библиотеке",
+   "place": "Gerhart-Hauptmann-Haus"
+  },
+  {
+   "time": "20:00",
+   "title": "Christian Ehring: Versöhnung",
+   "place": "Kom(m)ödchen"
+  }
+ ],
+ "highlights": [
+  {
+   "title": "9 ноября: против антисемитизма",
+   "text": "Памятное мероприятие в фойе театра с участием Клаудии Хюббеккер и Натана Снайдера.",
+   "time": "18:00",
+   "place": "Schauspielhaus, Foyer",
+   "price": "бесплатно",
+   "tag": "бесплатно"
+  },
+  {
+   "title": "Концерт «Enigma» в Tonhalle",
+   "text": "Оркестровое исполнение «Вариаций Энигма» Элгара вместе с музыкой XX и XXI веков.",
+   "time": "20:00",
+   "place": "Tonhalle Düsseldorf",
+   "price": "",
+   "tag": "концерт"
+  },
+  {
+   "title": "Шествия святого Мартина",
+   "text": "Традиционные осенние шествия с детскими фонариками проходят в районах города.",
+   "time": "",
+   "place": "Районы города",
+   "price": "бесплатно",
+   "tag": "детям"
+  }
+ ]
+}
