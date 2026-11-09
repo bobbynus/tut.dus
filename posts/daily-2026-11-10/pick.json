@@ -1,0 +1,60 @@
+{
+ "list": [
+  {
+   "time": "17:00",
+   "title": "Шествие Святого Мартина",
+   "place": "Stiftsplatz"
+  },
+  {
+   "time": "",
+   "title": "Пространство K21 Sparda Lounge",
+   "place": "K21"
+  },
+  {
+   "time": "20:00",
+   "title": "Джем-сейшн в Jazz-Schmiede",
+   "place": "Jazz-Schmiede Düsseldorf"
+  },
+  {
+   "time": "10:00",
+   "title": "Спектакль Das NEINhorn",
+   "place": "Central 1"
+  },
+  {
+   "time": "",
+   "title": "Книжный базар",
+   "place": "Stiftung Hauptmann-Haus"
+  },
+  {
+   "time": "19:30",
+   "title": "Спектакль DIE MÖWE",
+   "place": "Schauspielhaus"
+  }
+ ],
+ "highlights": [
+  {
+   "title": "Пространство K21 Sparda Lounge",
+   "text": "Бесплатная зона в K21 для чтения, отдыха, слушания музыки и общения.",
+   "time": "",
+   "place": "K21",
+   "price": "бесплатно",
+   "tag": "бесплатно"
+  },
+  {
+   "title": "Шествие Святого Мартина",
+   "text": "Традиционный вечерний ход с фонариками по улочкам Альтштадта.",
+   "time": "17:00",
+   "place": "Stiftsplatz",
+   "price": "бесплатно",
+   "tag": "вечер"
+  },
+  {
+   "title": "Джем-сейшн в Jazz-Schmiede",
+   "text": "Каждый вторник вечер открывается концертом, после чего начинается джем.",
+   "time": "20:00",
+   "place": "Jazz-Schmiede Düsseldorf",
+   "price": "",
+   "tag": "концерт"
+  }
+ ]
+}
