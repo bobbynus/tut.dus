@@ -1,0 +1,52 @@
+{
+ "list": [
+  {
+   "time": "11:11",
+   "title": "Пробуждение Хоппедица",
+   "place": "Marktplatz am Rathaus"
+  },
+  {
+   "time": "17:00",
+   "title": "Танцевальный мастер-класс Move it!",
+   "place": "Schauspielhaus, Foyer"
+  },
+  {
+   "time": "19:00",
+   "title": "Тренировка для уличных танцоров",
+   "place": "Central Brücke"
+  },
+  {
+   "time": "20:00",
+   "title": "Концерт Mireille Mathieu",
+   "place": "Tonhalle"
+  },
+  {
+   "time": "",
+   "title": "Керлинг у цветочного оптового рынка",
+   "place": "Blumengroßmarkt"
+  },
+  {
+   "time": "",
+   "title": "Зимний мир на Кё «Kö on Ice»",
+   "place": "Kölnische Allee"
+  }
+ ],
+ "highlights": [
+  {
+   "title": "Пробуждение Хоппедица",
+   "text": "Традиционное и яркое карнавальное событие на рыночной площади у ратуши.",
+   "time": "11:11",
+   "place": "Marktplatz am Rathaus",
+   "price": "бесплатно",
+   "tag": "фестиваль"
+  },
+  {
+   "title": "Тренировка Move it!",
+   "text": "Бесплатное танцевальное занятие в фойе театра, не забудьте спортивную одежду.",
+   "time": "17:00",
+   "place": "Schauspielhaus, Foyer",
+   "price": "бесплатно",
+   "tag": "бесплатно"
+  }
+ ]
+}
