@@ -1,0 +1,55 @@
+{
+ "list": [
+  {
+   "time": "19:30",
+   "title": "SHINEDOWN в Mitsubishi Electric Halle",
+   "place": "Mitsubishi Electric HALLE"
+  },
+  {
+   "time": "20:00",
+   "title": "Makoto Ozone: TRiNFiNiTY",
+   "place": "Tonhalle Düsseldorf"
+  },
+  {
+   "time": "20:00",
+   "title": "Die Udo Jürgens Story",
+   "place": "Savoy Theater"
+  },
+  {
+   "time": "19:00",
+   "title": "Blutbuch",
+   "place": "D'haus Schauspielhaus"
+  },
+  {
+   "time": "",
+   "title": "DEG Winterwelt Kö on Ice",
+   "place": "Königsallee"
+  }
+ ],
+ "highlights": [
+  {
+   "title": "SHINEDOWN",
+   "text": "Известная американская рок-группа выступит с большим концертом в Дюссельдорфе.",
+   "time": "19:30",
+   "place": "Mitsubishi Electric HALLE",
+   "price": "от 15 €",
+   "tag": "концерт"
+  },
+  {
+   "title": "Makoto Ozone: TRiNFiNiTY",
+   "text": "Знаменитый джазовый пианист возвращается в Тонхалле со своим блестящим трио.",
+   "time": "20:00",
+   "place": "Tonhalle Düsseldorf",
+   "price": "от 15 €",
+   "tag": "концерт"
+  },
+  {
+   "title": "DEG Winterwelt Kö on Ice",
+   "text": "Популярный каток и зимняя атмосфера прямо на легендарной Кёнигсаллее.",
+   "time": "",
+   "place": "Königsallee",
+   "price": "",
+   "tag": "фестиваль"
+  }
+ ]
+}
