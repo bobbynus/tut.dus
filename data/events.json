@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-10T09:10",
- "count": 679,
+ "generated_at": "2026-11-10T16:28",
+ "count": 583,
  "events": [
   {
    "title": "A44:  Düsseldorf -> Essen",
@@ -145,23 +145,6 @@
    "source": "Prinz"
   },
   {
-   "title": "Das NEINhorn",
-   "date": "2026-11-10",
-   "time": "10:00",
-   "end_date": "2026-11-10",
-   "venue": "Central 1",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/das-neinhorn/2949/",
-   "category": "театр",
-   "description": "von Marc-Uwe Kling und Astrid Henn Regie Philipp Alfons Heitmann, Matts Johan Leenders",
-   "source": "D'haus",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
-  },
-  {
    "title": "Altstadt Kneipentour mit allen Bier- & Kneipengeschichten auf deinem Smartphone",
    "date": "2026-11-10",
    "time": "10:00",
@@ -190,18 +173,18 @@
    "source": "Prinz"
   },
   {
-   "title": "K21 Sparda Lounge",
-   "date": "2026-11-10",
-   "time": "11:00",
-   "end_date": "",
-   "venue": "K21",
+   "title": "DAS NeinHorn",
+   "venue": "D'haus Central",
    "address": "",
    "locality": "Düsseldorf",
-   "price": "frei",
-   "url": "https://www.kunstsammlung.de/de/calendar/k21-sparda-lounge",
-   "category": "ausstellung",
-   "description": "Die K21 Sparda Lounge ist dein Ort zum Lesen, Hören, Entspannen und Mitgestalten.",
-   "source": "Kunstsammlung NRW"
+   "price": "",
+   "url": "https://www.westticket.de/eventseries/4198045?affiliate=5VD",
+   "category": "театр",
+   "description": "Im Herzwald kommt ein kleines Einhorn zur Welt. Obwohl alle lieb zu ihm sind, benimmt sich das Tier nicht einhornmäßig. Es sagt einfach »Nein« und wird von seiner Familie bald nur noch NEINhorn genannt.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-10",
+   "time": "10:00",
+   "end_date": ""
   },
   {
    "title": "Düsseldorf Altstadt und Altbier Tour | Adventure World Tours",
@@ -317,23 +300,6 @@
    "source": "Prinz"
   },
   {
-   "title": "DIE MÖWE",
-   "date": "2026-11-10",
-   "time": "19:30",
-   "end_date": "2026-11-10",
-   "venue": "Schauspielhaus, Großes Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/die-moewe/3065/",
-   "category": "театр",
-   "description": "von Anton Tschechow Regie Barbara Frey",
-   "source": "D'haus",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
-  },
-  {
    "title": "Die Möwe – Düsseldorfer Schauspielhaus",
    "date": "2026-11-10",
    "time": "19:30",
@@ -360,6 +326,20 @@
    "category": "концерт",
    "description": "",
    "source": "Prinz"
+  },
+  {
+   "title": "Die Möwe",
+   "venue": "D'haus Düsseldorfer Schauspielhaus",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.westticket.de/eventseries/3967069?affiliate=5VD",
+   "category": "театр",
+   "description": "Wir brauchen neue Formen. Neue Formen! Und wenn es sie nicht gibt, dann sollte man den ganzen Quatsch lieber ganz lassen.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-10",
+   "time": "19:30",
+   "end_date": ""
   },
   {
    "title": "SIXX PAXX – Dreams Tour 2026/27",
@@ -472,48 +452,6 @@
    "category": "выставка",
    "description": "",
    "source": "Prinz"
-  },
-  {
-   "title": "Disney Der Glöckner von Notre Dame",
-   "date": "2026-11-10",
-   "time": "",
-   "end_date": "",
-   "venue": "Capitol Theater",
-   "address": "Erkrather Straße 30",
-   "locality": "Düsseldorf",
-   "price": "ab 64,90 €",
-   "url": "https://www.capitol-theater.de/veranstaltung/disney-der-gloeckner-von-notre-dame.html#go",
-   "category": "konzert",
-   "description": "Große Gefühle, mitreißende Musik und spektakuläre Bühnenmomente: „Disney Der Glöckner von Notre Dame“ entführt dich ins historische Paris und erzählt die bewegende Geschichte von Quasimodo und Esmeralda.",
-   "source": "Mr. Düsseldorf"
-  },
-  {
-   "title": "Eva Rubinstein. Proof of Life",
-   "venue": "Museum für Gartenkunst",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Am 4. September eröffnet die Sonderausstellung „Eva Rubinstein. Proof of Life“ im Museum für Gartenkunst im Ostflügel von Schloss Benrath.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-10",
-   "time": "",
-   "end_date": "2026-11-29"
-  },
-  {
-   "title": "Plastikmüll im Rhein. Die große Reise des kleinen Plastiks",
-   "venue": "Naturkundemuseum",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Plastik ist aus unserem Alltag nicht mehr wegzudenken. Als Virtual-Reality-Erlebnis zeichnet die Ausstellung die Wege von Plastikmüll in die Umwelt nach.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-10",
-   "time": "",
-   "end_date": "2027-04-04"
   },
   {
    "title": "Waffen der Tiere",
@@ -754,20 +692,6 @@
    "end_date": "2027-01-23"
   },
   {
-   "title": "Bücherbasar in der Bibliothek",
-   "venue": "Stiftung Gerhart-Hauptmann-Haus",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "рынок",
-   "description": "Ausgesonderte Medien bzw. Dubletten aus unseren Beständen werden zum Verkauf angeboten. Geboten wird eine vielfältige Auswahl aus nahezu allen Themenbereichen (Fachliteratur, Belletristik, ältere Standardwerke, Tagungsbände).",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-10",
-   "time": "",
-   "end_date": "2026-11-30"
-  },
-  {
    "title": "Eckhard Froeschlin - Aus der Zeit geätzt (Radierungen 1981 - 2026)",
    "venue": "Kultur Bahnhof Eller",
    "address": "",
@@ -782,34 +706,6 @@
    "end_date": "2026-12-13"
   },
   {
-   "title": "60 Jahre diplomatische Beziehungen zwischen Israel und Deutschland",
-   "venue": "Rathaus",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Die Verbindungen zwischen Deutschland und Israel sind heute vielfältig und stark: durch Städtepartnerschaften, Kultur, Sport, Tourismus und wirtschaftliche Zusammenarbeit.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-10",
-   "time": "",
-   "end_date": "2026-11-30"
-  },
-  {
-   "title": "Farbwelten",
-   "venue": "DRK „zentrum plus“ Friedrichstadt",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Farbwelten sind mehr als Farben: Sie übermitteln Gefühle und Stimmungen und entspringen dem Inneren – wie die Worte eines Gedichtes.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-10",
-   "time": "",
-   "end_date": "2027-02-26"
-  },
-  {
    "title": "Julia Reisinger. Iniusta iustitia",
    "venue": "Kunsthalle Düsseldorf",
    "address": "",
@@ -822,20 +718,6 @@
    "date": "2026-11-10",
    "time": "",
    "end_date": "2027-01-17"
-  },
-  {
-   "title": "Düsseldorf 1941. Jahr der Eskalation",
-   "venue": "Mahn- und Gedenkstätte Düsseldorf",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Die Mahn- und Gedenkstätte zeigt ab Dienstag, 3. November 2026, ihre neue Sonderausstellung \"Düsseldorf 1941. Jahr der Eskalation\".",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-10",
-   "time": "",
-   "end_date": "2027-08-28"
   },
   {
    "title": "Sienna Maria Baumann: Declutter",
@@ -948,34 +830,6 @@
    "date": "2026-11-10",
    "time": "",
    "end_date": "2027-05-23"
-  },
-  {
-   "title": "Kaiserswerther Diakonie zeigt Werke von Walter Liggesmeyer",
-   "venue": "K3",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Die E.ON Art Collection übergibt der Kaiserswerther Diakonie 45 Gemälde von Walter Liggesmeyer (1938–2017).",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-10",
-   "time": "",
-   "end_date": "2026-12-31"
-  },
-  {
-   "title": "Playground. Ein Spielplatz im Museum",
-   "venue": "K20 Kunstsammlung Nordrhein-Westfalen",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://shop.kunstsammlung.de/de/offers/a571",
-   "category": "выставка",
-   "description": "Die Ausstellung „Playground“ lädt Kinder dazu ein, zu berühren, zu klettern, zu rennen und ihrer Fantasie freien Lauf zu lassen – in einer träumerischen Landschaft, die wie aus einer anderen Welt wirkt.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-10",
-   "time": "",
-   "end_date": "2027-07-18"
   },
   {
    "title": "Spot on: 100 Jahre GeSoLei",
@@ -1109,20 +963,6 @@
    "end_date": ""
   },
   {
-   "title": "Move it!",
-   "date": "2026-11-11",
-   "time": "17:00",
-   "end_date": "2026-11-11",
-   "venue": "Schauspielhaus, Foyer",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "Frei",
-   "url": "https://www.dhaus.de/programm/spielplan/move-it/3066/",
-   "category": "театр",
-   "description": "Tanz — Bringt bitte Sportkleidung mit.",
-   "source": "D'haus"
-  },
-  {
    "title": "Workshop Körper. Zeichnen. Kunst",
    "date": "2026-11-11",
    "time": "18:30",
@@ -1138,34 +978,6 @@
    "horizon_days": 21
   },
   {
-   "title": "Freestyle Session Space",
-   "date": "2026-11-11",
-   "time": "19:00",
-   "end_date": "2026-11-11",
-   "venue": "Central Brücke",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "Frei",
-   "url": "https://www.dhaus.de/programm/spielplan/freestyle-session-space/3071/",
-   "category": "театр",
-   "description": "Freies Training für urbane Tänzer:innen",
-   "source": "D'haus"
-  },
-  {
-   "title": "Null Uhr",
-   "date": "2026-11-11",
-   "time": "19:30",
-   "end_date": "2026-11-11",
-   "venue": "Central 2",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/a-clockwork-orange-revisited/3068/",
-   "category": "театр",
-   "description": "Eine Theaterclub-Inszenierung frei nach Motiven von „A Clockwork Orange“",
-   "source": "D'haus"
-  },
-  {
    "title": "Melanie Raabe: Daisy - Und all deine Geheimnisse werden mir gehören",
    "venue": "Bolland & Böttcher - Ihre Buchhandlung OHG",
    "address": "",
@@ -1178,20 +990,6 @@
    "date": "2026-11-11",
    "time": "19:30",
    "end_date": ""
-  },
-  {
-   "title": "EWIG JUNG IST NUR DIE PHANTASIE",
-   "date": "2026-11-11",
-   "time": "20:00",
-   "end_date": "2026-11-11",
-   "venue": "Schauspielhaus, Kleines Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/ewig-jung-ist-nur-die-phantasie/3067/",
-   "category": "театр",
-   "description": "Der Balladenabend mit Wolfgang Reinbacher",
-   "source": "D'haus"
   },
   {
    "title": "Mireille Mathieu Düsseldorf Tickets",
@@ -1394,6 +1192,62 @@
    "end_date": "2027-12-30"
   },
   {
+   "title": "Bücherbasar in der Bibliothek",
+   "venue": "Stiftung Gerhart-Hauptmann-Haus",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "рынок",
+   "description": "Ausgesonderte Medien bzw. Dubletten aus unseren Beständen werden zum Verkauf angeboten. Geboten wird eine vielfältige Auswahl aus nahezu allen Themenbereichen (Fachliteratur, Belletristik, ältere Standardwerke, Tagungsbände).",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-11",
+   "time": "",
+   "end_date": "2026-11-30"
+  },
+  {
+   "title": "Farbwelten",
+   "venue": "DRK „zentrum plus“ Friedrichstadt",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Farbwelten sind mehr als Farben: Sie übermitteln Gefühle und Stimmungen und entspringen dem Inneren – wie die Worte eines Gedichtes.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-11",
+   "time": "",
+   "end_date": "2027-02-26"
+  },
+  {
+   "title": "Düsseldorf 1941. Jahr der Eskalation",
+   "venue": "Mahn- und Gedenkstätte Düsseldorf",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Die Mahn- und Gedenkstätte zeigt ab Dienstag, 3. November 2026, ihre neue Sonderausstellung \"Düsseldorf 1941. Jahr der Eskalation\".",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-11",
+   "time": "",
+   "end_date": "2027-08-28"
+  },
+  {
+   "title": "Kaiserswerther Diakonie zeigt Werke von Walter Liggesmeyer",
+   "venue": "K3",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Die E.ON Art Collection übergibt der Kaiserswerther Diakonie 45 Gemälde von Walter Liggesmeyer (1938–2017).",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-11",
+   "time": "",
+   "end_date": "2026-12-31"
+  },
+  {
    "title": "Leise rieselt der Schmäh - Wiener Kaffeehausgeschichten",
    "venue": "Roncalli’s Apollo-Varieté",
    "address": "",
@@ -1406,6 +1260,20 @@
    "date": "2026-11-11",
    "time": "",
    "end_date": "2027-01-10"
+  },
+  {
+   "title": "Playground. Ein Spielplatz im Museum",
+   "venue": "K20 Kunstsammlung Nordrhein-Westfalen",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://shop.kunstsammlung.de/de/offers/a571",
+   "category": "выставка",
+   "description": "Die Ausstellung „Playground“ lädt Kinder dazu ein, zu berühren, zu klettern, zu rennen und ihrer Fantasie freien Lauf zu lassen – in einer träumerischen Landschaft, die wie aus einer anderen Welt wirkt.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-11",
+   "time": "",
+   "end_date": "2027-07-18"
   },
   {
    "title": "HYROX",
@@ -1450,21 +1318,18 @@
    "end_date": "2027-03-27"
   },
   {
-   "title": "Das NEINhorn",
-   "date": "2026-11-12",
-   "time": "10:00",
-   "end_date": "2026-11-12",
-   "venue": "Central 1",
+   "title": "DAS NeinHorn",
+   "venue": "D'haus Central",
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/das-neinhorn/2950/",
+   "url": "https://www.westticket.de/eventseries/4198045?affiliate=5VD",
    "category": "театр",
-   "description": "von Marc-Uwe Kling und Astrid Henn Regie Philipp Alfons Heitmann, Matts Johan Leenders",
-   "source": "D'haus",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
+   "description": "Im Herzwald kommt ein kleines Einhorn zur Welt. Obwohl alle lieb zu ihm sind, benimmt sich das Tier nicht einhornmäßig. Es sagt einfach »Nein« und wird von seiner Familie bald nur noch NEINhorn genannt.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-12",
+   "time": "10:00",
+   "end_date": ""
   },
   {
    "title": "Manfred Lenz und Achim Raven: Vom Bild zur Sprache und zurück",
@@ -1493,20 +1358,6 @@
    "date": "2026-11-12",
    "time": "10:30",
    "end_date": ""
-  },
-  {
-   "title": "Sing it!",
-   "date": "2026-11-12",
-   "time": "17:00",
-   "end_date": "2026-11-12",
-   "venue": "Schauspielhaus, Foyer",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "Frei",
-   "url": "https://www.dhaus.de/programm/spielplan/sing-it/3070/",
-   "category": "театр",
-   "description": "Afterwork-Singen",
-   "source": "D'haus"
   },
   {
    "title": "Kollektivkörper",
@@ -1551,23 +1402,6 @@
    "end_date": ""
   },
   {
-   "title": "BLUTBUCH",
-   "date": "2026-11-12",
-   "time": "19:00",
-   "end_date": "2026-11-12",
-   "venue": "Schauspielhaus, Kleines Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/blutbuch/3072/",
-   "category": "театр",
-   "description": "von Kim de l’Horizon nach einer Fassung und Inszenierung von Sebastian Schug",
-   "source": "D'haus",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
-  },
-  {
    "title": "Kunst, Protest und Demokratie",
    "date": "2026-11-12",
    "time": "19:00",
@@ -1581,6 +1415,20 @@
    "description": "Ein Gespräch zwischen Pink Büchsenschütz, Yagmur Karakis und Jonas Keck.",
    "source": "Stadtmuseum",
    "horizon_days": 21
+  },
+  {
+   "title": "Blutbuch",
+   "venue": "D'haus Düsseldorfer Schauspielhaus",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.westticket.de/eventseries/4227663?affiliate=5VD",
+   "category": "театр",
+   "description": "Die Liebe der Meeren war so gross, mensch entkam ihr nicht, entkommt ihr nicht, mensch schwimmt ein Leben lang, um aus den Meeren herauszukommen.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-12",
+   "time": "19:00",
+   "end_date": ""
   },
   {
    "title": "Poesie im Spiel - 100 Jahre Fußball-Literatur",
@@ -1611,23 +1459,6 @@
    "end_date": ""
   },
   {
-   "title": "DIE MÖWE",
-   "date": "2026-11-12",
-   "time": "19:30",
-   "end_date": "2026-11-12",
-   "venue": "Schauspielhaus, Großes Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/die-moewe/3069/",
-   "category": "театр",
-   "description": "von Anton Tschechow Regie Barbara Frey",
-   "source": "D'haus",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
-  },
-  {
    "title": "SHINEDOWN - Dance Kid Dance Act II - Düsseldorf, Mitsubishi Electric Halle",
    "date": "2026-11-12",
    "time": "19:30",
@@ -1646,6 +1477,20 @@
     "allevents: живая музыка",
     "Visit Düsseldorf"
    ]
+  },
+  {
+   "title": "Die Möwe",
+   "venue": "D'haus Düsseldorfer Schauspielhaus",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.westticket.de/eventseries/3967069?affiliate=5VD",
+   "category": "театр",
+   "description": "Wir brauchen neue Formen. Neue Formen! Und wenn es sie nicht gibt, dann sollte man den ganzen Quatsch lieber ganz lassen.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-12",
+   "time": "19:30",
+   "end_date": ""
   },
   {
    "title": "JazzBar: Boogielicious Blues meets Gospel",
@@ -1735,7 +1580,7 @@
    "title": "Don Toliver Düsseldorf Tickets",
    "date": "2026-11-12",
    "time": "",
-   "end_date": "2026-11-12",
+   "end_date": "",
    "venue": "PSD Bank Dome",
    "address": "PSD Bank Dome, Düsseldorf, Germany, Düsseldorf",
    "locality": "Düsseldorf",
@@ -1754,7 +1599,7 @@
    "title": "Candlelight: Das Beste der 80er",
    "date": "2026-11-12",
    "time": "",
-   "end_date": "2027-02-14",
+   "end_date": "",
    "venue": "Palais Wittgenstein",
    "address": "Bilker Straße 7-9, Düsseldorf-Stadtbezirk 1// 40213, Dusseldorf",
    "locality": "Dusseldorf",
@@ -1826,6 +1671,20 @@
    "end_date": "2026-11-28"
   },
   {
+   "title": "60 Jahre diplomatische Beziehungen zwischen Israel und Deutschland",
+   "venue": "Rathaus",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Die Verbindungen zwischen Deutschland und Israel sind heute vielfältig und stark: durch Städtepartnerschaften, Kultur, Sport, Tourismus und wirtschaftliche Zusammenarbeit.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-12",
+   "time": "",
+   "end_date": "2026-11-30"
+  },
+  {
    "title": "Disney Der Glöckner von Notre Dame",
    "venue": "Capitol Theater",
    "address": "",
@@ -1840,21 +1699,18 @@
    "end_date": "2027-01-03"
   },
   {
-   "title": "Das NEINhorn",
-   "date": "2026-11-13",
-   "time": "10:00",
-   "end_date": "2026-11-13",
-   "venue": "Central 1",
+   "title": "DAS NeinHorn",
+   "venue": "D'haus Central",
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/das-neinhorn/2951/",
+   "url": "https://www.westticket.de/eventseries/4198045?affiliate=5VD",
    "category": "театр",
-   "description": "von Marc-Uwe Kling und Astrid Henn Regie Philipp Alfons Heitmann, Matts Johan Leenders",
-   "source": "D'haus",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
+   "description": "Im Herzwald kommt ein kleines Einhorn zur Welt. Obwohl alle lieb zu ihm sind, benimmt sich das Tier nicht einhornmäßig. Es sagt einfach »Nein« und wird von seiner Familie bald nur noch NEINhorn genannt.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-13",
+   "time": "10:00",
+   "end_date": ""
   },
   {
    "title": "vielleicht_regen_: in_der_schwebe in_der_schwebe",
@@ -1941,6 +1797,20 @@
    "end_date": ""
   },
   {
+   "title": "Enthüllung Skulptur \"Orpheus\" von Luise Kimme",
+   "venue": "",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Am 13. November 2026 wird die Bronzeskulptur „Orpheus“ der Künstlerin Luise Kimme feierlich an der Reuterkaserne in Düsseldorf enthüllt. Das Werk wird künftig dauerhaft im öffentlichen Raum zu sehen sein und würdigt das künstlerische Schaffen der ehemaligen Professorin der Kunstakademie Düsseldorf.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-13",
+   "time": "15:00",
+   "end_date": ""
+  },
+  {
    "title": "Ein Koffer voll Dornröschen",
    "venue": "Puppentheater Helmholtzstraße",
    "address": "",
@@ -1981,20 +1851,6 @@
    "date": "2026-11-13",
    "time": "18:15",
    "end_date": ""
-  },
-  {
-   "title": "OPEN STAGE",
-   "date": "2026-11-13",
-   "time": "19:00",
-   "end_date": "2026-11-13",
-   "venue": "Central 2",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "Frei",
-   "url": "https://www.dhaus.de/programm/spielplan/open-stage/3076/",
-   "category": "театр",
-   "description": "Comedy-Edition mit Canberk Köktürk u. v. a. Deine Bühne. Dein Auftritt",
-   "source": "D'haus"
   },
   {
    "title": "BINGO IM KLONKK - Gruseledition",
@@ -2053,35 +1909,18 @@
    "end_date": ""
   },
   {
-   "title": "BERNARDA ALBAS HAUS",
+   "title": "Bernarda Albas Haus",
+   "venue": "D'haus Düsseldorfer Schauspielhaus",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.westticket.de/eventseries/4190302?affiliate=5VD",
+   "category": "театр",
+   "description": "Bernarda Alba, die tyrannische Matriarchin eines Haushalts voller Frauen, verhängt nach dem Tod ihres zweiten Mannes eine achtjährige Trauerzeit mit Ausgangssperre über ihre erwachsenen Töchter.",
+   "source": "Visit Düsseldorf",
    "date": "2026-11-13",
    "time": "19:30",
-   "end_date": "2026-11-13",
-   "venue": "Schauspielhaus, Großes Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/bernarda-albas-haus/3074/",
-   "category": "театр",
-   "description": "von Alice Birch nach Federico García Lorca Regie Lucia Bihler",
-   "source": "D'haus",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
-  },
-  {
-   "title": "Romeo und Julia",
-   "date": "2026-11-13",
-   "time": "20:00",
-   "end_date": "2026-11-13",
-   "venue": "Schauspielhaus, Kleines Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/romeo-und-julia/3075/",
-   "category": "театр",
-   "description": "frei nach William Shakespeare Regie Bassam Ghazi",
-   "source": "D'haus"
+   "end_date": ""
   },
   {
    "title": "Memmingen - DEG",
@@ -2098,20 +1937,6 @@
    "source": "DEG iCal",
    "team": "DEG",
    "away": true
-  },
-  {
-   "title": "DEL2: DEG vs. Memmingen",
-   "date": "2026-11-13",
-   "time": "20:00",
-   "end_date": "",
-   "venue": "PSD BANK DOME",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/b25d101a699a148996e41b752183c1ff/",
-   "category": "sport",
-   "description": "Spieltag 15 der DEL2-Saison 2026/27.",
-   "source": "DEG"
   },
   {
    "title": "Na hör'n Sie mal",
@@ -2296,18 +2121,32 @@
    "source": "allevents: выходные"
   },
   {
-   "title": "Salsa - Kizomba & Bachata Party im Bürgerhaus Salzmannbau Bilk mit Workshop",
+   "title": "Eva Rubinstein. Proof of Life",
+   "venue": "Museum für Gartenkunst",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Am 4. September eröffnet die Sonderausstellung „Eva Rubinstein. Proof of Life“ im Museum für Gartenkunst im Ostflügel von Schloss Benrath.",
+   "source": "Visit Düsseldorf",
    "date": "2026-11-13",
    "time": "",
-   "end_date": "2026-11-14",
-   "venue": "Salsa Flow in Düsseldorf",
-   "address": "Bürgerhaus Salzmannbau, Himmelgeisterstr.107h,Düsseldorf, Germany, Dusseldorf",
-   "locality": "Dusseldorf",
+   "end_date": "2026-11-29"
+  },
+  {
+   "title": "Plastikmüll im Rhein. Die große Reise des kleinen Plastiks",
+   "venue": "Naturkundemuseum",
+   "address": "",
+   "locality": "Düsseldorf",
    "price": "",
-   "url": "https://allevents.in/dusseldorf/salsa-kizomba-and-bachata-party-im-bürgerhaus-salzmannbau-bilk-mit-workshop/200030579787140",
-   "category": "вечеринка",
-   "description": "",
-   "source": "allevents: выходные"
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Plastik ist aus unserem Alltag nicht mehr wegzudenken. Als Virtual-Reality-Erlebnis zeichnet die Ausstellung die Wege von Plastikmüll in die Umwelt nach.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-13",
+   "time": "",
+   "end_date": "2027-04-04"
   },
   {
    "title": "Waschsalon – Zwischen zwei Waschgängen, was bleibt im Stoff?",
@@ -2534,6 +2373,20 @@
    "source": "Рынок Aachener Platz"
   },
   {
+   "title": "Zukunft kann man lernen!",
+   "venue": "Haus der Universität",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.fes.de/veranstaltungen/veranstaltungsdetail/291304",
+   "category": "лекция",
+   "description": "Die aktuellen PISA-Ergebnisse zeigen, dass das deutsche Bildungssystem grundlegende Reformen benötigt und Bildungserfolg weiterhin stark von der sozialen Herkunft abhängt – die Chancenungleichheit hat sich seit 2015 sogar wieder verschärft.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-14",
+   "time": "13:00",
+   "end_date": ""
+  },
+  {
    "title": "Siebenbürger Sachsen – wohin?",
    "venue": "Stiftung Gerhart-Hauptmann-Haus",
    "address": "",
@@ -2647,20 +2500,6 @@
    "end_date": ""
   },
   {
-   "title": "Tanzperformance & Dinner Central",
-   "date": "2026-11-14",
-   "time": "18:00",
-   "end_date": "2026-11-14",
-   "venue": "Central 2",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/dinner-central/3078/",
-   "category": "театр",
-   "description": "Im Rahmen des Polish Freedom Weekend",
-   "source": "D'haus"
-  },
-  {
    "title": "Figaros Stimmen",
    "date": "2026-11-14",
    "time": "18:30",
@@ -2692,37 +2531,6 @@
    "end_date": ""
   },
   {
-   "title": "PRINZ FRIEDRICH VON HOMBURG",
-   "date": "2026-11-14",
-   "time": "19:00",
-   "end_date": "2026-11-14",
-   "venue": "Schauspielhaus, Großes Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/prinz-friedrich-von-homburg/3077/",
-   "category": "театр",
-   "description": "Ein Schauspiel von Heinrich von Kleist Regie Ulrich Rasche",
-   "source": "D'haus",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
-  },
-  {
-   "title": "Darya Dadvar",
-   "date": "2026-11-14",
-   "time": "19:00",
-   "end_date": "2026-11-14",
-   "venue": "Schauspielhaus, Kleines Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/darya-dadvar/3050/",
-   "category": "концерт",
-   "description": "Iranische starke Stimmen",
-   "source": "D'haus"
-  },
-  {
    "title": "Panhandle Slingers: Rockabilly live",
    "venue": "Bunker Paulsmühle",
    "address": "",
@@ -2745,6 +2553,20 @@
    "url": "https://www.bilkerbunker.de/schleuse-zwei",
    "category": "вечеринка",
    "description": "Electronic & Dance.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-14",
+   "time": "19:00",
+   "end_date": ""
+  },
+  {
+   "title": "Prinz Friedrich von Homburg",
+   "venue": "D'haus Düsseldorfer Schauspielhaus",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.westticket.de/eventseries/4190310?affiliate=5VD",
+   "category": "театр",
+   "description": "Der Mensch ist nur da ganz Mensch, wo er träumt. Der Prinz von Homburg träumt nach drei Tagen zu Pferd und militärischen Niederlagen nachts im Garten von unsterblichem Ruhm und der großen Liebe.",
    "source": "Visit Düsseldorf",
    "date": "2026-11-14",
    "time": "19:00",
@@ -2930,34 +2752,6 @@
    "category": "событие",
    "description": "",
    "source": "allevents: выходные"
-  },
-  {
-   "title": "NACHTYARD - Der kreative Nachtmarkt in DÜSSELDORF",
-   "date": "2026-11-14",
-   "time": "",
-   "end_date": "2026-11-14",
-   "venue": "RheinRiff",
-   "address": "Hansaallee 321, 40549, Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://meine-flohmarkt-termine.de/nachtyard-der-kreative-nachtmarkt-in-dusseldorf/23826027/details",
-   "category": "рынок",
-   "description": "Mehr als nur ein Markt - NachtYard ist der Treffpunkt f&uuml;r alle, die entdecken wollen.&amp;nbsp;Indoor &amp;amp; Outdoor auf &uuml;ber 5.000 qmEintritt: 7,-&euro; (Kinder bis 12 J. frei)Karten nur an der Abendkasse&amp;nbsp;Drinnen: Industrieflair, bunte St&auml;nde, Licht, Bass, BegegnungDrau&s",
-   "source": "Блошиные рынки (MFT)"
-  },
-  {
-   "title": "Trödelmarkt Düsseldorf Schützenplatz",
-   "date": "2026-11-14",
-   "time": "",
-   "end_date": "2026-11-14",
-   "venue": "D&uuml;sseldorf-Benrath Sch&uuml;tzenplatz",
-   "address": "Bayreuther Straße  31, 40597, Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752962/details",
-   "category": "рынок",
-   "description": "Der &uuml;ber die Stadtgrenzen bekannte Samstags-Tr&ouml;delmarkt auf dem Sch&uuml;tzenplatz erfreut sich seit Jahren gro&szlig;er Beliebtheit. Das ausgewogene Verh&auml;ltnis von Neuware und Tr&ouml;del abgerundet durch ein ausreichendes Gastronomieangebot l&auml;dt zum Bummeln und Verweilen ein. &",
-   "source": "Блошиные рынки (MFT)"
   },
   {
    "title": "Workshop des Moduls „Gestaltung“",
@@ -3188,34 +2982,6 @@
    "end_date": ""
   },
   {
-   "title": "TAKE-OFF: FESTIVAL",
-   "date": "2026-11-15",
-   "time": "12:00",
-   "end_date": "2026-11-15",
-   "venue": "Central Brücke",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/take-off-festival/3081/",
-   "category": "фестиваль",
-   "description": "20 Jahre take-off: Junger Tanz",
-   "source": "D'haus"
-  },
-  {
-   "title": "UNBUBBLED MEETS VIELLEICHT_REGEN",
-   "date": "2026-11-15",
-   "time": "12:00",
-   "end_date": "2026-11-15",
-   "venue": "Central Brücke",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/take-off-festival/3082/",
-   "category": "театр",
-   "description": "Brunch im Rahmen des take-off: Festivals",
-   "source": "D'haus"
-  },
-  {
    "title": "Die Morgensterne: Emanuel Akopian, Violine",
    "venue": "",
    "address": "",
@@ -3287,20 +3053,6 @@
    "end_date": ""
   },
   {
-   "title": "EIN ÜBERTRITT (ALLES AUF ENDE)",
-   "date": "2026-11-15",
-   "time": "16:00",
-   "end_date": "2026-11-15",
-   "venue": "Schauspielhaus, Kleines Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/ein-uebertritt/3080/",
-   "category": "театр",
-   "description": "von Elfriede Jelinek Regie Jossi Wieler",
-   "source": "D'haus"
-  },
-  {
    "title": "Ein Übertritt",
    "venue": "D'haus Düsseldorfer Schauspielhaus",
    "address": "",
@@ -3343,20 +3095,6 @@
    "source": "DEG iCal",
    "team": "DEG",
    "away": false
-  },
-  {
-   "title": "DEL2: DEG vs. Ravensburg Towerstars",
-   "date": "2026-11-15",
-   "time": "17:00",
-   "end_date": "",
-   "venue": "PSD BANK DOME",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/0f5e00fb7b1900651f384c2343c3c671/",
-   "category": "sport",
-   "description": "Spieltag 16 der DEL2-Saison 2026/27.",
-   "source": "DEG"
   },
   {
    "title": "Eishockey: Düsseldorfer EG - Ravensburg Towerstars",
@@ -3418,40 +3156,6 @@
    ]
   },
   {
-   "title": "INTER ALIA",
-   "date": "2026-11-15",
-   "time": "18:00",
-   "end_date": "2026-11-15",
-   "venue": "Schauspielhaus, Großes Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/inter-alia/3079/",
-   "category": "театр",
-   "description": "von Suzie Miller Regie Anna Stiepani",
-   "source": "D'haus",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
-  },
-  {
-   "title": "Samurai X",
-   "date": "2026-11-15",
-   "time": "18:00",
-   "end_date": "2026-11-15",
-   "venue": "Central 1",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/samurai-x/2967/",
-   "category": "театр",
-   "description": "von Takao Baba & Ensemble frei nach dem Film Die sieben Samurai von Akira Kurosawa Regie Takao Baba",
-   "source": "D'haus",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
-  },
-  {
    "title": "FAMILIENFÜHRUNG | Taschenlampenführung. Nachts im Naturkundemuseum",
    "date": "2026-11-15",
    "time": "18:00",
@@ -3465,6 +3169,20 @@
    "description": "Taschenlampenführung durch das Naturkundemuseum bei Nacht.",
    "source": "Schloss Benrath",
    "horizon_days": 21
+  },
+  {
+   "title": "Inter Alia",
+   "venue": "D'haus Düsseldorfer Schauspielhaus",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.westticket.de/eventseries/4234398?affiliate=5VD",
+   "category": "театр",
+   "description": "Ich spüre dieses selbstgefällige‚ Ich-bin-eine-gute-Mutter-Gefühl in mir, das so selten vorkommt.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-15",
+   "time": "18:00",
+   "end_date": ""
   },
   {
    "title": "Johannes Brahms: Ein Deutsches Requiem",
@@ -3489,6 +3207,20 @@
    "url": "https://www.westticket.de/eventseries/4195898?affiliate=5VD",
    "category": "концерт",
    "description": "Rund 70 Musikerinnen und Musiker präsentieren erstmals in den Rheinterrassen Düsseldorf ein abwechslungsreiches Konzertprogramm aus großen sinfonischen Kompositionen, Filmmusik, Pop, Evergreens und bekannten Klassikern.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-15",
+   "time": "18:00",
+   "end_date": ""
+  },
+  {
+   "title": "Samurai X",
+   "venue": "D'haus Central",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.westticket.de/eventseries/4190308?affiliate=5VD",
+   "category": "театр",
+   "description": "",
    "source": "Visit Düsseldorf",
    "date": "2026-11-15",
    "time": "18:00",
@@ -3578,6 +3310,7 @@
    "description": "Der Düsseldorfer Poetry Slam im zakk",
    "source": "zakk",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -3598,6 +3331,20 @@
     "allevents: все",
     "allevents: выходные"
    ]
+  },
+  {
+   "title": "Candlelight: Sezen Aksu",
+   "date": "2026-11-15",
+   "time": "",
+   "end_date": "",
+   "venue": "Event-Theater Schwanenhöfe",
+   "address": "Erkrather Straße 234b, Düsseldorf// 40233, Dusseldorf",
+   "locality": "Dusseldorf",
+   "price": "40.50",
+   "url": "https://allevents.in/dusseldorf/candlelight-sezen-aksu/2700030035614854",
+   "category": "событие",
+   "description": "",
+   "source": "allevents: выходные"
   },
   {
    "title": "Beste Freunde",
@@ -3668,20 +3415,6 @@
    "date": "2026-11-16",
    "time": "19:00",
    "end_date": ""
-  },
-  {
-   "title": "Dschinns",
-   "date": "2026-11-16",
-   "time": "20:00",
-   "end_date": "2026-11-16",
-   "venue": "Schauspielhaus, Kleines Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/dschinns/3083/",
-   "category": "театр",
-   "description": "von Fatma Aydemir | in einer Fassung von Birgit Lengers Regie Bassam Ghazi",
-   "source": "D'haus"
   },
   {
    "title": "The Witcher In Concert - The Witcher 3: Wild Hunt",
@@ -3777,20 +3510,6 @@
    ]
   },
   {
-   "title": "Workshop zum Thema Antisemitismus",
-   "date": "2026-11-17",
-   "time": "10:00",
-   "end_date": "2026-11-17",
-   "venue": "Central 2",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "Eintritt frei",
-   "url": "https://www.dhaus.de/programm/spielplan/workshop-zum-thema-antisemitismus/3044/",
-   "category": "театр",
-   "description": "für Lehrer:innen und Schüler:innen begleitend zur Inszenierung »Blindekuh mit dem Tod«",
-   "source": "D'haus"
-  },
-  {
    "title": "Projekt Echtzeit",
    "venue": "",
    "address": "",
@@ -3875,20 +3594,6 @@
    "source": "DEG iCal",
    "team": "DEG",
    "away": false
-  },
-  {
-   "title": "DEL2: DEG vs. Bietigheim Steelers",
-   "date": "2026-11-17",
-   "time": "19:30",
-   "end_date": "",
-   "venue": "PSD BANK DOME",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/24b4f5ed2bbb1da9e448164dcbafda0a/",
-   "category": "sport",
-   "description": "Spieltag 17 der DEL2-Saison 2026/27.",
-   "source": "DEG"
   },
   {
    "title": "Eishockey: Düsseldorfer EG - Starbulls Rosenheim",
@@ -3989,23 +3694,6 @@
    "end_date": ""
   },
   {
-   "title": "Wolf",
-   "date": "2026-11-18",
-   "time": "10:00",
-   "end_date": "2026-11-18",
-   "venue": "Central 1",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/wolf/2954/",
-   "category": "театр",
-   "description": "Ein Stück über Mut und Freundschaft von Saša Stanišić Regie Carmen Schwarz",
-   "source": "D'haus",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
-  },
-  {
    "title": "Monica Muñoz: Flip",
    "venue": "tanzhaus nrw",
    "address": "",
@@ -4014,6 +3702,20 @@
    "url": "https://tanzhaus-nrw.de/de/veranstaltung/2026/11/flip",
    "category": "театр",
    "description": "Willkommen bei FLIP … einem wirbelnden, drehenden, rollenden, polternden, springenden und überschlagenden Strom an Spielfreude.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-18",
+   "time": "10:00",
+   "end_date": ""
+  },
+  {
+   "title": "Wolf",
+   "venue": "D'haus Central",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.westticket.de/eventseries/3633044?affiliate=5VD",
+   "category": "театр",
+   "description": "Ferienlager, das sind Brennnesseln, Dornen, Mücken, und das Schlimmste: Fast alle aus seiner Stufe sind auch angemeldet. Die Netten, die Sportler:innen, die Pferdemädchen, die Zocker:innen. Und Jörg, der immer abseits steht.",
    "source": "Visit Düsseldorf",
    "date": "2026-11-18",
    "time": "10:00",
@@ -4046,20 +3748,6 @@
    "date": "2026-11-18",
    "time": "15:00",
    "end_date": ""
-  },
-  {
-   "title": "Move it!",
-   "date": "2026-11-18",
-   "time": "17:00",
-   "end_date": "2026-11-18",
-   "venue": "Schauspielhaus, Foyer",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/move-it/3085/",
-   "category": "театр",
-   "description": "Yoga — Bringt bitte Sportkleidung und Yogamatten mit.",
-   "source": "D'haus"
   },
   {
    "title": "„Der Priester Dr. C. Klinkhammer – ein Rebell gegen den Nationalsozialismus und eine Starke kitische Stimme in der katholischen Kirche“",
@@ -4102,34 +3790,6 @@
    "date": "2026-11-18",
    "time": "18:30",
    "end_date": ""
-  },
-  {
-   "title": "Der Hobbit",
-   "date": "2026-11-18",
-   "time": "19:00",
-   "end_date": "2026-11-18",
-   "venue": "Schauspielhaus, Großes Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/der-hobbit/3084/",
-   "category": "театр",
-   "description": "von Greg Banks nach dem Roman von J. R. R. Tolkien Regie Christina Rast",
-   "source": "D'haus"
-  },
-  {
-   "title": "Freestyle Session Space",
-   "date": "2026-11-18",
-   "time": "19:00",
-   "end_date": "2026-11-18",
-   "venue": "Central Brücke",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "Frei",
-   "url": "https://www.dhaus.de/programm/spielplan/freestyle-session-space/3087/",
-   "category": "театр",
-   "description": "Freies Training für urbane Tänzer:innen",
-   "source": "D'haus"
   },
   {
    "title": "Mentoring 1:1 – Abschlussveranstaltung",
@@ -4212,7 +3872,7 @@
    "price": "370.00",
    "url": "https://allevents.in/d%C3%BCsseldorf/the-prodigy-düsseldorf-tickets/100029981801324",
    "category": "событие",
-   "description": "THE PRODIGY sind drauf und dran 2026 zu ihrem bisher größten Jahr zu machen.",
+   "description": "The Prodigy sind drauf und dran 2026 zu ihrem bisher größten Jahr zu machen.",
    "source": "allevents: все",
    "also_in": [
     "allevents: все",
@@ -4362,23 +4022,6 @@
    "source": "zakk"
   },
   {
-   "title": "Wolf",
-   "date": "2026-11-19",
-   "time": "10:00",
-   "end_date": "2026-11-19",
-   "venue": "Central 1",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/wolf/2955/",
-   "category": "театр",
-   "description": "Ein Stück über Mut und Freundschaft von Saša Stanišić Regie Carmen Schwarz",
-   "source": "D'haus",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
-  },
-  {
    "title": "Monica Muñoz: Flip",
    "venue": "tanzhaus nrw",
    "address": "",
@@ -4407,6 +4050,20 @@
    "end_date": ""
   },
   {
+   "title": "Wolf",
+   "venue": "D'haus Central",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.westticket.de/eventseries/3633044?affiliate=5VD",
+   "category": "театр",
+   "description": "Ferienlager, das sind Brennnesseln, Dornen, Mücken, und das Schlimmste: Fast alle aus seiner Stufe sind auch angemeldet. Die Netten, die Sportler:innen, die Pferdemädchen, die Zocker:innen. Und Jörg, der immer abseits steht.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-19",
+   "time": "10:00",
+   "end_date": ""
+  },
+  {
    "time": "11:00",
    "end_date": "2026-12-30",
    "address": "",
@@ -4421,20 +4078,6 @@
    "source": "nrw-tourismus.de, weihnachten-in-duesseldorf.de",
    "big": true,
    "horizon_days": 400
-  },
-  {
-   "title": "Klima Café",
-   "date": "2026-11-19",
-   "time": "17:00",
-   "end_date": "2026-11-19",
-   "venue": "Schauspielhaus, Foyer",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "Frei",
-   "url": "https://www.dhaus.de/programm/spielplan/klima-cafe/3089/",
-   "category": "театр",
-   "description": "Psychologists4Future laden ein",
-   "source": "D'haus"
   },
   {
    "title": "Traditionelle Eröffnung des Düsseldorfer Weihnachtsmarktes",
@@ -4463,20 +4106,6 @@
    "category": "выставка",
    "description": "18–23 uhr kunst zum anschauen und zum einmischen.",
    "source": "zakk"
-  },
-  {
-   "title": "THEATER­BAR",
-   "date": "2026-11-19",
-   "time": "18:00",
-   "end_date": "2026-11-19",
-   "venue": "Central Brücke",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "Frei",
-   "url": "https://www.dhaus.de/programm/spielplan/theaterbar/3090/",
-   "category": "театр",
-   "description": "DRINKS, LIEBLINGSTEXTE, SHOWEINLAGEN UND LIVE-MUSIK",
-   "source": "D'haus"
   },
   {
    "title": "Eröffnung: MUR BRUT 40. Anna van Baarsen, Benedikt Lübcke, Alissa Ritter, Marie Schubert, Fabian Raphael Sokolowski. What Happens When Nothing Happens",
@@ -4508,23 +4137,6 @@
    "end_date": ""
   },
   {
-   "title": "Drei Schwestern",
-   "date": "2026-11-19",
-   "time": "19:00",
-   "end_date": "2026-11-19",
-   "venue": "Central 2",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/drei-schwestern/3045/",
-   "category": "театр",
-   "description": "von Katharina Bill / Anton Tschechow Regie Katharina Bill",
-   "source": "D'haus",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
-  },
-  {
    "title": "Konzert in der Cocktailbar Ellington",
    "venue": "",
    "address": "",
@@ -4553,6 +4165,20 @@
    "end_date": ""
   },
   {
+   "title": "Drei Schwestern",
+   "venue": "",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.westticket.de/eventseries/3675095?affiliate=5VD",
+   "category": "театр",
+   "description": "Olga, Mascha und Irina sehnen sich nach einem ganz anderen Leben, wollen raus aus Gegenwart und Provinz, weg von der verunglückten Berufs- und Männerwahl. Doch von Resignation kann keine Rede sein in Tschechows Klassiker. »Es sind vielmehr übervitale Menschen in einer lethargischen Welt, die gezwung",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-19",
+   "time": "19:00",
+   "end_date": ""
+  },
+  {
    "title": "Club der Erstlinge, die Dritte - zu Gast: Anton Wolfpril",
    "venue": "Café Mittendrin, Gemeindezentrum Ev. Kirchengemeinde Gerresheim",
    "address": "",
@@ -4567,21 +4193,18 @@
    "end_date": ""
   },
   {
-   "title": "DIE MÖWE",
-   "date": "2026-11-19",
-   "time": "19:30",
-   "end_date": "2026-11-19",
-   "venue": "Schauspielhaus, Großes Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "title": "Die Möwe",
+   "venue": "D'haus Düsseldorfer Schauspielhaus",
+   "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/die-moewe/3088/",
+   "url": "https://www.westticket.de/eventseries/3967069?affiliate=5VD",
    "category": "театр",
-   "description": "von Anton Tschechow Regie Barbara Frey",
-   "source": "D'haus",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
+   "description": "Wir brauchen neue Formen. Neue Formen! Und wenn es sie nicht gibt, dann sollte man den ganzen Quatsch lieber ganz lassen.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-19",
+   "time": "19:30",
+   "end_date": ""
   },
   {
    "title": "JOEYS COMEDY CLUB",
@@ -4920,20 +4543,17 @@
   },
   {
    "title": "Wolf",
-   "date": "2026-11-20",
-   "time": "10:00",
-   "end_date": "2026-11-20",
-   "venue": "Central 1",
+   "venue": "D'haus Central",
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/wolf/2956/",
+   "url": "https://www.westticket.de/eventseries/3633044?affiliate=5VD",
    "category": "театр",
-   "description": "Ein Stück über Mut und Freundschaft von Saša Stanišić Regie Carmen Schwarz",
-   "source": "D'haus",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
+   "description": "Ferienlager, das sind Brennnesseln, Dornen, Mücken, und das Schlimmste: Fast alle aus seiner Stufe sind auch angemeldet. Die Netten, die Sportler:innen, die Pferdemädchen, die Zocker:innen. Und Jörg, der immer abseits steht.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-20",
+   "time": "10:00",
+   "end_date": ""
   },
   {
    "title": "James Batchelor & Collaborators: Notes of Self",
@@ -5050,23 +4670,6 @@
    "end_date": ""
   },
   {
-   "title": "FANNY UND ALEXANDER",
-   "date": "2026-11-20",
-   "time": "19:30",
-   "end_date": "2026-11-20",
-   "venue": "Schauspielhaus, Kleines Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/fanny-und-alexander-2026/3092/",
-   "category": "театр",
-   "description": "von Ingmar Bergman Regie Thorleifur Örn Arnarsson",
-   "source": "D'haus",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
-  },
-  {
    "title": "Rendezvous um halb 8 - Oper meets Elektrobeats",
    "venue": "Deutsche Oper am Rhein",
    "address": "",
@@ -5109,18 +4712,18 @@
    "end_date": ""
   },
   {
-   "title": "DEL2: Dresdner Eislöwen vs. DEG",
+   "title": "Fanny und Alexander",
+   "venue": "D'haus Düsseldorfer Schauspielhaus",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.westticket.de/eventseries/2666964?affiliate=5VD",
+   "category": "театр",
+   "description": "Fanny und Alexander wachsen Anfang des 20. Jahrhunderts in der großbürgerlichen Theaterfamilie Ekdahl auf. Ihr Vater ist Theaterdirektor, ihre Mutter Schauspielerin. Die Kinder sind ganz selbstverständlich Teil von rauschenden Festen, Theaterproben und Gesprächen über Literatur.",
+   "source": "Visit Düsseldorf",
    "date": "2026-11-20",
    "time": "19:30",
-   "end_date": "",
-   "venue": "",
-   "address": "",
-   "locality": "Dresden",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/07174691a71524008f90724f96682642/",
-   "category": "sport",
-   "description": "Spieltag 18 der DEL2-Saison 2026/27.",
-   "source": "DEG"
+   "end_date": ""
   },
   {
    "title": "Hatsune Miku Düsseldorf Tickets",
@@ -5139,20 +4742,6 @@
     "allevents: все",
     "Visit Düsseldorf"
    ]
-  },
-  {
-   "title": "Sessions",
-   "date": "2026-11-20",
-   "time": "20:00",
-   "end_date": "2026-11-20",
-   "venue": "Schauspielhaus, Foyer",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/sessions/3053/",
-   "category": "вечеринка",
-   "description": "Live-Performances und Party organisiert von Flockey Ocscor",
-   "source": "D'haus"
   },
   {
    "title": "Sessions - Live Performances",
@@ -5270,23 +4859,6 @@
    ]
   },
   {
-   "title": "Candlelight: Tribut an Hans Zimmer",
-   "date": "2026-11-20",
-   "time": "",
-   "end_date": "2027-03-27",
-   "venue": "Palais Wittgenstein",
-   "address": "Bilker Straße 7-9, Düsseldorf-Stadtbezirk 1// 40213, Dusseldorf",
-   "locality": "Dusseldorf",
-   "price": "34.00",
-   "url": "https://allevents.in/dusseldorf/candlelight-tribut-an-hans-zimmer/2700029248181506",
-   "category": "событие",
-   "description": "",
-   "source": "allevents: все",
-   "also_in": [
-    "allevents: все"
-   ]
-  },
-  {
    "title": "Şevval Sam in Düsseldorf",
    "date": "2026-11-20",
    "time": "",
@@ -5302,6 +4874,23 @@
    "also_in": [
     "allevents: все",
     "allevents: живая музыка"
+   ]
+  },
+  {
+   "title": "Candlelight: Tribut an Hans Zimmer",
+   "date": "2026-11-20",
+   "time": "",
+   "end_date": "",
+   "venue": "Palais Wittgenstein",
+   "address": "Bilker Straße 7-9, Düsseldorf-Stadtbezirk 1// 40213, Dusseldorf",
+   "locality": "Dusseldorf",
+   "price": "34.00",
+   "url": "https://allevents.in/dusseldorf/candlelight-tribut-an-hans-zimmer/2700029248181506",
+   "category": "событие",
+   "description": "",
+   "source": "allevents: все",
+   "also_in": [
+    "allevents: все"
    ]
   },
   {
@@ -5559,20 +5148,6 @@
    "end_date": ""
   },
   {
-   "title": "PLAY IT! meets STAGED!",
-   "date": "2026-11-21",
-   "time": "15:00",
-   "end_date": "2026-11-21",
-   "venue": "Central Brücke",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/play-it/3094/",
-   "category": "театр",
-   "description": "Create a play in a day",
-   "source": "D'haus"
-  },
-  {
    "title": "Mitmachkonzert mit Karibuni",
    "venue": "Bücherei Derendorf",
    "address": "",
@@ -5587,18 +5162,18 @@
    "end_date": ""
   },
   {
-   "title": "Der Hobbit",
-   "date": "2026-11-21",
-   "time": "16:00",
-   "end_date": "2026-11-21",
-   "venue": "Schauspielhaus, Großes Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "title": "Martin Waldbauer: Buchpräsentation und Artisttalk",
+   "venue": "Galerie noir blanche",
+   "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/der-hobbit/2836/",
-   "category": "театр",
-   "description": "von Greg Banks nach dem Roman von J. R. R. Tolkien Regie Christina Rast",
-   "source": "D'haus"
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "лекция",
+   "description": "Im Gespräch gibt Martin Waldbauer Einblicke in seine fotografische Sichtweise, die Entstehung seiner Bildauswahl und seine besondere Leidenschaft für die klassische analoge Schwarz-Weiß-Fotografie.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-21",
+   "time": "16:00",
+   "end_date": ""
   },
   {
    "title": "Moonlight Market - Nachtflohmarkt",
@@ -5685,20 +5260,6 @@
    "end_date": ""
   },
   {
-   "title": "Das Floß der Medusa",
-   "date": "2026-11-21",
-   "time": "19:30",
-   "end_date": "2026-11-21",
-   "venue": "Central 2",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/das-floss-der-medusa/3046/",
-   "category": "театр",
-   "description": "nach Georg Kaiser | in einer Bearbeitung von Fabiola Kuonen und Ensemble Regie Fabiola Kuonen",
-   "source": "D'haus"
-  },
-  {
    "title": "20. Orientalisches Fest",
    "venue": "Bürgerhaus Reisholz",
    "address": "",
@@ -5741,21 +5302,18 @@
    "end_date": ""
   },
   {
-   "title": "BLUTBUCH",
-   "date": "2026-11-21",
-   "time": "20:00",
-   "end_date": "2026-11-21",
-   "venue": "Schauspielhaus, Kleines Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "title": "Blutbuch",
+   "venue": "D'haus Düsseldorfer Schauspielhaus",
+   "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/blutbuch/3093/",
+   "url": "https://www.westticket.de/eventseries/4227663?affiliate=5VD",
    "category": "театр",
-   "description": "von Kim de l’Horizon nach einer Fassung und Inszenierung von Sebastian Schug",
-   "source": "D'haus",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
+   "description": "Die Liebe der Meeren war so gross, mensch entkam ihr nicht, entkommt ihr nicht, mensch schwimmt ein Leben lang, um aus den Meeren herauszukommen.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "end_date": ""
   },
   {
    "title": "Contact Gonzo: The Storm",
@@ -5877,51 +5435,6 @@
    ]
   },
   {
-   "title": "Moonlight Market – Düsseldorfs Nachtmarkt im Blumengroßmarkt",
-   "date": "2026-11-21",
-   "time": "",
-   "end_date": "2026-11-21",
-   "venue": "Blumengro&szlig;markt",
-   "address": "Ulmenstraße 275, 40468, Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://meine-flohmarkt-termine.de/moonlight-market-dusseldorfs-nachtmarkt-im-blumengrossmarkt/23840771/details",
-   "category": "рынок",
-   "description": "Was dich erwartet Nacht der K&uuml;nste Spezial - Eine Stunde l&auml;nger ge&ouml;ffnet (bis 00:00 Uhr) Der Moonlight Market ist kein klassischer Markt. Es ist ein Nacht-Event mit Marktatmosph&auml;re: gute Vibes, spannende St&auml;nde, neue Lieblingsst&uuml;cke &ndash; und zwischendurch immer was L",
-   "source": "Блошиные рынки (MFT)",
-   "also_in": [
-    "Блошиные рынки (MFT)"
-   ]
-  },
-  {
-   "title": "Der Mädelsflohmarkt @Blumengroßmarkt Düsseldorf - LATE NIGHT EDITION",
-   "date": "2026-11-21",
-   "time": "",
-   "end_date": "2026-11-21",
-   "venue": "Blumengro&szlig;markt D&uuml;sseldorf",
-   "address": "Ulmenstraße 275, 40468 , Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://meine-flohmarkt-termine.de/der-madelsflohmarkt-at-blumengrossmarkt-dusseldorf-late-night-edition/23699502/details",
-   "category": "рынок",
-   "description": "Der M&auml;delsflohmarkt in deiner Stadt - dein Markt f&uuml;r Second Hand Frauenkleidung und Accessoires. Vintage Teile, Second Hand Klamotten, Designerkram, Schuhe, Schmuck, Accessoires, Selbstgemachtes, ausrangiertes u.v.m. Besucherpreise: Einzelkarte (w/d/m) ab 12 Jahre: 4,50&euro; Ausstellerpre",
-   "source": "Блошиные рынки (MFT)"
-  },
-  {
-   "title": "Trödelmarkt Düsseldorf Schützenplatz",
-   "date": "2026-11-21",
-   "time": "",
-   "end_date": "2026-11-21",
-   "venue": "D&uuml;sseldorf-Benrath Sch&uuml;tzenplatz",
-   "address": "Bayreuther Straße  31, 40597, Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752963/details",
-   "category": "рынок",
-   "description": "Der &uuml;ber die Stadtgrenzen bekannte Samstags-Tr&ouml;delmarkt auf dem Sch&uuml;tzenplatz erfreut sich seit Jahren gro&szlig;er Beliebtheit. Das ausgewogene Verh&auml;ltnis von Neuware und Tr&ouml;del abgerundet durch ein ausreichendes Gastronomieangebot l&auml;dt zum Bummeln und Verweilen ein. &",
-   "source": "Блошиные рынки (MFT)"
-  },
-  {
    "title": "TEKK WAR NIE WEG pres. 9 JAHRE PARKINZON & SIILLAA",
    "date": "2026-11-21",
    "time": "",
@@ -6037,20 +5550,6 @@
    "end_date": ""
   },
   {
-   "title": "EIN ÜBERTRITT (ALLES AUF ENDE)",
-   "date": "2026-11-22",
-   "time": "16:00",
-   "end_date": "2026-11-22",
-   "venue": "Schauspielhaus, Kleines Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/ein-uebertritt/3096/",
-   "category": "театр",
-   "description": "von Elfriede Jelinek Regie Jossi Wieler",
-   "source": "D'haus"
-  },
-  {
    "title": "Ein Übertritt",
    "venue": "D'haus Düsseldorfer Schauspielhaus",
    "address": "",
@@ -6163,20 +5662,6 @@
    "end_date": ""
   },
   {
-   "title": "Der Vogel hat kein Recht, so zu singen, wie er singt.",
-   "date": "2026-11-22",
-   "time": "18:00",
-   "end_date": "2026-11-22",
-   "venue": "Central 2",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/der-vogel-hat-kein-recht-so-zu-singen-wie-er-singt/3052/",
-   "category": "концерт",
-   "description": "Konzertlesung über verfolgte Komponist:innen und Dichter:innen der Ukraine",
-   "source": "D'haus"
-  },
-  {
    "title": "Contact Gonzo: The Storm",
    "venue": "FFT Düsseldorf",
    "address": "",
@@ -6249,20 +5734,6 @@
    "away": false
   },
   {
-   "title": "DEL2: DEG vs. Lausitzer Füchse",
-   "date": "2026-11-22",
-   "time": "18:30",
-   "end_date": "",
-   "venue": "PSD BANK DOME",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/427647c46e604d42f62b3ad6f55db223/",
-   "category": "sport",
-   "description": "Spieltag 19 der DEL2-Saison 2026/27.",
-   "source": "DEG"
-  },
-  {
    "title": "Eishockey: Düsseldorfer EG - Lausitzer Füchse",
    "venue": "PSD BANK DOME",
    "address": "",
@@ -6275,20 +5746,6 @@
    "date": "2026-11-22",
    "time": "18:30",
    "end_date": ""
-  },
-  {
-   "title": "\"HEROES\" – Alexander Scheer singt David Bowie",
-   "date": "2026-11-22",
-   "time": "19:30",
-   "end_date": "2026-11-22",
-   "venue": "Schauspielhaus, Großes Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/heroes-alexander-scheer-singt-david-bowie/3095/",
-   "category": "концерт",
-   "description": "Schauspiel",
-   "source": "D'haus"
   },
   {
    "title": "westcoast JAZZ",
@@ -6305,23 +5762,6 @@
    "end_date": ""
   },
   {
-   "title": "Der Hobbit",
-   "date": "2026-11-23",
-   "time": "09:30",
-   "end_date": "2026-11-23",
-   "venue": "Schauspielhaus, Großes Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/der-hobbit/2837/",
-   "category": "театр",
-   "description": "von Greg Banks nach dem Roman von J. R. R. Tolkien Regie Christina Rast",
-   "source": "D'haus",
-   "also_in": [
-    "D'haus"
-   ]
-  },
-  {
    "title": "David Rolland: Hit Hip Pop Classic Parade",
    "venue": "tanzhaus nrw",
    "address": "",
@@ -6334,20 +5774,6 @@
    "date": "2026-11-23",
    "time": "10:00",
    "end_date": ""
-  },
-  {
-   "title": "INFOTREFFEN: DIE LEIDEN DES JUNGEN WERTHER",
-   "date": "2026-11-23",
-   "time": "18:00",
-   "end_date": "2026-11-23",
-   "venue": "Central 2",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "Eintritt frei",
-   "url": "https://www.dhaus.de/programm/spielplan/die-leiden-des-jungen-werther-2027/3099/",
-   "category": "театр",
-   "description": "Mitspieler:innen von 15 bis 21 und von 9 bis 11 Jahren gesucht nach Johann Wolfgang Goethe",
-   "source": "D'haus"
   },
   {
    "title": "Christoph Peters: Entzug",
@@ -6462,20 +5888,6 @@
    "end_date": ""
   },
   {
-   "title": "Das grüne König­reich",
-   "date": "2026-11-24",
-   "time": "10:00",
-   "end_date": "2026-11-24",
-   "venue": "Central 2",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/das-gruene-koenigreich/2984/",
-   "category": "театр",
-   "description": "von Cornelia Funke und Tammi Hartung Regie Leonie Rohlfing",
-   "source": "D'haus"
-  },
-  {
    "title": "#Ignition - Skyrim",
    "venue": "Tonhalle Düsseldorf",
    "address": "",
@@ -6502,20 +5914,6 @@
    "date": "2026-11-24",
    "time": "18:30",
    "end_date": ""
-  },
-  {
-   "title": "DER KOMIKER",
-   "date": "2026-11-24",
-   "time": "19:00",
-   "end_date": "2026-11-24",
-   "venue": "Schauspielhaus, Kleines Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/der-komiker/3100/",
-   "category": "театр",
-   "description": "Eine Tragödie von Canberk Köktürk Regie Bassam Ghazi",
-   "source": "D'haus"
   },
   {
    "title": "Streitraum Herzkammer – Peter Neumann: Mentalitäten",
@@ -6625,20 +6023,6 @@
    "end_date": "2026-12-20"
   },
   {
-   "title": "Das grüne König­reich",
-   "date": "2026-11-25",
-   "time": "10:00",
-   "end_date": "2026-11-25",
-   "venue": "Central 2",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/das-gruene-koenigreich/2985/",
-   "category": "театр",
-   "description": "von Cornelia Funke und Tammi Hartung Regie Leonie Rohlfing",
-   "source": "D'haus"
-  },
-  {
    "title": "Kasperletheater",
    "venue": "Kö-Bogen-Markt",
    "address": "",
@@ -6665,20 +6049,6 @@
    "date": "2026-11-25",
    "time": "15:00",
    "end_date": ""
-  },
-  {
-   "title": "Move it!",
-   "date": "2026-11-25",
-   "time": "17:00",
-   "end_date": "2026-11-25",
-   "venue": "Schauspielhaus, Foyer",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "Frei",
-   "url": "https://www.dhaus.de/programm/spielplan/move-it/3103/",
-   "category": "театр",
-   "description": "Tanz — Bringt bitte Sportkleidung mit.",
-   "source": "D'haus"
   },
   {
    "title": "Charlotte Wiedemann: Die Kunst des Abschiednehmens",
@@ -6737,23 +6107,6 @@
    "end_date": ""
   },
   {
-   "title": "Verbren­nungen",
-   "date": "2026-11-25",
-   "time": "19:00",
-   "end_date": "2026-11-25",
-   "venue": "Schauspielhaus, Kleines Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/verbrennungen/3102/",
-   "category": "театр",
-   "description": "von Wajdi Mouawad Regie Bassam Ghazi",
-   "source": "D'haus",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
-  },
-  {
    "title": "Andersens Winter",
    "venue": "Bücherei Derendorf",
    "address": "",
@@ -6762,6 +6115,20 @@
    "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
    "category": "театр",
    "description": "Der Winter ist die Zeit der langen Abende. Zeit, sich an alte Märchen und Erzählungen zu erinnern und die Romantik wirken zu lassen.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-25",
+   "time": "19:00",
+   "end_date": ""
+  },
+  {
+   "title": "Verbrennungen",
+   "venue": "D'haus Düsseldorfer Schauspielhaus",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.westticket.de/eventseries/4084082?affiliate=5VD",
+   "category": "театр",
+   "description": "»Wenn ich das Schweigen breche, dann wird ein Ozean in meinem Kopf platzen.« - Nach dem Tod ihrer Mutter erhalten die Zwillinge Jeanne und Simon den Auftrag, zwei verschlossene Briefe zu übergeben:",
    "source": "Visit Düsseldorf",
    "date": "2026-11-25",
    "time": "19:00",
@@ -6838,20 +6205,6 @@
    "end_date": ""
   },
   {
-   "title": "INTERNATIONALER TAG GEGEN GEWALT AN FRAUEN",
-   "date": "2026-11-25",
-   "time": "21:00",
-   "end_date": "2026-11-25",
-   "venue": "Schauspielhaus, Foyer",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "FREI",
-   "url": "https://www.dhaus.de/programm/spielplan/internationaler-tag-gegen-gewalt-an-frauen/3101/",
-   "category": "театр",
-   "description": "Hinschauen statt schweigen. Handeln statt wegsehen | Podiumsdiskussion mit Dr. Esma Çakır-Ceylan",
-   "source": "D'haus"
-  },
-  {
    "title": "Westlife European tour at 25",
    "date": "2026-11-25",
    "time": "",
@@ -6870,20 +6223,6 @@
    ]
   },
   {
-   "title": "Das grüne König­reich",
-   "date": "2026-11-26",
-   "time": "10:00",
-   "end_date": "2026-11-26",
-   "venue": "Central 2",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/das-gruene-koenigreich/2986/",
-   "category": "театр",
-   "description": "von Cornelia Funke und Tammi Hartung Regie Leonie Rohlfing",
-   "source": "D'haus"
-  },
-  {
    "title": "DIE LEUCHTENDEN GÄRTEN",
    "date": "2026-11-26",
    "time": "17:00",
@@ -6898,6 +6237,7 @@
    "source": "Schloss Benrath",
    "horizon_days": 21,
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -6987,21 +6327,18 @@
    "end_date": ""
   },
   {
-   "title": "BERNARDA ALBAS HAUS",
-   "date": "2026-11-26",
-   "time": "19:30",
-   "end_date": "2026-11-26",
-   "venue": "Schauspielhaus, Großes Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "title": "Bernarda Albas Haus",
+   "venue": "D'haus Düsseldorfer Schauspielhaus",
+   "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/bernarda-albas-haus/3104/",
+   "url": "https://www.westticket.de/eventseries/4190302?affiliate=5VD",
    "category": "театр",
-   "description": "von Alice Birch nach Federico García Lorca Regie Lucia Bihler",
-   "source": "D'haus",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
+   "description": "Bernarda Alba, die tyrannische Matriarchin eines Haushalts voller Frauen, verhängt nach dem Tod ihres zweiten Mannes eine achtjährige Trauerzeit mit Ausgangssperre über ihre erwachsenen Töchter.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-26",
+   "time": "19:30",
+   "end_date": ""
   },
   {
    "title": "Von der Stille ins Licht",
@@ -7165,23 +6502,6 @@
    ]
   },
   {
-   "title": "Der Hobbit",
-   "date": "2026-11-27",
-   "time": "09:30",
-   "end_date": "2026-11-27",
-   "venue": "Schauspielhaus, Großes Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/der-hobbit/2839/",
-   "category": "театр",
-   "description": "von Greg Banks nach dem Roman von J. R. R. Tolkien Regie Christina Rast",
-   "source": "D'haus",
-   "also_in": [
-    "D'haus"
-   ]
-  },
-  {
    "title": "Afterwork - Weinprobe bei Futuro Si e.V.",
    "venue": "",
    "address": "",
@@ -7223,20 +6543,6 @@
    "date": "2026-11-27",
    "time": "18:30",
    "end_date": ""
-  },
-  {
-   "title": "D’Impronauten",
-   "date": "2026-11-27",
-   "time": "19:00",
-   "end_date": "2026-11-27",
-   "venue": "Central 2",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/dimpronauten/3105/",
-   "category": "театр",
-   "description": "Die spontanste Show im Central",
-   "source": "D'haus"
   },
   {
    "title": "Prof. Dr. Manfred Kittel: Der Hitler-Stalin-Pakt in der deutschen Erinnerungskultur",
@@ -7281,34 +6587,6 @@
    "date": "2026-11-27",
    "time": "19:30",
    "end_date": ""
-  },
-  {
-   "title": "DEL2: EHC Freiburg vs. DEG",
-   "date": "2026-11-27",
-   "time": "19:30",
-   "end_date": "",
-   "venue": "",
-   "address": "",
-   "locality": "Freiburg",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/dba16a218cf8cab83396f133239d5bdb/",
-   "category": "sport",
-   "description": "Spieltag 20 der DEL2-Saison 2026/27.",
-   "source": "DEG"
-  },
-  {
-   "title": "DER KOMIKER",
-   "date": "2026-11-27",
-   "time": "20:00",
-   "end_date": "2026-11-27",
-   "venue": "Schauspielhaus, Kleines Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/der-komiker/3097/",
-   "category": "театр",
-   "description": "Eine Tragödie von Canberk Köktürk Regie Bassam Ghazi",
-   "source": "D'haus"
   },
   {
    "title": "WANDELKONZERT",
@@ -7508,20 +6786,6 @@
    "end_date": ""
   },
   {
-   "title": "Der Hobbit",
-   "date": "2026-11-28",
-   "time": "11:00",
-   "end_date": "2026-11-28",
-   "venue": "Schauspielhaus, Großes Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/der-hobbit/3091/",
-   "category": "театр",
-   "description": "von Greg Banks nach dem Roman von J. R. R. Tolkien Regie Christina Rast",
-   "source": "D'haus"
-  },
-  {
    "title": "5 Jahre AURA",
    "venue": "KIT - Kunst im Tunnel",
    "address": "",
@@ -7635,6 +6899,20 @@
    "source": "OpenLigaDB",
    "team": "Fortuna",
    "away": true
+  },
+  {
+   "title": "Trödel- & Kindersachenmarkt",
+   "venue": "Bürgerhaus Reisholz",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "детям",
+   "description": "Die beliebte Schnäppchenjagd im Düsseldorfer Süden geht direkt im Anschluss an die Aktion Ein Weihnachtsbaum für Reisholz an den Start und pflegt so eine liebgewonnene Tradition im Stadtteil.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-28",
+   "time": "14:00",
+   "end_date": ""
   },
   {
    "title": "Orgelkonzert mit Markus Hinz",
@@ -7778,21 +7056,18 @@
    "end_date": ""
   },
   {
-   "title": "BLUTBUCH",
-   "date": "2026-11-28",
-   "time": "20:00",
-   "end_date": "2026-11-28",
-   "venue": "Schauspielhaus, Kleines Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
+   "title": "groove!Bigband",
+   "venue": "Petruskirche (ev.)",
+   "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/blutbuch/3107/",
-   "category": "театр",
-   "description": "von Kim de l’Horizon nach einer Fassung und Inszenierung von Sebastian Schug",
-   "source": "D'haus",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "концерт",
+   "description": "Bigbandsound aus Mönchengladbach.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-28",
+   "time": "19:00",
+   "end_date": ""
   },
   {
    "title": "WANDELKONZERT",
@@ -7808,6 +7083,20 @@
    "description": "Stimmungsvolles Wandelkonzert in historischer Kulisse.",
    "source": "Schloss Benrath",
    "horizon_days": 21
+  },
+  {
+   "title": "Blutbuch",
+   "venue": "D'haus Düsseldorfer Schauspielhaus",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.westticket.de/eventseries/4227663?affiliate=5VD",
+   "category": "театр",
+   "description": "Die Liebe der Meeren war so gross, mensch entkam ihr nicht, entkommt ihr nicht, mensch schwimmt ein Leben lang, um aus den Meeren herauszukommen.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-28",
+   "time": "20:00",
+   "end_date": ""
   },
   {
    "title": "Anne Teresa De Keersmaeker / Rosas, Ictus & BL!NDMAN: GLA55. 10 movements to the music of Philip Glass",
@@ -7978,23 +7267,6 @@
    "end_date": ""
   },
   {
-   "title": "Trödel- & Kindersachenmarkt",
-   "date": "2026-11-28",
-   "time": "",
-   "end_date": "2026-11-28",
-   "venue": "B&uuml;rgerhaus Reisholz",
-   "address": "Kappeler Straße 231, 40599, Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://meine-flohmarkt-termine.de/trodel-kindersachenmarkt/23734462/details",
-   "category": "рынок",
-   "description": "Der &quot;Blitz-Markt&ldquo; im D&uuml;sseldorfer S&uuml;den! Die gro&szlig;e Wetter unabh&auml;ngige Schn&auml;ppchenjagd erfreut sich seit mehr als 30 Jahren gro&szlig;er Beliebtheit und geht im B&uuml;rgerhaus Reisholz an der Kappeler Stra&szlig;e 231 endlich wieder an den Start. Gut Erhaltenes v",
-   "source": "Блошиные рынки (MFT)",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
-  },
-  {
    "title": "ZAUBERSALON RHEINLAND: SimSalaBim | Die Magische DinnerShow | Saison 26/27",
    "date": "2026-11-28",
    "time": "",
@@ -8010,20 +7282,6 @@
    "also_in": [
     "allevents: все"
    ]
-  },
-  {
-   "title": "Trödelmarkt Düsseldorf Schützenplatz",
-   "date": "2026-11-28",
-   "time": "",
-   "end_date": "2026-11-28",
-   "venue": "D&uuml;sseldorf-Benrath Sch&uuml;tzenplatz",
-   "address": "Bayreuther Straße  31, 40597, Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752964/details",
-   "category": "рынок",
-   "description": "Der &uuml;ber die Stadtgrenzen bekannte Samstags-Tr&ouml;delmarkt auf dem Sch&uuml;tzenplatz erfreut sich seit Jahren gro&szlig;er Beliebtheit. Das ausgewogene Verh&auml;ltnis von Neuware und Tr&ouml;del abgerundet durch ein ausreichendes Gastronomieangebot l&auml;dt zum Bummeln und Verweilen ein. &",
-   "source": "Блошиные рынки (MFT)"
   },
   {
    "title": "SELIG /// The EPIC Years - Tour 2026 /// Düsseldorf",
@@ -8188,23 +7446,6 @@
    "end_date": ""
   },
   {
-   "title": "Der Hobbit",
-   "date": "2026-11-29",
-   "time": "14:30",
-   "end_date": "2026-11-29",
-   "venue": "Schauspielhaus, Großes Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/der-hobbit/2841/",
-   "category": "театр",
-   "description": "von Greg Banks nach dem Roman von J. R. R. Tolkien Regie Christina Rast",
-   "source": "D'haus",
-   "also_in": [
-    "D'haus"
-   ]
-  },
-  {
    "title": "ADVENTS- und MITSINGKONZERT",
    "date": "2026-11-29",
    "time": "15:00",
@@ -8262,20 +7503,6 @@
    "end_date": ""
   },
   {
-   "title": "KIEZFÜHRUNG MIT RESTAURANTBESUCH",
-   "date": "2026-11-29",
-   "time": "17:00",
-   "end_date": "2026-11-29",
-   "venue": "Vor dem Central",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/kiezfuehrung-mit-restaurantbesuch/3130/",
-   "category": "экскурсия",
-   "description": "Geschichten vom KAP1 bis zum Worringer Platz",
-   "source": "D'haus"
-  },
-  {
    "title": "DIE LEUCHTENDEN GÄRTEN",
    "date": "2026-11-29",
    "time": "17:00",
@@ -8307,20 +7534,6 @@
    "away": false
   },
   {
-   "title": "DEL2: DEG vs. Starbulls Rosenheim",
-   "date": "2026-11-29",
-   "time": "17:00",
-   "end_date": "",
-   "venue": "PSD BANK DOME",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/6dbb3c2d75b11ebda4540b683bc7514a/",
-   "category": "sport",
-   "description": "Spieltag 21 der DEL2-Saison 2026/27.",
-   "source": "DEG"
-  },
-  {
    "title": "Erbe gut - Alles gut",
    "venue": "Theater an der Kö",
    "address": "",
@@ -8347,20 +7560,6 @@
    "date": "2026-11-29",
    "time": "17:00",
    "end_date": ""
-  },
-  {
-   "title": "DER KOMIKER",
-   "date": "2026-11-29",
-   "time": "18:00",
-   "end_date": "2026-11-29",
-   "venue": "Schauspielhaus, Kleines Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/der-komiker/3086/",
-   "category": "театр",
-   "description": "Eine Tragödie von Canberk Köktürk Regie Bassam Ghazi",
-   "source": "D'haus"
   },
   {
    "title": "Torikaebaya - Eine Geschichte des Anderswerdens",
@@ -8433,20 +7632,6 @@
    "end_date": ""
   },
   {
-   "title": "PARADISE LOST ALL OVER AGAIN",
-   "date": "2026-11-29",
-   "time": "19:30",
-   "end_date": "2026-11-29",
-   "venue": "Central 2",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/paradise-lost-all-over-again-2026/3048/",
-   "category": "театр",
-   "description": "7 TODSÜNDEN: NEID von Yeşim Nela Keim Schaub, Lisa Pottstock Regie Yeşim Nela Keim Schaub, Lisa Pottstock",
-   "source": "D'haus"
-  },
-  {
    "title": "westcoast JAZZ",
    "venue": "Destille",
    "address": "",
@@ -8473,37 +7658,6 @@
    "date": "2026-11-29",
    "time": "20:00",
    "end_date": ""
-  },
-  {
-   "title": "Melan Trödelmarkt Düsseldorf Ikea",
-   "date": "2026-11-29",
-   "time": "",
-   "end_date": "2026-11-29",
-   "venue": "D&uuml;sseldorf Ikea",
-   "address": "Oerschbachstraße 75 , 40589, Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://meine-flohmarkt-termine.de/melan-trodelmarkt-dusseldorf-ikea/23830629/details",
-   "category": "рынок",
-   "description": "Wir freuen uns, euch unseren neuen Tr&ouml;delmarkt am IKEA D&uuml;sseldorf anzuk&uuml;ndigen.📍 IKEA D&uuml;sseldorfFreut euch auf zahlreiche H&auml;ndler mit einem abwechslungsreichen Angebot: Antikes, Vintage, Deko, Kleidung, Sammlerst&uuml;cke und viele weitere besondere Fundst&uuml;cke warten da",
-   "source": "Блошиные рынки (MFT)"
-  },
-  {
-   "title": "Der Hobbit",
-   "date": "2026-11-30",
-   "time": "09:30",
-   "end_date": "2026-11-30",
-   "venue": "Schauspielhaus, Großes Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/der-hobbit/2843/",
-   "category": "театр",
-   "description": "von Greg Banks nach dem Roman von J. R. R. Tolkien Regie Christina Rast",
-   "source": "D'haus",
-   "also_in": [
-    "D'haus"
-   ]
   },
   {
    "title": "Loud And Proud",
@@ -8663,34 +7817,6 @@
    "end_date": ""
   },
   {
-   "title": "Blinde­kuh mit dem Tod",
-   "date": "2026-12-01",
-   "time": "19:00",
-   "end_date": "2026-12-01",
-   "venue": "Central 2",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/blindekuh-mit-dem-tod/2981/",
-   "category": "театр",
-   "description": "Kindheitserinnerungen von Holocaust-Überlebenden nach der Graphic Novel von Anna Yamchuk, Mykola Kuschnir, Natalya Herasym und Anna Tarnowezka",
-   "source": "D'haus"
-  },
-  {
-   "title": "Peck & Peck",
-   "date": "2026-12-01",
-   "time": "19:30",
-   "end_date": "2026-12-01",
-   "venue": "Schauspielhaus, Kleines Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/peck-peck/3106/",
-   "category": "театр",
-   "description": "von Bonnie Garmus | Lesung und Gespräch mit Matthias Koeberlin und Bonnie Garmus",
-   "source": "D'haus"
-  },
-  {
    "title": "DEG - Landshut",
    "date": "2026-12-01",
    "time": "19:30",
@@ -8705,20 +7831,6 @@
    "source": "DEG iCal",
    "team": "DEG",
    "away": false
-  },
-  {
-   "title": "DEL2: DEG vs. EV Landshut",
-   "date": "2026-12-01",
-   "time": "19:30",
-   "end_date": "",
-   "venue": "PSD BANK DOME",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/0d243cdfc2a44a61e318f1ec8763a9c6/",
-   "category": "sport",
-   "description": "Spieltag 22 der DEL2-Saison 2026/27.",
-   "source": "DEG"
   },
   {
    "title": "Eishockey: Düsseldorfer EG - EV Landshut",
@@ -8794,76 +7906,6 @@
    ]
   },
   {
-   "title": "Blinde­kuh mit dem Tod",
-   "date": "2026-12-02",
-   "time": "11:00",
-   "end_date": "2026-12-02",
-   "venue": "Central 2",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/blindekuh-mit-dem-tod/2982/",
-   "category": "театр",
-   "description": "Kindheitserinnerungen von Holocaust-Überlebenden nach der Graphic Novel von Anna Yamchuk, Mykola Kuschnir, Natalya Herasym und Anna Tarnowezka",
-   "source": "D'haus"
-  },
-  {
-   "title": "Hamlet — Director's Cut",
-   "date": "2026-12-02",
-   "time": "12:00",
-   "end_date": "2026-12-02",
-   "venue": "Central 1",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/hamlet-directors-cut/2973/",
-   "category": "театр",
-   "description": "von Felix Krakau nach William Shakespeare Regie Felix Krakau",
-   "source": "D'haus"
-  },
-  {
-   "title": "Move it!",
-   "date": "2026-12-02",
-   "time": "17:00",
-   "end_date": "2026-12-02",
-   "venue": "Schauspielhaus, Foyer",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/move-it/3148/",
-   "category": "театр",
-   "description": "Yoga — Bringt bitte Sportkleidung und Yogamatten mit.",
-   "source": "D'haus"
-  },
-  {
-   "title": "INFOTREFFEN: STILL UNWRITTEN",
-   "date": "2026-12-02",
-   "time": "18:00",
-   "end_date": "2026-12-02",
-   "venue": "Central 2",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "Eintritt frei",
-   "url": "https://www.dhaus.de/programm/spielplan/still-unwritten/3149/",
-   "category": "театр",
-   "description": "Theaterclub für alle zwischen 14 und 21 Jahren",
-   "source": "D'haus"
-  },
-  {
-   "title": "Freestyle Session Space",
-   "date": "2026-12-02",
-   "time": "19:00",
-   "end_date": "2026-12-02",
-   "venue": "Central Brücke",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "Frei",
-   "url": "https://www.dhaus.de/programm/spielplan/freestyle-session-space/3150/",
-   "category": "театр",
-   "description": "Freies Training für urbane Tänzer:innen",
-   "source": "D'haus"
-  },
-  {
    "title": "sustainable solutions",
    "date": "2026-12-02",
    "time": "",
@@ -8876,62 +7918,6 @@
    "category": "выставка",
    "description": "sustainable solutions",
    "source": "Messe Düsseldorf"
-  },
-  {
-   "title": "Blinde­kuh mit dem Tod",
-   "date": "2026-12-03",
-   "time": "10:00",
-   "end_date": "2026-12-03",
-   "venue": "Central 2",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/blindekuh-mit-dem-tod/2983/",
-   "category": "театр",
-   "description": "Kindheitserinnerungen von Holocaust-Überlebenden nach der Graphic Novel von Anna Yamchuk, Mykola Kuschnir, Natalya Herasym und Anna Tarnowezka",
-   "source": "D'haus"
-  },
-  {
-   "title": "Sing it!",
-   "date": "2026-12-03",
-   "time": "17:00",
-   "end_date": "2026-12-03",
-   "venue": "Schauspielhaus, Foyer",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "Frei",
-   "url": "https://www.dhaus.de/programm/spielplan/sing-it/3151/",
-   "category": "театр",
-   "description": "Afterwork-Singen | Weihnachtsspecial mit Oberbürgermeister Dr. Stephan Keller",
-   "source": "D'haus"
-  },
-  {
-   "title": "THEATER­BAR",
-   "date": "2026-12-03",
-   "time": "18:00",
-   "end_date": "2026-12-03",
-   "venue": "Central Brücke",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "Frei",
-   "url": "https://www.dhaus.de/programm/spielplan/theaterbar/3153/",
-   "category": "театр",
-   "description": "DRINKS, LIEBLINGSTEXTE, SHOWEINLAGEN UND LIVE-MUSIK",
-   "source": "D'haus"
-  },
-  {
-   "title": "„WENN ICH MIR WAS WÜNSCHEN DÜRFTE …“",
-   "date": "2026-12-03",
-   "time": "20:00",
-   "end_date": "2026-12-03",
-   "venue": "Schauspielhaus, Kleines Haus",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/wenn-ich-mir-was-wuenschen-duerfte-/3152/",
-   "category": "театр",
-   "description": "Mit den Studierenden des Düsseldorfer Schauspielstudios Texte und Musik aus dem Kabarett Friedrich Hollaenders",
-   "source": "D'haus"
   },
   {
    "title": "Sarah Brightman in Düsseldorf",
@@ -8967,20 +7953,6 @@
    "away": false
   },
   {
-   "title": "DEL2 (Schoolsday): DEG vs. Eisbären Regensburg",
-   "date": "2026-12-04",
-   "time": "19:30",
-   "end_date": "",
-   "venue": "PSD BANK DOME",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/92eb8dadb42447eeb747807a5be1afc8/",
-   "category": "sport",
-   "description": "Spieltag 23 der DEL2-Saison 2026/27.",
-   "source": "DEG"
-  },
-  {
    "title": "Fortuna — SV Wehen Wiesbaden",
    "date": "2026-12-05",
    "time": "14:00",
@@ -9014,7 +7986,7 @@
    "title": "Kehlani Düsseldorf Tickets",
    "date": "2026-12-05",
    "time": "",
-   "end_date": "2026-12-05",
+   "end_date": "",
    "venue": "PSD Bank Dome",
    "address": "PSD Bank Dome, Düsseldorf, Germany, Düsseldorf",
    "locality": "Düsseldorf",
@@ -9026,20 +7998,6 @@
    "also_in": [
     "allevents: все"
    ]
-  },
-  {
-   "title": "Trödelmarkt Düsseldorf Schützenplatz",
-   "date": "2026-12-05",
-   "time": "",
-   "end_date": "2026-12-05",
-   "venue": "D&uuml;sseldorf-Benrath Sch&uuml;tzenplatz",
-   "address": "Bayreuther Straße  31, 40597, Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752965/details",
-   "category": "рынок",
-   "description": "Der &uuml;ber die Stadtgrenzen bekannte Samstags-Tr&ouml;delmarkt auf dem Sch&uuml;tzenplatz erfreut sich seit Jahren gro&szlig;er Beliebtheit. Das ausgewogene Verh&auml;ltnis von Neuware und Tr&ouml;del abgerundet durch ein ausreichendes Gastronomieangebot l&auml;dt zum Bummeln und Verweilen ein. &",
-   "source": "Блошиные рынки (MFT)"
   },
   {
    "title": "BINGO AM STRAND - die Weihnachtsedition",
@@ -9072,52 +8030,10 @@
    "away": true
   },
   {
-   "title": "DEL2: EC Bad Nauheim vs. DEG",
-   "date": "2026-12-06",
-   "time": "18:30",
-   "end_date": "",
-   "venue": "",
-   "address": "",
-   "locality": "Bad Nauheim",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/b4e5597b72a793605976f6be506269cc/",
-   "category": "sport",
-   "description": "Spieltag 24 der DEL2-Saison 2026/27.",
-   "source": "DEG"
-  },
-  {
-   "title": "Flohmarkt am Blumengroßmarkt Düsseldorf",
-   "date": "2026-12-06",
-   "time": "",
-   "end_date": "2026-12-06",
-   "venue": "am Blumengro&szlig;markt",
-   "address": "Ulmenstraße 275, 40468, Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://meine-flohmarkt-termine.de/flohmarkt-am-blumengrossmarkt-dusseldorf/23679623/details",
-   "category": "рынок",
-   "description": "Hier bist du genau richtig &ndash; der D&uuml;sseldorfer Traditions-FlohmarktSeit mittlerweile &uuml;ber 50 Jahren Tr&ouml;del am Blumengro&szlig;markt bieten wir dir die optimale Location. Wir laden alle Schn&auml;ppchenj&auml;ger, Sammler und Neugierigen ein, in die bunte Welt des Tr&ouml;delns ei",
-   "source": "Блошиные рынки (MFT)"
-  },
-  {
-   "title": "Mädelsflohmarkt-Weiberkram Düsseldorf RheinRiff",
-   "date": "2026-12-06",
-   "time": "",
-   "end_date": "2026-12-06",
-   "venue": "RheinRiff",
-   "address": "Hansaallee 321, 40549, Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://meine-flohmarkt-termine.de/madelsflohmarkt-weiberkram-dusseldorf-rheinriff/23826032/details",
-   "category": "рынок",
-   "description": "Spa&szlig;, Chillen, Sport und Shopping! Auf 9.000 Quadratmetern erwarten dich ein atemberaubender Beachclub, actiongeladene Sportangebote, erfrischende Drinks und jede Menge Vintage Fashion. Und das Beste? Ab sofort kannst du regelm&auml;&szlig;ig den Weiberkram M&auml;delsflohmarkt im RheinRiff er",
-   "source": "Блошиные рынки (MFT)"
-  },
-  {
    "title": "beabadoobee Düsseldorf Tickets",
    "date": "2026-12-07",
    "time": "",
-   "end_date": "2026-12-07",
+   "end_date": "",
    "venue": "Mitsubishi Electric Halle",
    "address": "Mitsubishi Electric Halle, Düsseldorf, Germany, Düsseldorf",
    "locality": "Düsseldorf",
@@ -9149,20 +8065,6 @@
    ]
   },
   {
-   "title": "Weihnachtscircus Düsseldorf",
-   "date": "2026-12-10",
-   "time": "",
-   "end_date": "2027-01-03",
-   "venue": "Weihnachtscircus Düsseldorf",
-   "address": "Staufenplatz 10",
-   "locality": "Düsseldorf",
-   "price": "ab 15 €",
-   "url": "https://weihnachtscircus-duesseldorf.ticket.io/pkjjxn/",
-   "category": "festival",
-   "description": "Akrobatik, Jonglage, Comedy und jede Menge Emotionen: Der Weihnachtscircus Düsseldorf kehrt zurück.",
-   "source": "Mr. Düsseldorf"
-  },
-  {
    "title": "Kassel - DEG",
    "date": "2026-12-11",
    "time": "19:30",
@@ -9177,20 +8079,6 @@
    "source": "DEG iCal",
    "team": "DEG",
    "away": true
-  },
-  {
-   "title": "DEL2: EC Kassel Huskies vs. DEG",
-   "date": "2026-12-11",
-   "time": "19:30",
-   "end_date": "",
-   "venue": "",
-   "address": "",
-   "locality": "Kassel",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/02b36aabcce1a5eb6432591f96106a42/",
-   "category": "sport",
-   "description": "Spieltag 25 der DEL2-Saison 2026/27.",
-   "source": "DEG"
   },
   {
    "title": "Viktoria Köln — Fortuna",
@@ -9226,34 +8114,6 @@
    ]
   },
   {
-   "title": "NACHTYARD - Der kreative Nachtmarkt in DÜSSELDORF",
-   "date": "2026-12-12",
-   "time": "",
-   "end_date": "2026-12-12",
-   "venue": "RheinRiff",
-   "address": "Hansaallee 321, 40549, Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://meine-flohmarkt-termine.de/nachtyard-der-kreative-nachtmarkt-in-dusseldorf/23826028/details",
-   "category": "рынок",
-   "description": "Mehr als nur ein Markt - NachtYard ist der Treffpunkt f&uuml;r alle, die entdecken wollen.&amp;nbsp;Indoor &amp;amp; Outdoor auf &uuml;ber 5.000 qmEintritt: 7,-&euro; (Kinder bis 12 J. frei)Karten nur an der Abendkasse&amp;nbsp;Drinnen: Industrieflair, bunte St&auml;nde, Licht, Bass, BegegnungDrau&s",
-   "source": "Блошиные рынки (MFT)"
-  },
-  {
-   "title": "Trödelmarkt Düsseldorf Schützenplatz",
-   "date": "2026-12-12",
-   "time": "",
-   "end_date": "2026-12-12",
-   "venue": "D&uuml;sseldorf-Benrath Sch&uuml;tzenplatz",
-   "address": "Bayreuther Straße  31, 40597, Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752966/details",
-   "category": "рынок",
-   "description": "Der &uuml;ber die Stadtgrenzen bekannte Samstags-Tr&ouml;delmarkt auf dem Sch&uuml;tzenplatz erfreut sich seit Jahren gro&szlig;er Beliebtheit. Das ausgewogene Verh&auml;ltnis von Neuware und Tr&ouml;del abgerundet durch ein ausreichendes Gastronomieangebot l&auml;dt zum Bummeln und Verweilen ein. &",
-   "source": "Блошиные рынки (MFT)"
-  },
-  {
    "title": "Radschlägermarkt Düsseldorf",
    "date": "2026-12-13",
    "time": "11:00",
@@ -9266,48 +8126,6 @@
    "category": "markt",
    "description": "Der nächste RADSCHLÄGERMARKT findet statt am Sonntag, dem 13. Dezember 2026.",
    "source": "Radschlägermarkt"
-  },
-  {
-   "title": "Radschlägermarkt Düsseldorf an der METRO",
-   "date": "2026-12-13",
-   "time": "",
-   "end_date": "2026-12-13",
-   "venue": "METRO D&uuml;sseldorf",
-   "address": "Walter-Eucken-Straße, 40235, Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://meine-flohmarkt-termine.de/radschlagermarkt-dusseldorf-an-der-metro/23858061/details",
-   "category": "рынок",
-   "description": "Radschl&auml;germarkt D&uuml;sseldorf &ndash; Der Tr&ouml;delklassiker rund um die METRO 📍 Standort: Metro-Parkplatz, D&uuml;sseldorf 🗓️ An jedem zweiten Sonntag im Monat 🌐 Alle Infos &amp;amp; Anmeldung: www.radschlaegermarkt-duesseldorf.de Der Radschl&auml;germarkt ist D&uuml;sseldorfs traditionsr",
-   "source": "Блошиные рынки (MFT)"
-  },
-  {
-   "title": "Trödelmarkt Düsseldorf Reisholz Kirmesplatz",
-   "date": "2026-12-13",
-   "time": "",
-   "end_date": "2026-12-13",
-   "venue": "Kirmesplatz Reisholz Spangerstra&szlig;e",
-   "address": "Spangerstraße 6, 40599, Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-reisholz-kirmesplatz/23706560/details",
-   "category": "рынок",
-   "description": "Monatlich stattfindender Tr&ouml;delmarkt in zentraler Lage. Ein ausgewogenes Verh&auml;ltnis von Tr&ouml;del und Neuware erwartet Sie. Gerade bei sch&ouml;nem Wetter findet man hier viele private Aussteller welche ihre ganz pers&ouml;nlichen Sch&auml;tze anbieten. Nutzen Sie die Gelegenheit Dinge d",
-   "source": "Блошиные рынки (MFT)"
-  },
-  {
-   "title": "Mädchen Klamotte - Der Mädelsflohmarkt @Boston Club Düsseldorf",
-   "date": "2026-12-13",
-   "time": "",
-   "end_date": "2026-12-13",
-   "venue": "Boston Club D&uuml;sseldorf",
-   "address": "Vennhauser Allee 135, 40627, Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://meine-flohmarkt-termine.de/madchen-klamotte-der-madelsflohmarkt-at-boston-club-dusseldorf/23844874/details",
-   "category": "рынок",
-   "description": "&quot;M&auml;dels lieben Klamotten&quot; Ganz unter diesem Motto findet ihr auf unserem M&auml;dchenflohmarkt: Vintage Sch&auml;tze, Second Hand Klamotten, Kinderbekleidung- und ausstattung, Designerware, Schuhe, Schmuck und Accessoires. Ob alt, ausrangiert, geliebt, zu klein, zu gro&szlig;, bei uns",
-   "source": "Блошиные рынки (MFT)"
   },
   {
    "title": "Weiden - DEG",
@@ -9324,20 +8142,6 @@
    "source": "DEG iCal",
    "team": "DEG",
    "away": true
-  },
-  {
-   "title": "DEL2: Selber Wölfe vs. DEG",
-   "date": "2026-12-18",
-   "time": "20:00",
-   "end_date": "",
-   "venue": "",
-   "address": "",
-   "locality": "Selb",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/04b033e361a7afd46e47bdcac25a55e4/",
-   "category": "sport",
-   "description": "Spieltag 26 der DEL2-Saison 2026/27.",
-   "source": "DEG"
   },
   {
    "title": "Fortuna — Rot-Weiss Essen",
@@ -9370,37 +8174,6 @@
    "source": "StadtStrand"
   },
   {
-   "title": "Moonlight Market",
-   "date": "2026-12-19",
-   "time": "",
-   "end_date": "2026-12-19",
-   "venue": "Blumengro&szlig;markt D&uuml;sseldorf",
-   "address": "Ulmenstraße 275, 40468, Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://meine-flohmarkt-termine.de/moonlight-market/23786587/details",
-   "category": "рынок",
-   "description": "🌙MOONLIGHT MARKET - Neuer Nachtflohmarkt in D&uuml;sseldorf Der Moonlight Market findet regelm&auml;&szlig;ig an einem Samstag im Monat auf dem Blumengro&szlig;markt statt &ndash; und bringt alles zusammen, was wir lieben: Secondhand-Sch&auml;tzchen, Retro-Funde, Schmuck, Fashion, Keramik, Deko &amp",
-   "source": "Блошиные рынки (MFT)",
-   "also_in": [
-    "Блошиные рынки (MFT)"
-   ]
-  },
-  {
-   "title": "Trödelmarkt Düsseldorf Schützenplatz",
-   "date": "2026-12-19",
-   "time": "",
-   "end_date": "2026-12-19",
-   "venue": "D&uuml;sseldorf-Benrath Sch&uuml;tzenplatz",
-   "address": "Bayreuther Straße  31, 40597, Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752967/details",
-   "category": "рынок",
-   "description": "Der &uuml;ber die Stadtgrenzen bekannte Samstags-Tr&ouml;delmarkt auf dem Sch&uuml;tzenplatz erfreut sich seit Jahren gro&szlig;er Beliebtheit. Das ausgewogene Verh&auml;ltnis von Neuware und Tr&ouml;del abgerundet durch ein ausreichendes Gastronomieangebot l&auml;dt zum Bummeln und Verweilen ein. &",
-   "source": "Блошиные рынки (MFT)"
-  },
-  {
    "title": "Rosenheim - DEG",
    "date": "2026-12-20",
    "time": "17:00",
@@ -9415,48 +8188,6 @@
    "source": "DEG iCal",
    "team": "DEG",
    "away": true
-  },
-  {
-   "title": "DEL2: Bietigheim Steelers vs. DEG",
-   "date": "2026-12-20",
-   "time": "17:00",
-   "end_date": "",
-   "venue": "",
-   "address": "",
-   "locality": "Bietigheim-Bissingen",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/0bd244a0a3329c1fd9dcc911da13093d/",
-   "category": "sport",
-   "description": "Spieltag 27 der DEL2-Saison 2026/27.",
-   "source": "DEG"
-  },
-  {
-   "title": "Melan Trödelmarkt Düsseldorf Ikea",
-   "date": "2026-12-20",
-   "time": "",
-   "end_date": "2026-12-20",
-   "venue": "D&uuml;sseldorf Ikea",
-   "address": "Oerschbachstraße 75 , 40589, Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://meine-flohmarkt-termine.de/melan-trodelmarkt-dusseldorf-ikea/23830630/details",
-   "category": "рынок",
-   "description": "Wir freuen uns, euch unseren neuen Tr&ouml;delmarkt am IKEA D&uuml;sseldorf anzuk&uuml;ndigen.📍 IKEA D&uuml;sseldorfFreut euch auf zahlreiche H&auml;ndler mit einem abwechslungsreichen Angebot: Antikes, Vintage, Deko, Kleidung, Sammlerst&uuml;cke und viele weitere besondere Fundst&uuml;cke warten da",
-   "source": "Блошиные рынки (MFT)"
-  },
-  {
-   "title": "Schallplattenbörse Düsseldorf",
-   "date": "2026-12-20",
-   "time": "",
-   "end_date": "2026-12-20",
-   "venue": "Boston-Club",
-   "address": "Vennhauser Allee 135 , 40627, Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://meine-flohmarkt-termine.de/schallplattenborse-dusseldorf/23811922/details",
-   "category": "рынок",
-   "description": "Der Boston Club &ouml;ffnet nun zum ersten Mal die T&uuml;ren zur D&uuml;sseldorfer Schallplatten- B&ouml;rse. Die B&ouml;rse ist ein Paradies f&uuml;r die wieder zahlreichen ,Vinylisten&rsquo;, die Fans echter Musik also, die sich noch die M&uuml;he machen, Tontr&auml;ger in die Hand zu nehmen und ",
-   "source": "Блошиные рынки (MFT)"
   },
   {
    "title": "DEG - Memmingen",
@@ -9475,20 +8206,6 @@
    "away": false
   },
   {
-   "title": "DEL2: DEG vs. Memmingen",
-   "date": "2026-12-23",
-   "time": "19:30",
-   "end_date": "",
-   "venue": "PSD BANK DOME",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/3cfad10e8349a8886f1c81db44b87085/",
-   "category": "sport",
-   "description": "Spieltag 28 der DEL2-Saison 2026/27.",
-   "source": "DEG"
-  },
-  {
    "title": "Ravensburg - DEG",
    "date": "2026-12-26",
    "time": "18:30",
@@ -9503,20 +8220,6 @@
    "source": "DEG iCal",
    "team": "DEG",
    "away": true
-  },
-  {
-   "title": "DEL2: Ravensburg Towerstars vs. DEG",
-   "date": "2026-12-26",
-   "time": "18:30",
-   "end_date": "",
-   "venue": "",
-   "address": "",
-   "locality": "Ravensburg",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/15e62b5719a53824cb5c555de4454cfb/",
-   "category": "sport",
-   "description": "Spieltag 29 der DEL2-Saison 2026/27.",
-   "source": "DEG"
   },
   {
    "title": "DEG - Landshut",
@@ -9535,20 +8238,6 @@
    "away": false
   },
   {
-   "title": "DEL2: DEG vs. EV Landshut",
-   "date": "2026-12-28",
-   "time": "19:30",
-   "end_date": "",
-   "venue": "PSD BANK DOME",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/94d53f2ca545c77db64be56819d731a0/",
-   "category": "sport",
-   "description": "Spieltag 30 der DEL2-Saison 2026/27.",
-   "source": "DEG"
-  },
-  {
    "title": "DEG - Crimmitschau",
    "date": "2026-12-30",
    "time": "19:30",
@@ -9563,34 +8252,6 @@
    "source": "DEG iCal",
    "team": "DEG",
    "away": false
-  },
-  {
-   "title": "DEL2: DEG vs. EHC Freiburg",
-   "date": "2026-12-30",
-   "time": "19:30",
-   "end_date": "",
-   "venue": "PSD BANK DOME",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/44a044bacaa93076ad1507fd1f43d1c1/",
-   "category": "sport",
-   "description": "Spieltag 31 der DEL2-Saison 2026/27.",
-   "source": "DEG"
-  },
-  {
-   "title": "Trödelmarkt Düsseldorf Schützenplatz",
-   "date": "2027-01-02",
-   "time": "",
-   "end_date": "2027-01-02",
-   "venue": "D&uuml;sseldorf-Benrath Sch&uuml;tzenplatz",
-   "address": "Bayreuther Straße  31, 40597, Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752969/details",
-   "category": "рынок",
-   "description": "Der &uuml;ber die Stadtgrenzen bekannte Samstags-Tr&ouml;delmarkt auf dem Sch&uuml;tzenplatz erfreut sich seit Jahren gro&szlig;er Beliebtheit. Das ausgewogene Verh&auml;ltnis von Neuware und Tr&ouml;del abgerundet durch ein ausreichendes Gastronomieangebot l&auml;dt zum Bummeln und Verweilen ein. &",
-   "source": "Блошиные рынки (MFT)"
   },
   {
    "title": "DEG - Weiden",
@@ -9609,34 +8270,6 @@
    "away": false
   },
   {
-   "title": "DEL2: DEG vs. Selber Wölfe",
-   "date": "2027-01-03",
-   "time": "17:00",
-   "end_date": "",
-   "venue": "PSD BANK DOME",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/d5653ca20c43de1dd286d455d821f98e/",
-   "category": "sport",
-   "description": "Spieltag 32 der DEL2-Saison 2026/27.",
-   "source": "DEG"
-  },
-  {
-   "title": "Heimspiel: Borussia Düsseldorf gegen TTC OE Bad Homburg",
-   "date": "2027-01-05",
-   "time": "19:00",
-   "end_date": "",
-   "venue": "ARAG CenterCourt",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://borussia-duesseldorf.reservix.de/",
-   "category": "sport",
-   "description": "Der freie Vorverkauf für das Heimspiel gegen den TTC OE Bad Homburg ist gestartet: Am 5. Januar um 19:00 Uhr empfängt der Rekordmeister das Team aus Bad Homburg im ARAG CenterCourt.",
-   "source": "Borussia Düsseldorf"
-  },
-  {
    "title": "DEG - Dresden",
    "date": "2027-01-05",
    "time": "19:30",
@@ -9653,20 +8286,6 @@
    "away": false
   },
   {
-   "title": "DEL2: DEG vs. Dresdner Eislöwen",
-   "date": "2027-01-05",
-   "time": "19:30",
-   "end_date": "",
-   "venue": "PSD BANK DOME",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/fbbf8c8801ee3d21447f22f98f6aefbf/",
-   "category": "sport",
-   "description": "Spieltag 33 der DEL2-Saison 2026/27.",
-   "source": "DEG"
-  },
-  {
    "title": "Bietigheim - DEG",
    "date": "2027-01-08",
    "time": "19:30",
@@ -9681,48 +8300,6 @@
    "source": "DEG iCal",
    "team": "DEG",
    "away": true
-  },
-  {
-   "title": "DEL2: Starbulls Rosenheim vs. DEG",
-   "date": "2027-01-08",
-   "time": "19:30",
-   "end_date": "",
-   "venue": "",
-   "address": "",
-   "locality": "Rosenheim",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/8ac7bbd51b29e8dcf71207954813bb07/",
-   "category": "sport",
-   "description": "Spieltag 34 der DEL2-Saison 2026/27.",
-   "source": "DEG"
-  },
-  {
-   "title": "Mineralientage Düsseldorf",
-   "date": "2027-01-09",
-   "time": "",
-   "end_date": "2027-01-09",
-   "venue": "Eventhalle der Classic Remise",
-   "address": "Harffstraße 110A, 40591, Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://meine-flohmarkt-termine.de/mineralientage-dusseldorf/23810447/details",
-   "category": "рынок",
-   "description": "Am 09. und 10. Januar 2027 verwandeln rund 50 Ausstellern die Eventhalle in der Classic Remise in D&uuml;sseldorf zu einer gro&szlig;en funkenden Schatzkiste an beiden Tagen von 11.00 bis 18.00 Uhr. Am Stand von Frank M&uuml;ller, Fa. Conny Kokot Schmuckdesign, ist es m&ouml;glich Edelsteine bestimm",
-   "source": "Блошиные рынки (MFT)"
-  },
-  {
-   "title": "Trödelmarkt Düsseldorf Schützenplatz",
-   "date": "2027-01-09",
-   "time": "",
-   "end_date": "2027-01-09",
-   "venue": "D&uuml;sseldorf-Benrath Sch&uuml;tzenplatz",
-   "address": "Bayreuther Straße  31, 40597, Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752970/details",
-   "category": "рынок",
-   "description": "Der &uuml;ber die Stadtgrenzen bekannte Samstags-Tr&ouml;delmarkt auf dem Sch&uuml;tzenplatz erfreut sich seit Jahren gro&szlig;er Beliebtheit. Das ausgewogene Verh&auml;ltnis von Neuware und Tr&ouml;del abgerundet durch ein ausreichendes Gastronomieangebot l&auml;dt zum Bummeln und Verweilen ein. &",
-   "source": "Блошиные рынки (MFT)"
   },
   {
    "time": "11:11",
