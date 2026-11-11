@@ -22,6 +22,10 @@ WD = ["Понедельник", "Вторник", "Среда", "Четверг"
 MONTHS = ["января", "февраля", "марта", "апреля", "мая", "июня", "июля", "августа", "сентября", "октября", "ноября", "декабря"]
 
 
+# подпись обложки меняется день ото дня, чтобы сторис не выглядели одинаково
+COVER_TAGS = ["Сегодня в городе", "Куда сходить сегодня", "План на день", "Что происходит сегодня", "Дюссельдорф сегодня"]
+
+
 def short(s, n):
     s = s or ""
     return s if len(s) <= n else s[:n].rsplit(" ", 1)[0].rstrip(" |–-,") + "…"
@@ -96,7 +100,7 @@ PROMPT = """Ты редактор Instagram-аккаунта ТУТ.DUS — «Д
 {{"list": [{{"time": "HH:MM или ''", "title": "по-русски, до 42 символов", "place": "площадка, до 26 символов"}}],
   "highlights": [{{"title": "по-русски, до 34 символов", "text": "одно предложение по-русски, до 95 символов, почему стоит сходить",
                    "time": "", "place": "", "price": "по-русски: бесплатно / от 15 € / ''", "tag": "концерт|рынок|детям|бесплатно|театр|вечер|выставка|фестиваль|спорт"}}]}}
-highlights — 2–3 лучших из list.
+highlights — 2–3 лучших из list.{hint}
 
 today: {today}
 ongoing: {ongoing}"""
@@ -117,7 +121,11 @@ def gemini_pick(today, ongoing):
     sys.path.insert(0, str(ROOT / "tools"))
     import gemini
     slim = lambda evs: [{k: e.get(k, "") for k in ("title", "time", "venue", "price", "category", "description")} for e in evs][:60]
-    prompt = PROMPT.format(day=f"{WD[TODAY.weekday()]}, {TODAY.day} {MONTHS[TODAY.month-1]}",
+    import insights
+    hint = insights.hints()
+    if hint:
+        print("Статистика:", hint)
+    prompt = PROMPT.format(hint=f"\nСтатистика аккаунта: {hint}." if hint else "", day=f"{WD[TODAY.weekday()]}, {TODAY.day} {MONTHS[TODAY.month-1]}",
                            today=json.dumps(slim(today), ensure_ascii=False), ongoing=json.dumps(slim(rank_ongoing(ongoing)), ensure_ascii=False))
     model, out = gemini.call(prompt, kind="copy", temperature=0.4)
     print(f"Gemini: {model}")
@@ -182,7 +190,7 @@ def build_html(pick, fairs, notes=(), games=(), picker=None, markets=()):
     cover_bg, cover_cls = bg_for("d0", themes(lead.get("title", ""), lead.get("place", ""), "")[:1] + GENERIC, 7.5)
     slides = [f'''<section class="slide v2 story{cover_cls}" id="d0">{cover_bg}<div class="shade list-shade"></div>
   <div class="top"><span class="logo">ТУТ<i>.DUS</i></span><span>{TODAY:%d.%m}</span></div>
-  <div class="low"><div class="tag">Сегодня в городе</div><h1>{esc(day_title)}</h1>
+  <div class="low"><div class="tag">{COVER_TAGS[TODAY.toordinal() % len(COVER_TAGS)]}</div><h1>{esc(day_title)}</h1>
     <div class="list">{items}</div>{pills}</div>{credits["d0"]}
 </section>''']
     hls = pick.get("highlights", [])[:3]

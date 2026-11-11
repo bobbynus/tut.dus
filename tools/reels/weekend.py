@@ -149,8 +149,11 @@ def main():
                          "overlay": f"{sid}.png", "slow": round(sec / src, 3)})
         else:
             segs.append({"image": f"{sid}.png", "duration": round(sec, 2), "max": cap})
+    sys.path.insert(0, str(ROOT / "tools" / "music"))
+    import library as music  # трек без повторов: бодрый, свежий и популярный у источника первым
+    track = music.pick(("upbeat", "vocal", "epic"), seed=post_dir.name, words=sum(texts.values()) // max(len(texts), 1))
     (post_dir / "reel.json").write_text(json.dumps({"output": "reel.mp4", "transition": 0.35, "segments": segs,
-                                                    "music": "../../library/music/upbeat-sub_clair-background-music-591220.mp3",
+                                                    "music": f"../../library/music/{track.name}",
                                                     "music_start": 4}, indent=1))
     subprocess.run([sys.executable, str(ROOT / "tools" / "make_reel.py"), str(post_dir / "reel.json")], check=True)
     # обложка — первый кадр; промежуточные PNG не храним
@@ -163,7 +166,10 @@ def main():
     for it in items:
         when = " ".join(x for x in (it.get("day"), it.get("time")) if x)
         lines.append(f"▫️ {when} — {it.get('title')}" + (f" ({it['place']})" if it.get("place") else ""))
-    lines += ["", "Сохрани и отправь тем, с кем пойдёшь 👇", "Что происходит сегодня — каждое утро в сторис.", "",
+    lines += ["", "Сохрани и отправь тем, с кем пойдёшь 👇", "Что происходит сегодня — каждое утро в сторис."]
+    if music.credit(track.name):
+        lines += ["", "🎵 " + music.credit(track.name)]
+    lines += ["",
               "#дюссельдорф #düsseldorf #дюссельдорфафиша #выходные #кудапойти #русскиевдюссельдорфе #жизньвгермании"]
     (post_dir / "caption.txt").write_text("\n".join(lines) + "\n")
     thu = FRI - timedelta(days=1)
@@ -172,6 +178,7 @@ def main():
             "publish_at": datetime.combine(thu, dtime(19, 0), TZ).isoformat()}
     (post_dir / "post.json").write_text(json.dumps(post, ensure_ascii=False, indent=2) + "\n")
     (post_dir / "pick.json").write_text(json.dumps(items, ensure_ascii=False, indent=1))
+    music.record(track.name, post_dir.name)
     print(f"✓ {post_dir.name}: {len(items)} событий, рилс готов")
 
 

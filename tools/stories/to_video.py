@@ -5,30 +5,33 @@
 продолжает трек с 6-й секунды и т. д. Использование: to_video.py posts/<папка> [трек]
 Исходные PNG после конвертации удаляются: слайды одноразовые, храним только видео.
 """
-import json, random, subprocess, sys
+import json, subprocess, sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
 SEC = 6
 
 
-def pick_track(prefixes=("calm-", "upbeat-")):
-    tracks = sorted(p for p in (ROOT / "library" / "music").glob("*.mp3") if p.name.startswith(prefixes))
-    return random.Random(Path.cwd().name).choice(tracks) if tracks else None
+def pick_track(seed="", words=0):
+    """Трек без повторов (журнал data/music-usage.json, правила — tools/music/library.py)."""
+    sys.path.insert(0, str(ROOT / "tools" / "music"))
+    import library
+    return library.pick(("calm", "upbeat", "night"), seed=seed, words=words)
 
 
 def convert(post_dir, track=None):
     post_dir = Path(post_dir)
     spec = json.loads((post_dir / "post.json").read_text())
-    track = Path(track) if track else pick_track()
-    if not track:
-        print("Нет треков в library/music — оставляю картинки"); return
-    sys.path.insert(0, str(ROOT / "tools"))
-    from make_reel import read_seconds
     try:
         texts = json.loads((post_dir / "texts.json").read_text())
     except Exception:
         texts = {}
+    picked = not track
+    track = Path(track) if track else pick_track(post_dir.name, max(texts.values(), default=0))
+    if not track:
+        print("Нет треков в library/music — оставляю картинки"); return
+    sys.path.insert(0, str(ROOT / "tools"))
+    from make_reel import read_seconds
     from backgrounds import video_len
     try:
         video_bgs = json.loads((post_dir / "backgrounds.json").read_text())
@@ -61,6 +64,9 @@ def convert(post_dir, track=None):
         videos.append(out)
     spec["media"] = videos
     spec["music"] = track.name
+    if picked:
+        import library
+        library.record(track.name, post_dir.name)
     (post_dir / "post.json").write_text(json.dumps(spec, ensure_ascii=False, indent=2))
     print(f"✓ {post_dir.name}: {len(videos)} видео-сторис, трек {track.name}")
 
