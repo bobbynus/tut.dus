@@ -29,7 +29,7 @@ jobs:
         run: |
           bash tools/apt.sh ffmpeg
           npm i -g playwright@1.56.1 >/dev/null
-          npx playwright install --with-deps chromium >/dev/null
+          timeout 300 npx playwright install --with-deps chromium >/dev/null || npx playwright install chromium >/dev/null  # без apt, если зеркала Ubuntu не отвечают
           cd design && npm ci --silent
       - name: Build stories
         env:
