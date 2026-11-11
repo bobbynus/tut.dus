@@ -53,6 +53,29 @@ def load_today():
     return today, ongoing, fairs, games, important
 
 
+MARKET = re.compile(r"tr[öo]del|floh|antik|kinder(sachen)?markt|schallplatten|radschläger|fischmarkt|nachtmarkt|moonlight market|mädels", re.I)
+
+
+def markets_today(today):
+    """Барахолки и рынки дня — отдельным слайдом, чтобы в общем списке на 6 строк не терялись
+    (8.11.2026 из пяти рынков в сводку попали два, Гросмаркт выпал)."""
+    out, seen = [], set()
+    for e in sorted(today, key=lambda e: (not e.get("time"), e.get("time") or "")):
+        title = html.unescape(e.get("title", ""))
+        if not MARKET.search(title) or re.search(r"weihnacht|advent|konzert|jazz|lesung|\bafter\b|party", title, re.I):
+            continue
+        venue = html.unescape(e.get("venue", ""))
+        place = re.sub(r"\s*D(ü|ue)sseldorf(er)?\b[-\s]*", " ", venue).strip(" ,-") or venue
+        place = re.sub(r"^(am|an der|auf dem)\s+", "", place)
+        key = (re.sub(r"[^a-zäöüß]", "", place.lower())[:12], re.sub(r"[^a-zäöüß]", "", title.lower())[:8])
+        if key in seen:
+            continue
+        seen.add(key)
+        name = re.sub(r"(\s+(in|an der|am|@))?\s*@?\s*\bD(ü|ue|Ü|UE)sseldorf\b", "", title, flags=re.I).strip(" -–")
+        out.append({"time": e.get("time", ""), "title": short(name, 40), "place": short(place, 30)})
+    return out
+
+
 def game_rows(games):
     """Матчи Fortuna/DEG — всегда в списке дня, отдельно от выбора Gemini."""
     rows = []
@@ -131,7 +154,7 @@ def background(picker, wanted, min_video):
     return f'<div class="bg" style="background-image:url(../library/{got["file"]})"></div>', credit, None
 
 
-def build_html(pick, fairs, notes=(), games=(), picker=None):
+def build_html(pick, fairs, notes=(), games=(), picker=None, markets=()):
     """Стиль v2: город на фоне, красный — только акцент. Возвращает (html, {id слайда: видео-фон})."""
     from backgrounds import Picker, GENERIC, themes
     picker = picker or Picker(TODAY)
@@ -174,6 +197,17 @@ def build_html(pick, fairs, notes=(), games=(), picker=None):
     <h1 style="font-size:{fit(title, 88, 22, 72)}px">{esc(title)}</h1>
     <p class="sub">{esc(h.get("text"))}</p><div class="list">{meta}</div></div>{credits[f"d{n}"]}
 </section>''')
+    if len(markets) >= 2:
+        n = len(slides)
+        rows_m = "".join(
+            f'<div class="it"><b>{esc(m["time"]) if m.get("time") not in ("", "00:00") else "днём"}</b>'
+            f'<span>{esc(m["title"])}<small>{esc(m["place"])}</small></span></div>' for m in markets[:7])
+        m_bg, m_cls = bg_for(f"d{n}", themes("Trödelmarkt Flohmarkt", "", "рынок") + GENERIC, 6)
+        slides.append(f'''<section class="slide v2 story{m_cls}" id="d{n}">{m_bg}<div class="shade list-shade"></div>
+  <div class="top"><span class="logo">ТУТ<i>.DUS</i></span><span>{TODAY:%d.%m}</span></div>
+  <div class="low"><div class="tag">Барахолки и рынки</div><h1>Где порыться сегодня</h1>
+    <div class="list">{rows_m}</div><div class="pill">Время уточняйте у организаторов — бывает, что рынок отменяют из-за погоды</div></div>{credits[f"d{n}"]}
+</section>''')
     return f'''<!doctype html><html lang="ru"><head><meta charset="utf-8"><title>daily</title>
 <link rel="stylesheet" href="brand.css"><link rel="stylesheet" href="v2.css"><style>
   .story.v2 {{ height: 1920px; padding: 240px 80px 340px }}
@@ -203,15 +237,21 @@ def main():
         notes.append(f"Внимание{when}: {e['title']}" + (f" ({venue})" if venue and not same else ""))
     if not today and not ongoing and not games and not notes:
         print("На сегодня событий нет — сторис не делаем"); return
+    markets = markets_today(today)
+    if len(markets) >= 2:  # рынки покажем своим слайдом, а места в общем списке отдадим остальному
+        today = [e for e in today if not MARKET.search(e.get("title", ""))]
     try:
         pick = gemini_pick(today, ongoing) if (today or ongoing) else {"list": [], "highlights": []}
     except Exception as e:
         print(f"Gemini: {e} — простой отбор"); pick = simple_pick(today, ongoing)
-    if not pick.get("list") and not games and not notes:
+    if len(markets) >= 2:
+        pick.setdefault("list", [])[5:] = []
+        pick["list"].append({"time": "", "title": f"Барахолки и рынки: {len(markets)}", "place": "список — в сторис дальше"})
+    if not pick.get("list") and not games and not notes and len(markets) < 2:
         print("Нечего показать"); return
     from backgrounds import Picker
     picker = Picker(TODAY)
-    page, video_bgs = build_html(pick, fairs, notes, games, picker)
+    page, video_bgs = build_html(pick, fairs, notes, games, picker, markets)
     (ROOT / "design" / "_daily.html").write_text(page)
     post_dir.mkdir(parents=True, exist_ok=True)
     if video_bgs:  # слайды поверх видео: to_video склеит их с футажом
@@ -225,12 +265,16 @@ def main():
         lines.append(f"⚠️ {b}")
     if notes: lines.append("")
     rows = game_rows(games) + [x for x in pick["list"] if not (games and re.search(r"Fortuna|DEG|Düsseldorfer EG", x.get("title", "")))]
+    rows = [r for r in rows if r.get("place") != "список — в сторис дальше"]  # в Telegram рынки идут списком ниже
     for r in sorted(rows, key=lambda x: x.get("time") if x.get("time") not in ("", "00:00") else "99"):
         t = r.get("time") if r.get("time") not in ("", "00:00") else "весь день"
         lines.append(f"{t} — {r.get('title')}" + (f" ({r['place']})" if r.get("place") else ""))
     for h in pick.get("highlights", [])[:3]:
         if h.get("text"):
             lines += ["", f"▫️ {h['title']}: {h['text']}" + (f" {h['price'].capitalize()}." if h.get("price") else "")]
+    if len(markets) >= 2:
+        lines += ["", "🧺 Барахолки и рынки:"]
+        lines += [f"{m['time'] or 'днём'} — {m['title']} ({m['place']})" for m in markets]
     lines += ["", "Instagram: instagram.com/tut.dus"]
     (post_dir / "telegram.txt").write_text("\n".join(lines) + "\n")
     (post_dir / "pick.json").write_text(json.dumps(pick, ensure_ascii=False, indent=1))

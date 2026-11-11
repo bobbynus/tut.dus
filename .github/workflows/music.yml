@@ -1,0 +1,20 @@
+name: Music
+
+# Свежая бесплатная музыка для сторис и рилсов. probe — разведка источников; fetch — добор треков.
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "probe | fetch"
+        default: "fetch"
+
+permissions:
+  contents: write
+
+jobs:
+  music:
+    runs-on: ubuntu-24.04  # закреплено: на 26.04 Playwright не ставится (октябрь 2026)
+    steps:
+      - uses: actions/checkout@v4
+      - if: inputs.mode == 'probe'
+        run: python3 tools/music/probe.py tools/music/probe.txt

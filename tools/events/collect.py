@@ -300,6 +300,10 @@ def main():
             report.append(f"· Список моделей: {e}")
 
     total = len(events)
+    for e in events:  # нейросеть иногда возвращает «D&uuml;sseldorf» — приводим к нормальным буквам
+        for k in ("title", "venue", "address", "locality", "description"):
+            if isinstance(e.get(k), str) and "&" in e[k]:
+                e[k] = htmllib.unescape(e[k])
     events = merge([e for e in events if keep(e)])
     out = ROOT / "data"
     out.mkdir(exist_ok=True)
