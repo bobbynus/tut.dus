@@ -1,0 +1,12 @@
+{
+  "type": "reel",
+  "status": "scheduled",
+  "title": "Выходные 13–15 ноября",
+  "caption_file": "caption.txt",
+  "media": [
+    "reel.mp4"
+  ],
+  "cover": "cover.jpg",
+  "share_to_feed": true,
+  "publish_at": "2026-11-12T19:00:00+01:00"
+}

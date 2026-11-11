@@ -68,5 +68,25 @@
     "duration": 3.33
    }
   ]
+ },
+ "posts/r-weekend-2026-11-13": {
+  "date": "2026-11-11",
+  "clips": [
+   {
+    "file": "dusseldorf-wm4e317005.mp4",
+    "start": 0,
+    "duration": 3.33
+   },
+   {
+    "file": "dusseldorf-wm57ffdd15.mp4",
+    "start": 0,
+    "duration": 5.83
+   },
+   {
+    "file": "own-rhein-ship.mp4",
+    "start": 0,
+    "duration": 5.83
+   }
+  ]
  }
 }

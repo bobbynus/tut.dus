@@ -1,0 +1,42 @@
+[
+ {
+  "day": "пт",
+  "time": "20:00",
+  "title": "Hayato Sumino, Klavier",
+  "text": "Концерт известного пианиста в Тонхалле.",
+  "place": "Tonhalle Düsseldorf",
+  "tag": "концерт"
+ },
+ {
+  "day": "сб",
+  "time": "09:00",
+  "title": "Volksgarten parkrun",
+  "text": "Бесплатный общественный забег в парке.",
+  "place": "Volksgarten",
+  "tag": "спорт"
+ },
+ {
+  "day": "сб",
+  "time": "17:00",
+  "title": "Taste the World",
+  "text": "Дегустация крафтового пива в уютной атмосфере.",
+  "place": "Holy Craft Beer Bar",
+  "tag": "фестиваль"
+ },
+ {
+  "day": "сб",
+  "time": "",
+  "title": "NACHTYARD",
+  "text": "Креативный ночной рынок на площадке RheinRiff.",
+  "place": "RheinRiff",
+  "tag": "рынок"
+ },
+ {
+  "day": "вс",
+  "time": "17:00",
+  "title": "DEG - Ravensburg",
+  "text": "Захватывающий хоккейный матч DEL2.",
+  "place": "PSD Bank Dome",
+  "tag": "спорт"
+ }
+]

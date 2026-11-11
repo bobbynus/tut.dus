@@ -1,0 +1,49 @@
+{
+ "output": "reel.mp4",
+ "transition": 0.35,
+ "segments": [
+  {
+   "video": "../../library/footage/dusseldorf-wm4e317005.mp4",
+   "start": 0,
+   "duration": 3.33,
+   "overlay": "w0.png",
+   "slow": 1.2
+  },
+  {
+   "image": "w1.png",
+   "duration": 7.0,
+   "max": 7.0
+  },
+  {
+   "image": "w2.png",
+   "duration": 7.0,
+   "max": 7.0
+  },
+  {
+   "video": "../../library/footage/dusseldorf-wm57ffdd15.mp4",
+   "start": 0,
+   "duration": 5.83,
+   "overlay": "w3.png",
+   "slow": 1.2
+  },
+  {
+   "video": "../../library/footage/own-rhein-ship.mp4",
+   "start": 0,
+   "duration": 5.83,
+   "overlay": "w4.png",
+   "slow": 1.2
+  },
+  {
+   "image": "w5.png",
+   "duration": 7.0,
+   "max": 7.0
+  },
+  {
+   "image": "w6.png",
+   "duration": 7.0,
+   "max": 7.0
+  }
+ ],
+ "music": "../../library/music/epic-mixkit-614.mp3",
+ "music_start": 4
+}
