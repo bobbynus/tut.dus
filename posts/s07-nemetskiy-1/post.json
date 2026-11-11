@@ -1,8 +1,8 @@
 {
   "type": "carousel",
-  "status": "manual",
+  "status": "scheduled",
   "title": "Немецкий по-дюссельдорфски · 1",
-  "publish_at": "2026-11-08T18:00:00+01:00",
+  "publish_at": "2026-11-13T18:00:00+01:00",
   "caption_file": "caption.txt",
   "media": [
     "c1.jpg",
@@ -11,6 +11,5 @@
     "c4.jpg",
     "c5.jpg",
     "c6.jpg"
-  ],
-  "music_hint": "лёгкая весёлая инструментальная, без слов (ukulele, light pop)"
+  ]
 }

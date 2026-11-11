@@ -14,7 +14,11 @@
 }
 После публикации рядом появляется published.json — повторно пост не выйдет.
 
-status "manual" — пост публикует человек сам (чтобы добавить музыку в приложении Instagram):
+status "scheduled" — основной режим: всё (карусели рубрик, рилсы с вшитой музыкой) выходит само.
+Если по посту раньше уходил черновик (есть draft.json), перед публикацией проверяем, не выложил ли его
+владелец сам, — тогда только записываем published.json, без дубля.
+
+status "manual" (запасной, сейчас не используется) — пост публикует человек сам (чтобы добавить музыку в приложении Instagram):
 в send_at (по умолчанию за сутки до publish_at) бот присылает черновик в личку владельцу;
 когда пост появляется в Instagram, он узнаётся по подписи и дублируется в Telegram-канал.
 
@@ -291,7 +295,14 @@ def main():
                     check_url(public_url(post_dir, name))
                 print(f"✓ {post_dir.name}: {spec['type']}, {len(spec['media'])} файл(ов), ссылки открываются (проверка)")
                 continue
-            result = publish(post_dir, spec)
+            result = None
+            if (post_dir / "draft.json").exists():  # черновик уже уходил владельцу — вдруг он выложил сам
+                caption = (post_dir / spec["caption_file"]).read_text().strip() if spec.get("caption_file") else ""
+                sent = datetime.fromisoformat(json.loads((post_dir / "draft.json").read_text())["sent_at"])
+                result = find_in_instagram(caption, sent - timedelta(hours=1), spec["type"])
+                if result:
+                    print(f"· {post_dir.name}: уже выложен вручную, повторно не публикуем")
+            result = result or publish(post_dir, spec)
             (post_dir / "published.json").write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n")
             print(f"✓ {post_dir.name}: опубликован {result.get('permalink') or ', '.join(result.get('media_ids', []))}")
             try:

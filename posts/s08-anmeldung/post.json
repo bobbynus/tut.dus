@@ -1,8 +1,8 @@
 {
   "type": "carousel",
-  "status": "manual",
+  "status": "scheduled",
   "title": "Бюрократия без боли · Anmeldung",
-  "publish_at": "2026-11-10T19:00:00+01:00",
+  "publish_at": "2026-11-11T19:00:00+01:00",
   "caption_file": "caption.txt",
   "media": [
     "c1.jpg",
@@ -11,6 +11,5 @@
     "c4.jpg",
     "c5.jpg",
     "c6.jpg"
-  ],
-  "music_hint": "спокойная инструментальная, без слов — много текста (piano, lo-fi)"
+  ]
 }

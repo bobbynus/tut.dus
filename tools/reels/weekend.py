@@ -2,8 +2,8 @@
 """Рилс «Выходные за 30 секунд»: 4–5 главных событий пятницы–воскресенья на фоне города, с музыкой.
 
 Запускается в среду вечером (workflow «Weekend reel», страхуется из «часов»). Собирает posts/r-weekend-<пятница>/:
-reel.mp4, cover.jpg, caption.txt, post.json со статусом manual — бот присылает черновик владельцу,
-он публикует в четверг 19:00 из приложения с трендовым звуком. Gemini — 1 запрос в неделю (тексты по-русски);
+reel.mp4, cover.jpg, caption.txt, post.json со статусом scheduled — выходит сам в четверг 19:00 (музыка вшита в видео)
+и дублируется в Telegram-канал. Gemini — 1 запрос в неделю (тексты по-русски);
 без него — простой отбор и оригинальные названия.
 Окружение: WEEKEND_FRIDAY=YYYY-MM-DD — для какой пятницы (по умолчанию ближайшая), NO_LLM=1 — без нейросети.
 """
@@ -167,11 +167,9 @@ def main():
               "#дюссельдорф #düsseldorf #дюссельдорфафиша #выходные #кудапойти #русскиевдюссельдорфе #жизньвгермании"]
     (post_dir / "caption.txt").write_text("\n".join(lines) + "\n")
     thu = FRI - timedelta(days=1)
-    post = {"type": "reel", "status": "manual", "title": f"Выходные {days}", "caption_file": "caption.txt",
+    post = {"type": "reel", "status": "scheduled", "title": f"Выходные {days}", "caption_file": "caption.txt",
             "media": ["reel.mp4"], "cover": "cover.jpg", "share_to_feed": True,
-            "publish_at": datetime.combine(thu, dtime(19, 0), TZ).isoformat(),
-            "send_at": datetime.combine(thu - timedelta(days=1), dtime(20, 0), TZ).isoformat(),
-            "music_hint": "трендовый бодрый звук из Instagram (текста немного — можно со словами)"}
+            "publish_at": datetime.combine(thu, dtime(19, 0), TZ).isoformat()}
     (post_dir / "post.json").write_text(json.dumps(post, ensure_ascii=False, indent=2) + "\n")
     (post_dir / "pick.json").write_text(json.dumps(items, ensure_ascii=False, indent=1))
     print(f"✓ {post_dir.name}: {len(items)} событий, рилс готов")

@@ -18,7 +18,7 @@ issue.json:
   ]
 }
 Фон — путь из library/ (подпись автора берётся из library/backgrounds.json); null — фирменный фон.
-Результат: c1.jpg… (1080×1440, формат 3:4 как в ленте Instagram), caption.txt, post.json со статусом manual (черновик придёт владельцу в Telegram).
+Результат: c1.jpg… (1080×1440, формат 3:4 как в ленте Instagram), caption.txt, post.json со статусом scheduled (выйдет сам в publish_at и продублируется в Telegram).
 """
 import html, json, subprocess, sys
 from pathlib import Path
@@ -102,11 +102,8 @@ def build(spec_path):
         media.append(f"c{i}.jpg")
     (post_dir / "texts.json").unlink(missing_ok=True)
     (post_dir / "caption.txt").write_text(spec["caption"].strip() + "\n")
-    post = {"type": "carousel", "status": "manual", "title": spec["title"], "publish_at": spec["publish_at"],
-            "caption_file": "caption.txt", "media": media,
-            "music_hint": spec.get("music_hint", "спокойная инструментальная, без слов — на слайдах много текста")}
-    if spec.get("send_at"):
-        post["send_at"] = spec["send_at"]
+    post = {"type": "carousel", "status": "scheduled", "title": spec["title"], "publish_at": spec["publish_at"],
+            "caption_file": "caption.txt", "media": media}
     (post_dir / "post.json").write_text(json.dumps(post, ensure_ascii=False, indent=2) + "\n")
     print(f"✓ {post_dir.name}: {len(media)} слайдов, выйдет {spec['publish_at']}")
 

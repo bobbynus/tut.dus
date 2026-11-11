@@ -1,6 +1,6 @@
 {
   "type": "carousel",
-  "status": "manual",
+  "status": "scheduled",
   "title": "Рождественские рынки · 2026",
   "publish_at": "2026-11-17T19:00:00+01:00",
   "caption_file": "caption.txt",
@@ -10,6 +10,5 @@
     "c3.jpg",
     "c4.jpg",
     "c5.jpg"
-  ],
-  "music_hint": "рождественская инструментальная, без слов (jingle, piano)"
+  ]
 }
