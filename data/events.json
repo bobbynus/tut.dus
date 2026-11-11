@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-11T09:08",
- "count": 617,
+ "generated_at": "2026-11-11T16:12",
+ "count": 618,
  "events": [
   {
    "title": "A44:  Düsseldorf -> Essen",
@@ -131,20 +131,6 @@
    "horizon_days": 400
   },
   {
-   "title": "Radu Darvas. Fotografien aus Siebenbürgen",
-   "venue": "Stiftung Gerhart-Hauptmann-Haus",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.g-h-h.de/veranstaltung/ausstellung-wiedergutmachung-fotografien-aus-siebenbuergen-von-radu-darvas",
-   "category": "выставка",
-   "description": "Ausstellung mit Fotografien aus Siebenbürgen von Radu Darvas. Die Fotos dokumentieren den Alltag der älteren Generation der Siebenbürger Sachsen in den Dörfern.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-11",
-   "time": "10:00",
-   "end_date": ""
-  },
-  {
    "title": "Iran und wir. Über Glaube, Spaltung und gesellschaftliche Verantwortung.",
    "venue": "",
    "address": "",
@@ -156,34 +142,6 @@
    "source": "Visit Düsseldorf",
    "date": "2026-11-11",
    "time": "10:00",
-   "end_date": ""
-  },
-  {
-   "title": "K21 Sparda Lounge",
-   "date": "2026-11-11",
-   "time": "11:00",
-   "end_date": "2026-12-02",
-   "venue": "K21",
-   "address": "Ständehausstraße 1",
-   "locality": "Düsseldorf",
-   "price": "frei",
-   "url": "https://www.kunstsammlung.de/de/calendar/k21-sparda-lounge",
-   "category": "veчеринка",
-   "description": "Die K21 Sparda Lounge ist dein Ort zum Lesen, Hören, Entspannen und Mitgestalten.",
-   "source": "Kunstsammlung NRW"
-  },
-  {
-   "title": "Ivan Geddert: Spatenprobe",
-   "venue": "BLOOM",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.bloomduesseldorf.de/",
-   "category": "выставка",
-   "description": "Die Ausstellung versammelt eine Auswahl neuer skulpturaler Arbeiten des in Berlin lebenden und arbeitenden Künstlers Ivan Geddert.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-11",
-   "time": "11:00",
    "end_date": ""
   },
   {
@@ -204,20 +162,6 @@
    ],
    "big": true,
    "horizon_days": 400
-  },
-  {
-   "title": "Manfred Lenz und Achim Raven: Vom Bild zur Sprache und zurück",
-   "venue": "Bürgerhaus Reisholz",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Die beiden Düsseldorfer Künstler Manfred Lenz und Achim Raven interessiert das FRAGWÜRDIGE im wörtlichen, aber auch im übertragenen Sinne, das Ungewisse, Zweifelhafte, Doppeldeutige.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-11",
-   "time": "14:30",
-   "end_date": ""
   },
   {
    "title": "Projekt Echtzeit",
@@ -701,20 +645,6 @@
    "end_date": "2027-01-23"
   },
   {
-   "title": "Bücherbasar in der Bibliothek",
-   "venue": "Stiftung Gerhart-Hauptmann-Haus",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "рынок",
-   "description": "Ausgesonderte Medien bzw. Dubletten aus unseren Beständen werden zum Verkauf angeboten. Geboten wird eine vielfältige Auswahl aus nahezu allen Themenbereichen (Fachliteratur, Belletristik, ältere Standardwerke, Tagungsbände).",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-11",
-   "time": "",
-   "end_date": "2026-11-30"
-  },
-  {
    "title": "Eckhard Froeschlin - Aus der Zeit geätzt (Radierungen 1981 - 2026)",
    "venue": "Kultur Bahnhof Eller",
    "address": "",
@@ -729,20 +659,6 @@
    "end_date": "2026-12-13"
   },
   {
-   "title": "Farbwelten",
-   "venue": "DRK „zentrum plus“ Friedrichstadt",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Farbwelten sind mehr als Farben: Sie übermitteln Gefühle und Stimmungen und entspringen dem Inneren – wie die Worte eines Gedichtes.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-11",
-   "time": "",
-   "end_date": "2027-02-26"
-  },
-  {
    "title": "Julia Reisinger. Iniusta iustitia",
    "venue": "Kunsthalle Düsseldorf",
    "address": "",
@@ -755,20 +671,6 @@
    "date": "2026-11-11",
    "time": "",
    "end_date": "2027-01-17"
-  },
-  {
-   "title": "Düsseldorf 1941. Jahr der Eskalation",
-   "venue": "Mahn- und Gedenkstätte Düsseldorf",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Die Mahn- und Gedenkstätte zeigt ab Dienstag, 3. November 2026, ihre neue Sonderausstellung \"Düsseldorf 1941. Jahr der Eskalation\".",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-11",
-   "time": "",
-   "end_date": "2027-08-28"
   },
   {
    "title": "Sienna Maria Baumann: Declutter",
@@ -883,20 +785,6 @@
    "end_date": "2027-05-23"
   },
   {
-   "title": "Kaiserswerther Diakonie zeigt Werke von Walter Liggesmeyer",
-   "venue": "K3",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Die E.ON Art Collection übergibt der Kaiserswerther Diakonie 45 Gemälde von Walter Liggesmeyer (1938–2017).",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-11",
-   "time": "",
-   "end_date": "2026-12-31"
-  },
-  {
    "title": "Leise rieselt der Schmäh - Wiener Kaffeehausgeschichten",
    "venue": "Roncalli’s Apollo-Varieté",
    "address": "",
@@ -909,20 +797,6 @@
    "date": "2026-11-11",
    "time": "",
    "end_date": "2027-01-10"
-  },
-  {
-   "title": "Playground. Ein Spielplatz im Museum",
-   "venue": "K20 Kunstsammlung Nordrhein-Westfalen",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://shop.kunstsammlung.de/de/offers/a571",
-   "category": "выставка",
-   "description": "Die Ausstellung „Playground“ lädt Kinder dazu ein, zu berühren, zu klettern, zu rennen und ihrer Fantasie freien Lauf zu lassen – in einer träumerischen Landschaft, die wie aus einer anderen Welt wirkt.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-11",
-   "time": "",
-   "end_date": "2027-07-18"
   },
   {
    "title": "HYROX",
@@ -1009,6 +883,20 @@
    "end_date": "2027-01-10"
   },
   {
+   "title": "DAS NeinHorn",
+   "venue": "D'haus Central",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.westticket.de/eventseries/4198045?affiliate=5VD",
+   "category": "театр",
+   "description": "Im Herzwald kommt ein kleines Einhorn zur Welt. Obwohl alle lieb zu ihm sind, benimmt sich das Tier nicht einhornmäßig. Es sagt einfach »Nein« und wird von seiner Familie bald nur noch NEINhorn genannt.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-12",
+   "time": "10:00",
+   "end_date": ""
+  },
+  {
    "title": "Manfred Lenz und Achim Raven: Vom Bild zur Sprache und zurück",
    "venue": "Bürgerhaus Reisholz",
    "address": "",
@@ -1031,20 +919,6 @@
    "url": "https://www.g-h-h.de/veranstaltung/ausstellung-wiedergutmachung-fotografien-aus-siebenbuergen-von-radu-darvas",
    "category": "выставка",
    "description": "Ausstellung mit Fotografien aus Siebenbürgen von Radu Darvas. Die Fotos dokumentieren den Alltag der älteren Generation der Siebenbürger Sachsen in den Dörfern.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-12",
-   "time": "10:00",
-   "end_date": ""
-  },
-  {
-   "title": "DAS NeinHorn",
-   "venue": "D'haus Central",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.westticket.de/eventseries/4198045?affiliate=5VD",
-   "category": "театр",
-   "description": "Im Herzwald kommt ein kleines Einhorn zur Welt. Obwohl alle lieb zu ihm sind, benimmt sich das Tier nicht einhornmäßig. Es sagt einfach »Nein« und wird von seiner Familie bald nur noch NEINhorn genannt.",
    "source": "Visit Düsseldorf",
    "date": "2026-11-12",
    "time": "10:00",
@@ -1376,6 +1250,20 @@
    "end_date": "2026-11-28"
   },
   {
+   "title": "Bücherbasar in der Bibliothek",
+   "venue": "Stiftung Gerhart-Hauptmann-Haus",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "рынок",
+   "description": "Ausgesonderte Medien bzw. Dubletten aus unseren Beständen werden zum Verkauf angeboten. Geboten wird eine vielfältige Auswahl aus nahezu allen Themenbereichen (Fachliteratur, Belletristik, ältere Standardwerke, Tagungsbände).",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-12",
+   "time": "",
+   "end_date": "2026-11-30"
+  },
+  {
    "title": "60 Jahre diplomatische Beziehungen zwischen Israel und Deutschland",
    "venue": "Rathaus",
    "address": "",
@@ -1388,6 +1276,34 @@
    "date": "2026-11-12",
    "time": "",
    "end_date": "2026-11-30"
+  },
+  {
+   "title": "Farbwelten",
+   "venue": "DRK „zentrum plus“ Friedrichstadt",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Farbwelten sind mehr als Farben: Sie übermitteln Gefühle und Stimmungen und entspringen dem Inneren – wie die Worte eines Gedichtes.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-12",
+   "time": "",
+   "end_date": "2027-02-26"
+  },
+  {
+   "title": "Düsseldorf 1941. Jahr der Eskalation",
+   "venue": "Mahn- und Gedenkstätte Düsseldorf",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Die Mahn- und Gedenkstätte zeigt ab Dienstag, 3. November 2026, ihre neue Sonderausstellung \"Düsseldorf 1941. Jahr der Eskalation\".",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-12",
+   "time": "",
+   "end_date": "2027-08-28"
   },
   {
    "title": "Disney Der Glöckner von Notre Dame",
@@ -1404,18 +1320,32 @@
    "end_date": "2027-01-03"
   },
   {
-   "title": "Radu Darvas. Fotografien aus Siebenbürgen",
-   "venue": "Stiftung Gerhart-Hauptmann-Haus",
+   "title": "Kaiserswerther Diakonie zeigt Werke von Walter Liggesmeyer",
+   "venue": "K3",
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.g-h-h.de/veranstaltung/ausstellung-wiedergutmachung-fotografien-aus-siebenbuergen-von-radu-darvas",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
    "category": "выставка",
-   "description": "Ausstellung mit Fotografien aus Siebenbürgen von Radu Darvas. Die Fotos dokumentieren den Alltag der älteren Generation der Siebenbürger Sachsen in den Dörfern.",
+   "description": "Die E.ON Art Collection übergibt der Kaiserswerther Diakonie 45 Gemälde von Walter Liggesmeyer (1938–2017).",
    "source": "Visit Düsseldorf",
-   "date": "2026-11-13",
-   "time": "10:00",
-   "end_date": ""
+   "date": "2026-11-12",
+   "time": "",
+   "end_date": "2026-12-31"
+  },
+  {
+   "title": "Playground. Ein Spielplatz im Museum",
+   "venue": "K20 Kunstsammlung Nordrhein-Westfalen",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://shop.kunstsammlung.de/de/offers/a571",
+   "category": "выставка",
+   "description": "Die Ausstellung „Playground“ lädt Kinder dazu ein, zu berühren, zu klettern, zu rennen und ihrer Fantasie freien Lauf zu lassen – in einer träumerischen Landschaft, die wie aus einer anderen Welt wirkt.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-12",
+   "time": "",
+   "end_date": "2027-07-18"
   },
   {
    "title": "DAS NeinHorn",
@@ -1426,6 +1356,20 @@
    "url": "https://www.westticket.de/eventseries/4198045?affiliate=5VD",
    "category": "театр",
    "description": "Im Herzwald kommt ein kleines Einhorn zur Welt. Obwohl alle lieb zu ihm sind, benimmt sich das Tier nicht einhornmäßig. Es sagt einfach »Nein« und wird von seiner Familie bald nur noch NEINhorn genannt.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-13",
+   "time": "10:00",
+   "end_date": ""
+  },
+  {
+   "title": "Radu Darvas. Fotografien aus Siebenbürgen",
+   "venue": "Stiftung Gerhart-Hauptmann-Haus",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.g-h-h.de/veranstaltung/ausstellung-wiedergutmachung-fotografien-aus-siebenbuergen-von-radu-darvas",
+   "category": "выставка",
+   "description": "Ausstellung mit Fotografien aus Siebenbürgen von Radu Darvas. Die Fotos dokumentieren den Alltag der älteren Generation der Siebenbürger Sachsen in den Dörfern.",
    "source": "Visit Düsseldorf",
    "date": "2026-11-13",
    "time": "10:00",
@@ -1446,20 +1390,6 @@
    "end_date": ""
   },
   {
-   "title": "Ivan Geddert: Spatenprobe",
-   "venue": "BLOOM",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.bloomduesseldorf.de/",
-   "category": "выставка",
-   "description": "Die Ausstellung versammelt eine Auswahl neuer skulpturaler Arbeiten des in Berlin lebenden und arbeitenden Künstlers Ivan Geddert.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-13",
-   "time": "11:00",
-   "end_date": ""
-  },
-  {
    "title": "Kultur-Frühstück",
    "venue": "FFT Düsseldorf",
    "address": "",
@@ -1468,6 +1398,20 @@
    "url": "https://www.fft-duesseldorf.de/spielplan/kultur-fruehstueck",
    "category": "событие",
    "description": "Willkommen beim Kultur-Frühstück im FFT Düsseldorf. Dieses kostenlose Angebot richtet sich an alle, die Lust haben, hinter die Kulissen des freien Theaters zu blicken und mit anderen darüber ins Gespräch zu kommen!",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-13",
+   "time": "11:00",
+   "end_date": ""
+  },
+  {
+   "title": "Ivan Geddert: Spatenprobe",
+   "venue": "BLOOM",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.bloomduesseldorf.de/",
+   "category": "выставка",
+   "description": "Die Ausstellung versammelt eine Auswahl neuer skulpturaler Arbeiten des in Berlin lebenden und arbeitenden Künstlers Ivan Geddert.",
    "source": "Visit Düsseldorf",
    "date": "2026-11-13",
    "time": "11:00",
@@ -2050,20 +1994,6 @@
    "end_date": ""
   },
   {
-   "title": "Ivan Geddert: Spatenprobe",
-   "venue": "BLOOM",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.bloomduesseldorf.de/",
-   "category": "выставка",
-   "description": "Die Ausstellung versammelt eine Auswahl neuer skulpturaler Arbeiten des in Berlin lebenden und arbeitenden Künstlers Ivan Geddert.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-14",
-   "time": "11:00",
-   "end_date": ""
-  },
-  {
    "title": "The secret of now",
    "venue": "Wolf Stroetmann Galerie",
    "address": "",
@@ -2072,6 +2002,20 @@
    "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
    "category": "выставка",
    "description": "Wolfgang Schäfer zeigt neue Bilder in der Ausstellung \"the secret of now\". Die Vernissage ist am Samstag, den 10.10.26 von 13.30 Uhr - 16.00 Uhr",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-14",
+   "time": "11:00",
+   "end_date": ""
+  },
+  {
+   "title": "Ivan Geddert: Spatenprobe",
+   "venue": "BLOOM",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.bloomduesseldorf.de/",
+   "category": "выставка",
+   "description": "Die Ausstellung versammelt eine Auswahl neuer skulpturaler Arbeiten des in Berlin lebenden und arbeitenden Künstlers Ivan Geddert.",
    "source": "Visit Düsseldorf",
    "date": "2026-11-14",
    "time": "11:00",
@@ -2497,7 +2441,7 @@
    "price": "",
    "url": "https://meine-flohmarkt-termine.de/nachtyard-der-kreative-nachtmarkt-in-dusseldorf/23826027/details",
    "category": "рынок",
-   "description": "Mehr als nur ein Markt - NachtYard ist der Treffpunkt f&uuml;r alle, die entdecken wollen.&amp;nbsp;Indoor &amp;amp; Outdoor auf &uuml;ber 5.000 qmEintritt: 7,-&euro; (Kinder bis 12 J. frei)Karten nur an der Abendkasse&amp;nbsp;Drinnen: Industrieflair, bunte St&auml;nde, Licht, Bass, BegegnungDrau&s",
+   "description": "Mehr als nur ein Markt - NachtYard ist der Treffpunkt für alle, die entdecken wollen.&nbsp;Indoor &amp; Outdoor auf über 5.000 qmEintritt: 7,-€ (Kinder bis 12 J. frei)Karten nur an der Abendkasse&nbsp;Drinnen: Industrieflair, bunte Stände, Licht, Bass, BegegnungDrau&s",
    "source": "Блошиные рынки (MFT)"
   },
   {
@@ -2505,13 +2449,13 @@
    "date": "2026-11-14",
    "time": "",
    "end_date": "2026-11-14",
-   "venue": "D&uuml;sseldorf-Benrath Sch&uuml;tzenplatz",
+   "venue": "Düsseldorf-Benrath Schützenplatz",
    "address": "Bayreuther Straße  31, 40597, Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752962/details",
    "category": "рынок",
-   "description": "Der &uuml;ber die Stadtgrenzen bekannte Samstags-Tr&ouml;delmarkt auf dem Sch&uuml;tzenplatz erfreut sich seit Jahren gro&szlig;er Beliebtheit. Das ausgewogene Verh&auml;ltnis von Neuware und Tr&ouml;del abgerundet durch ein ausreichendes Gastronomieangebot l&auml;dt zum Bummeln und Verweilen ein. &",
+   "description": "Der über die Stadtgrenzen bekannte Samstags-Trödelmarkt auf dem Schützenplatz erfreut sich seit Jahren großer Beliebtheit. Das ausgewogene Verhältnis von Neuware und Trödel abgerundet durch ein ausreichendes Gastronomieangebot lädt zum Bummeln und Verweilen ein. &",
    "source": "Блошиные рынки (MFT)"
   },
   {
@@ -2615,6 +2559,20 @@
    "date": "2026-11-14",
    "time": "",
    "end_date": "2027-04-04"
+  },
+  {
+   "title": "Nachtflohmarkt Moonlight Market Düsseldorf",
+   "date": "2026-11-14",
+   "time": "",
+   "end_date": "",
+   "venue": "Ulmenstraße 275, 40468 Düsseldorf, Germany",
+   "address": "Ulmenstraße 275, 40468 Düsseldorf, Deutschland, Dusseldorf",
+   "locality": "Dusseldorf",
+   "price": "",
+   "url": "https://allevents.in/dusseldorf/nachtflohmarkt-moonlight-market-düsseldorf/200030299600341",
+   "category": "рынок",
+   "description": "",
+   "source": "allevents: выходные"
   },
   {
    "title": "Ayaka Terajima - Packed Space under the Moon",
@@ -3059,6 +3017,7 @@
    "also_in": [
     "Visit Düsseldorf",
     "Visit Düsseldorf",
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -3079,20 +3038,6 @@
     "allevents: все",
     "allevents: выходные"
    ]
-  },
-  {
-   "title": "Candlelight: Sezen Aksu",
-   "date": "2026-11-15",
-   "time": "",
-   "end_date": "",
-   "venue": "Event-Theater Schwanenhöfe",
-   "address": "Erkrather Straße 234b, Düsseldorf// 40233, Dusseldorf",
-   "locality": "Dusseldorf",
-   "price": "40.50",
-   "url": "https://allevents.in/dusseldorf/candlelight-sezen-aksu/2700030035614854",
-   "category": "событие",
-   "description": "",
-   "source": "allevents: выходные"
   },
   {
    "title": "Beste Freunde",
@@ -3604,6 +3549,20 @@
    "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
    "category": "лекция",
    "description": "Heine-Preisträger Leoluca Orlando wird, nach Jacques Tilly, der zweite Themen- und Objektpate der neuen Dauerausstellung des Heine-Instituts.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-18",
+   "time": "19:00",
+   "end_date": ""
+  },
+  {
+   "title": "Kinst zu Gast bei Conzen: Jedes Kind ist ein Künstler",
+   "venue": "",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Elf kuratierte Bildkompositionen machen sichtbar, welche überraschenden Bildwelten in Kinderzeichnungen stecken und wie Auswahl, Vergrößerung und Rahmung ihre Wirkung verändern.",
    "source": "Visit Düsseldorf",
    "date": "2026-11-18",
    "time": "19:00",
@@ -4606,28 +4565,10 @@
    ]
   },
   {
-   "title": "Şevval Sam in Düsseldorf",
-   "date": "2026-11-20",
-   "time": "",
-   "end_date": "2026-11-20",
-   "venue": "Club im Capitol-Theater",
-   "address": "Club im Capitol-Theater, Dusseldorf, NW, Germany, Dusseldorf",
-   "locality": "Dusseldorf",
-   "price": "",
-   "url": "https://allevents.in/dusseldorf/Şevval-sam-in-düsseldorf/3300030485619007",
-   "category": "событие",
-   "description": "",
-   "source": "allevents: все",
-   "also_in": [
-    "allevents: все",
-    "allevents: живая музыка"
-   ]
-  },
-  {
    "title": "Candlelight: Tribut an Hans Zimmer",
    "date": "2026-11-20",
    "time": "",
-   "end_date": "",
+   "end_date": "2027-03-27",
    "venue": "Palais Wittgenstein",
    "address": "Bilker Straße 7-9, Düsseldorf-Stadtbezirk 1// 40213, Dusseldorf",
    "locality": "Dusseldorf",
@@ -4654,7 +4595,26 @@
    "description": "Die Königsallee verwandelt sich zur Weihnachtszeit in eine Winterlandschaft aus weißen Glascontainern, gemütlichen Hütten und Genussstationen mit stimmungsvoller Beleuchtung.",
    "source": "Mr. Düsseldorf (RSS)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
+   ]
+  },
+  {
+   "title": "Şevval Sam in Düsseldorf",
+   "date": "2026-11-20",
+   "time": "",
+   "end_date": "2026-11-20",
+   "venue": "Club im Capitol-Theater",
+   "address": "Club im Capitol-Theater, Dusseldorf, NW, Germany, Dusseldorf",
+   "locality": "Dusseldorf",
+   "price": "",
+   "url": "https://allevents.in/dusseldorf/Şevval-sam-in-düsseldorf/3300030485619007",
+   "category": "событие",
+   "description": "",
+   "source": "allevents: все",
+   "also_in": [
+    "allevents: все",
+    "allevents: живая музыка"
    ]
   },
   {
@@ -5188,13 +5148,13 @@
    "date": "2026-11-21",
    "time": "",
    "end_date": "2026-11-21",
-   "venue": "Blumengro&szlig;markt",
+   "venue": "Blumengroßmarkt",
    "address": "Ulmenstraße 275, 40468, Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://meine-flohmarkt-termine.de/moonlight-market-dusseldorfs-nachtmarkt-im-blumengrossmarkt/23840771/details",
    "category": "рынок",
-   "description": "Was dich erwartet Nacht der K&uuml;nste Spezial - Eine Stunde l&auml;nger ge&ouml;ffnet (bis 00:00 Uhr) Der Moonlight Market ist kein klassischer Markt. Es ist ein Nacht-Event mit Marktatmosph&auml;re: gute Vibes, spannende St&auml;nde, neue Lieblingsst&uuml;cke &ndash; und zwischendurch immer was L",
+   "description": "Was dich erwartet Nacht der Künste Spezial - Eine Stunde länger geöffnet (bis 00:00 Uhr) Der Moonlight Market ist kein klassischer Markt. Es ist ein Nacht-Event mit Marktatmosphäre: gute Vibes, spannende Stände, neue Lieblingsstücke – und zwischendurch immer was L",
    "source": "Блошиные рынки (MFT)",
    "also_in": [
     "Блошиные рынки (MFT)"
@@ -5205,13 +5165,13 @@
    "date": "2026-11-21",
    "time": "",
    "end_date": "2026-11-21",
-   "venue": "Blumengro&szlig;markt D&uuml;sseldorf",
+   "venue": "Blumengroßmarkt Düsseldorf",
    "address": "Ulmenstraße 275, 40468 , Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://meine-flohmarkt-termine.de/der-madelsflohmarkt-at-blumengrossmarkt-dusseldorf-late-night-edition/23699502/details",
    "category": "рынок",
-   "description": "Der M&auml;delsflohmarkt in deiner Stadt - dein Markt f&uuml;r Second Hand Frauenkleidung und Accessoires. Vintage Teile, Second Hand Klamotten, Designerkram, Schuhe, Schmuck, Accessoires, Selbstgemachtes, ausrangiertes u.v.m. Besucherpreise: Einzelkarte (w/d/m) ab 12 Jahre: 4,50&euro; Ausstellerpre",
+   "description": "Der Mädelsflohmarkt in deiner Stadt - dein Markt für Second Hand Frauenkleidung und Accessoires. Vintage Teile, Second Hand Klamotten, Designerkram, Schuhe, Schmuck, Accessoires, Selbstgemachtes, ausrangiertes u.v.m. Besucherpreise: Einzelkarte (w/d/m) ab 12 Jahre: 4,50€ Ausstellerpre",
    "source": "Блошиные рынки (MFT)"
   },
   {
@@ -5219,13 +5179,13 @@
    "date": "2026-11-21",
    "time": "",
    "end_date": "2026-11-21",
-   "venue": "D&uuml;sseldorf-Benrath Sch&uuml;tzenplatz",
+   "venue": "Düsseldorf-Benrath Schützenplatz",
    "address": "Bayreuther Straße  31, 40597, Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752963/details",
    "category": "рынок",
-   "description": "Der &uuml;ber die Stadtgrenzen bekannte Samstags-Tr&ouml;delmarkt auf dem Sch&uuml;tzenplatz erfreut sich seit Jahren gro&szlig;er Beliebtheit. Das ausgewogene Verh&auml;ltnis von Neuware und Tr&ouml;del abgerundet durch ein ausreichendes Gastronomieangebot l&auml;dt zum Bummeln und Verweilen ein. &",
+   "description": "Der über die Stadtgrenzen bekannte Samstags-Trödelmarkt auf dem Schützenplatz erfreut sich seit Jahren großer Beliebtheit. Das ausgewogene Verhältnis von Neuware und Trödel abgerundet durch ein ausreichendes Gastronomieangebot lädt zum Bummeln und Verweilen ein. &",
    "source": "Блошиные рынки (MFT)"
   },
   {
@@ -5845,6 +5805,20 @@
    "end_date": ""
   },
   {
+   "title": "Das Stahlröhrenwerk in Düsseldorf-Rath",
+   "venue": "Bücherei Rath",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "лекция",
+   "description": "Horst A. Wessel hat 25 Jahre lang das Unternehmensarchiv von Mannes­mann geleitet und möchte mit seinem Buch die Erinnerung an die industrielle Vergangenheit des Stadtteils wachhalten.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-25",
+   "time": "17:30",
+   "end_date": ""
+  },
+  {
    "title": "Charlotte Wiedemann: Die Kunst des Abschiednehmens",
    "venue": "Zentralbibliothek im KAP1",
    "address": "",
@@ -5881,6 +5855,20 @@
    "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
    "category": "событие",
    "description": "Ein Abend ganz im Zeichen ZEROs! Unter dem Motto \"ZERO ist gut für dich\" riefen Heinz Mack, Otto Piene und Günther Uecker am 25. Nov. 1966 das Ende einer Ära aus: den Abschluss ihrer Zusammenarbeit und den Zeitpunkt der Auflösung der „ZERO-Gruppe“.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-25",
+   "time": "18:00",
+   "end_date": ""
+  },
+  {
+   "title": "24. Filmfest Düsseldorf",
+   "venue": "Heinrich-Heine-Universität Düsseldorf",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "фестиваль",
+   "description": "Das Filmfest ist zurück! 24 Jahre Filmfest Düsseldorf – im Motto der 2000er.",
    "source": "Visit Düsseldorf",
    "date": "2026-11-25",
    "time": "18:00",
@@ -6046,6 +6034,7 @@
    "source": "Schloss Benrath",
    "horizon_days": 21,
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -6061,6 +6050,20 @@
    "source": "Visit Düsseldorf",
    "date": "2026-11-26",
    "time": "17:00",
+   "end_date": ""
+  },
+  {
+   "title": "24. Filmfest Düsseldorf",
+   "venue": "Heinrich-Heine-Universität Düsseldorf",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "фестиваль",
+   "description": "Das Filmfest ist zurück! 24 Jahre Filmfest Düsseldorf – im Motto der 2000er.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-26",
+   "time": "18:00",
    "end_date": ""
   },
   {
@@ -6337,6 +6340,20 @@
    "description": "Entdecken Sie unser neues Highlight auf Schloss Benrath und erleben Sie wie sich die Schlossgärten in in eine faszinierende Welt aus Licht verwandeln.",
    "source": "Schloss Benrath",
    "horizon_days": 21
+  },
+  {
+   "title": "24. Filmfest Düsseldorf - Ampere",
+   "venue": "",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "фестиваль",
+   "description": "Das Filmfest ist zurück! 24 Jahre Filmfest Düsseldorf – im Motto der 2000er.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-27",
+   "time": "18:00",
+   "end_date": ""
   },
   {
    "title": "Schleuse Zwei: Barabend mit DJ-Set – Max Dax",
@@ -7051,33 +7068,16 @@
    "date": "2026-11-28",
    "time": "",
    "end_date": "2026-11-28",
-   "venue": "B&uuml;rgerhaus Reisholz",
+   "venue": "Bürgerhaus Reisholz",
    "address": "Kappeler Straße 231, 40599, Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://meine-flohmarkt-termine.de/trodel-kindersachenmarkt/23734462/details",
    "category": "рынок",
-   "description": "Der &quot;Blitz-Markt&ldquo; im D&uuml;sseldorfer S&uuml;den! Die gro&szlig;e Wetter unabh&auml;ngige Schn&auml;ppchenjagd erfreut sich seit mehr als 30 Jahren gro&szlig;er Beliebtheit und geht im B&uuml;rgerhaus Reisholz an der Kappeler Stra&szlig;e 231 endlich wieder an den Start. Gut Erhaltenes v",
+   "description": "Der \"Blitz-Markt“ im Düsseldorfer Süden! Die große Wetter unabhängige Schnäppchenjagd erfreut sich seit mehr als 30 Jahren großer Beliebtheit und geht im Bürgerhaus Reisholz an der Kappeler Straße 231 endlich wieder an den Start. Gut Erhaltenes v",
    "source": "Блошиные рынки (MFT)",
    "also_in": [
     "Visit Düsseldorf"
-   ]
-  },
-  {
-   "title": "ZAUBERSALON RHEINLAND: SimSalaBim | Die Magische DinnerShow | Saison 26/27",
-   "date": "2026-11-28",
-   "time": "",
-   "end_date": "",
-   "venue": "Event-Theater Schwanenhöfe",
-   "address": "Erkrather Straße 234b, Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "6.95",
-   "url": "https://allevents.in/d%C3%BCsseldorf/zaubersalon-rheinland-simsalabim-die-magische-dinnershow-saison-26-27/100001990099318634",
-   "category": "событие",
-   "description": "",
-   "source": "allevents: все",
-   "also_in": [
-    "allevents: все"
    ]
   },
   {
@@ -7085,13 +7085,13 @@
    "date": "2026-11-28",
    "time": "",
    "end_date": "2026-11-28",
-   "venue": "D&uuml;sseldorf-Benrath Sch&uuml;tzenplatz",
+   "venue": "Düsseldorf-Benrath Schützenplatz",
    "address": "Bayreuther Straße  31, 40597, Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752964/details",
    "category": "рынок",
-   "description": "Der &uuml;ber die Stadtgrenzen bekannte Samstags-Tr&ouml;delmarkt auf dem Sch&uuml;tzenplatz erfreut sich seit Jahren gro&szlig;er Beliebtheit. Das ausgewogene Verh&auml;ltnis von Neuware und Tr&ouml;del abgerundet durch ein ausreichendes Gastronomieangebot l&auml;dt zum Bummeln und Verweilen ein. &",
+   "description": "Der über die Stadtgrenzen bekannte Samstags-Trödelmarkt auf dem Schützenplatz erfreut sich seit Jahren großer Beliebtheit. Das ausgewogene Verhältnis von Neuware und Trödel abgerundet durch ein ausreichendes Gastronomieangebot lädt zum Bummeln und Verweilen ein. &",
    "source": "Блошиные рынки (MFT)"
   },
   {
@@ -7264,11 +7264,10 @@
    "price": "",
    "url": "https://allevents.in/dusseldorf/verkaufsoffener-sonntag-in-düsseldorf-am-29112026/200030485090333",
    "category": "событие",
-   "description": "Am 29. November lädt außerdem ein verkaufsoffener Sonntag zum entspannten Geschenke-Shopping ein.",
+   "description": "Erster Advent, festliche Beleuchtung und von 13 bis 18 Uhr geöffnete Geschäfte: der verkaufsoffene Sonntag lädt ein zum flexiblen und entspannten Shoppen in der Düsseldorfer Innenstadt.",
    "source": "allevents: все",
    "also_in": [
     "allevents: все",
-    "Mr. Düsseldorf (RSS)",
     "Visit Düsseldorf"
    ]
   },
@@ -7491,13 +7490,13 @@
    "date": "2026-11-29",
    "time": "",
    "end_date": "2026-11-29",
-   "venue": "D&uuml;sseldorf Ikea",
+   "venue": "Düsseldorf Ikea",
    "address": "Oerschbachstraße 75 , 40589, Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://meine-flohmarkt-termine.de/melan-trodelmarkt-dusseldorf-ikea/23830629/details",
    "category": "рынок",
-   "description": "Wir freuen uns, euch unseren neuen Tr&ouml;delmarkt am IKEA D&uuml;sseldorf anzuk&uuml;ndigen.📍 IKEA D&uuml;sseldorfFreut euch auf zahlreiche H&auml;ndler mit einem abwechslungsreichen Angebot: Antikes, Vintage, Deko, Kleidung, Sammlerst&uuml;cke und viele weitere besondere Fundst&uuml;cke warten da",
+   "description": "Wir freuen uns, euch unseren neuen Trödelmarkt am IKEA Düsseldorf anzukündigen.📍 IKEA DüsseldorfFreut euch auf zahlreiche Händler mit einem abwechslungsreichen Angebot: Antikes, Vintage, Deko, Kleidung, Sammlerstücke und viele weitere besondere Fundstücke warten da",
    "source": "Блошиные рынки (MFT)"
   },
   {
@@ -7997,6 +7996,23 @@
    "away": false
   },
   {
+   "title": "DÜSSELDORF - Asian Sensation Party - 04. DEZEMBER 2026",
+   "date": "2026-12-04",
+   "time": "",
+   "end_date": "2026-12-05",
+   "venue": "Rudas Studios Club",
+   "address": "Zollhof 11, Düsseldorf",
+   "locality": "Düsseldorf",
+   "price": "16.82",
+   "url": "https://allevents.in/d%C3%BCsseldorf/dÜsseldorf-asian-sensation-party-04-dezember-2026/100002004436880668",
+   "category": "вечеринка",
+   "description": "",
+   "source": "allevents: все",
+   "also_in": [
+    "allevents: все"
+   ]
+  },
+  {
    "title": "Fortuna — SV Wehen Wiesbaden",
    "date": "2026-12-05",
    "time": "14:00",
@@ -8030,7 +8046,7 @@
    "title": "Kehlani Düsseldorf Tickets",
    "date": "2026-12-05",
    "time": "",
-   "end_date": "",
+   "end_date": "2026-12-05",
    "venue": "PSD Bank Dome",
    "address": "PSD Bank Dome, Düsseldorf, Germany, Düsseldorf",
    "locality": "Düsseldorf",
@@ -8048,13 +8064,13 @@
    "date": "2026-12-05",
    "time": "",
    "end_date": "2026-12-05",
-   "venue": "D&uuml;sseldorf-Benrath Sch&uuml;tzenplatz",
+   "venue": "Düsseldorf-Benrath Schützenplatz",
    "address": "Bayreuther Straße  31, 40597, Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752965/details",
    "category": "рынок",
-   "description": "Der &uuml;ber die Stadtgrenzen bekannte Samstags-Tr&ouml;delmarkt auf dem Sch&uuml;tzenplatz erfreut sich seit Jahren gro&szlig;er Beliebtheit. Das ausgewogene Verh&auml;ltnis von Neuware und Tr&ouml;del abgerundet durch ein ausreichendes Gastronomieangebot l&auml;dt zum Bummeln und Verweilen ein. &",
+   "description": "Der über die Stadtgrenzen bekannte Samstags-Trödelmarkt auf dem Schützenplatz erfreut sich seit Jahren großer Beliebtheit. Das ausgewogene Verhältnis von Neuware und Trödel abgerundet durch ein ausreichendes Gastronomieangebot lädt zum Bummeln und Verweilen ein. &",
    "source": "Блошиные рынки (MFT)"
   },
   {
@@ -8092,13 +8108,13 @@
    "date": "2026-12-06",
    "time": "",
    "end_date": "2026-12-06",
-   "venue": "am Blumengro&szlig;markt",
+   "venue": "am Blumengroßmarkt",
    "address": "Ulmenstraße 275, 40468, Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://meine-flohmarkt-termine.de/flohmarkt-am-blumengrossmarkt-dusseldorf/23679623/details",
    "category": "рынок",
-   "description": "Hier bist du genau richtig &ndash; der D&uuml;sseldorfer Traditions-FlohmarktSeit mittlerweile &uuml;ber 50 Jahren Tr&ouml;del am Blumengro&szlig;markt bieten wir dir die optimale Location. Wir laden alle Schn&auml;ppchenj&auml;ger, Sammler und Neugierigen ein, in die bunte Welt des Tr&ouml;delns ei",
+   "description": "Hier bist du genau richtig – der Düsseldorfer Traditions-FlohmarktSeit mittlerweile über 50 Jahren Trödel am Blumengroßmarkt bieten wir dir die optimale Location. Wir laden alle Schnäppchenjäger, Sammler und Neugierigen ein, in die bunte Welt des Trödelns ei",
    "source": "Блошиные рынки (MFT)"
   },
   {
@@ -8112,14 +8128,14 @@
    "price": "",
    "url": "https://meine-flohmarkt-termine.de/madelsflohmarkt-weiberkram-dusseldorf-rheinriff/23826032/details",
    "category": "рынок",
-   "description": "Spa&szlig;, Chillen, Sport und Shopping! Auf 9.000 Quadratmetern erwarten dich ein atemberaubender Beachclub, actiongeladene Sportangebote, erfrischende Drinks und jede Menge Vintage Fashion. Und das Beste? Ab sofort kannst du regelm&auml;&szlig;ig den Weiberkram M&auml;delsflohmarkt im RheinRiff er",
+   "description": "Spaß, Chillen, Sport und Shopping! Auf 9.000 Quadratmetern erwarten dich ein atemberaubender Beachclub, actiongeladene Sportangebote, erfrischende Drinks und jede Menge Vintage Fashion. Und das Beste? Ab sofort kannst du regelmäßig den Weiberkram Mädelsflohmarkt im RheinRiff er",
    "source": "Блошиные рынки (MFT)"
   },
   {
    "title": "beabadoobee Düsseldorf Tickets",
    "date": "2026-12-07",
    "time": "",
-   "end_date": "",
+   "end_date": "2026-12-07",
    "venue": "Mitsubishi Electric Halle",
    "address": "Mitsubishi Electric Halle, Düsseldorf, Germany, Düsseldorf",
    "locality": "Düsseldorf",
@@ -8238,7 +8254,7 @@
    "price": "",
    "url": "https://meine-flohmarkt-termine.de/nachtyard-der-kreative-nachtmarkt-in-dusseldorf/23826028/details",
    "category": "рынок",
-   "description": "Mehr als nur ein Markt - NachtYard ist der Treffpunkt f&uuml;r alle, die entdecken wollen.&amp;nbsp;Indoor &amp;amp; Outdoor auf &uuml;ber 5.000 qmEintritt: 7,-&euro; (Kinder bis 12 J. frei)Karten nur an der Abendkasse&amp;nbsp;Drinnen: Industrieflair, bunte St&auml;nde, Licht, Bass, BegegnungDrau&s",
+   "description": "Mehr als nur ein Markt - NachtYard ist der Treffpunkt für alle, die entdecken wollen.&nbsp;Indoor &amp; Outdoor auf über 5.000 qmEintritt: 7,-€ (Kinder bis 12 J. frei)Karten nur an der Abendkasse&nbsp;Drinnen: Industrieflair, bunte Stände, Licht, Bass, BegegnungDrau&s",
    "source": "Блошиные рынки (MFT)"
   },
   {
@@ -8246,13 +8262,13 @@
    "date": "2026-12-12",
    "time": "",
    "end_date": "2026-12-12",
-   "venue": "D&uuml;sseldorf-Benrath Sch&uuml;tzenplatz",
+   "venue": "Düsseldorf-Benrath Schützenplatz",
    "address": "Bayreuther Straße  31, 40597, Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752966/details",
    "category": "рынок",
-   "description": "Der &uuml;ber die Stadtgrenzen bekannte Samstags-Tr&ouml;delmarkt auf dem Sch&uuml;tzenplatz erfreut sich seit Jahren gro&szlig;er Beliebtheit. Das ausgewogene Verh&auml;ltnis von Neuware und Tr&ouml;del abgerundet durch ein ausreichendes Gastronomieangebot l&auml;dt zum Bummeln und Verweilen ein. &",
+   "description": "Der über die Stadtgrenzen bekannte Samstags-Trödelmarkt auf dem Schützenplatz erfreut sich seit Jahren großer Beliebtheit. Das ausgewogene Verhältnis von Neuware und Trödel abgerundet durch ein ausreichendes Gastronomieangebot lädt zum Bummeln und Verweilen ein. &",
    "source": "Блошиные рынки (MFT)"
   },
   {
@@ -8274,13 +8290,13 @@
    "date": "2026-12-13",
    "time": "",
    "end_date": "2026-12-13",
-   "venue": "METRO D&uuml;sseldorf",
+   "venue": "METRO Düsseldorf",
    "address": "Walter-Eucken-Straße, 40235, Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://meine-flohmarkt-termine.de/radschlagermarkt-dusseldorf-an-der-metro/23858061/details",
    "category": "рынок",
-   "description": "Radschl&auml;germarkt D&uuml;sseldorf &ndash; Der Tr&ouml;delklassiker rund um die METRO 📍 Standort: Metro-Parkplatz, D&uuml;sseldorf 🗓️ An jedem zweiten Sonntag im Monat 🌐 Alle Infos &amp;amp; Anmeldung: www.radschlaegermarkt-duesseldorf.de Der Radschl&auml;germarkt ist D&uuml;sseldorfs traditionsr",
+   "description": "Radschlägermarkt Düsseldorf – Der Trödelklassiker rund um die METRO 📍 Standort: Metro-Parkplatz, Düsseldorf 🗓️ An jedem zweiten Sonntag im Monat 🌐 Alle Infos &amp; Anmeldung: www.radschlaegermarkt-duesseldorf.de Der Radschlägermarkt ist Düsseldorfs traditionsr",
    "source": "Блошиные рынки (MFT)"
   },
   {
@@ -8288,13 +8304,13 @@
    "date": "2026-12-13",
    "time": "",
    "end_date": "2026-12-13",
-   "venue": "Kirmesplatz Reisholz Spangerstra&szlig;e",
+   "venue": "Kirmesplatz Reisholz Spangerstraße",
    "address": "Spangerstraße 6, 40599, Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-reisholz-kirmesplatz/23706560/details",
    "category": "рынок",
-   "description": "Monatlich stattfindender Tr&ouml;delmarkt in zentraler Lage. Ein ausgewogenes Verh&auml;ltnis von Tr&ouml;del und Neuware erwartet Sie. Gerade bei sch&ouml;nem Wetter findet man hier viele private Aussteller welche ihre ganz pers&ouml;nlichen Sch&auml;tze anbieten. Nutzen Sie die Gelegenheit Dinge d",
+   "description": "Monatlich stattfindender Trödelmarkt in zentraler Lage. Ein ausgewogenes Verhältnis von Trödel und Neuware erwartet Sie. Gerade bei schönem Wetter findet man hier viele private Aussteller welche ihre ganz persönlichen Schätze anbieten. Nutzen Sie die Gelegenheit Dinge d",
    "source": "Блошиные рынки (MFT)"
   },
   {
@@ -8302,13 +8318,13 @@
    "date": "2026-12-13",
    "time": "",
    "end_date": "2026-12-13",
-   "venue": "Boston Club D&uuml;sseldorf",
+   "venue": "Boston Club Düsseldorf",
    "address": "Vennhauser Allee 135, 40627, Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://meine-flohmarkt-termine.de/madchen-klamotte-der-madelsflohmarkt-at-boston-club-dusseldorf/23844874/details",
    "category": "рынок",
-   "description": "&quot;M&auml;dels lieben Klamotten&quot; Ganz unter diesem Motto findet ihr auf unserem M&auml;dchenflohmarkt: Vintage Sch&auml;tze, Second Hand Klamotten, Kinderbekleidung- und ausstattung, Designerware, Schuhe, Schmuck und Accessoires. Ob alt, ausrangiert, geliebt, zu klein, zu gro&szlig;, bei uns",
+   "description": "\"Mädels lieben Klamotten\" Ganz unter diesem Motto findet ihr auf unserem Mädchenflohmarkt: Vintage Schätze, Second Hand Klamotten, Kinderbekleidung- und ausstattung, Designerware, Schuhe, Schmuck und Accessoires. Ob alt, ausrangiert, geliebt, zu klein, zu groß, bei uns",
    "source": "Блошиные рынки (MFT)"
   },
   {
@@ -8362,13 +8378,13 @@
    "date": "2026-12-19",
    "time": "",
    "end_date": "2026-12-19",
-   "venue": "Blumengro&szlig;markt D&uuml;sseldorf",
+   "venue": "Blumengroßmarkt Düsseldorf",
    "address": "Ulmenstraße 275, 40468, Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://meine-flohmarkt-termine.de/moonlight-market/23786587/details",
    "category": "рынок",
-   "description": "🌙MOONLIGHT MARKET - Neuer Nachtflohmarkt in D&uuml;sseldorf Der Moonlight Market findet regelm&auml;&szlig;ig an einem Samstag im Monat auf dem Blumengro&szlig;markt statt &ndash; und bringt alles zusammen, was wir lieben: Secondhand-Sch&auml;tzchen, Retro-Funde, Schmuck, Fashion, Keramik, Deko &amp",
+   "description": "🌙MOONLIGHT MARKET - Neuer Nachtflohmarkt in Düsseldorf Der Moonlight Market findet regelmäßig an einem Samstag im Monat auf dem Blumengroßmarkt statt – und bringt alles zusammen, was wir lieben: Secondhand-Schätzchen, Retro-Funde, Schmuck, Fashion, Keramik, Deko &",
    "source": "Блошиные рынки (MFT)",
    "also_in": [
     "Блошиные рынки (MFT)"
@@ -8379,13 +8395,13 @@
    "date": "2026-12-19",
    "time": "",
    "end_date": "2026-12-19",
-   "venue": "D&uuml;sseldorf-Benrath Sch&uuml;tzenplatz",
+   "venue": "Düsseldorf-Benrath Schützenplatz",
    "address": "Bayreuther Straße  31, 40597, Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752967/details",
    "category": "рынок",
-   "description": "Der &uuml;ber die Stadtgrenzen bekannte Samstags-Tr&ouml;delmarkt auf dem Sch&uuml;tzenplatz erfreut sich seit Jahren gro&szlig;er Beliebtheit. Das ausgewogene Verh&auml;ltnis von Neuware und Tr&ouml;del abgerundet durch ein ausreichendes Gastronomieangebot l&auml;dt zum Bummeln und Verweilen ein. &",
+   "description": "Der über die Stadtgrenzen bekannte Samstags-Trödelmarkt auf dem Schützenplatz erfreut sich seit Jahren großer Beliebtheit. Das ausgewogene Verhältnis von Neuware und Trödel abgerundet durch ein ausreichendes Gastronomieangebot lädt zum Bummeln und Verweilen ein. &",
    "source": "Блошиные рынки (MFT)"
   },
   {
@@ -8409,13 +8425,13 @@
    "date": "2026-12-20",
    "time": "",
    "end_date": "2026-12-20",
-   "venue": "D&uuml;sseldorf Ikea",
+   "venue": "Düsseldorf Ikea",
    "address": "Oerschbachstraße 75 , 40589, Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://meine-flohmarkt-termine.de/melan-trodelmarkt-dusseldorf-ikea/23830630/details",
    "category": "рынок",
-   "description": "Wir freuen uns, euch unseren neuen Tr&ouml;delmarkt am IKEA D&uuml;sseldorf anzuk&uuml;ndigen.📍 IKEA D&uuml;sseldorfFreut euch auf zahlreiche H&auml;ndler mit einem abwechslungsreichen Angebot: Antikes, Vintage, Deko, Kleidung, Sammlerst&uuml;cke und viele weitere besondere Fundst&uuml;cke warten da",
+   "description": "Wir freuen uns, euch unseren neuen Trödelmarkt am IKEA Düsseldorf anzukündigen.📍 IKEA DüsseldorfFreut euch auf zahlreiche Händler mit einem abwechslungsreichen Angebot: Antikes, Vintage, Deko, Kleidung, Sammlerstücke und viele weitere besondere Fundstücke warten da",
    "source": "Блошиные рынки (MFT)"
   },
   {
@@ -8429,7 +8445,7 @@
    "price": "",
    "url": "https://meine-flohmarkt-termine.de/schallplattenborse-dusseldorf/23811922/details",
    "category": "рынок",
-   "description": "Der Boston Club &ouml;ffnet nun zum ersten Mal die T&uuml;ren zur D&uuml;sseldorfer Schallplatten- B&ouml;rse. Die B&ouml;rse ist ein Paradies f&uuml;r die wieder zahlreichen ,Vinylisten&rsquo;, die Fans echter Musik also, die sich noch die M&uuml;he machen, Tontr&auml;ger in die Hand zu nehmen und ",
+   "description": "Der Boston Club öffnet nun zum ersten Mal die Türen zur Düsseldorfer Schallplatten- Börse. Die Börse ist ein Paradies für die wieder zahlreichen ,Vinylisten’, die Fans echter Musik also, die sich noch die Mühe machen, Tonträger in die Hand zu nehmen und ",
    "source": "Блошиные рынки (MFT)"
   },
   {
@@ -8501,13 +8517,13 @@
    "date": "2027-01-02",
    "time": "",
    "end_date": "2027-01-02",
-   "venue": "D&uuml;sseldorf-Benrath Sch&uuml;tzenplatz",
+   "venue": "Düsseldorf-Benrath Schützenplatz",
    "address": "Bayreuther Straße  31, 40597, Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752969/details",
    "category": "рынок",
-   "description": "Der &uuml;ber die Stadtgrenzen bekannte Samstags-Tr&ouml;delmarkt auf dem Sch&uuml;tzenplatz erfreut sich seit Jahren gro&szlig;er Beliebtheit. Das ausgewogene Verh&auml;ltnis von Neuware und Tr&ouml;del abgerundet durch ein ausreichendes Gastronomieangebot l&auml;dt zum Bummeln und Verweilen ein. &",
+   "description": "Der über die Stadtgrenzen bekannte Samstags-Trödelmarkt auf dem Schützenplatz erfreut sich seit Jahren großer Beliebtheit. Das ausgewogene Verhältnis von Neuware und Trödel abgerundet durch ein ausreichendes Gastronomieangebot lädt zum Bummeln und Verweilen ein. &",
    "source": "Блошиные рынки (MFT)"
   },
   {
@@ -8583,7 +8599,7 @@
    "price": "",
    "url": "https://meine-flohmarkt-termine.de/mineralientage-dusseldorf/23810447/details",
    "category": "рынок",
-   "description": "Am 09. und 10. Januar 2027 verwandeln rund 50 Ausstellern die Eventhalle in der Classic Remise in D&uuml;sseldorf zu einer gro&szlig;en funkenden Schatzkiste an beiden Tagen von 11.00 bis 18.00 Uhr. Am Stand von Frank M&uuml;ller, Fa. Conny Kokot Schmuckdesign, ist es m&ouml;glich Edelsteine bestimm",
+   "description": "Am 09. und 10. Januar 2027 verwandeln rund 50 Ausstellern die Eventhalle in der Classic Remise in Düsseldorf zu einer großen funkenden Schatzkiste an beiden Tagen von 11.00 bis 18.00 Uhr. Am Stand von Frank Müller, Fa. Conny Kokot Schmuckdesign, ist es möglich Edelsteine bestimm",
    "source": "Блошиные рынки (MFT)"
   },
   {
@@ -8591,13 +8607,13 @@
    "date": "2027-01-09",
    "time": "",
    "end_date": "2027-01-09",
-   "venue": "D&uuml;sseldorf-Benrath Sch&uuml;tzenplatz",
+   "venue": "Düsseldorf-Benrath Schützenplatz",
    "address": "Bayreuther Straße  31, 40597, Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752970/details",
    "category": "рынок",
-   "description": "Der &uuml;ber die Stadtgrenzen bekannte Samstags-Tr&ouml;delmarkt auf dem Sch&uuml;tzenplatz erfreut sich seit Jahren gro&szlig;er Beliebtheit. Das ausgewogene Verh&auml;ltnis von Neuware und Tr&ouml;del abgerundet durch ein ausreichendes Gastronomieangebot l&auml;dt zum Bummeln und Verweilen ein. &",
+   "description": "Der über die Stadtgrenzen bekannte Samstags-Trödelmarkt auf dem Schützenplatz erfreut sich seit Jahren großer Beliebtheit. Das ausgewogene Verhältnis von Neuware und Trödel abgerundet durch ein ausreichendes Gastronomieangebot lädt zum Bummeln und Verweilen ein. &",
    "source": "Блошиные рынки (MFT)"
   },
   {
@@ -8627,7 +8643,7 @@
    "price": "",
    "url": "https://meine-flohmarkt-termine.de/mineralientage-dusseldorf/23810448/details",
    "category": "рынок",
-   "description": "Am 09. und 10. Januar 2027 verwandeln rund 50 Ausstellern die Eventhalle in der Classic Remise in D&uuml;sseldorf zu einer gro&szlig;en funkenden Schatzkiste an beiden Tagen von 11.00 bis 18.00 Uhr. Am Stand von Frank M&uuml;ller, Fa. Conny Kokot Schmuckdesign, ist es m&ouml;glich Edelsteine bestimm",
+   "description": "Am 09. und 10. Januar 2027 verwandeln rund 50 Ausstellern die Eventhalle in der Classic Remise in Düsseldorf zu einer großen funkenden Schatzkiste an beiden Tagen von 11.00 bis 18.00 Uhr. Am Stand von Frank Müller, Fa. Conny Kokot Schmuckdesign, ist es möglich Edelsteine bestimm",
    "source": "Блошиные рынки (MFT)"
   },
   {
@@ -8635,13 +8651,13 @@
    "date": "2027-01-10",
    "time": "",
    "end_date": "2027-01-10",
-   "venue": "METRO D&uuml;sseldorf",
+   "venue": "METRO Düsseldorf",
    "address": "Walter-Eucken-Straße, 40235, Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
    "url": "https://meine-flohmarkt-termine.de/radschlagermarkt-dusseldorf-an-der-metro/23858062/details",
    "category": "рынок",
-   "description": "Radschl&auml;germarkt D&uuml;sseldorf &ndash; Der Tr&ouml;delklassiker rund um die METRO 📍 Standort: Metro-Parkplatz, D&uuml;sseldorf 🗓️ An jedem zweiten Sonntag im Monat 🌐 Alle Infos &amp;amp; Anmeldung: www.radschlaegermarkt-duesseldorf.de Der Radschl&auml;germarkt ist D&uuml;sseldorfs traditionsr",
+   "description": "Radschlägermarkt Düsseldorf – Der Trödelklassiker rund um die METRO 📍 Standort: Metro-Parkplatz, Düsseldorf 🗓️ An jedem zweiten Sonntag im Monat 🌐 Alle Infos &amp; Anmeldung: www.radschlaegermarkt-duesseldorf.de Der Radschlägermarkt ist Düsseldorfs traditionsr",
    "source": "Блошиные рынки (MFT)"
   },
   {
@@ -8655,7 +8671,7 @@
    "price": "",
    "url": "https://meine-flohmarkt-termine.de/madelsflohmarkt-weiberkram-dusseldorf-rheinriff/23877125/details",
    "category": "рынок",
-   "description": "Spa&szlig;, Chillen, Sport und Shopping! Auf 9.000 Quadratmetern erwarten dich ein atemberaubender Beachclub, actiongeladene Sportangebote, erfrischende Drinks und jede Menge Vintage Fashion. Und das Beste? Ab sofort kannst du regelm&auml;&szlig;ig den Weiberkram M&auml;delsflohmarkt im RheinRiff er",
+   "description": "Spaß, Chillen, Sport und Shopping! Auf 9.000 Quadratmetern erwarten dich ein atemberaubender Beachclub, actiongeladene Sportangebote, erfrischende Drinks und jede Menge Vintage Fashion. Und das Beste? Ab sofort kannst du regelmäßig den Weiberkram Mädelsflohmarkt im RheinRiff er",
    "source": "Блошиные рынки (MFT)"
   },
   {
@@ -8829,6 +8845,7 @@
    "horizon_days": 400,
    "big": true,
    "also_in": [
+    "visitduesseldorf.de",
     "visitduesseldorf.de"
    ]
   },

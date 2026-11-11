@@ -1,6 +1,6 @@
 # События Дюссельдорфа
 
-Собрано 11.11.2026 09:08: 617 событий (из 838 найденных до фильтра и удаления дублей).
+Собрано 11.11.2026 16:12: 618 событий (из 819 найденных до фильтра и удаления дублей).
 
 
 ## Чт 06.03
@@ -25,12 +25,8 @@
 
 ## Ср 11.11
 
-- **Radu Darvas. Fotografien aus Siebenbürgen** — 10:00 · Stiftung Gerhart-Hauptmann-Haus · выставка — [ссылка](https://www.g-h-h.de/veranstaltung/ausstellung-wiedergutmachung-fotografien-aus-siebenbuergen-von-radu-darvas)
 - **Iran und wir. Über Glaube, Spaltung und gesellschaftliche Verantwortung.** — 10:00 · лекция — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
-- **K21 Sparda Lounge** — 11:00 · K21 · 💶 frei · veчеринка — [ссылка](https://www.kunstsammlung.de/de/calendar/k21-sparda-lounge)
-- **Ivan Geddert: Spatenprobe** — 11:00 · BLOOM · выставка — [ссылка](https://www.bloomduesseldorf.de/)
 - **Hoppeditz-Erwachen** — 11:11 · Marktplatz am Rathaus · событие — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
-- **Manfred Lenz und Achim Raven: Vom Bild zur Sprache und zurück** — 14:30 · Bürgerhaus Reisholz · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Projekt Echtzeit** — 15:00 · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Workshop Körper. Zeichnen. Kunst** — 18:30 · Hetjens – Deutsches Keramikmuseum · 💶 25 Euro pro Person · детям — [ссылка](https://www.duesseldorf.de/hetjens/workshops-und-fuehrungen/koerper-zeichnen-kunst)
 - **Melanie Raabe: Daisy - Und all deine Geheimnisse werden mir gehören** — 19:30 · Bolland & Böttcher - Ihre Buchhandlung OHG · лекция — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
@@ -65,11 +61,8 @@
 - **Alexandra Bircken: Silver Lining** — Langen Foundation · выставка — [ссылка](https://langenfoundation.de/ausstellungen/alexandra-bircken)
 - **Unter einem Himmel. 400 Jahre Götter, Menschen und Tiere in der japanischen Kunst** — Langen Foundation · выставка — [ссылка](https://langenfoundation.de/ausstellungen/unter-einem-himmel)
 - **Adolf Bierbrauer: "Das innere Gesicht auf Reisen"** — Maxhaus · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
-- **Bücherbasar in der Bibliothek** — Stiftung Gerhart-Hauptmann-Haus · рынок — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Eckhard Froeschlin - Aus der Zeit geätzt (Radierungen 1981 - 2026)** — Kultur Bahnhof Eller · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
-- **Farbwelten** — DRK „zentrum plus“ Friedrichstadt · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Julia Reisinger. Iniusta iustitia** — Kunsthalle Düsseldorf · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
-- **Düsseldorf 1941. Jahr der Eskalation** — Mahn- und Gedenkstätte Düsseldorf · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Sienna Maria Baumann: Declutter** — Künstlerverein Malkasten · выставка — [ссылка](https://malkasten.org/ausstellung/)
 - **Nagash Tarzyan: Heimatfarbe** — Künstlerverein Malkasten · выставка — [ссылка](https://malkasten.org/ausstellung/)
 - **Von der Landschaft zur Abstraktion** — TRONER Galerie · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
@@ -78,9 +71,7 @@
 - **Niki de Saint Phalle - Dream Machine** — Kunstpalast · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Jörg Immendorff** — Kunstpalast · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Asia Pop** — NRW-Forum · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
-- **Kaiserswerther Diakonie zeigt Werke von Walter Liggesmeyer** — K3 · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Leise rieselt der Schmäh - Wiener Kaffeehausgeschichten** — Roncalli’s Apollo-Varieté · театр — [ссылка](https://www.westticket.de/eventseries/4137510?affiliate=5VD)
-- **Playground. Ein Spielplatz im Museum** — K20 Kunstsammlung Nordrhein-Westfalen · выставка — [ссылка](https://shop.kunstsammlung.de/de/offers/a571)
 - **HYROX** — MERKUR SPIEL-ARENA · спорт — [ссылка](https://hyrox.com/event/hyrox-dusseldorf/)
 - **Spot on: 100 Jahre GeSoLei** — Kunstpalast · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Kom(m)ödchen Ensemble: Nö. Eine Entgleisung** — Kom(m)ödchen · театр — [ссылка](https://www.kommoedchen.de/spielplan/noe_eine_entgleisung/)
@@ -90,9 +81,9 @@
 
 ## Чт 12.11
 
+- **DAS NeinHorn** — 10:00 · D'haus Central · театр — [ссылка](https://www.westticket.de/eventseries/4198045?affiliate=5VD)
 - **Manfred Lenz und Achim Raven: Vom Bild zur Sprache und zurück** — 10:00 · Bürgerhaus Reisholz · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Radu Darvas. Fotografien aus Siebenbürgen** — 10:00 · Stiftung Gerhart-Hauptmann-Haus · выставка — [ссылка](https://www.g-h-h.de/veranstaltung/ausstellung-wiedergutmachung-fotografien-aus-siebenbuergen-von-radu-darvas)
-- **DAS NeinHorn** — 10:00 · D'haus Central · театр — [ссылка](https://www.westticket.de/eventseries/4198045?affiliate=5VD)
 - **Synology Solution Summit 2026** — 10:30 · Areal Böhler · событие — [ссылка](https://synology.zohobackstage.eu/SynologySolutionSummit2026#/buyTickets/selectTickets?lang=de)
 - **Kollektivkörper** — 17:00 · Johanna Ey Foundation · выставка — [ссылка](https://johanna-ey-foundation.de/)
 - **„Ich liebe meines Wesens Dunkelstunden“** — 17:30 · Maxhaus · лекция — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
@@ -115,16 +106,21 @@
 - **Back from Palermo: Frederic Bahr** — Atelier am Eck · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Liebeslügen - oder: Treue ist auch keine Lösung** — Theater an der Luegallee · театр — [ссылка](https://www.westticket.de/eventseries/4211689?affiliate=5VD)
 - **Inge Schmidt: bis dann, plastische Stücke und Zeichnungen** — basedonart · выставка — [ссылка](https://boa-basedonart.com/)
+- **Bücherbasar in der Bibliothek** — Stiftung Gerhart-Hauptmann-Haus · рынок — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **60 Jahre diplomatische Beziehungen zwischen Israel und Deutschland** — Rathaus · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
+- **Farbwelten** — DRK „zentrum plus“ Friedrichstadt · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
+- **Düsseldorf 1941. Jahr der Eskalation** — Mahn- und Gedenkstätte Düsseldorf · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Disney Der Glöckner von Notre Dame** — Capitol Theater · театр — [ссылка](https://www.westticket.de/eventseries/4053662?affiliate=5VD)
+- **Kaiserswerther Diakonie zeigt Werke von Walter Liggesmeyer** — K3 · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
+- **Playground. Ein Spielplatz im Museum** — K20 Kunstsammlung Nordrhein-Westfalen · выставка — [ссылка](https://shop.kunstsammlung.de/de/offers/a571)
 
 ## Пт 13.11
 
-- **Radu Darvas. Fotografien aus Siebenbürgen** — 10:00 · Stiftung Gerhart-Hauptmann-Haus · выставка — [ссылка](https://www.g-h-h.de/veranstaltung/ausstellung-wiedergutmachung-fotografien-aus-siebenbuergen-von-radu-darvas)
 - **DAS NeinHorn** — 10:00 · D'haus Central · театр — [ссылка](https://www.westticket.de/eventseries/4198045?affiliate=5VD)
+- **Radu Darvas. Fotografien aus Siebenbürgen** — 10:00 · Stiftung Gerhart-Hauptmann-Haus · выставка — [ссылка](https://www.g-h-h.de/veranstaltung/ausstellung-wiedergutmachung-fotografien-aus-siebenbuergen-von-radu-darvas)
 - **vielleicht_regen_: in_der_schwebe in_der_schwebe** — 10:00 · tanzhaus nrw · театр — [ссылка](https://tanzhaus-nrw.de/de/veranstaltung/2026/11/inderschwebe)
-- **Ivan Geddert: Spatenprobe** — 11:00 · BLOOM · выставка — [ссылка](https://www.bloomduesseldorf.de/)
 - **Kultur-Frühstück** — 11:00 · FFT Düsseldorf · событие — [ссылка](https://www.fft-duesseldorf.de/spielplan/kultur-fruehstueck)
+- **Ivan Geddert: Spatenprobe** — 11:00 · BLOOM · выставка — [ссылка](https://www.bloomduesseldorf.de/)
 - **Unlimited - Fantasie ohne Grenzen** — 11:00 · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **RE: Nature – rethink. reconnect. regenerate.** — 12:00 · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **The secret of now** — 15:00 · Wolf Stroetmann Galerie · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
@@ -169,8 +165,8 @@
 
 - **Volksgarten parkrun Düsseldorf** — 09:00 · Volksgarten · спорт — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Tag der offenen Tür am Heinrich-Hertz-Berufskolleg** — 10:00 · событие — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
-- **Ivan Geddert: Spatenprobe** — 11:00 · BLOOM · выставка — [ссылка](https://www.bloomduesseldorf.de/)
 - **The secret of now** — 11:00 · Wolf Stroetmann Galerie · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
+- **Ivan Geddert: Spatenprobe** — 11:00 · BLOOM · выставка — [ссылка](https://www.bloomduesseldorf.de/)
 - **Unlimited - Fantasie ohne Grenzen** — 11:00 · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Reggae Meetz Jazz** — 11:30 · Antik- und Trödelzelt am Aachener Platz · 💶 Eintritt frei · konzert — [ссылка](https://www.troedelmarkt-aachenerplatz.de/musikprogramm/2026-11-14-reggae-meetz-jazz/)
 - **Zukunft kann man lernen!** — 13:00 · Haus der Universität · лекция — [ссылка](https://www.fes.de/veranstaltungen/veranstaltungsdetail/291304)
@@ -200,7 +196,7 @@
 - **Workshop des Moduls „Wort“** — zakk · 💶 14,00 € · событие — [ссылка](https://www.zakk.de/event-detail?event=16319)
 - **OPERATION OLDSCHOOL V** — KLUB KULB · 💶 6.51 · событие — [ссылка](https://allevents.in/d%C3%BCsseldorf/operation-oldschool-v/100001999756577756)
 - **NACHTYARD - Der kreative Nachtmarkt in DÜSSELDORF** — RheinRiff · рынок — [ссылка](https://meine-flohmarkt-termine.de/nachtyard-der-kreative-nachtmarkt-in-dusseldorf/23826027/details)
-- **Trödelmarkt Düsseldorf Schützenplatz** — D&uuml;sseldorf-Benrath Sch&uuml;tzenplatz · рынок — [ссылка](https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752962/details)
+- **Trödelmarkt Düsseldorf Schützenplatz** — Düsseldorf-Benrath Schützenplatz · рынок — [ссылка](https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752962/details)
 - **Workshop des Moduls „Gestaltung“** — zakk · событие — [ссылка](https://www.zakk.de/event-detail?event=16317)
 - **Moneybrother** — zakk · концерт — [ссылка](https://www.zakk.de/event-detail?event=16254)
 - **Max Mutzke • Live Tour 2026 • 14.11.26 Düsseldorf** — Tonhalle Düsseldorf · концерт — [ссылка](https://allevents.in/dusseldorf/max-mutzke-•-live-tour-2026-•-141126-düsseldorf/200029215934856)
@@ -208,6 +204,7 @@
 - **Ruth Janßen: Das Frauencafé Hexenkessel** — BiBaBuZe · выставка — [ссылка](https://www.bibabuze.de)
 - **Die Mitternachtstür** — Deutsche Oper am Rhein · концерт — [ссылка](https://www.westticket.de/eventseries/4093430?affiliate=5VD)
 - **Endlich Schöner Wohnen. Farbige Öldrucke zwischen Kitsch und Kostbarkeit** — Feld-Haus Museum für Populäre Druckgrafik · выставка — [ссылка](https://clemens-sels-museum-neuss.de/ausstellungen/endlich-schoener-wohnen)
+- **Nachtflohmarkt Moonlight Market Düsseldorf** — Ulmenstraße 275, 40468 Düsseldorf, Germany · рынок — [ссылка](https://allevents.in/dusseldorf/nachtflohmarkt-moonlight-market-düsseldorf/200030299600341)
 - **Ayaka Terajima - Packed Space under the Moon** — выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 
 ## Вс 15.11
@@ -243,7 +240,6 @@
 - **History on Stage** — zakk · 💶 5,00 € · театр — [ссылка](https://www.zakk.de/event-detail?event=16443)
 - **Poesieschlachtpunktacht** — zakk · театр — [ссылка](https://www.zakk.de/event-detail?event=15566)
 - **Ghar Wali Diwali in Düsseldorf 2026 | Music, Culture & Celebration** — ELEGANCE Event Location · концерт — [ссылка](https://allevents.in/d%C3%BCsseldorf/ghar-wali-diwali-in-düsseldorf-2026-music-culture-and-celebration/100002004199937966)
-- **Candlelight: Sezen Aksu** — Event-Theater Schwanenhöfe · 💶 40.50 · событие — [ссылка](https://allevents.in/dusseldorf/candlelight-sezen-aksu/2700030035614854)
 - **Beste Freunde** — Clemens Sels Museum Neuss · выставка — [ссылка](https://clemens-sels-museum-neuss.de/ausstellungen/beste-freunde)
 
 ## Пн 16.11
@@ -289,6 +285,7 @@
 - **What is History all about? Dresden-Düsseldorfer Gespräche zur Gegenwart und Geschichte** — 19:00 · Haus der Universität · лекция — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Güner Balcı, Gönül Eğlence, Zeinab Herz und Dr. Lale Akgün: Heimatland** — 19:00 · FFT Düsseldorf · событие — [ссылка](https://t.rausgegangen.de/tickets/lesung-gesprach-heimatland-uber-freiheit-herkunft-und-den-ka)
 - **Mein Heine – Leoluca Orlando im Gespräch mit Miriam Koch** — 19:00 · Palais Wittgenstein · лекция — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
+- **Kinst zu Gast bei Conzen: Jedes Kind ist ein Künstler** — 19:00 · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **The Prodigy Düsseldorf Tickets** — 20:00 · Mitsubishi Electric Halle · 💶 370.00 · событие — [ссылка](https://allevents.in/d%C3%BCsseldorf/the-prodigy-düsseldorf-tickets/100029981801324)
 - **Kunst gegen Bares** — 20:00 · Theater an der Luegallee · театр — [ссылка](https://theaterluegallee.de/theaterkarten/hinzufuegen/?mode=notepad_add&event=7379)
 - **Moritz Hohl: Musst Du Wissen** — 20:00 · Savoy Theater · театр — [ссылка](https://www.westticket.de/eventseries/3799277?affiliate=5VD)
@@ -364,9 +361,9 @@
 - **Thimo Niesterok feat. Engelbert Wrobel** — 20:30 · Jazz-Schmiede Düsseldorf · концерт — [ссылка](https://www.jazz-schmiede.de/kaufen/313930/)
 - **Voices of Joy** — 20:30 · Kö-Bogen-Markt · рынок — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Candlelight: Tribut an Apache 207** — Palais Wittgenstein · 💶 35.00 · событие — [ссылка](https://allevents.in/dusseldorf/candlelight-tribut-an-apache-207/2700029838143834)
-- **Şevval Sam in Düsseldorf** — Club im Capitol-Theater · событие — [ссылка](https://allevents.in/dusseldorf/Şevval-sam-in-düsseldorf/3300030485619007)
 - **Candlelight: Tribut an Hans Zimmer** — Palais Wittgenstein · 💶 34.00 · событие — [ссылка](https://allevents.in/dusseldorf/candlelight-tribut-an-hans-zimmer/2700029248181506)
 - **The Winter Village auf der Königsallee** — Königsallee · markt — [ссылка](https://koenigsallee-duesseldorf.de/the-winter-village-auf-der-koenigsallee/)
+- **Şevval Sam in Düsseldorf** — Club im Capitol-Theater · событие — [ссылка](https://allevents.in/dusseldorf/Şevval-sam-in-düsseldorf/3300030485619007)
 - **Ritteressen Schloss Garath** — Schloss Garath - Rittersaal · событие — [ссылка](https://www.schloss-benrath-ritteressen.de/kartenbestellung)
 - **Weihnachtsmarkt Schloss Benrath** — Schloss Benrath · рынок — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Kasper und der Weihnachtsmann** — Puppentheater Helmholtzstraße · театр — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
@@ -407,9 +404,9 @@
 - **440Hz Klassik & Pop - Joris & MIKIS Takeover! Ensemble** — 21:00 · Robert-Schumann-Saal · концерт — [ссылка](https://www.westticket.de/eventseries/4132539?affiliate=5VD)
 - **The Pogues in Düsseldorf** — Stahlwerk · событие — [ссылка](https://allevents.in/dusseldorf/the-pogues-in-düsseldorf/3300029961004000)
 - **JORIS in Düsseldorf** — Robert-Schumann-Saal · событие — [ссылка](https://allevents.in/dusseldorf/joris-in-düsseldorf/3300030222688555)
-- **Moonlight Market – Düsseldorfs Nachtmarkt im Blumengroßmarkt** — Blumengro&szlig;markt · рынок — [ссылка](https://meine-flohmarkt-termine.de/moonlight-market-dusseldorfs-nachtmarkt-im-blumengrossmarkt/23840771/details)
-- **Der Mädelsflohmarkt @Blumengroßmarkt Düsseldorf - LATE NIGHT EDITION** — Blumengro&szlig;markt D&uuml;sseldorf · рынок — [ссылка](https://meine-flohmarkt-termine.de/der-madelsflohmarkt-at-blumengrossmarkt-dusseldorf-late-night-edition/23699502/details)
-- **Trödelmarkt Düsseldorf Schützenplatz** — D&uuml;sseldorf-Benrath Sch&uuml;tzenplatz · рынок — [ссылка](https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752963/details)
+- **Moonlight Market – Düsseldorfs Nachtmarkt im Blumengroßmarkt** — Blumengroßmarkt · рынок — [ссылка](https://meine-flohmarkt-termine.de/moonlight-market-dusseldorfs-nachtmarkt-im-blumengrossmarkt/23840771/details)
+- **Der Mädelsflohmarkt @Blumengroßmarkt Düsseldorf - LATE NIGHT EDITION** — Blumengroßmarkt Düsseldorf · рынок — [ссылка](https://meine-flohmarkt-termine.de/der-madelsflohmarkt-at-blumengrossmarkt-dusseldorf-late-night-edition/23699502/details)
+- **Trödelmarkt Düsseldorf Schützenplatz** — Düsseldorf-Benrath Schützenplatz · рынок — [ссылка](https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752963/details)
 - **TEKK WAR NIE WEG pres. 9 JAHRE PARKINZON & SIILLAA** — Tor 3 · событие — [ссылка](https://allevents.in/dusseldorf/tekk-war-nie-weg-pres-9-jahre-parkinzon-and-siillaa/200030148305401)
 
 ## Вс 22.11
@@ -465,9 +462,11 @@
 
 - **Kasperletheater** — 15:00 · Kö-Bogen-Markt · театр — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Projekt Echtzeit** — 15:00 · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
+- **Das Stahlröhrenwerk in Düsseldorf-Rath** — 17:30 · Bücherei Rath · лекция — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Charlotte Wiedemann: Die Kunst des Abschiednehmens** — 18:00 · Zentralbibliothek im KAP1 · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **„Die Rede vom göttlichen Nichts. Negative Theologie und der doppelte Sinn von Dekonstruktion“** — 18:00 · Maxhaus · лекция — [ссылка](https://www.zoon-podcast-week.de/)
 - **ZERO ist gut für dich - 60 Jahre Mitternachtsball im ZERO-Haus** — 18:00 · ZERO foundation · событие — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
+- **24. Filmfest Düsseldorf** — 18:00 · Heinrich-Heine-Universität Düsseldorf · фестиваль — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Das kleine Herbstkonzert** — 18:00 · концерт — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Workshop Körper. Zeichnen. Kunst** — 18:30 · Hetjens – Deutsches Keramikmuseum · 💶 25 Euro pro Person · детям — [ссылка](https://www.duesseldorf.de/hetjens/workshops-und-fuehrungen/koerper-zeichnen-kunst)
 - **Andersens Winter** — 19:00 · Bücherei Derendorf · театр — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
@@ -483,6 +482,7 @@
 
 - **DIE LEUCHTENDEN GÄRTEN** — 17:00 · Schloss Benrath · событие — [ссылка](https://www.schloss-benrath.de/veranstaltungs-detail/v/6556)
 - **Salon LaB K - Neue Bücher für die Kunst: "The Silver Moon" von Jana Zatvarnická** — 17:00 · выставка — [ссылка](https://www.eventbrite.com/e/salon-lab-k-neue-bucher-fur-die-kunst-the-silver-moon-von-jana-zatvarnicka-tickets-2003397020418?aff=oddtdtcreator)
+- **24. Filmfest Düsseldorf** — 18:00 · Heinrich-Heine-Universität Düsseldorf · фестиваль — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Mystiker:innen im Gespräch: Vernunft trifft Vision – die Mystik des Blaise Pascal** — 18:30 · Maxhaus · лекция — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **LESUNG | Bärbel van Alen: Schneiden. Färben. Sterben** — 19:00 · Schloss Benrath · театр — [ссылка](https://www.schloss-benrath.de/veranstaltungs-detail/v/6184)
 - **Urban Dance Sessions** — 19:00 · tanzhaus nrw · театр — [ссылка](https://tanzhaus-nrw.de/de/veranstaltung/2026/09/urban-dance-sessions)
@@ -505,6 +505,7 @@
 
 - **Afterwork - Weinprobe bei Futuro Si e.V.** — 16:30 · фестиваль — [ссылка](https://www.futuro-si.de)
 - **DIE LEUCHTENDEN GÄRTEN** — 17:00 · Schloss Benrath · событие — [ссылка](https://www.schloss-benrath.de/veranstaltungs-detail/v/6557)
+- **24. Filmfest Düsseldorf - Ampere** — 18:00 · фестиваль — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Schleuse Zwei: Barabend mit DJ-Set – Max Dax** — 18:30 · Schleuse Zwei im Bilker Bunker · вечеринка — [ссылка](https://www.bilkerbunker.de/schleuse-zwei)
 - **Prof. Dr. Manfred Kittel: Der Hitler-Stalin-Pakt in der deutschen Erinnerungskultur** — 19:00 · Stiftung Gerhart-Hauptmann-Haus · лекция — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Freiburg - DEG** — 19:30 · на выезде · спорт — [ссылка](https://www.deg-eishockey.de/)
@@ -558,9 +559,8 @@
 - **Anne Vogd: Gegendert wird was auf den Tisch kommt** — 20:00 · KaBARett Flin · театр — [ссылка](https://tickets.neanderticket.de/tickets/nr=630262;client=kabarettflin)
 - **Vincent Pinn Group** — 20:30 · Jazz-Schmiede Düsseldorf · концерт — [ссылка](https://www.jazz-schmiede.de/kaufen/313947/)
 - **Boxen: WBC World Heavyweight Championship** — 21:00 · MERKUR SPIEL-ARENA · спорт — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
-- **Trödel- & Kindersachenmarkt** — B&uuml;rgerhaus Reisholz · рынок — [ссылка](https://meine-flohmarkt-termine.de/trodel-kindersachenmarkt/23734462/details)
-- **ZAUBERSALON RHEINLAND: SimSalaBim | Die Magische DinnerShow | Saison 26/27** — Event-Theater Schwanenhöfe · 💶 6.95 · событие — [ссылка](https://allevents.in/d%C3%BCsseldorf/zaubersalon-rheinland-simsalabim-die-magische-dinnershow-saison-26-27/100001990099318634)
-- **Trödelmarkt Düsseldorf Schützenplatz** — D&uuml;sseldorf-Benrath Sch&uuml;tzenplatz · рынок — [ссылка](https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752964/details)
+- **Trödel- & Kindersachenmarkt** — Bürgerhaus Reisholz · рынок — [ссылка](https://meine-flohmarkt-termine.de/trodel-kindersachenmarkt/23734462/details)
+- **Trödelmarkt Düsseldorf Schützenplatz** — Düsseldorf-Benrath Schützenplatz · рынок — [ссылка](https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752964/details)
 - **SELIG /// The EPIC Years - Tour 2026 /// Düsseldorf** — zakk Düsseldorf · событие — [ссылка](https://allevents.in/dusseldorf/selig-the-epic-years-tour-2026-düsseldorf/200030233370508)
 - **Erbe gut - Alles gut** — Theater an der Kö · театр — [ссылка](https://www.westticket.de/eventseries/4205618?affiliate=5VD)
 - **5 Jahre AURA** — KIT - Kunst im Tunnel · выставка — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
@@ -591,7 +591,7 @@
 - **Fanny, Clara und Johannes – Freundschaften!** — 19:00 · Palais Wittgenstein · концерт — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **westcoast JAZZ** — 20:00 · Destille · концерт — [ссылка](https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender)
 - **Tom Gaebel & His Orchestra: A Swinging Christmas 2026** — 20:00 · Savoy Theater · концерт — [ссылка](https://www.westticket.de/eventseries/3952360?affiliate=5VD)
-- **Melan Trödelmarkt Düsseldorf Ikea** — D&uuml;sseldorf Ikea · рынок — [ссылка](https://meine-flohmarkt-termine.de/melan-trodelmarkt-dusseldorf-ikea/23830629/details)
+- **Melan Trödelmarkt Düsseldorf Ikea** — Düsseldorf Ikea · рынок — [ссылка](https://meine-flohmarkt-termine.de/melan-trodelmarkt-dusseldorf-ikea/23830629/details)
 
 ## Пн 30.11
 
@@ -641,19 +641,20 @@
 ## Пт 04.12
 
 - **DEG - Regensburg** — 19:30 · PSD Bank Dome · спорт — [ссылка](https://www.deg-eishockey.de/)
+- **DÜSSELDORF - Asian Sensation Party - 04. DEZEMBER 2026** — Rudas Studios Club · 💶 16.82 · вечеринка — [ссылка](https://allevents.in/d%C3%BCsseldorf/dÜsseldorf-asian-sensation-party-04-dezember-2026/100002004436880668)
 
 ## Сб 05.12
 
 - **Fortuna — SV Wehen Wiesbaden** — 14:00 · Merkur Spiel-Arena · спорт — [ссылка](https://www.f95.de/)
 - **FIESTA LATINA XMAS SPECIAL: Caribbean Feeling** — 18:00 · klOnkk · вечеринка — [ссылка](https://www.stadtstrand-duesseldorf.de/events/fiesta-latina-caribbean-feeling---karibisches-urlaubsfeelng-am-rheinufer-4)
 - **Kehlani Düsseldorf Tickets** — PSD Bank Dome · 💶 108.53 · событие — [ссылка](https://allevents.in/d%C3%BCsseldorf/kehlani-düsseldorf-tickets/100030518158624)
-- **Trödelmarkt Düsseldorf Schützenplatz** — D&uuml;sseldorf-Benrath Sch&uuml;tzenplatz · рынок — [ссылка](https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752965/details)
+- **Trödelmarkt Düsseldorf Schützenplatz** — Düsseldorf-Benrath Schützenplatz · рынок — [ссылка](https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752965/details)
 
 ## Вс 06.12
 
 - **BINGO AM STRAND - die Weihnachtsedition** — 14:00 · klOnkk · детям — [ссылка](https://www.stadtstrand-duesseldorf.de/events/bingo-am-strand---die-weihnachtsedition)
 - **Bad Nauheim - DEG** — 18:30 · на выезде · спорт — [ссылка](https://www.deg-eishockey.de/)
-- **Flohmarkt am Blumengroßmarkt Düsseldorf** — am Blumengro&szlig;markt · рынок — [ссылка](https://meine-flohmarkt-termine.de/flohmarkt-am-blumengrossmarkt-dusseldorf/23679623/details)
+- **Flohmarkt am Blumengroßmarkt Düsseldorf** — am Blumengroßmarkt · рынок — [ссылка](https://meine-flohmarkt-termine.de/flohmarkt-am-blumengrossmarkt-dusseldorf/23679623/details)
 - **Mädelsflohmarkt-Weiberkram Düsseldorf RheinRiff** — RheinRiff · рынок — [ссылка](https://meine-flohmarkt-termine.de/madelsflohmarkt-weiberkram-dusseldorf-rheinriff/23826032/details)
 
 ## Пн 07.12
@@ -678,14 +679,14 @@
 - **Viktoria Köln — Fortuna** — 14:00 · на выезде (Viktoria Köln) · спорт — [ссылка](https://www.f95.de/)
 - **MAMMA MIA I ABBA - KONZERT TOUR I DÜSSELDORF** — The Eight - Eventlocation & Club in Düsseldorf · 💶 29.93 · концерт — [ссылка](https://allevents.in/d%C3%BCsseldorf/mamma-mia-i-abba-konzert-tour-i-dÜsseldorf/100001965367241325)
 - **NACHTYARD - Der kreative Nachtmarkt in DÜSSELDORF** — RheinRiff · рынок — [ссылка](https://meine-flohmarkt-termine.de/nachtyard-der-kreative-nachtmarkt-in-dusseldorf/23826028/details)
-- **Trödelmarkt Düsseldorf Schützenplatz** — D&uuml;sseldorf-Benrath Sch&uuml;tzenplatz · рынок — [ссылка](https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752966/details)
+- **Trödelmarkt Düsseldorf Schützenplatz** — Düsseldorf-Benrath Schützenplatz · рынок — [ссылка](https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752966/details)
 
 ## Вс 13.12
 
 - **Radschlägermarkt Düsseldorf** — 11:00 · METRO Düsseldorf · markt — [ссылка](https://www.radschlaegermarkt-duesseldorf.de/)
-- **Radschlägermarkt Düsseldorf an der METRO** — METRO D&uuml;sseldorf · рынок — [ссылка](https://meine-flohmarkt-termine.de/radschlagermarkt-dusseldorf-an-der-metro/23858061/details)
-- **Trödelmarkt Düsseldorf Reisholz Kirmesplatz** — Kirmesplatz Reisholz Spangerstra&szlig;e · рынок — [ссылка](https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-reisholz-kirmesplatz/23706560/details)
-- **Mädchen Klamotte - Der Mädelsflohmarkt @Boston Club Düsseldorf** — Boston Club D&uuml;sseldorf · рынок — [ссылка](https://meine-flohmarkt-termine.de/madchen-klamotte-der-madelsflohmarkt-at-boston-club-dusseldorf/23844874/details)
+- **Radschlägermarkt Düsseldorf an der METRO** — METRO Düsseldorf · рынок — [ссылка](https://meine-flohmarkt-termine.de/radschlagermarkt-dusseldorf-an-der-metro/23858061/details)
+- **Trödelmarkt Düsseldorf Reisholz Kirmesplatz** — Kirmesplatz Reisholz Spangerstraße · рынок — [ссылка](https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-reisholz-kirmesplatz/23706560/details)
+- **Mädchen Klamotte - Der Mädelsflohmarkt @Boston Club Düsseldorf** — Boston Club Düsseldorf · рынок — [ссылка](https://meine-flohmarkt-termine.de/madchen-klamotte-der-madelsflohmarkt-at-boston-club-dusseldorf/23844874/details)
 
 ## Пт 18.12
 
@@ -695,13 +696,13 @@
 
 - **Fortuna — Rot-Weiss Essen** — 14:00 · Merkur Spiel-Arena · спорт — [ссылка](https://www.f95.de/)
 - **SATURDAY NIGHT PUBQUIZ im Klonkk - das Weihnachtsspecial** — 19:00 · klOnkk · детям — [ссылка](https://www.stadtstrand-duesseldorf.de/events/saturday-night-pubquiz-im-klonkk---das-weihnachtsspecial)
-- **Moonlight Market** — Blumengro&szlig;markt D&uuml;sseldorf · рынок — [ссылка](https://meine-flohmarkt-termine.de/moonlight-market/23786587/details)
-- **Trödelmarkt Düsseldorf Schützenplatz** — D&uuml;sseldorf-Benrath Sch&uuml;tzenplatz · рынок — [ссылка](https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752967/details)
+- **Moonlight Market** — Blumengroßmarkt Düsseldorf · рынок — [ссылка](https://meine-flohmarkt-termine.de/moonlight-market/23786587/details)
+- **Trödelmarkt Düsseldorf Schützenplatz** — Düsseldorf-Benrath Schützenplatz · рынок — [ссылка](https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752967/details)
 
 ## Вс 20.12
 
 - **Rosenheim - DEG** — 17:00 · на выезде · спорт — [ссылка](https://www.deg-eishockey.de/)
-- **Melan Trödelmarkt Düsseldorf Ikea** — D&uuml;sseldorf Ikea · рынок — [ссылка](https://meine-flohmarkt-termine.de/melan-trodelmarkt-dusseldorf-ikea/23830630/details)
+- **Melan Trödelmarkt Düsseldorf Ikea** — Düsseldorf Ikea · рынок — [ссылка](https://meine-flohmarkt-termine.de/melan-trodelmarkt-dusseldorf-ikea/23830630/details)
 - **Schallplattenbörse Düsseldorf** — Boston-Club · рынок — [ссылка](https://meine-flohmarkt-termine.de/schallplattenborse-dusseldorf/23811922/details)
 
 ## Ср 23.12
@@ -722,7 +723,7 @@
 
 ## Сб 02.01
 
-- **Trödelmarkt Düsseldorf Schützenplatz** — D&uuml;sseldorf-Benrath Sch&uuml;tzenplatz · рынок — [ссылка](https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752969/details)
+- **Trödelmarkt Düsseldorf Schützenplatz** — Düsseldorf-Benrath Schützenplatz · рынок — [ссылка](https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752969/details)
 
 ## Вс 03.01
 
@@ -740,13 +741,13 @@
 ## Сб 09.01
 
 - **Mineralientage Düsseldorf** — Eventhalle der Classic Remise · рынок — [ссылка](https://meine-flohmarkt-termine.de/mineralientage-dusseldorf/23810447/details)
-- **Trödelmarkt Düsseldorf Schützenplatz** — D&uuml;sseldorf-Benrath Sch&uuml;tzenplatz · рынок — [ссылка](https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752970/details)
+- **Trödelmarkt Düsseldorf Schützenplatz** — Düsseldorf-Benrath Schützenplatz · рынок — [ссылка](https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752970/details)
 
 ## Вс 10.01
 
 - **DEG - Freiburg** — 17:00 · PSD Bank Dome · спорт — [ссылка](https://www.deg-eishockey.de/)
 - **Mineralientage Düsseldorf** — Eventhalle der Classic Remise · рынок — [ссылка](https://meine-flohmarkt-termine.de/mineralientage-dusseldorf/23810448/details)
-- **Radschlägermarkt Düsseldorf an der METRO** — METRO D&uuml;sseldorf · рынок — [ссылка](https://meine-flohmarkt-termine.de/radschlagermarkt-dusseldorf-an-der-metro/23858062/details)
+- **Radschlägermarkt Düsseldorf an der METRO** — METRO Düsseldorf · рынок — [ссылка](https://meine-flohmarkt-termine.de/radschlagermarkt-dusseldorf-an-der-metro/23858062/details)
 - **Mädelsflohmarkt-Weiberkram Düsseldorf RheinRiff** — RheinRiff · рынок — [ссылка](https://meine-flohmarkt-termine.de/madelsflohmarkt-weiberkram-dusseldorf-rheinriff/23877125/details)
 
 ## Чт 04.02
@@ -857,13 +858,13 @@
 - … Stadtmuseum: в очередь нейросети
 - … Hetjens – Deutsches Keramikmuseum: в очередь нейросети
 - … Theatermuseum: в очередь нейросети
-- ✗ Gemini: gemini-3.5-flash-lite: HTTP 503 — оставлены прошлые данные (48 событий)
-- ✓ Gemini (gemini-3.5-flash-lite): 38 событий из Mr. Düsseldorf (RSS), Borussia Düsseldorf (настольный теннис), DEG (расписание), Großveranstaltungen (город), Rheinkirmes, Скачки Grafenberg, Полиция Дюссельдорфа (пресс-релизы)
-- ✓ Gemini (gemini-3.5-flash-lite): 0 событий из Пресс-служба города, Kunstpalast, Kunstsammlung NRW (K20/K21), NRW-Forum, Aquazoo Löbbecke, Rheinbahn, Fortuna (kicker)
-- ✓ Gemini (gemini-3.5-flash-lite): 23 событий из Kunstsammlung NRW: календарь, KIT – Kunst im Tunnel, Kunsthalle Düsseldorf, Schloss Benrath, Stadtmuseum, Hetjens – Deutsches Keramikmuseum, Theatermuseum
+- ✗ Gemini: gemini-3.5-flash-lite: HTTP 503 — оставлены прошлые данные (32 событий)
+- ✗ Gemini: gemini-3.5-flash-lite: HTTP 503 — оставлены прошлые данные (16 событий)
+- ✗ Gemini: gemini-3.5-flash-lite: HTTP 503 — оставлены прошлые данные (0 событий)
+- ✗ Gemini: gemini-3.5-flash-lite: HTTP 503 — оставлены прошлые данные (19 событий)
 - ✓ Ежегодные события (annual.json)
 - ✓ Autobahn: 7 перекрытий в радиусе 15 км
-- ✓ Visit Düsseldorf (toubiz): 392 событий, 455 записей на 21 дн. (пропущено экскурсий 61, дальше 20 км 0)
+- ✓ Visit Düsseldorf (toubiz): 396 событий, 457 записей на 21 дн. (пропущено экскурсий 61, дальше 20 км 0)
 - ✓ DEG (iCal): 52 матчей
 - ✓ Fortuna (OpenLigaDB, сезон 2026): 39 матчей — 3. Лига, Кубок Германии
 - · Доступные модели Flash: gemini-2.5-flash, gemini-2.5-flash-image, gemini-2.5-flash-lite, gemini-2.5-flash-native-audio-latest, gemini-2.5-flash-native-audio-preview-09-2025, gemini-2.5-flash-native-audio-preview-12-2025, gemini-2.5-flash-preview-tts, gemini-3-flash-preview, gemini-3.1-flash-image, gemini-3.1-flash-image-preview, gemini-3.1-flash-lite, gemini-3.1-flash-lite-image, gemini-3.1-flash-lite-preview, gemini-3.1-flash-live-preview, gemini-3.1-flash-tts-preview, gemini-3.5-flash, gemini-3.5-flash-lite, gemini-3.6-flash, gemini-3.7-flash, gemini-3.8-flash, gemini-3.8-flash-lite-tts, gemini-3.8-flash-tts, gemini-flash-latest, gemini-flash-lite-latest, gemini-omni-1.1-flash, gemini-omni-1.2-flash, gemini-omni-flash-preview
