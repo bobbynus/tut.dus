@@ -1,0 +1,11 @@
+https://pixabay.com/music/search/?order=ec
+https://pixabay.com/music/search/trending/
+https://pixabay.com/api/?key=&q=music
+https://ccmixter.org/api/query?f=json&limit=3&sort=rank&tags=instrumental&sinced=2026-08-01
+https://api.openverse.org/v1/audio/?q=upbeat%20instrumental&license_type=commercial&page_size=3
+https://api.jamendo.com/v3.0/tracks/?client_id=x&limit=1
+https://freemusicarchive.org/genre/Instrumental/
+https://www.chosic.com/free-music/all/
+https://uppbeat.io/browse/music/trending
+https://mixkit.co/free-stock-music/
+https://incompetech.com/music/royalty-free/collections.php
