@@ -5,11 +5,11 @@
 в соцсетях, бесплатно и без указания автора. Страницы настроений Mixkit отсортированы по популярности —
 берём самые популярные треки, которых у нас ещё нет: так музыка остаётся «в тренде» среди свободной.
 
-Каждый трек обрезается до 100 секунд (сторис и рилсы короче), выравнивается по громкости
+Каждый трек обрезается до 80 секунд (96 кбит/с, ~1 МБ) (сторис и рилсы короче), выравнивается по громкости
 и кладётся в library/music/<настроение>-mixkit-<id>.mp3; описание — в library/music.json.
 Чтобы репозиторий не рос, в библиотеке держим не больше MAX_TRACKS: лишние — самые давно не звучавшие
 старые треки — удаляются из рабочей копии.
-Запуск: fetch.py [--per 2]   (--per — сколько новых треков на настроение)
+Запуск: fetch.py [--per 1]   (--per — сколько новых треков на настроение)
 """
 import html, json, re, subprocess, sys, urllib.request
 from datetime import date
@@ -26,10 +26,10 @@ MOODS = {"upbeat": ["mood/upbeat/", "mood/happy/", "pop/"],
          "calm": ["mood/relaxing/", "mood/calm/", "tag/lo-fi/", "mood/chill/"],
          "night": ["jazz/", "mood/dreamy/", "tag/ambient/"],
          "epic": ["cinematic/", "mood/epic/"]}
-SKIP = re.compile(r"christmas|xmas|halloween|horror|scary|sad|funeral|wedding", re.I)  # не на каждый день
+SKIP = re.compile(r"christmas|xmas|halloween|horror|scary|fright|creepy|spooky|zombie|sad|funeral|wedding", re.I)  # не на каждый день
 SEASONAL = re.compile(r"christmas|xmas|holiday|winter|snow|jingle", re.I)
 MAX_TRACKS = 30
-CLIP = 100
+CLIP = 80   # сторис: до ~68 с музыки подряд, рилс — до 50 с
 
 
 def get(url):
@@ -94,7 +94,7 @@ def main(per=2):
                     print(f"  · {title}: короче 45 с"); continue
                 subprocess.run(["ffmpeg", "-nostdin", "-loglevel", "error", "-y", "-i", str(raw), "-t", str(CLIP),
                                 "-af", f"loudnorm=I=-16:TP=-1.5:LRA=11,afade=t=out:st={CLIP - 3}:d=3",
-                                "-ac", "2", "-b:a", "128k", "-map_metadata", "-1", str(library.DIR / name)], check=True)
+                                "-ac", "2", "-b:a", "96k", "-map_metadata", "-1", str(library.DIR / name)], check=True)
             except Exception as e:
                 print(f"  ✗ {title}: {e}"); continue
             finally:
@@ -125,4 +125,4 @@ def prune(cat):
 
 
 if __name__ == "__main__":
-    main(int(sys.argv[sys.argv.index("--per") + 1]) if "--per" in sys.argv else 2)
+    main(int(sys.argv[sys.argv.index("--per") + 1]) if "--per" in sys.argv else 1)

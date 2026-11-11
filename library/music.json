@@ -249,22 +249,5 @@
   "rank": 1.0,
   "added": "2026-11-11",
   "attribution": false
- },
- "epic-mixkit-871.mp3": {
-  "source": "mixkit",
-  "source_id": "mixkit-871",
-  "title": "Fright Night",
-  "author": "Michael Ramir C.",
-  "genres": [
-   "Film Score",
-   "Dramatic",
-   "Mysterious",
-   "Percussion"
-  ],
-  "license": "Mixkit Free License (без указания автора)",
-  "page": "https://mixkit.co/free-stock-music/",
-  "rank": 0.97,
-  "added": "2026-11-11",
-  "attribution": false
  }
 }

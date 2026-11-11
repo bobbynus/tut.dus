@@ -1,7 +1,7 @@
 name: Music
 
 # Свежая бесплатная музыка для сторис и рилсов (Mixkit, самые популярные треки по настроениям).
-# Раз в неделю добирает по 2 новых трека на настроение; probe — разведка источников.
+# Раз в неделю добирает по 1 новому треку на настроение (~4 МБ в неделю); probe — разведка источников.
 on:
   schedule:
     - cron: "17 4 * * 1"   # понедельник утром
@@ -12,7 +12,7 @@ on:
         default: "fetch"
       per:
         description: "Сколько новых треков на настроение"
-        default: "2"
+        default: "1"
 
 permissions:
   contents: write
@@ -34,7 +34,7 @@ jobs:
       - if: inputs.mode != 'probe'
         run: |
           bash tools/apt.sh ffmpeg
-          python3 tools/music/fetch.py --per "${{ inputs.per || '2' }}"
+          python3 tools/music/fetch.py --per "${{ inputs.per || '1' }}"
       - if: inputs.mode != 'probe'
         run: |
           if [ -n "$(git status --porcelain library)" ]; then
