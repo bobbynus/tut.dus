@@ -19,7 +19,7 @@ permissions:
   issues: write
 
 concurrency:
-  group: events-collect
+  group: music
 
 jobs:
   music:
