@@ -29,7 +29,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: Install tools
         if: inputs.mode != 'ping'
-        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg imagemagick >/dev/null
+        run: bash tools/apt.sh ffmpeg imagemagick
       - name: Ping
         if: inputs.mode == 'ping'
         env:

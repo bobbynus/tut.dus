@@ -22,7 +22,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Install ImageMagick
-        run: sudo apt-get update -qq && sudo apt-get install -y -qq imagemagick >/dev/null
+        run: bash tools/apt.sh imagemagick
       - name: Fetch
         env:
           TOPICS: ${{ inputs.topics }}

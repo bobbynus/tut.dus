@@ -24,13 +24,16 @@ concurrency:
 jobs:
   music:
     runs-on: ubuntu-24.04  # закреплено: на 26.04 Playwright не ставится (октябрь 2026)
+    timeout-minutes: 30
+    env:
+      PYTHONUNBUFFERED: "1"
     steps:
       - uses: actions/checkout@v4
       - if: inputs.mode == 'probe'
         run: python3 tools/music/probe.py tools/music/probe.txt
       - if: inputs.mode != 'probe'
         run: |
-          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
+          bash tools/apt.sh ffmpeg
           python3 tools/music/fetch.py --per "${{ inputs.per || '2' }}"
       - if: inputs.mode != 'probe'
         run: |

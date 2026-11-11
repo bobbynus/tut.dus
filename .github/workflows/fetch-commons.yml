@@ -25,7 +25,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Install ffmpeg
-        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
+        run: bash tools/apt.sh ffmpeg
       - name: Search and download
         env:
           QUERY: ${{ inputs.query }}
