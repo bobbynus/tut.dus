@@ -1,0 +1,60 @@
+{
+ "list": [
+  {
+   "time": "10:00",
+   "title": "Детский спектакль DAS NeinHorn",
+   "place": "D'haus Central"
+  },
+  {
+   "time": "11:00",
+   "title": "Культурный завтрак в FFT",
+   "place": "FFT Düsseldorf"
+  },
+  {
+   "time": "18:15",
+   "title": "Арт-йога в Kunstpalast",
+   "place": "Kunstpalast"
+  },
+  {
+   "time": "19:00",
+   "title": "Вечер с DJ-сетом Bufiman",
+   "place": "Schleuse Zwei"
+  },
+  {
+   "time": "20:00",
+   "title": "Фортепианный концерт Hayato Sumino",
+   "place": "Tonhalle Düsseldorf"
+  },
+  {
+   "time": "",
+   "title": "Зимний каток Kö on Ice",
+   "place": "Königsallee"
+  }
+ ],
+ "highlights": [
+  {
+   "title": "Культурный завтрак в FFT",
+   "text": "Загляните за кулисы свободного театра и пообщайтесь с единомышленниками.",
+   "time": "11:00",
+   "place": "FFT Düsseldorf",
+   "price": "бесплатно",
+   "tag": "бесплатно"
+  },
+  {
+   "title": "Концерт Hayato Sumino",
+   "text": "Японский пианист исполнит произведения Шопена и собственные сочинения.",
+   "time": "20:00",
+   "place": "Tonhalle Düsseldorf",
+   "price": "",
+   "tag": "концерт"
+  },
+  {
+   "title": "Зимний каток Kö on Ice",
+   "text": "Катание на коньках, айсшток и праздничная атмосфера на Königsallee.",
+   "time": "",
+   "place": "Königsallee",
+   "price": "",
+   "tag": "рынок"
+  }
+ ]
+}
