@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-12T09:08",
- "count": 613,
+ "generated_at": "2026-11-12T16:51",
+ "count": 616,
  "events": [
   {
    "title": "A44:  Düsseldorf -> Essen",
@@ -153,20 +153,6 @@
    "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
    "category": "выставка",
    "description": "Einzelausstellung „Pareidolie“ der Künstlerin Naomie Kremer in Düsseldorf!",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-12",
-   "time": "10:00",
-   "end_date": ""
-  },
-  {
-   "title": "Manfred Lenz und Achim Raven: Vom Bild zur Sprache und zurück",
-   "venue": "Bürgerhaus Reisholz",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Die beiden Düsseldorfer Künstler Manfred Lenz und Achim Raven interessiert das FRAGWÜRDIGE im wörtlichen, aber auch im übertragenen Sinne, das Ungewisse, Zweifelhafte, Doppeldeutige.",
    "source": "Visit Düsseldorf",
    "date": "2026-11-12",
    "time": "10:00",
@@ -766,20 +752,6 @@
    "end_date": "2027-12-30"
   },
   {
-   "title": "Der Glas-Chronist - Otfried Reichmann und \"seine Hött\"",
-   "venue": "Café Mittendrin, Gemeindezentrum Ev. Kirchengemeinde Gerresheim",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Seit 1065 ist die Heyestraße in Quellen belegt, aber erst mit der Gründung der Glashütte 1864 gewann sie an Bedeutung. Die Historie der heutigen Heyestraße ist voller kleiner Geschichten.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-12",
-   "time": "",
-   "end_date": "2026-11-23"
-  },
-  {
    "title": "Alexandra Bircken: Silver Lining",
    "venue": "Langen Foundation",
    "address": "",
@@ -864,34 +836,6 @@
    "end_date": "2026-12-13"
   },
   {
-   "title": "60 Jahre diplomatische Beziehungen zwischen Israel und Deutschland",
-   "venue": "Rathaus",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Die Verbindungen zwischen Deutschland und Israel sind heute vielfältig und stark: durch Städtepartnerschaften, Kultur, Sport, Tourismus und wirtschaftliche Zusammenarbeit.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-12",
-   "time": "",
-   "end_date": "2026-11-30"
-  },
-  {
-   "title": "Farbwelten",
-   "venue": "DRK „zentrum plus“ Friedrichstadt",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Farbwelten sind mehr als Farben: Sie übermitteln Gefühle und Stimmungen und entspringen dem Inneren – wie die Worte eines Gedichtes.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-12",
-   "time": "",
-   "end_date": "2027-02-26"
-  },
-  {
    "title": "Julia Reisinger. Iniusta iustitia",
    "venue": "Kunsthalle Düsseldorf",
    "address": "",
@@ -904,20 +848,6 @@
    "date": "2026-11-12",
    "time": "",
    "end_date": "2027-01-17"
-  },
-  {
-   "title": "Düsseldorf 1941. Jahr der Eskalation",
-   "venue": "Mahn- und Gedenkstätte Düsseldorf",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Die Mahn- und Gedenkstätte zeigt ab Dienstag, 3. November 2026, ihre neue Sonderausstellung \"Düsseldorf 1941. Jahr der Eskalation\".",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-12",
-   "time": "",
-   "end_date": "2027-08-28"
   },
   {
    "title": "Sienna Maria Baumann: Declutter",
@@ -1046,20 +976,6 @@
    "end_date": "2027-05-23"
   },
   {
-   "title": "Kaiserswerther Diakonie zeigt Werke von Walter Liggesmeyer",
-   "venue": "K3",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Die E.ON Art Collection übergibt der Kaiserswerther Diakonie 45 Gemälde von Walter Liggesmeyer (1938–2017).",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-12",
-   "time": "",
-   "end_date": "2026-12-31"
-  },
-  {
    "title": "Leise rieselt der Schmäh - Wiener Kaffeehausgeschichten",
    "venue": "Roncalli’s Apollo-Varieté",
    "address": "",
@@ -1072,20 +988,6 @@
    "date": "2026-11-12",
    "time": "",
    "end_date": "2027-01-10"
-  },
-  {
-   "title": "Playground. Ein Spielplatz im Museum",
-   "venue": "K20 Kunstsammlung Nordrhein-Westfalen",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://shop.kunstsammlung.de/de/offers/a571",
-   "category": "выставка",
-   "description": "Die Ausstellung „Playground“ lädt Kinder dazu ein, zu berühren, zu klettern, zu rennen und ihrer Fantasie freien Lauf zu lassen – in einer träumerischen Landschaft, die wie aus einer anderen Welt wirkt.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-12",
-   "time": "",
-   "end_date": "2027-07-18"
   },
   {
    "title": "HYROX",
@@ -1678,6 +1580,20 @@
    "end_date": "2026-11-28"
   },
   {
+   "title": "Der Glas-Chronist - Otfried Reichmann und \"seine Hött\"",
+   "venue": "Café Mittendrin, Gemeindezentrum Ev. Kirchengemeinde Gerresheim",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Seit 1065 ist die Heyestraße in Quellen belegt, aber erst mit der Gründung der Glashütte 1864 gewann sie an Bedeutung. Die Historie der heutigen Heyestraße ist voller kleiner Geschichten.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-13",
+   "time": "",
+   "end_date": "2026-11-23"
+  },
+  {
    "title": "Max Frintrop: Vorstellungsraum",
    "venue": "Bilker Bunker",
    "address": "",
@@ -1718,6 +1634,76 @@
    "date": "2026-11-13",
    "time": "",
    "end_date": "2027-04-11"
+  },
+  {
+   "title": "60 Jahre diplomatische Beziehungen zwischen Israel und Deutschland",
+   "venue": "Rathaus",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Die Verbindungen zwischen Deutschland und Israel sind heute vielfältig und stark: durch Städtepartnerschaften, Kultur, Sport, Tourismus und wirtschaftliche Zusammenarbeit.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-13",
+   "time": "",
+   "end_date": "2026-11-30"
+  },
+  {
+   "title": "Farbwelten",
+   "venue": "DRK „zentrum plus“ Friedrichstadt",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Farbwelten sind mehr als Farben: Sie übermitteln Gefühle und Stimmungen und entspringen dem Inneren – wie die Worte eines Gedichtes.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-13",
+   "time": "",
+   "end_date": "2027-02-26"
+  },
+  {
+   "title": "Düsseldorf 1941. Jahr der Eskalation",
+   "venue": "Mahn- und Gedenkstätte Düsseldorf",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Die Mahn- und Gedenkstätte zeigt ab Dienstag, 3. November 2026, ihre neue Sonderausstellung \"Düsseldorf 1941. Jahr der Eskalation\".",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-13",
+   "time": "",
+   "end_date": "2027-08-28"
+  },
+  {
+   "title": "Kaiserswerther Diakonie zeigt Werke von Walter Liggesmeyer",
+   "venue": "K3",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Die E.ON Art Collection übergibt der Kaiserswerther Diakonie 45 Gemälde von Walter Liggesmeyer (1938–2017).",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-13",
+   "time": "",
+   "end_date": "2026-12-31"
+  },
+  {
+   "title": "Playground. Ein Spielplatz im Museum",
+   "venue": "K20 Kunstsammlung Nordrhein-Westfalen",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://shop.kunstsammlung.de/de/offers/a571",
+   "category": "выставка",
+   "description": "Die Ausstellung „Playground“ lädt Kinder dazu ein, zu berühren, zu klettern, zu rennen und ihrer Fantasie freien Lauf zu lassen – in einer träumerischen Landschaft, die wie aus einer anderen Welt wirkt.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-13",
+   "time": "",
+   "end_date": "2027-07-18"
   },
   {
    "title": "Ballett am Rhein: Forsythe/Eyal",
@@ -2932,6 +2918,7 @@
    "description": "Der Düsseldorfer Poetry Slam im zakk",
    "source": "zakk",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf",
     "Visit Düsseldorf",
     "Visit Düsseldorf",
@@ -4464,23 +4451,6 @@
    ]
   },
   {
-   "title": "Candlelight: Tribut an Hans Zimmer",
-   "date": "2026-11-20",
-   "time": "",
-   "end_date": "2027-03-27",
-   "venue": "Palais Wittgenstein",
-   "address": "Bilker Straße 7-9, Düsseldorf-Stadtbezirk 1// 40213, Dusseldorf",
-   "locality": "Dusseldorf",
-   "price": "34.00",
-   "url": "https://allevents.in/dusseldorf/candlelight-tribut-an-hans-zimmer/2700029248181506",
-   "category": "событие",
-   "description": "",
-   "source": "allevents: все",
-   "also_in": [
-    "allevents: все"
-   ]
-  },
-  {
    "title": "The Winter Village auf der Königsallee",
    "date": "2026-11-20",
    "time": "",
@@ -4494,6 +4464,7 @@
    "description": "Die Königsallee verwandelt sich zur Weihnachtszeit in eine Winterlandschaft aus weißen Glascontainern, gemütlichen Hütten und Genussstationen mit stimmungsvoller Beleuchtung.",
    "source": "Mr. Düsseldorf (RSS)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf",
     "Visit Düsseldorf",
     "Visit Düsseldorf"
@@ -4515,6 +4486,23 @@
    "also_in": [
     "allevents: все",
     "allevents: живая музыка"
+   ]
+  },
+  {
+   "title": "Candlelight: Tribut an Hans Zimmer",
+   "date": "2026-11-20",
+   "time": "",
+   "end_date": "",
+   "venue": "Palais Wittgenstein",
+   "address": "Bilker Straße 7-9, Düsseldorf-Stadtbezirk 1// 40213, Dusseldorf",
+   "locality": "Dusseldorf",
+   "price": "34.00",
+   "url": "https://allevents.in/dusseldorf/candlelight-tribut-an-hans-zimmer/2700029248181506",
+   "category": "событие",
+   "description": "",
+   "source": "allevents: все",
+   "also_in": [
+    "allevents: все"
    ]
   },
   {
@@ -4744,6 +4732,20 @@
    "end_date": ""
   },
   {
+   "title": "Open House Art",
+   "venue": "",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Ateliergemeinschaft 303 öffnet ihre Türen - 14 Kunstschaffende geben Einblick in ihre kreative Arbeitswelt.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-21",
+   "time": "14:00",
+   "end_date": ""
+  },
+  {
    "title": "The AR Gang Show 2026",
    "venue": "Mitsubishi Electric HALLE",
    "address": "",
@@ -4864,6 +4866,20 @@
    "url": "https://www.bilkerbunker.de/schleuse-zwei",
    "category": "вечеринка",
    "description": ".",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-21",
+   "time": "19:00",
+   "end_date": ""
+  },
+  {
+   "title": "1. Landeskonzert Deutscher Tonkünstlerverband (DTKV) NRW",
+   "venue": "Palais Wittgenstein",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "концерт",
+   "description": "1. Landeskonzert der DTKV NRW mit musikpädagogischem Schwerpunkt und jugendlichen internationalen und nationalen Preisträger:innen",
    "source": "Visit Düsseldorf",
    "date": "2026-11-21",
    "time": "19:00",
@@ -5010,6 +5026,23 @@
    "end_date": ""
   },
   {
+   "title": "Moonlight Market – Düsseldorfs Nachtmarkt im Blumengroßmarkt",
+   "date": "2026-11-21",
+   "time": "",
+   "end_date": "2026-11-21",
+   "venue": "Blumengroßmarkt",
+   "address": "Ulmenstraße 275, 40468, Düsseldorf",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://meine-flohmarkt-termine.de/moonlight-market-dusseldorfs-nachtmarkt-im-blumengrossmarkt/23881262/details",
+   "category": "рынок",
+   "description": "Was dich erwartet Nacht der Künste Spezial - Eine Stunde länger geöffnet (bis 00:00 Uhr) Der Moonlight Market ist kein klassischer Markt. Es ist ein Nacht-Event mit Marktatmosphäre: gute Vibes, spannende Stände, neue Lieblingsstücke – und zwischendurch immer was L",
+   "source": "Блошиные рынки (MFT)",
+   "also_in": [
+    "Блошиные рынки (MFT)"
+   ]
+  },
+  {
    "title": "The Pogues in Düsseldorf",
    "date": "2026-11-21",
    "time": "",
@@ -5041,23 +5074,6 @@
    "source": "allevents: все",
    "also_in": [
     "allevents: все"
-   ]
-  },
-  {
-   "title": "Moonlight Market – Düsseldorfs Nachtmarkt im Blumengroßmarkt",
-   "date": "2026-11-21",
-   "time": "",
-   "end_date": "2026-11-21",
-   "venue": "Blumengroßmarkt",
-   "address": "Ulmenstraße 275, 40468, Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://meine-flohmarkt-termine.de/moonlight-market-dusseldorfs-nachtmarkt-im-blumengrossmarkt/23840771/details",
-   "category": "рынок",
-   "description": "Was dich erwartet Nacht der Künste Spezial - Eine Stunde länger geöffnet (bis 00:00 Uhr) Der Moonlight Market ist kein klassischer Markt. Es ist ein Nacht-Event mit Marktatmosphäre: gute Vibes, spannende Stände, neue Lieblingsstücke – und zwischendurch immer was L",
-   "source": "Блошиные рынки (MFT)",
-   "also_in": [
-    "Блошиные рынки (MFT)"
    ]
   },
   {
@@ -5414,6 +5430,22 @@
    "date": "2026-11-22",
    "time": "20:00",
    "end_date": ""
+  },
+  {
+   "title": "A44:  Reichswaldallee (aus Richtung Reichswaldallee) nach A44",
+   "date": "2026-11-23",
+   "time": "07:00",
+   "end_date": "2026-12-04",
+   "end_time": "16:00",
+   "venue": "A44 Schallschutzarbeiten Sperrung Einfahrt Reichswaldallee",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.autobahn.de/",
+   "category": "важное",
+   "description": "Zeitraum dieser Bauphase: Beginn: 23.11.26 um 07:00 Uhr Ende: 04.12.26 um 16:00 Uhr (Ende der Gesamtmaßnahme: 04.12.26) Von Auffahrt auf die A44: Reichswaldallee (aus Richtung Reichswaldallee) nach A44: Düsseldorf -> Essen, zwischen AK Düss",
+   "source": "Autobahn GmbH",
+   "traffic": true
   },
   {
    "title": "David Rolland: Hit Hip Pop Classic Parade",
@@ -5951,6 +5983,7 @@
    "source": "Schloss Benrath",
    "horizon_days": 21,
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -6048,6 +6081,20 @@
    "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
    "category": "концерт",
    "description": "In ihrem Liederabend spüren Irene Kurka (Sopran), Martin Wistinghausen (Bass) und Frederike Möller (Klavier) Musik nach, die keine »l‘art pour l‘art« ist, sondern den Kampf um Gerechtigkeit deklariert.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-26",
+   "time": "19:00",
+   "end_date": ""
+  },
+  {
+   "title": "Jüdische Klänge mit Lea Kalisch & Rabbi T",
+   "venue": "Jüdische Gemeinde Düsseldorf",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "концерт",
+   "description": "Lea Kalisch & Rabbi T kreieren ein musikalisches Feuerwerk, das jüdische Musik neu zum Leben erweckt.",
    "source": "Visit Düsseldorf",
    "date": "2026-11-26",
    "time": "19:00",
@@ -6949,6 +6996,23 @@
    "source": "Блошиные рынки (MFT)",
    "also_in": [
     "Visit Düsseldorf"
+   ]
+  },
+  {
+   "title": "ZAUBERSALON RHEINLAND: SimSalaBim | Die Magische DinnerShow | Saison 26/27",
+   "date": "2026-11-28",
+   "time": "",
+   "end_date": "",
+   "venue": "Event-Theater Schwanenhöfe",
+   "address": "Erkrather Straße 234b, Düsseldorf",
+   "locality": "Düsseldorf",
+   "price": "6.95",
+   "url": "https://allevents.in/d%C3%BCsseldorf/zaubersalon-rheinland-simsalabim-die-magische-dinnershow-saison-26-27/100001990099318634",
+   "category": "событие",
+   "description": "",
+   "source": "allevents: все",
+   "also_in": [
+    "allevents: все"
    ]
   },
   {
@@ -8080,7 +8144,7 @@
    "title": "Kehlani Düsseldorf Tickets",
    "date": "2026-12-05",
    "time": "",
-   "end_date": "2026-12-05",
+   "end_date": "",
    "venue": "PSD Bank Dome",
    "address": "PSD Bank Dome, Düsseldorf, Germany, Düsseldorf",
    "locality": "Düsseldorf",
@@ -8169,7 +8233,7 @@
    "title": "beabadoobee Düsseldorf Tickets",
    "date": "2026-12-07",
    "time": "",
-   "end_date": "2026-12-07",
+   "end_date": "",
    "venue": "Mitsubishi Electric Halle",
    "address": "Mitsubishi Electric Halle, Düsseldorf, Germany, Düsseldorf",
    "locality": "Düsseldorf",
@@ -8362,23 +8426,6 @@
    "source": "Блошиные рынки (MFT)"
   },
   {
-   "title": "The Jury Experience – Der 20-Millionen-Dollar-Raub",
-   "date": "2026-12-17",
-   "time": "",
-   "end_date": "2027-02-13",
-   "venue": "Capitol Theater",
-   "address": "Erkrather Str. 30, Düsseldorf-Stadtbezirk 3// 40233, Dusseldorf",
-   "locality": "Dusseldorf",
-   "price": "26.00",
-   "url": "https://allevents.in/dusseldorf/the-jury-experience-der-20-millionen-dollar-raub/2700029248181816",
-   "category": "событие",
-   "description": "",
-   "source": "allevents: все",
-   "also_in": [
-    "allevents: все"
-   ]
-  },
-  {
    "title": "Weiden - DEG",
    "date": "2026-12-18",
    "time": "20:00",
@@ -8425,17 +8472,17 @@
    "source": "StadtStrand"
   },
   {
-   "title": "Moonlight Market",
+   "title": "Moonlight Market – Düsseldorfs Nachtmarkt im Blumengroßmarkt",
    "date": "2026-12-19",
    "time": "",
    "end_date": "2026-12-19",
-   "venue": "Blumengroßmarkt Düsseldorf",
+   "venue": "Blumengroßmarkt",
    "address": "Ulmenstraße 275, 40468, Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://meine-flohmarkt-termine.de/moonlight-market/23786587/details",
+   "url": "https://meine-flohmarkt-termine.de/moonlight-market-dusseldorfs-nachtmarkt-im-blumengrossmarkt/23840772/details",
    "category": "рынок",
-   "description": "🌙MOONLIGHT MARKET - Neuer Nachtflohmarkt in Düsseldorf Der Moonlight Market findet regelmäßig an einem Samstag im Monat auf dem Blumengroßmarkt statt – und bringt alles zusammen, was wir lieben: Secondhand-Schätzchen, Retro-Funde, Schmuck, Fashion, Keramik, Deko &",
+   "description": "Was dich erwartet Nacht der Künste Spezial - Eine Stunde länger geöffnet (bis 00:00 Uhr) Der Moonlight Market ist kein klassischer Markt. Es ist ein Nacht-Event mit Marktatmosphäre: gute Vibes, spannende Stände, neue Lieblingsstücke – und zwischendurch immer was L",
    "source": "Блошиные рынки (MFT)",
    "also_in": [
     "Блошиные рынки (MFT)"
@@ -8821,6 +8868,7 @@
    "horizon_days": 400,
    "big": true,
    "also_in": [
+    "visitduesseldorf.de",
     "visitduesseldorf.de",
     "visitduesseldorf.de",
     "visitduesseldorf.de"
