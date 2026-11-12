@@ -1,0 +1,14 @@
+{
+  "type": "story",
+  "status": "scheduled",
+  "publish_at": "2026-11-14T08:00:00+01:00",
+  "media": [
+    "d0.mp4",
+    "d1.mp4",
+    "d2.mp4",
+    "d3.mp4",
+    "d4.mp4"
+  ],
+  "auto": true,
+  "music": "upbeat-mixkit-839.mp3"
+}
