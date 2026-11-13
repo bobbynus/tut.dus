@@ -56,10 +56,13 @@ def candidates():
 
 
 PROMPT = """Ты редактор Instagram ТУТ.DUS — «Дюссельдорф на русском». Делаем рилс «Выходные за 30 секунд» на {days}.
+{voice}
+
 Из событий ниже выбери 5 самых интересных и разных для обычных жителей (семьи, концерты, рынки, спорт, бесплатное).
-Не выдумывай: дни, время, место бери только из данных. Без оценок, которых нет в данных. Названия групп и площадок — в оригинале.
-Верни JSON: {{"items": [{{"day": "пт|сб|вс|пт–вс", "time": "HH:MM или ''", "title": "по-русски, до 30 символов",
-"text": "одна фраза по-русски, до 70 символов", "place": "площадка, до 24 символов", "tag": "концерт|рынок|детям|бесплатно|спорт|фестиваль|театр|вечер"}}]}}
+Дни, время, место и то, что именно будет, бери только из данных. Названия групп и площадок — в оригинале.
+Верни JSON: {{"intro": "фраза-зацепка от редакции про эти выходные в целом, до 60 символов",
+"items": [{{"day": "пт|сб|вс|пт–вс", "time": "HH:MM или ''", "title": "по-русски и понятно, что это, до 30 символов",
+"text": "одна живая фраза до 75 символов: что там будет и кому зайдёт", "place": "площадка, до 24 символов", "tag": "концерт|рынок|детям|бесплатно|спорт|фестиваль|театр|вечер"}}]}}
 События: {events}"""
 
 
@@ -68,10 +71,13 @@ def pick(cands):
     days = f"{FRI.day}–{DAYS[-1].day} {MONTHS[DAYS[-1].month - 1]}"
     try:
         import gemini
-        model, out = gemini.call(PROMPT.format(days=days, events=json.dumps(slim, ensure_ascii=False)), kind="copy", temperature=0.4)
-        items = json.loads(out)["items"][:5]
+        from voice import VOICE, stamps
+        model, out = gemini.call(PROMPT.format(days=days, voice=VOICE, events=json.dumps(slim, ensure_ascii=False)), kind="copy", temperature=0.7)
+        got = json.loads(out)
         print(f"Gemini: {model}")
-        return items
+        if stamps(out):
+            print("::warning::штампы в тексте:", ", ".join(stamps(out)))
+        return got["items"][:5], (got.get("intro") or "").strip()
     except Exception as e:
         print(f"Gemini: {e} — простой отбор")
     res = []
@@ -81,10 +87,10 @@ def pick(cands):
         res.append({"day": day, "time": e.get("time", ""), "title": daily.short(e["title"], 30),
                     "text": daily.short(e.get("description", ""), 70), "place": daily.short(e.get("venue", ""), 24),
                     "tag": e.get("category", "")})
-    return res
+    return res, ""
 
 
-def build(items, post_dir):
+def build(items, post_dir, intro=""):
     picker = Picker(FRI)
     days = f"{FRI.day}–{DAYS[-1].day} {MONTHS[DAYS[-1].month - 1]}"
     slides, videos = [], {}
@@ -100,7 +106,7 @@ def build(items, post_dir):
 
     esc = daily.esc
     slides.append(slide("w0", GENERIC, f'<div class="tag">Куда пойти</div><h1 style="font-size:112px">Выходные {esc(days)}</h1>'
-                                       f'<p class="sub">{len(items)} идей на пятницу, субботу и воскресенье</p>'))
+                                       f'<p class="sub">{esc(intro or f"{len(items)} идей, куда выбраться из дома")}</p>'))
     for n, it in enumerate(items, 1):
         when = " · ".join(x for x in (it.get("day"), it.get("time")) if x)
         slides.append(slide(f"w{n}", themes(f"{it.get('title', '')} {it.get('text', '')}", it.get("place", ""), it.get("tag", "")),
@@ -108,8 +114,8 @@ def build(items, post_dir):
                             f'<p class="sub">{esc(it.get("text"))}</p><div class="list"><div class="it"><b>Где</b>'
                             f'<span>{esc(it.get("place"))}</span></div></div>'))
     slides.append(slide(f"w{len(items) + 1}", GENERIC,
-                        '<div class="tag">Каждый день</div><h1>Сохрани и отправь другу</h1>'
-                        '<p class="sub">Что происходит сегодня — каждое утро в сторис. Подробности и ссылки — в Telegram: t.me/tutdus</p>'))
+                        '<div class="tag">А вы куда?</div><h1>Отправьте тому, с кем пойдёте</h1>'
+                        '<p class="sub">Мы что-то упустили? Напишите в комментариях. А план на каждый день — утром в сторис.</p>'))
     page = ('<!doctype html><html lang="ru"><head><meta charset="utf-8"><title>weekend</title>'
             '<link rel="stylesheet" href="brand.css"><link rel="stylesheet" href="v2.css"><style>'
             '.story.v2 { height: 1920px; padding: 260px 84px 380px } .story.v2 h1 { font-size: 92px }</style></head><body>'
@@ -131,9 +137,9 @@ def main():
     cands = candidates()
     if len(cands) < 3:
         print("На выходные мало событий — рилс не делаем"); return
-    items = pick(cands)
+    items, intro = pick(cands)
     post_dir.mkdir(parents=True, exist_ok=True)
-    ids, videos = build(items, post_dir)
+    ids, videos = build(items, post_dir, intro)
     from make_reel import read_seconds
     texts = json.loads((post_dir / "texts.json").read_text())
     segs = []
@@ -163,10 +169,14 @@ def main():
         p.unlink()
     days = f"{FRI.day}–{DAYS[-1].day} {MONTHS[DAYS[-1].month - 1]}"
     lines = [f"Выходные {days}: куда пойти в Дюссельдорфе 🗓", ""]
+    if intro:
+        lines += [intro, ""]
     for it in items:
         when = " ".join(x for x in (it.get("day"), it.get("time")) if x)
-        lines.append(f"▫️ {when} — {it.get('title')}" + (f" ({it['place']})" if it.get("place") else ""))
-    lines += ["", "Сохрани и отправь тем, с кем пойдёшь 👇", "Что происходит сегодня — каждое утро в сторис."]
+        lines.append(f"▫️ {when} — {it.get('title')}" + (f" ({it['place']})" if it.get("place") else "")
+                     + (f". {it['text'].rstrip('.')}." if it.get("text") else ""))
+    lines += ["", "А вы куда собираетесь? Напишите в комментариях — вдруг мы что-то упустили 👇",
+              "План на каждый день — утром в сторис."]
     if music.credit(track.name):
         lines += ["", "🎵 " + music.credit(track.name)]
     lines += ["",

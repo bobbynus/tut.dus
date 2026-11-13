@@ -73,6 +73,13 @@ def collect():
         except Exception as e:
             failed += 1
             print(f"✗ {post_dir.name}: {e}")
+    try:  # подписчики по дням — видно, растёт ли аккаунт
+        me = get("me", fields="followers_count,media_count")
+        acc = data.setdefault("_account", {"type": "account", "days": {}})
+        acc["days"][now.date().isoformat()] = {"followers": me.get("followers_count"), "media": me.get("media_count")}
+        print(f"Подписчиков: {me.get('followers_count')}")
+    except Exception as e:
+        print(f"✗ подписчики: {e}")
     DATA.parent.mkdir(exist_ok=True)
     DATA.write_text(json.dumps(data, ensure_ascii=False, indent=1) + "\n")
     print(f"Статистика: обновлено {ok}, ошибок {failed}")
@@ -87,7 +94,10 @@ def story_hold(rec):
 
 def report(data):
     lines = [f"# Что заходит (обновлено {datetime.now():%d.%m.%Y})", ""]
-    posts = [(k, v) for k, v in data.items() if v["type"] != "story" and v["items"]]
+    days = sorted((data.get("_account") or {}).get("days", {}).items())
+    if days:
+        lines += ["Подписчики: " + " → ".join(f"{v['followers']} ({k[8:]}.{k[5:7]})" for k, v in days[-8:]), ""]
+    posts = [(k, v) for k, v in data.items() if v["type"] not in ("story", "account") and v.get("items")]
     posts.sort(key=lambda kv: -(kv[1]["items"][0].get("reach") or 0))
     if posts:
         lines += ["## Посты и рилсы (охват / сохранения / репосты)", ""]
@@ -95,12 +105,13 @@ def report(data):
             i = v["items"][0]
             lines.append(f"- {v['published_at'][:10]} {v['title']}: {i.get('reach', '—')} / {i.get('saved', '—')} / {i.get('shares', '—')}"
                          + (f", просмотров {i['views']}" if i.get("views") else ""))
-    stories = sorted(((k, v) for k, v in data.items() if v["type"] == "story" and v["items"]), key=lambda kv: kv[0])[-14:]
+    stories = sorted(((k, v) for k, v in data.items() if v["type"] == "story" and v.get("items")), key=lambda kv: kv[0])[-14:]
     if stories:
         lines += ["", "## Утренние сторис (охват первой → последней)", ""]
         for k, v in stories:
             reach = [str(i.get("reach", "—")) for i in v["items"]]
-            lines.append(f"- {k[6:]}: {' → '.join(reach)}  темы: {', '.join(v.get('tags', [])) or '—'}")
+            replies = sum(i.get("replies") or 0 for i in v["items"])
+            lines.append(f"- {k[6:]}: {' → '.join(reach)}  ответов: {replies}  темы: {', '.join(v.get('tags', [])) or '—'}")
     hint = hints(data)
     if hint:
         lines += ["", f"Подсказка для отбора: {hint}"]

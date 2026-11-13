@@ -99,15 +99,16 @@ class Picker:
         self.usage = json.loads(USAGE.read_text()) if USAGE.exists() else {}
         self.taken = set()
 
-    def pick(self, wanted, min_video=0.0, allow_video=True):
-        """wanted — темы по важности. Возвращает запись каталога или None (тогда фирменный фон)."""
+    def pick(self, wanted, min_video=0.0, allow_video=True, avoid=()):
+        """wanted — темы по важности; avoid — темы, которые не подходят (ночные кадры для утреннего приветствия).
+        Возвращает запись каталога или None (тогда фирменный фон)."""
         if not wanted:
             return None
         weight = {t: len(wanted) - i for i, t in enumerate(wanted)}
         fresh_since = (self.today - timedelta(days=REPEAT_DAYS)).isoformat()
         scored = []
         for it in self.items:
-            if it["file"] in self.taken:
+            if it["file"] in self.taken or set(avoid) & set(it["tags"]):
                 continue
             is_video = it["file"].endswith(".mp4")
             if is_video and (not allow_video or video_len(LIB / it["file"]) < min_video):
