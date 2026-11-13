@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-13T09:11",
- "count": 785,
+ "generated_at": "2026-11-13T16:20",
+ "count": 828,
  "events": [
   {
    "title": "A44:  Düsseldorf -> Essen",
@@ -293,6 +293,7 @@
    "description": "von Marc-Uwe Kling und Astrid Henn Regie Philipp Alfons Heitmann, Matts Johan Leenders",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -333,20 +334,6 @@
    "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
    "category": "выставка",
    "description": "Einzelausstellung „Pareidolie“ der Künstlerin Naomie Kremer in Düsseldorf!",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-13",
-   "time": "10:00",
-   "end_date": ""
-  },
-  {
-   "title": "Radu Darvas. Fotografien aus Siebenbürgen",
-   "venue": "Stiftung Gerhart-Hauptmann-Haus",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.g-h-h.de/veranstaltung/ausstellung-wiedergutmachung-fotografien-aus-siebenbuergen-von-radu-darvas",
-   "category": "выставка",
-   "description": "Ausstellung mit Fotografien aus Siebenbürgen von Radu Darvas. Die Fotos dokumentieren den Alltag der älteren Generation der Siebenbürger Sachsen in den Dörfern.",
    "source": "Visit Düsseldorf",
    "date": "2026-11-13",
    "time": "10:00",
@@ -680,6 +667,7 @@
    "source": "Kunstpalast",
    "horizon_days": 120,
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -698,20 +686,6 @@
    "source": "Prinz"
   },
   {
-   "title": "OPEN STAGE",
-   "date": "2026-11-13",
-   "time": "19:00",
-   "end_date": "2026-11-13",
-   "venue": "Central 2",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "Frei",
-   "url": "https://www.dhaus.de/programm/spielplan/open-stage/3076/",
-   "category": "театр",
-   "description": "Comedy-Edition mit Canberk Köktürk u. v. a. Deine Bühne. Dein Auftritt",
-   "source": "D'haus (Schauspielhaus)"
-  },
-  {
    "title": "Ausstellungseröffnung: Thomas Schütte",
    "date": "2026-11-13",
    "time": "19:00",
@@ -726,6 +700,39 @@
    "source": "Kunstsammlung NRW (K20/K21)",
    "horizon_days": 120,
    "also_in": [
+    "Visit Düsseldorf",
+    "Visit Düsseldorf"
+   ]
+  },
+  {
+   "title": "OPEN STAGE",
+   "date": "2026-11-13",
+   "time": "19:00",
+   "end_date": "2026-11-13",
+   "venue": "Central 2",
+   "address": "Gustaf-Gründgens-Platz 1",
+   "locality": "Düsseldorf",
+   "price": "Frei",
+   "url": "https://www.dhaus.de/programm/spielplan/open-stage/3076/",
+   "category": "театр",
+   "description": "Comedy-Edition mit Canberk Köktürk u. v. a. Deine Bühne. Dein Auftritt",
+   "source": "D'haus (Schauspielhaus)"
+  },
+  {
+   "title": "vielleicht_regen_",
+   "date": "2026-11-13",
+   "time": "19:00",
+   "end_date": "2026-11-13",
+   "venue": "tanzhaus nrw",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://prinz.de/events/vielleicht-regen/2026-11-13/",
+   "category": "событие",
+   "description": "Dein Veranstaltungskalender für Düsseldorf zeigt die wichtigsten Veranstaltungen deiner Stadt.",
+   "source": "Prinz",
+   "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -784,23 +791,6 @@
    "category": "театр",
    "description": "Dein Veranstaltungskalender für Düsseldorf zeigt die wichtigsten Veranstaltungen deiner Stadt.",
    "source": "Prinz"
-  },
-  {
-   "title": "vielleicht_regen_",
-   "date": "2026-11-13",
-   "time": "19:00",
-   "end_date": "2026-11-13",
-   "venue": "tanzhaus nrw",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/vielleicht-regen/2026-11-13/",
-   "category": "событие",
-   "description": "Dein Veranstaltungskalender für Düsseldorf zeigt die wichtigsten Veranstaltungen deiner Stadt.",
-   "source": "Prinz",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
   },
   {
    "title": "April Art – Tour 2026",
@@ -929,7 +919,8 @@
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
     "Visit Düsseldorf",
-    "Prinz"
+    "Prinz",
+    "Visit Düsseldorf"
    ]
   },
   {
@@ -946,6 +937,7 @@
    "description": "Dein Veranstaltungskalender für Düsseldorf zeigt die wichtigsten Veranstaltungen deiner Stadt.",
    "source": "Prinz",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -1020,57 +1012,6 @@
    "source": "Prinz"
   },
   {
-   "title": "Tim Vantol – I’m Coming Home The Intimate Solo Tour 2026",
-   "date": "2026-11-13",
-   "time": "20:00",
-   "end_date": "2026-11-13",
-   "venue": "Stone im Ratinger Hof",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/tim-vantol-im-coming-home-the-intimate-solo-tour-2026/2026-11-13/",
-   "category": "концерт",
-   "description": "Dein Veranstaltungskalender für Düsseldorf zeigt die wichtigsten Veranstaltungen deiner Stadt.",
-   "source": "Prinz",
-   "also_in": [
-    "allevents: выходные"
-   ]
-  },
-  {
-   "title": "Gayle Tufts – Please don’t Stop the Music",
-   "date": "2026-11-13",
-   "time": "20:00",
-   "end_date": "2026-11-13",
-   "venue": "Savoy Theater",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/gayle-tufts-please-dont-stop-the-music-2/2026-11-13/",
-   "category": "событие",
-   "description": "Dein Veranstaltungskalender für Düsseldorf zeigt die wichtigsten Veranstaltungen deiner Stadt.",
-   "source": "Prinz",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
-  },
-  {
-   "title": "TUTTY TRAN – Wok-Life-Balance",
-   "date": "2026-11-13",
-   "time": "20:00",
-   "end_date": "2026-11-13",
-   "venue": "Mitsubishi Electric Halle",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://prinz.de/events/tutty-tran-wok-life-balance-2/2026-11-13/",
-   "category": "событие",
-   "description": "Dein Veranstaltungskalender für Düsseldorf zeigt die wichtigsten Veranstaltungen deiner Stadt.",
-   "source": "Prinz",
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
-  },
-  {
    "title": "Romeo und Julia",
    "date": "2026-11-13",
    "time": "20:00",
@@ -1088,32 +1029,58 @@
    ]
   },
   {
-   "title": "KORSAKOW",
+   "title": "Tim Vantol – I’m Coming Home The Intimate Solo Tour 2026",
    "date": "2026-11-13",
    "time": "20:00",
    "end_date": "2026-11-13",
-   "venue": "Pitcher",
+   "venue": "Stone im Ratinger Hof",
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://prinz.de/events/korsakow/2026-11-13/",
+   "url": "https://prinz.de/events/tim-vantol-im-coming-home-the-intimate-solo-tour-2026/2026-11-13/",
    "category": "концерт",
    "description": "Dein Veranstaltungskalender für Düsseldorf zeigt die wichtigsten Veranstaltungen deiner Stadt.",
-   "source": "Prinz"
+   "source": "Prinz",
+   "also_in": [
+    "allevents: выходные",
+    "allevents: выходные"
+   ]
   },
   {
-   "title": "Leise rieselt der Schmäh 2026 – Roncalli’s Apollo Varieté",
+   "title": "Gayle Tufts – Please don’t Stop the Music",
    "date": "2026-11-13",
    "time": "20:00",
    "end_date": "2026-11-13",
-   "venue": "Roncalli's Apollo Variete",
+   "venue": "Savoy Theater",
    "address": "",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://prinz.de/events/wintershow-2026-roncallis-apollo-variete/2026-11-13/",
-   "category": "театр",
+   "url": "https://prinz.de/events/gayle-tufts-please-dont-stop-the-music-2/2026-11-13/",
+   "category": "событие",
    "description": "Dein Veranstaltungskalender für Düsseldorf zeigt die wichtigsten Veranstaltungen deiner Stadt.",
-   "source": "Prinz"
+   "source": "Prinz",
+   "also_in": [
+    "Visit Düsseldorf",
+    "Visit Düsseldorf"
+   ]
+  },
+  {
+   "title": "TUTTY TRAN – Wok-Life-Balance",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "end_date": "2026-11-13",
+   "venue": "Mitsubishi Electric Halle",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://prinz.de/events/tutty-tran-wok-life-balance-2/2026-11-13/",
+   "category": "событие",
+   "description": "Dein Veranstaltungskalender für Düsseldorf zeigt die wichtigsten Veranstaltungen deiner Stadt.",
+   "source": "Prinz",
+   "also_in": [
+    "Visit Düsseldorf",
+    "Visit Düsseldorf"
+   ]
   },
   {
    "title": "Hayato Sumino in Düsseldorf",
@@ -1129,6 +1096,7 @@
    "description": "Dein Veranstaltungskalender für Düsseldorf zeigt die wichtigsten Veranstaltungen deiner Stadt.",
    "source": "Prinz",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -1165,6 +1133,34 @@
    "also_in": [
     "Prinz"
    ]
+  },
+  {
+   "title": "KORSAKOW",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "end_date": "2026-11-13",
+   "venue": "Pitcher",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://prinz.de/events/korsakow/2026-11-13/",
+   "category": "концерт",
+   "description": "Dein Veranstaltungskalender für Düsseldorf zeigt die wichtigsten Veranstaltungen deiner Stadt.",
+   "source": "Prinz"
+  },
+  {
+   "title": "Leise rieselt der Schmäh 2026 – Roncalli’s Apollo Varieté",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "end_date": "2026-11-13",
+   "venue": "Roncalli's Apollo Variete",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://prinz.de/events/wintershow-2026-roncallis-apollo-variete/2026-11-13/",
+   "category": "театр",
+   "description": "Dein Veranstaltungskalender für Düsseldorf zeigt die wichtigsten Veranstaltungen deiner Stadt.",
+   "source": "Prinz"
   },
   {
    "title": "Doc Esser",
@@ -1319,6 +1315,36 @@
    "category": "вечеринка",
    "description": "Wir können auch anders: 50+ Party",
    "source": "zakk"
+  },
+  {
+   "title": "Memmingen - DEG",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "end_date": "",
+   "venue": "на выезде",
+   "address": "",
+   "locality": "",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/",
+   "category": "спорт",
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": true
+  },
+  {
+   "title": "DEL2: DEG vs. Memmingen",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "end_date": "",
+   "venue": "PSD BANK DOME",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/gamecenter/b25d101a699a148996e41b752183c1ff/",
+   "category": "sport",
+   "description": "Spieltag 15 der DEL2-Saison 2026/27.",
+   "source": "DEG"
   },
   {
    "title": "Der Rausch",
@@ -1560,34 +1586,6 @@
    "category": "вечеринка",
    "description": "",
    "source": "allevents: выходные"
-  },
-  {
-   "title": "Eva Rubinstein. Proof of Life",
-   "venue": "Museum für Gartenkunst",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Am 4. September eröffnet die Sonderausstellung „Eva Rubinstein. Proof of Life“ im Museum für Gartenkunst im Ostflügel von Schloss Benrath.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-13",
-   "time": "",
-   "end_date": "2026-11-29"
-  },
-  {
-   "title": "Plastikmüll im Rhein. Die große Reise des kleinen Plastiks",
-   "venue": "Naturkundemuseum",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Plastik ist aus unserem Alltag nicht mehr wegzudenken. Als Virtual-Reality-Erlebnis zeichnet die Ausstellung die Wege von Plastikmüll in die Umwelt nach.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-13",
-   "time": "",
-   "end_date": "2027-04-04"
   },
   {
    "title": "Waffen der Tiere",
@@ -1996,34 +1994,6 @@
    "end_date": "2026-11-22"
   },
   {
-   "title": "60 Jahre diplomatische Beziehungen zwischen Israel und Deutschland",
-   "venue": "Rathaus",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Die Verbindungen zwischen Deutschland und Israel sind heute vielfältig und stark: durch Städtepartnerschaften, Kultur, Sport, Tourismus und wirtschaftliche Zusammenarbeit.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-13",
-   "time": "",
-   "end_date": "2026-11-30"
-  },
-  {
-   "title": "Farbwelten",
-   "venue": "DRK „zentrum plus“ Friedrichstadt",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Farbwelten sind mehr als Farben: Sie übermitteln Gefühle und Stimmungen und entspringen dem Inneren – wie die Worte eines Gedichtes.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-13",
-   "time": "",
-   "end_date": "2027-02-26"
-  },
-  {
    "title": "Julia Reisinger. Iniusta iustitia",
    "venue": "Kunsthalle Düsseldorf",
    "address": "",
@@ -2036,20 +2006,6 @@
    "date": "2026-11-13",
    "time": "",
    "end_date": "2027-01-17"
-  },
-  {
-   "title": "Düsseldorf 1941. Jahr der Eskalation",
-   "venue": "Mahn- und Gedenkstätte Düsseldorf",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Die Mahn- und Gedenkstätte zeigt ab Dienstag, 3. November 2026, ihre neue Sonderausstellung \"Düsseldorf 1941. Jahr der Eskalation\".",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-13",
-   "time": "",
-   "end_date": "2027-08-28"
   },
   {
    "title": "Sienna Maria Baumann: Declutter",
@@ -2164,20 +2120,6 @@
    "end_date": "2027-05-23"
   },
   {
-   "title": "Kaiserswerther Diakonie zeigt Werke von Walter Liggesmeyer",
-   "venue": "K3",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Die E.ON Art Collection übergibt der Kaiserswerther Diakonie 45 Gemälde von Walter Liggesmeyer (1938–2017).",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-13",
-   "time": "",
-   "end_date": "2026-12-31"
-  },
-  {
    "title": "Leise rieselt der Schmäh - Wiener Kaffeehausgeschichten",
    "venue": "Roncalli’s Apollo-Varieté",
    "address": "",
@@ -2190,20 +2132,6 @@
    "date": "2026-11-13",
    "time": "",
    "end_date": "2027-01-10"
-  },
-  {
-   "title": "Playground. Ein Spielplatz im Museum",
-   "venue": "K20 Kunstsammlung Nordrhein-Westfalen",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://shop.kunstsammlung.de/de/offers/a571",
-   "category": "выставка",
-   "description": "Die Ausstellung „Playground“ lädt Kinder dazu ein, zu berühren, zu klettern, zu rennen und ihrer Fantasie freien Lauf zu lassen – in einer träumerischen Landschaft, die wie aus einer anderen Welt wirkt.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-13",
-   "time": "",
-   "end_date": "2027-07-18"
   },
   {
    "title": "Ballett am Rhein: Forsythe/Eyal",
@@ -2693,6 +2621,7 @@
    "description": "Ein Schauspiel von Heinrich von Kleist Regie Ulrich Rasche",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -2865,6 +2794,21 @@
    "end_date": ""
   },
   {
+   "title": "Thomas Schütte",
+   "date": "2026-11-14",
+   "time": "",
+   "end_date": "2027-04-11",
+   "venue": "K21",
+   "address": "Ständehausstraße 1",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.kunstsammlung.de/de/exhibitions/thomas-schuette-2026",
+   "category": "выставка",
+   "description": "Thomas Schütte",
+   "source": "Kunstsammlung NRW (K20/K21)",
+   "horizon_days": 120
+  },
+  {
    "title": "Good Charlotte Düsseldorf Tickets",
    "date": "2026-11-14",
    "time": "",
@@ -2889,7 +2833,7 @@
    "title": "Bloc Party & Interpol Düsseldorf Tickets",
    "date": "2026-11-14",
    "time": "",
-   "end_date": "2026-11-14",
+   "end_date": "",
    "venue": "PSD Bank Dome",
    "address": "PSD Bank Dome, Düsseldorf, Germany, Düsseldorf",
    "locality": "Düsseldorf",
@@ -2904,21 +2848,6 @@
     "allevents: выходные",
     "allevents: все"
    ]
-  },
-  {
-   "title": "Thomas Schütte",
-   "date": "2026-11-14",
-   "time": "",
-   "end_date": "2027-04-11",
-   "venue": "K21",
-   "address": "Ständehausstraße 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstsammlung.de/de/exhibitions/thomas-schuette-2026",
-   "category": "выставка",
-   "description": "Thomas Schütte",
-   "source": "Kunstsammlung NRW (K20/K21)",
-   "horizon_days": 120
   },
   {
    "title": "OPERATION OLDSCHOOL V",
@@ -3023,6 +2952,48 @@
    "source": "zakk"
   },
   {
+   "title": "Playground. Ein Spielplatz im Museum",
+   "venue": "K20 Kunstsammlung Nordrhein-Westfalen",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://shop.kunstsammlung.de/de/offers/a571",
+   "category": "выставка",
+   "description": "Die Ausstellung „Playground“ lädt Kinder dazu ein, zu berühren, zu klettern, zu rennen und ihrer Fantasie freien Lauf zu lassen – in einer träumerischen Landschaft, die wie aus einer anderen Welt wirkt.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-14",
+   "time": "",
+   "end_date": "2027-07-18"
+  },
+  {
+   "title": "Eva Rubinstein. Proof of Life",
+   "venue": "Museum für Gartenkunst",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Am 4. September eröffnet die Sonderausstellung „Eva Rubinstein. Proof of Life“ im Museum für Gartenkunst im Ostflügel von Schloss Benrath.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-14",
+   "time": "",
+   "end_date": "2026-11-29"
+  },
+  {
+   "title": "Plastikmüll im Rhein. Die große Reise des kleinen Plastiks",
+   "venue": "Naturkundemuseum",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Plastik ist aus unserem Alltag nicht mehr wegzudenken. Als Virtual-Reality-Erlebnis zeichnet die Ausstellung die Wege von Plastikmüll in die Umwelt nach.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-14",
+   "time": "",
+   "end_date": "2027-04-04"
+  },
+  {
    "title": "Ruth Janßen: Das Frauencafé Hexenkessel",
    "venue": "BiBaBuZe",
    "address": "",
@@ -3035,6 +3006,20 @@
    "date": "2026-11-14",
    "time": "",
    "end_date": "2027-01-10"
+  },
+  {
+   "title": "Düsseldorf 1941. Jahr der Eskalation",
+   "venue": "Mahn- und Gedenkstätte Düsseldorf",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Die Mahn- und Gedenkstätte zeigt ab Dienstag, 3. November 2026, ihre neue Sonderausstellung \"Düsseldorf 1941. Jahr der Eskalation\".",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-14",
+   "time": "",
+   "end_date": "2027-08-28"
   },
   {
    "title": "Die Mitternachtstür",
@@ -3133,6 +3118,20 @@
    "date": "2026-11-14",
    "time": "",
    "end_date": "2027-01-09"
+  },
+  {
+   "title": "Versammlungen in der Düsseldorfer Innenstadt",
+   "date": "2026-11-14",
+   "time": "",
+   "end_date": "",
+   "venue": "",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.presseportal.de/blaulicht/pm/13248/6389306",
+   "category": "важное",
+   "description": "Aufgrund mehrerer Versammlungen in der Innenstadt rechnet die Düsseldorfer Polizei am Samstag, den 14. November 2026, ab den Mittagsstunden mit stärkeren Verkehrsbeeinträchtigungen.",
+   "source": "Полиция Дюссельдорфа"
   },
   {
    "title": "Linklaters-Familientag zur Ausstellung „Thomas Schütte“: Bauen. Formen. Schauen.",
@@ -3479,8 +3478,39 @@
    "source": "Kunstpalast",
    "horizon_days": 120,
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
+  },
+  {
+   "title": "DEG - Ravensburg",
+   "date": "2026-11-15",
+   "time": "17:00",
+   "end_date": "",
+   "venue": "PSD Bank Dome",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/",
+   "category": "спорт",
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": false
+  },
+  {
+   "title": "DEL2: DEG vs. Ravensburg",
+   "date": "2026-11-15",
+   "time": "17:00",
+   "end_date": "",
+   "venue": "PSD BANK DOME",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.ticket-onlineshop.com/ols/deg/de/del2/channel/shop/areaplan/venue/event/676994?utm_source=DEG+Homepage&utm_medium=Spielplan+Seite&utm_campaign=RVT_15112026",
+   "category": "sport",
+   "description": "Spieltag 16 der DEL2-Saison 2026/27.",
+   "source": "DEG"
   },
   {
    "title": "Eishockey: Düsseldorfer EG - Ravensburg Towerstars",
@@ -3541,6 +3571,7 @@
    "description": "von Suzie Miller Regie Anna Stiepani",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -3558,6 +3589,7 @@
    "description": "von Takao Baba & Ensemble frei nach dem Film Die sieben Samurai von Akira Kurosawa Regie Takao Baba",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -3619,23 +3651,6 @@
    "end_date": ""
   },
   {
-   "title": "Poesieschlachtpunktacht",
-   "venue": "zakk - Zentrum für Aktion, Kultur und Kommunikation",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "лекция",
-   "description": "Worte, die man nicht mehr vergisst. Poet*innen, die inspirieren. Eine Wahnsinnsmetapher, die dich ehrfürchtig den Kopf schütteln lässt. Dieser eine schlechte Gag, der dich zum Kichern bringt.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-15",
-   "time": "20:00",
-   "end_date": "",
-   "also_in": [
-    "zakk"
-   ]
-  },
-  {
    "title": "westcoast JAZZ",
    "venue": "Destille",
    "address": "",
@@ -3672,6 +3687,20 @@
    "url": "https://posttick.com/c/intermp/ebi_12_04_2026_mitsubishi_electric_halle_duesseldorf/de/",
    "category": "концерт",
    "description": "Iranische Popmusik",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-15",
+   "time": "20:00",
+   "end_date": ""
+  },
+  {
+   "title": "Poesieschlachtpunktacht",
+   "venue": "zakk - Zentrum für Aktion, Kultur und Kommunikation",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "лекция",
+   "description": "Worte, die man nicht mehr vergisst. Poet*innen, die inspirieren. Eine Wahnsinnsmetapher, die dich ehrfürchtig den Kopf schütteln lässt. Dieser eine schlechte Gag, der dich zum Kichern bringt.",
    "source": "Visit Düsseldorf",
    "date": "2026-11-15",
    "time": "20:00",
@@ -3939,6 +3968,48 @@
    "end_date": "2026-11-30"
   },
   {
+   "title": "60 Jahre diplomatische Beziehungen zwischen Israel und Deutschland",
+   "venue": "Rathaus",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Die Verbindungen zwischen Deutschland und Israel sind heute vielfältig und stark: durch Städtepartnerschaften, Kultur, Sport, Tourismus und wirtschaftliche Zusammenarbeit.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-16",
+   "time": "",
+   "end_date": "2026-11-30"
+  },
+  {
+   "title": "Farbwelten",
+   "venue": "DRK „zentrum plus“ Friedrichstadt",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Farbwelten sind mehr als Farben: Sie übermitteln Gefühle und Stimmungen und entspringen dem Inneren – wie die Worte eines Gedichtes.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-16",
+   "time": "",
+   "end_date": "2027-02-26"
+  },
+  {
+   "title": "Kaiserswerther Diakonie zeigt Werke von Walter Liggesmeyer",
+   "venue": "K3",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Die E.ON Art Collection übergibt der Kaiserswerther Diakonie 45 Gemälde von Walter Liggesmeyer (1938–2017).",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-16",
+   "time": "",
+   "end_date": "2026-12-31"
+  },
+  {
    "title": "Nein: Gegen die Militarisierung der Gegenwart",
    "date": "2026-11-16",
    "time": "",
@@ -4080,6 +4151,36 @@
    "end_date": ""
   },
   {
+   "title": "DEG - Rosenheim",
+   "date": "2026-11-17",
+   "time": "19:30",
+   "end_date": "",
+   "venue": "PSD Bank Dome",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/",
+   "category": "спорт",
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": false
+  },
+  {
+   "title": "DEL2: DEG vs. Bietigheim",
+   "date": "2026-11-17",
+   "time": "19:30",
+   "end_date": "",
+   "venue": "PSD BANK DOME",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.ticket-onlineshop.com/ols/deg/de/del2/channel/shop/areaplan/venue/event/676996?utm_source=DEG+Homepage&utm_medium=Spielplan+Seite&utm_campaign=SBR_17112026",
+   "category": "sport",
+   "description": "Spieltag 17 der DEL2-Saison 2026/27.",
+   "source": "DEG"
+  },
+  {
    "title": "Eishockey: Düsseldorfer EG - Starbulls Rosenheim",
    "venue": "PSD BANK DOME",
    "address": "",
@@ -4219,6 +4320,7 @@
    "description": "Ein Stück über Mut und Freundschaft von Saša Stanišić Regie Carmen Schwarz",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -4463,6 +4565,25 @@
    "end_date": ""
   },
   {
+   "title": "Élisabeth Pion, Klavier",
+   "date": "2026-11-18",
+   "time": "20:00",
+   "end_date": "",
+   "venue": "Robert-Schumann-Saal",
+   "address": "Ehrenhof 4-5",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.kunstpalast.de/de/event/talente-entdecken-elisabeth-pion/?date=18.11.2026&time=20:00",
+   "category": "концерт",
+   "description": "Talente entdecken",
+   "source": "Kunstpalast",
+   "horizon_days": 120,
+   "also_in": [
+    "Visit Düsseldorf",
+    "Visit Düsseldorf"
+   ]
+  },
+  {
    "title": "The Prodigy Düsseldorf Tickets",
    "date": "2026-11-18",
    "time": "20:00",
@@ -4479,24 +4600,6 @@
     "allevents: все",
     "allevents: концерты",
     "allevents: все",
-    "Visit Düsseldorf"
-   ]
-  },
-  {
-   "title": "Élisabeth Pion, Klavier",
-   "date": "2026-11-18",
-   "time": "20:00",
-   "end_date": "",
-   "venue": "Robert-Schumann-Saal",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/talente-entdecken-elisabeth-pion/?date=18.11.2026&time=20:00",
-   "category": "концерт",
-   "description": "Talente entdecken",
-   "source": "Kunstpalast",
-   "horizon_days": 120,
-   "also_in": [
     "Visit Düsseldorf"
    ]
   },
@@ -4668,6 +4771,7 @@
    "description": "Ein Stück über Mut und Freundschaft von Saša Stanišić Regie Carmen Schwarz",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -4843,6 +4947,7 @@
    "description": "von Katharina Bill / Anton Tschechow Regie Katharina Bill",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -4917,6 +5022,7 @@
    "description": "von Anton Tschechow Regie Barbara Frey",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -5297,6 +5403,7 @@
    "description": "Ein Stück über Mut und Freundschaft von Saša Stanišić Regie Carmen Schwarz",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -5327,6 +5434,22 @@
    "date": "2026-11-20",
    "time": "13:30",
    "end_date": ""
+  },
+  {
+   "title": "Dresden - DEG",
+   "date": "2026-11-20",
+   "time": "17:00",
+   "end_date": "",
+   "venue": "на выезде",
+   "address": "",
+   "locality": "",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/",
+   "category": "спорт",
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": true
   },
   {
    "title": "Yorgos Stamkopoulos: Short Cut",
@@ -5412,6 +5535,7 @@
    "description": "von Ingmar Bergman Regie Thorleifur Örn Arnarsson",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -5456,6 +5580,34 @@
    "date": "2026-11-20",
    "time": "19:30",
    "end_date": ""
+  },
+  {
+   "title": "stadt.raum.experimente – Abschlussausstellung und Eröffnung mit Artist Talk",
+   "venue": "Filmwerkstatt",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Die Abschlussausstellung der dritten Ausgabe von stadt.raum.experimente widmet sich den 2025 und 2026 im öffentlichen Raum Düsseldorfs realisierten Kunstprojekten von Anna Mirbach und Christi Knak Tschaikowskaja.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-20",
+   "time": "19:30",
+   "end_date": ""
+  },
+  {
+   "title": "DEL2: Dresden vs. DEG",
+   "date": "2026-11-20",
+   "time": "19:30",
+   "end_date": "",
+   "venue": "",
+   "address": "",
+   "locality": "Dresden",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/gamecenter/07174691a71524008f90724f96682642/",
+   "category": "sport",
+   "description": "Spieltag 18 der DEL2-Saison 2026/27.",
+   "source": "DEG"
   },
   {
    "title": "Hatsune Miku Düsseldorf Tickets",
@@ -5605,24 +5757,20 @@
    ]
   },
   {
-   "title": "The Winter Village auf der Königsallee",
+   "title": "Candlelight: Tribut an Hans Zimmer",
    "date": "2026-11-20",
    "time": "",
-   "end_date": "2026-12-30",
-   "venue": "Königsallee",
-   "address": "Königsallee",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://koenigsallee-duesseldorf.de/the-winter-village-auf-der-koenigsallee/",
-   "category": "markt",
-   "description": "Die Königsallee verwandelt sich zur Weihnachtszeit in eine Winterlandschaft aus weißen Glascontainern, gemütlichen Hütten und Genussstationen mit stimmungsvoller Beleuchtung.",
-   "source": "Mr. Düsseldorf (RSS)",
+   "end_date": "2027-03-27",
+   "venue": "Palais Wittgenstein",
+   "address": "Bilker Straße 7-9, Düsseldorf-Stadtbezirk 1// 40213, Dusseldorf",
+   "locality": "Dusseldorf",
+   "price": "34.00",
+   "url": "https://allevents.in/dusseldorf/candlelight-tribut-an-hans-zimmer/2700029248181506",
+   "category": "событие",
+   "description": "",
+   "source": "allevents: все",
    "also_in": [
-    "Visit Düsseldorf",
-    "Visit Düsseldorf",
-    "Visit Düsseldorf",
-    "Visit Düsseldorf",
-    "Visit Düsseldorf"
+    "allevents: все"
    ]
   },
   {
@@ -5642,23 +5790,6 @@
     "allevents: все",
     "allevents: концерты",
     "allevents: живая музыка"
-   ]
-  },
-  {
-   "title": "Candlelight: Tribut an Hans Zimmer",
-   "date": "2026-11-20",
-   "time": "",
-   "end_date": "",
-   "venue": "Palais Wittgenstein",
-   "address": "Bilker Straße 7-9, Düsseldorf-Stadtbezirk 1// 40213, Dusseldorf",
-   "locality": "Dusseldorf",
-   "price": "34.00",
-   "url": "https://allevents.in/dusseldorf/candlelight-tribut-an-hans-zimmer/2700029248181506",
-   "category": "событие",
-   "description": "",
-   "source": "allevents: все",
-   "also_in": [
-    "allevents: все"
    ]
   },
   {
@@ -5774,6 +5905,20 @@
    "source": "zakk"
   },
   {
+   "title": "The Winter Village",
+   "venue": "",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "рынок",
+   "description": "Entlang der Königsallee entsteht mit The Winter Village ein eleganter Weihnachtsmarkt, der Tradition und zeitgenössisches Design in einer stilvollen Winterlandschaft vereint.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-20",
+   "time": "",
+   "end_date": "2026-12-30"
+  },
+  {
    "title": "Weihnachtspromenade",
    "venue": "",
    "address": "",
@@ -5871,6 +6016,7 @@
    "description": "Antworten auf diese und weitere Fragen gibt der Informationstag \"Gemeinsam wohnen – gemeinsam gestalten!\" am Samstag, 21. November 2026, von 11 bis 15 Uhr in der Zentralbibliothek, Konrad-Adenauer-Platz 1.",
    "source": "Пресс-служба города",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -6061,6 +6207,20 @@
    "source": "D'haus (Schauspielhaus)"
   },
   {
+   "title": "stadt.raum.experimente – Abschlussausstellung und Eröffnung mit Artist Talk",
+   "venue": "Filmwerkstatt",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Die Abschlussausstellung der dritten Ausgabe von stadt.raum.experimente widmet sich den 2025 und 2026 im öffentlichen Raum Düsseldorfs realisierten Kunstprojekten von Anna Mirbach und Christi Knak Tschaikowskaja.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-21",
+   "time": "16:00",
+   "end_date": ""
+  },
+  {
    "title": "Martin Waldbauer: Buchpräsentation und Artisttalk",
    "venue": "Galerie noir blanche",
    "address": "",
@@ -6072,6 +6232,20 @@
    "source": "Visit Düsseldorf",
    "date": "2026-11-21",
    "time": "16:00",
+   "end_date": ""
+  },
+  {
+   "title": "\"My song be like a flower!\" - Klangbilder aus Natur und Wandel",
+   "venue": "St. Joseph",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "концерт",
+   "description": "Unter dem Titel \"My song be like a flower!\" präsentiert der junge kammerchor düsseldorf Werke von Renaissance bis Gegenwart, in denen verschiedene Aspekte der Natur dargestellt werden.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-21",
+   "time": "17:00",
    "end_date": ""
   },
   {
@@ -6242,6 +6416,7 @@
    "description": "von Kim de l’Horizon nach einer Fassung und Inszenierung von Sebastian Schug",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -6330,6 +6505,7 @@
    "source": "Kunstpalast",
    "horizon_days": 120,
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -6606,6 +6782,20 @@
    "end_date": ""
   },
   {
+   "title": "stadt.raum.experimente – Abschlussausstellung und Eröffnung mit Artist Talk",
+   "venue": "Filmwerkstatt",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Die Abschlussausstellung der dritten Ausgabe von stadt.raum.experimente widmet sich den 2025 und 2026 im öffentlichen Raum Düsseldorfs realisierten Kunstprojekten von Anna Mirbach und Christi Knak Tschaikowskaja.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-22",
+   "time": "16:00",
+   "end_date": ""
+  },
+  {
    "title": "ECCE / Claire Croizé: The Round",
    "venue": "tanzhaus nrw",
    "address": "",
@@ -6787,6 +6977,36 @@
    "date": "2026-11-22",
    "time": "18:00",
    "end_date": ""
+  },
+  {
+   "title": "DEG - Weißwasser",
+   "date": "2026-11-22",
+   "time": "18:30",
+   "end_date": "",
+   "venue": "PSD Bank Dome",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/",
+   "category": "спорт",
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": false
+  },
+  {
+   "title": "DEL2: DEG vs. Krefeld",
+   "date": "2026-11-22",
+   "time": "18:30",
+   "end_date": "",
+   "venue": "PSD BANK DOME",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.ticket-onlineshop.com/ols/deg/de/del2/channel/shop/areaplan/venue/event/676998?utm_source=DEG+Homepage&utm_medium=Spielplan+Seite&utm_campaign=LFX_22112026",
+   "category": "sport",
+   "description": "Spieltag 19 der DEL2-Saison 2026/27.",
+   "source": "DEG"
   },
   {
    "title": "Eishockey: Düsseldorfer EG - Lausitzer Füchse",
@@ -7046,6 +7266,7 @@
    "source": "Kunstpalast",
    "horizon_days": 120,
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -7369,6 +7590,7 @@
    "description": "von Wajdi Mouawad Regie Bassam Ghazi",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -7517,6 +7739,7 @@
    "source": "Schloss Benrath",
    "horizon_days": 21,
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf",
     "Visit Düsseldorf",
     "Visit Düsseldorf"
@@ -7694,6 +7917,7 @@
    "description": "von Alice Birch nach Federico García Lorca Regie Lucia Bihler",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -8020,6 +8244,22 @@
    "end_date": ""
   },
   {
+   "title": "Freiburg - DEG",
+   "date": "2026-11-27",
+   "time": "19:30",
+   "end_date": "",
+   "venue": "на выезде",
+   "address": "",
+   "locality": "",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/",
+   "category": "спорт",
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": true
+  },
+  {
    "title": "Die Zauberflöte",
    "venue": "Deutsche Oper am Rhein",
    "address": "",
@@ -8032,6 +8272,20 @@
    "date": "2026-11-27",
    "time": "19:30",
    "end_date": ""
+  },
+  {
+   "title": "DEL2: Freiburg vs. DEG",
+   "date": "2026-11-27",
+   "time": "19:30",
+   "end_date": "",
+   "venue": "",
+   "address": "",
+   "locality": "Freiburg",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/gamecenter/dba16a218cf8cab83396f133239d5bdb/",
+   "category": "sport",
+   "description": "Spieltag 20 der DEL2-Saison 2026/27.",
+   "source": "DEG"
   },
   {
    "title": "Vivaldi – Die vier Jahreszeiten",
@@ -8048,6 +8302,7 @@
    "source": "Kunstpalast",
    "horizon_days": 120,
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -8219,20 +8474,6 @@
    "date": "2026-11-27",
    "time": "21:00",
    "end_date": ""
-  },
-  {
-   "title": "SEVENS Schokoladenverkostung",
-   "date": "2026-11-27",
-   "time": "",
-   "end_date": "2026-11-29",
-   "venue": "SEVENS",
-   "address": "Königsallee 56",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.mrduesseldorf.de/Lieblingslaeden/sevens-duesseldorf/",
-   "category": "markt",
-   "description": "Vom 27. bis 29. November kannst du bei einer Schokoladenverkostung der Schweizer Manufaktur Läderach besondere Weihnachtssorten probieren.",
-   "source": "Mr. Düsseldorf (RSS)"
   },
   {
    "title": "Volksgarten parkrun Düsseldorf",
@@ -8576,6 +8817,7 @@
    "description": "von Kim de l’Horizon nach einer Fassung und Inszenierung von Sebastian Schug",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -9098,6 +9340,36 @@
    "horizon_days": 120
   },
   {
+   "title": "DEG - Bietigheim",
+   "date": "2026-11-29",
+   "time": "17:00",
+   "end_date": "",
+   "venue": "PSD Bank Dome",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/",
+   "category": "спорт",
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": false
+  },
+  {
+   "title": "DEL2: DEG vs. Bad Nauheim",
+   "date": "2026-11-29",
+   "time": "17:00",
+   "end_date": "",
+   "venue": "PSD BANK DOME",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.ticket-onlineshop.com/ols/deg/de/del2/channel/shop/areaplan/venue/event/677000?utm_source=DEG+Homepage&utm_medium=Spielplan+Seite&utm_campaign=SCB_29112026",
+   "category": "sport",
+   "description": "Spieltag 21 der DEL2-Saison 2026/27.",
+   "source": "DEG"
+  },
+  {
    "title": "erstKlassik! - Daniel Ottensamer; Stephan Koncz; Christoph Traxler",
    "venue": "Robert-Schumann-Saal",
    "address": "",
@@ -9385,6 +9657,7 @@
    "source": "Kunstpalast",
    "horizon_days": 120,
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -9429,6 +9702,36 @@
    "date": "2026-12-01",
    "time": "18:00",
    "end_date": ""
+  },
+  {
+   "title": "DEG - Landshut",
+   "date": "2026-12-01",
+   "time": "19:30",
+   "end_date": "",
+   "venue": "PSD Bank Dome",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/",
+   "category": "спорт",
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": false
+  },
+  {
+   "title": "DEL2: DEG vs. Landshut",
+   "date": "2026-12-01",
+   "time": "19:30",
+   "end_date": "",
+   "venue": "PSD BANK DOME",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.ticket-onlineshop.com/ols/deg/de/del2/channel/shop/areaplan/venue/event/677002?utm_source=DEG+Homepage&utm_medium=Spielplan+Seite&utm_campaign=EVL_01122026",
+   "category": "sport",
+   "description": "Spieltag 22 der DEL2-Saison 2026/27.",
+   "source": "DEG"
   },
   {
    "title": "Eishockey: Düsseldorfer EG - EV Landshut",
@@ -10174,6 +10477,36 @@
    "end_date": ""
   },
   {
+   "title": "DEG - Regensburg",
+   "date": "2026-12-04",
+   "time": "19:30",
+   "end_date": "",
+   "venue": "PSD Bank Dome",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/",
+   "category": "спорт",
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": false
+  },
+  {
+   "title": "DEL2: DEG vs. Regensburg",
+   "date": "2026-12-04",
+   "time": "19:30",
+   "end_date": "",
+   "venue": "PSD BANK DOME",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.ticket-onlineshop.com/ols/deg/de/del2/channel/shop/areaplan/venue/event/677004?utm_source=DEG+Homepage&utm_medium=Spielplan+Seite&utm_campaign=EBR_04122026",
+   "category": "sport",
+   "description": "Schoolsday - Spieltag 23 der DEL2-Saison 2026/27.",
+   "source": "DEG"
+  },
+  {
    "title": "Bernarda Albas Haus",
    "venue": "D'haus Düsseldorfer Schauspielhaus",
    "address": "",
@@ -10342,6 +10675,7 @@
    "source": "Kunstpalast",
    "horizon_days": 120,
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -10473,7 +10807,7 @@
    "title": "Kehlani Düsseldorf Tickets",
    "date": "2026-12-05",
    "time": "",
-   "end_date": "",
+   "end_date": "2026-12-05",
    "venue": "PSD Bank Dome",
    "address": "PSD Bank Dome, Düsseldorf, Germany, Düsseldorf",
    "locality": "Düsseldorf",
@@ -10530,6 +10864,36 @@
    "horizon_days": 120
   },
   {
+   "title": "Bad Nauheim - DEG",
+   "date": "2026-12-06",
+   "time": "18:30",
+   "end_date": "",
+   "venue": "на выезде",
+   "address": "",
+   "locality": "",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/",
+   "category": "спорт",
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": true
+  },
+  {
+   "title": "DEL2: Bad Nauheim vs. DEG",
+   "date": "2026-12-06",
+   "time": "18:30",
+   "end_date": "",
+   "venue": "",
+   "address": "",
+   "locality": "Bad Nauheim",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/gamecenter/b4e5597b72a793605976f6be506269cc/",
+   "category": "sport",
+   "description": "Spieltag 24 der DEL2-Saison 2026/27.",
+   "source": "DEG"
+  },
+  {
    "title": "Flohmarkt am Blumengroßmarkt Düsseldorf",
    "date": "2026-12-06",
    "time": "",
@@ -10561,7 +10925,7 @@
    "title": "beabadoobee Düsseldorf Tickets",
    "date": "2026-12-07",
    "time": "",
-   "end_date": "",
+   "end_date": "2026-12-07",
    "venue": "Mitsubishi Electric Halle",
    "address": "Mitsubishi Electric Halle, Düsseldorf, Germany, Düsseldorf",
    "locality": "Düsseldorf",
@@ -10653,20 +11017,6 @@
    "horizon_days": 120
   },
   {
-   "title": "Weihnachtscircus Düsseldorf",
-   "date": "2026-12-10",
-   "time": "",
-   "end_date": "2027-01-03",
-   "venue": "Staufenplatz",
-   "address": "Staufenplatz 10",
-   "locality": "Düsseldorf",
-   "price": "ab 15 €",
-   "url": "https://weihnachtscircus-duesseldorf.ticket.io/pkjjxn/",
-   "category": "kinder",
-   "description": "Vom 10. Dezember bis 3. Januar erwartet dich eine besondere Jubiläumsshow.",
-   "source": "Mr. Düsseldorf (RSS)"
-  },
-  {
    "title": "Viktoria Köln — Fortuna",
    "date": "2026-12-11",
    "time": "19:00",
@@ -10683,18 +11033,34 @@
    "away": true
   },
   {
-   "title": "Überraschungsaktion im SEVENS mit The Paradise Now",
+   "title": "Kassel - DEG",
    "date": "2026-12-11",
-   "time": "",
-   "end_date": "2026-12-12",
-   "venue": "SEVENS",
-   "address": "Königsallee 56",
-   "locality": "Düsseldorf",
+   "time": "19:30",
+   "end_date": "",
+   "venue": "на выезде",
+   "address": "",
+   "locality": "",
    "price": "",
-   "url": "https://www.mrduesseldorf.de/Lieblingslaeden/sevens-duesseldorf/",
-   "category": "event",
-   "description": "Weiter geht’s am 11. und 12. Dezember mit einer Überraschungsaktion gemeinsam mit dem Düsseldorfer Hotspot The Paradise Now.",
-   "source": "Mr. Düsseldorf (RSS)"
+   "url": "https://www.deg-eishockey.de/",
+   "category": "спорт",
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": true
+  },
+  {
+   "title": "DEL2: Kassel vs. DEG",
+   "date": "2026-12-11",
+   "time": "19:30",
+   "end_date": "",
+   "venue": "",
+   "address": "",
+   "locality": "Kassel",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/gamecenter/02b36aabcce1a5eb6432591f96106a42/",
+   "category": "sport",
+   "description": "Spieltag 25 der DEL2-Saison 2026/27.",
+   "source": "DEG"
   },
   {
    "title": "Yoga",
@@ -10802,6 +11168,20 @@
    "category": "рынок",
    "description": "Der über die Stadtgrenzen bekannte Samstags-Trödelmarkt auf dem Schützenplatz erfreut sich seit Jahren großer Beliebtheit. Das ausgewogene Verhältnis von Neuware und Trödel abgerundet durch ein ausreichendes Gastronomieangebot lädt zum Bummeln und Verweilen ein. &",
    "source": "Блошиные рынки (MFT)"
+  },
+  {
+   "title": "Glühwein-Party im Lilo",
+   "date": "2026-12-12",
+   "time": "",
+   "end_date": "",
+   "venue": "Das Lilo",
+   "address": "Emmastraße 36a",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.instagram.com/daslilo.cafebar/?hl=de",
+   "category": "vecherynika",
+   "description": "Am 12. Dezember steigt hier auch eine große Glühwein-Party mit kühlen Drinks, heißen Crêpes und entspannten Sounds, die dich direkt in Feierlaune bringen.",
+   "source": "Mr. Düsseldorf"
   },
   {
    "title": "Radschlägermarkt Düsseldorf",
@@ -10998,6 +11378,36 @@
    "horizon_days": 120
   },
   {
+   "title": "Weiden - DEG",
+   "date": "2026-12-18",
+   "time": "20:00",
+   "end_date": "",
+   "venue": "на выезде",
+   "address": "",
+   "locality": "",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/",
+   "category": "спорт",
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": true
+  },
+  {
+   "title": "DEL2: Crimmitschau vs. DEG",
+   "date": "2026-12-18",
+   "time": "20:00",
+   "end_date": "",
+   "venue": "",
+   "address": "",
+   "locality": "Crimmitschau",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/gamecenter/04b033e361a7afd46e47bdcac25a55e4/",
+   "category": "sport",
+   "description": "Spieltag 26 der DEL2-Saison 2026/27.",
+   "source": "DEG"
+  },
+  {
    "title": "HIIT",
    "date": "2026-12-19",
    "time": "11:30",
@@ -11026,22 +11436,6 @@
    "description": "GYM. Fit mit Kunst",
    "source": "Kunstpalast",
    "horizon_days": 120
-  },
-  {
-   "title": "Fortuna — Rot-Weiss Essen",
-   "date": "2026-12-19",
-   "time": "14:00",
-   "end_date": "",
-   "venue": "Merkur Spiel-Arena",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.f95.de/",
-   "category": "спорт",
-   "description": "3. Лига, 18. Spieltag",
-   "source": "OpenLigaDB",
-   "team": "Fortuna",
-   "away": false
   },
   {
    "title": "SATURDAY NIGHT PUBQUIZ im Klonkk - das Weihnachtsspecial",
@@ -11104,6 +11498,52 @@
    "horizon_days": 120
   },
   {
+   "title": "Rosenheim - DEG",
+   "date": "2026-12-20",
+   "time": "17:00",
+   "end_date": "",
+   "venue": "на выезде",
+   "address": "",
+   "locality": "",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/",
+   "category": "спорт",
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": true
+  },
+  {
+   "title": "DEL2: Bietigheim vs. DEG",
+   "date": "2026-12-20",
+   "time": "17:00",
+   "end_date": "",
+   "venue": "",
+   "address": "",
+   "locality": "Bietigheim-Bissingen",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/gamecenter/0bd244a0a3329c1fd9dcc911da13093d/",
+   "category": "sport",
+   "description": "Spieltag 27 der DEL2-Saison 2026/27.",
+   "source": "DEG"
+  },
+  {
+   "title": "Fortuna — Rot-Weiss Essen",
+   "date": "2026-12-20",
+   "time": "19:30",
+   "end_date": "",
+   "venue": "Merkur Spiel-Arena",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.f95.de/",
+   "category": "спорт",
+   "description": "3. Лига, 18. Spieltag",
+   "source": "OpenLigaDB",
+   "team": "Fortuna",
+   "away": false
+  },
+  {
    "title": "Melan Trödelmarkt Düsseldorf Ikea",
    "date": "2026-12-20",
    "time": "",
@@ -11147,6 +11587,36 @@
    "horizon_days": 120
   },
   {
+   "title": "DEG - Memmingen",
+   "date": "2026-12-23",
+   "time": "19:30",
+   "end_date": "",
+   "venue": "PSD Bank Dome",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/",
+   "category": "спорт",
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": false
+  },
+  {
+   "title": "DEL2: DEG vs. Memmingen",
+   "date": "2026-12-23",
+   "time": "19:30",
+   "end_date": "",
+   "venue": "PSD BANK DOME",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.ticket-onlineshop.com/ols/deg/de/del2/channel/shop/areaplan/venue/event/677006?utm_source=DEG+Homepage&utm_medium=Spielplan+Seite&utm_campaign=MEM_23122026",
+   "category": "sport",
+   "description": "Spieltag 28 der DEL2-Saison 2026/27.",
+   "source": "DEG"
+  },
+  {
    "title": "Sebastian Manz, Klarinette | Schumann Quartett",
    "date": "2026-12-26",
    "time": "17:00",
@@ -11160,6 +11630,96 @@
    "description": "erstKlassik!",
    "source": "Kunstpalast",
    "horizon_days": 120
+  },
+  {
+   "title": "Ravensburg - DEG",
+   "date": "2026-12-26",
+   "time": "18:30",
+   "end_date": "",
+   "venue": "на выезде",
+   "address": "",
+   "locality": "",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/",
+   "category": "спорт",
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": true
+  },
+  {
+   "title": "DEL2: Ravensburg vs. DEG",
+   "date": "2026-12-26",
+   "time": "18:30",
+   "end_date": "",
+   "venue": "",
+   "address": "",
+   "locality": "Ravensburg",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/gamecenter/15e62b5719a53824cb5c555de4454cfb/",
+   "category": "sport",
+   "description": "Spieltag 29 der DEL2-Saison 2026/27.",
+   "source": "DEG"
+  },
+  {
+   "title": "DEG - Landshut",
+   "date": "2026-12-28",
+   "time": "19:30",
+   "end_date": "",
+   "venue": "PSD Bank Dome",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/",
+   "category": "спорт",
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": false
+  },
+  {
+   "title": "DEL2: DEG vs. Landshut",
+   "date": "2026-12-28",
+   "time": "19:30",
+   "end_date": "",
+   "venue": "PSD BANK DOME",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.ticket-onlineshop.com/ols/deg/de/del2/channel/shop/areaplan/venue/event/677008?utm_source=DEG+Homepage&utm_medium=Spielplan+Seite&utm_campaign=EVL_28122026",
+   "category": "sport",
+   "description": "Spieltag 30 der DEL2-Saison 2026/27.",
+   "source": "DEG"
+  },
+  {
+   "title": "DEG - Crimmitschau",
+   "date": "2026-12-30",
+   "time": "19:30",
+   "end_date": "",
+   "venue": "PSD Bank Dome",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/",
+   "category": "спорт",
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": false
+  },
+  {
+   "title": "DEL2: DEG vs. Crimmitschau",
+   "date": "2026-12-30",
+   "time": "19:30",
+   "end_date": "",
+   "venue": "PSD BANK DOME",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.ticket-onlineshop.com/ols/deg/de/del2/channel/shop/areaplan/venue/event/677010?utm_source=DEG+Homepage&utm_medium=Spielplan+Seite&utm_campaign=EPC_30122026",
+   "category": "sport",
+   "description": "Spieltag 31 der DEL2-Saison 2026/27.",
+   "source": "DEG"
   },
   {
    "title": "Trödelmarkt Düsseldorf Schützenplatz",
@@ -11176,6 +11736,36 @@
    "source": "Блошиные рынки (MFT)"
   },
   {
+   "title": "DEG - Weiden",
+   "date": "2027-01-03",
+   "time": "17:00",
+   "end_date": "",
+   "venue": "PSD Bank Dome",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/",
+   "category": "спорт",
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": false
+  },
+  {
+   "title": "DEL2: DEG vs. Crimmitschau",
+   "date": "2027-01-03",
+   "time": "17:00",
+   "end_date": "",
+   "venue": "PSD BANK DOME",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/gamecenter/d5653ca20c43de1dd286d455d821f98e/",
+   "category": "sport",
+   "description": "Spieltag 32 der DEL2-Saison 2026/27.",
+   "source": "DEG"
+  },
+  {
    "title": "Heimspiel: Borussia Düsseldorf gegen TTC OE Bad Homburg",
    "date": "2027-01-05",
    "time": "19:00",
@@ -11187,7 +11777,67 @@
    "url": "https://borussia-duesseldorf.reservix.de/",
    "category": "sport",
    "description": "Am 5. Januar um 19:00 Uhr empfängt der Rekordmeister das Team aus Bad Homburg im ARAG CenterCourt.",
-   "source": "Borussia Düsseldorf (настольный теннис)"
+   "source": "Borussia Düsseldorf"
+  },
+  {
+   "title": "DEG - Dresden",
+   "date": "2027-01-05",
+   "time": "19:30",
+   "end_date": "",
+   "venue": "PSD Bank Dome",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/",
+   "category": "спорт",
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": false
+  },
+  {
+   "title": "DEL2: DEG vs. Dresden",
+   "date": "2027-01-05",
+   "time": "19:30",
+   "end_date": "",
+   "venue": "PSD BANK DOME",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/gamecenter/fbbf8c8801ee3d21447f22f98f6aefbf/",
+   "category": "sport",
+   "description": "Spieltag 33 der DEL2-Saison 2026/27.",
+   "source": "DEG"
+  },
+  {
+   "title": "Bietigheim - DEG",
+   "date": "2027-01-08",
+   "time": "19:30",
+   "end_date": "",
+   "venue": "на выезде",
+   "address": "",
+   "locality": "",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/",
+   "category": "спорт",
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": true
+  },
+  {
+   "title": "DEL2: Bad Nauheim vs. DEG",
+   "date": "2027-01-08",
+   "time": "19:30",
+   "end_date": "",
+   "venue": "",
+   "address": "",
+   "locality": "Bad Nauheim",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/gamecenter/8ac7bbd51b29e8dcf71207954813bb07/",
+   "category": "sport",
+   "description": "Spieltag 34 der DEL2-Saison 2026/27.",
+   "source": "DEG"
   },
   {
    "title": "Niki de Saint Phalle und ihre Kraft zur Selbstermächtigung",
@@ -11260,6 +11910,36 @@
    "description": "GYM. Fit mit Kunst",
    "source": "Kunstpalast",
    "horizon_days": 120
+  },
+  {
+   "title": "DEG - Freiburg",
+   "date": "2027-01-10",
+   "time": "17:00",
+   "end_date": "",
+   "venue": "PSD Bank Dome",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/",
+   "category": "спорт",
+   "description": "DEL2, хоккей",
+   "source": "DEG iCal",
+   "team": "DEG",
+   "away": false
+  },
+  {
+   "title": "DEL2: DEG vs. Freiburg",
+   "date": "2027-01-10",
+   "time": "17:00",
+   "end_date": "",
+   "venue": "PSD BANK DOME",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.deg-eishockey.de/gamecenter/9983b41f27cb562467f35fe167276a45/",
+   "category": "sport",
+   "description": "Clubday - Spieltag 35 der DEL2-Saison 2026/27.",
+   "source": "DEG"
   },
   {
    "title": "Mineralientage Düsseldorf",
@@ -11384,43 +12064,20 @@
    "horizon_days": 400
   },
   {
+   "time": "",
+   "end_date": "2027-07-04",
+   "address": "",
+   "locality": "",
+   "price": "",
+   "url": "",
+   "description": "",
    "title": "Düsseldorfer Frankreichfest",
    "date": "2027-07-02",
-   "time": "",
-   "end_date": "2027-07-04",
-   "venue": "Altstadt und Rheinuferpromenade",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://destination-duesseldorf.de/grossveranstaltungen/",
-   "category": "festivals",
-   "description": "Drei Tage lang zieht ein Hauch von Paris, Provence und Bretagne durch die Altstadt und an der Rheinuferpromenade entlang.",
-   "source": "Großveranstaltungen (город)",
-   "horizon_days": 400,
+   "venue": "Königsallee",
+   "category": "фестиваль",
+   "source": "visitduesseldorf.de",
    "big": true,
-   "also_in": [
-    "visitduesseldorf.de",
-    "visitduesseldorf.de",
-    "visitduesseldorf.de",
-    "visitduesseldorf.de",
-    "visitduesseldorf.de"
-   ]
-  },
-  {
-   "title": "Tour de Düsseldorf",
-   "date": "2027-07-03",
-   "time": "",
-   "end_date": "2027-07-04",
-   "venue": "Rhein",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://destination-duesseldorf.de/grossveranstaltungen/",
-   "category": "event",
-   "description": "Einmal im Jahr wird die Stadt zur Bühne für glänzenden Chrom, knatternde Motoren und zeitlose Eleganz auf vier Rädern.",
-   "source": "Großveranstaltungen (город)",
-   "horizon_days": 400,
-   "big": true
+   "horizon_days": 400
   },
   {
    "time": "",
