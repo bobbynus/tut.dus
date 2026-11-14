@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-14T09:06",
- "count": 760,
+ "generated_at": "2026-11-14T15:06",
+ "count": 743,
  "events": [
   {
    "title": "A44:  Düsseldorf -> Essen",
@@ -250,34 +250,6 @@
    "horizon_days": 120
   },
   {
-   "title": "Pareidolie",
-   "venue": "von fraunberg art gallery",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Einzelausstellung „Pareidolie“ der Künstlerin Naomie Kremer in Düsseldorf!",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-14",
-   "time": "10:00",
-   "end_date": ""
-  },
-  {
-   "title": "Tag der offenen Tür am Heinrich-Hertz-Berufskolleg",
-   "venue": "",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "событие",
-   "description": "Das Heinrich-Hertz-Berufskolleg Düsseldorf lädt zum Tag der offenen Tür ein!",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-14",
-   "time": "10:00",
-   "end_date": ""
-  },
-  {
    "title": "Deutscher Jugendfotopreis - \"Echt jetzt\"",
    "venue": "KIT - Kunst im Tunnel",
    "address": "",
@@ -381,20 +353,6 @@
    "horizon_days": 120
   },
   {
-   "title": "Zukunft kann man lernen!",
-   "venue": "Haus der Universität",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.fes.de/veranstaltungen/veranstaltungsdetail/291304",
-   "category": "лекция",
-   "description": "Die aktuellen PISA-Ergebnisse zeigen, dass das deutsche Bildungssystem grundlegende Reformen benötigt und Bildungserfolg weiterhin stark von der sozialen Herkunft abhängt – die Chancenungleichheit hat sich seit 2015 sogar wieder verschärft.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-14",
-   "time": "13:00",
-   "end_date": ""
-  },
-  {
    "title": "meet+talk – Dialoge zu Gregor Schneiders Haus u r 2026",
    "date": "2026-11-14",
    "time": "13:30",
@@ -423,20 +381,6 @@
    "description": "High Heels Beginner Kurs im Rahmen von GYM. Fit mit Kunst.",
    "source": "Kunstpalast",
    "horizon_days": 120
-  },
-  {
-   "title": "Siebenbürger Sachsen – wohin?",
-   "venue": "Stiftung Gerhart-Hauptmann-Haus",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "лекция",
-   "description": "Im Vortrag sollen die aktuelle Situation in Rumänien und Deutschland näher betrachtet und dabei auch die unterschiedlichen Entwicklungen und Perspektiven beleuchtet werden.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-14",
-   "time": "14:00",
-   "end_date": ""
   },
   {
    "title": "75 Jahre Kunsthaus Victor Popescu",
@@ -476,20 +420,6 @@
    "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
    "category": "театр",
    "description": "Ein alter Koffer öffnet sich – und mit ihm eine kleine Welt aus Märchen und Theater. Im Zentrum steht ein Kleid aus dem Jahr 1760, einst getragen von der Ururgroßmutter Amalie.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-14",
-   "time": "15:00",
-   "end_date": ""
-  },
-  {
-   "title": "Carl Hager: Flaschenpost",
-   "venue": "Galerie Peter Tedden",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://galerie-tedden.de/kategorie/ausstellungen/",
-   "category": "выставка",
-   "description": "",
    "source": "Visit Düsseldorf",
    "date": "2026-11-14",
    "time": "15:00",
@@ -625,6 +555,7 @@
    "description": "Ein Schauspiel von Heinrich von Kleist Regie Ulrich Rasche",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf",
     "Visit Düsseldorf",
     "Visit Düsseldorf"
@@ -799,24 +730,6 @@
    "end_date": ""
   },
   {
-   "title": "Thomas Schütte",
-   "date": "2026-11-14",
-   "time": "",
-   "end_date": "2027-04-11",
-   "venue": "K21",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstsammlung.de/de/exhibitions/thomas-schuette-2026",
-   "category": "выставка",
-   "description": "Ausstellung zu Thomas Schütte in K21.",
-   "source": "Kunstsammlung NRW (K20/K21)",
-   "horizon_days": 120,
-   "also_in": [
-    "Visit Düsseldorf"
-   ]
-  },
-  {
    "title": "Good Charlotte Düsseldorf Tickets",
    "date": "2026-11-14",
    "time": "",
@@ -841,7 +754,7 @@
    "title": "Bloc Party & Interpol Düsseldorf Tickets",
    "date": "2026-11-14",
    "time": "",
-   "end_date": "",
+   "end_date": "2026-11-14",
    "venue": "PSD Bank Dome",
    "address": "PSD Bank Dome, Düsseldorf, Germany, Düsseldorf",
    "locality": "Düsseldorf",
@@ -855,6 +768,25 @@
     "allevents: живая музыка",
     "allevents: выходные",
     "allevents: все"
+   ]
+  },
+  {
+   "title": "Thomas Schütte",
+   "date": "2026-11-14",
+   "time": "",
+   "end_date": "2027-04-11",
+   "venue": "K21",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.kunstsammlung.de/de/exhibitions/thomas-schuette-2026",
+   "category": "выставка",
+   "description": "Ausstellung zu Thomas Schütte in K21.",
+   "source": "Kunstsammlung NRW (K20/K21)",
+   "horizon_days": 120,
+   "also_in": [
+    "Visit Düsseldorf",
+    "Visit Düsseldorf"
    ]
   },
   {
@@ -894,7 +826,7 @@
    "address": "Bayreuther Straße  31, 40597, Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752962/details",
+   "url": "https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23883477/details",
    "category": "рынок",
    "description": "Der über die Stadtgrenzen bekannte Samstags-Trödelmarkt auf dem Schützenplatz erfreut sich seit Jahren großer Beliebtheit. Das ausgewogene Verhältnis von Neuware und Trödel abgerundet durch ein ausreichendes Gastronomieangebot lädt zum Bummeln und Verweilen ein. &",
    "source": "Блошиные рынки (MFT)"
@@ -918,20 +850,6 @@
    ]
   },
   {
-   "title": "Düsseldorf Social Night Out – Nightlife Tour, 3 Bars, Shots und Clubeintritt inklusive",
-   "date": "2026-11-14",
-   "time": "",
-   "end_date": "",
-   "venue": "Treffpunkt Social Night Out Düsseldorf – Mendelssohn-Denkmal",
-   "address": "Heinrich-Heine-Allee 16A, am Mendelssohn-Denkmal, Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "27.82",
-   "url": "https://allevents.in/d%C3%BCsseldorf/düsseldorf-social-night-out-nightlife-tour-3-bars-shots-und-clubeintritt-inklusive/100002001834345415",
-   "category": "вечеринка",
-   "description": "",
-   "source": "allevents: выходные"
-  },
-  {
    "title": "SALSA GALA NIGHT DÜSSELDORF /SoulDance",
    "date": "2026-11-14",
    "time": "",
@@ -942,6 +860,20 @@
    "price": "",
    "url": "https://allevents.in/dusseldorf/salsa-gala-night-dÜsseldorf-souldance/200030231473325",
    "category": "событие",
+   "description": "",
+   "source": "allevents: выходные"
+  },
+  {
+   "title": "Auf in die Welt - Messe für Dein Auslandsjahr & Int. Bildung in Düsseldorf",
+   "date": "2026-11-14",
+   "time": "",
+   "end_date": "2026-11-14",
+   "venue": "Stiftung Gerhart-Hauptmann-Haus",
+   "address": "Bismarckstraße 90, Düsseldorf",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://allevents.in/d%C3%BCsseldorf/auf-in-die-welt-messe-für-dein-auslandsjahr-and-int-bildung-in-düsseldorf/100001997436732035",
+   "category": "выставка",
    "description": "",
    "source": "allevents: выходные"
   },
@@ -1268,34 +1200,6 @@
    "end_date": "2027-02-23"
   },
   {
-   "title": "Serkan Küçüközcü: Prologue",
-   "venue": "Anna Laudel",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://annalaudel.gallery/exhibitions/",
-   "category": "выставка",
-   "description": "Serkan Küçüközcüs Ausstellung „Prologue“ widmet sich den Themen Zeit, Erinnerung und Imagination.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-14",
-   "time": "",
-   "end_date": "2027-01-06"
-  },
-  {
-   "title": "Oğulcan Kuş: Make Sense",
-   "venue": "Anna Laudel",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://annalaudel.gallery/exhibitions/",
-   "category": "выставка",
-   "description": "Mit der Ausstellung „Make Sense“ präsentiert die Galerie Anna Laudel Arbeiten des Künstlers Oğulcan Kuş. Es ist seine zweite Einzelausstellung mit der Galerie und zugleich seine erste Präsentation in Deutschland.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-14",
-   "time": "",
-   "end_date": "2027-01-06"
-  },
-  {
    "title": "Eisstockschießen am Blumengroßmarkt Düsseldorf",
    "venue": "Blumengroßmarkt",
    "address": "",
@@ -1350,34 +1254,6 @@
    "date": "2026-11-14",
    "time": "",
    "end_date": "2027-04-11"
-  },
-  {
-   "title": "Ruth Janßen: Das Frauencafé Hexenkessel",
-   "venue": "BiBaBuZe",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.bibabuze.de",
-   "category": "выставка",
-   "description": "In den 80er Jahren war der „Hexenkessel“ fester Bestandteil der Düsseldorfer Frauen- und Lesbenbewegung.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-14",
-   "time": "",
-   "end_date": "2027-01-10"
-  },
-  {
-   "title": "Inge Schmidt: bis dann, plastische Stücke und Zeichnungen",
-   "venue": "basedonart",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://boa-basedonart.com/",
-   "category": "выставка",
-   "description": "Die Arbeiten von Inge Schmidt zeichnen sich durch eine außergewöhnliche Konzentration auf Material, Form und räumliche Präsenz aus.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-14",
-   "time": "",
-   "end_date": "2026-11-28"
   },
   {
    "title": "Adolf Bierbrauer: \"Das innere Gesicht auf Reisen\"",
@@ -1700,20 +1576,6 @@
    "category": "событие",
    "description": "Im Rahmen von „Dystopie KI? Ein provokantes Projekt“",
    "source": "zakk"
-  },
-  {
-   "title": "Gianni Sammarro: \"à suivre\"",
-   "venue": "",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
-   "category": "выставка",
-   "description": "Im Showroom Tina Miyake werden vom 5. September bis zum 5. Dezember 2026 kleinformatige Aquarelle des Düsseldorfer Künstlers Gianni Sammarro ausgestellt.",
-   "source": "Visit Düsseldorf",
-   "date": "2026-11-14",
-   "time": "",
-   "end_date": "2026-12-05"
   },
   {
    "title": "Friday and Saturday Party at Old Irish Pub",
@@ -2130,22 +1992,9 @@
    "source": "Kunstpalast",
    "horizon_days": 120,
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
-  },
-  {
-   "title": "DEL2: Düsseldorfer EG vs. Ravensburg Towerstars",
-   "date": "2026-11-15",
-   "time": "17:00",
-   "end_date": "2026-11-15",
-   "venue": "PSD BANK DOME",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/0f5e00fb7b1900651f384c2343c3c671/",
-   "category": "спорт",
-   "description": "DEL2-Heimspiel der Düsseldorfer EG.",
-   "source": "DEG"
   },
   {
    "title": "DEG - Ravensburg",
@@ -2224,6 +2073,7 @@
    "also_in": [
     "Visit Düsseldorf",
     "Visit Düsseldorf",
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -2241,6 +2091,7 @@
    "description": "von Takao Baba & Ensemble frei nach dem Film Die sieben Samurai von Akira Kurosawa Regie Takao Baba",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf",
     "Visit Düsseldorf",
     "Visit Düsseldorf"
@@ -2649,6 +2500,20 @@
    ]
   },
   {
+   "title": "Ruth Janßen: Das Frauencafé Hexenkessel",
+   "venue": "BiBaBuZe",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.bibabuze.de",
+   "category": "выставка",
+   "description": "In den 80er Jahren war der „Hexenkessel“ fester Bestandteil der Düsseldorfer Frauen- und Lesbenbewegung.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-16",
+   "time": "",
+   "end_date": "2027-01-10"
+  },
+  {
    "title": "Bücherbasar in der Bibliothek",
    "venue": "Stiftung Gerhart-Hauptmann-Haus",
    "address": "",
@@ -2818,20 +2683,6 @@
    "end_date": ""
   },
   {
-   "title": "DEL2: Düsseldorfer EG vs. Bietigheim Steelers",
-   "date": "2026-11-17",
-   "time": "19:30",
-   "end_date": "2026-11-17",
-   "venue": "PSD BANK DOME",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/24b4f5ed2bbb1da9e448164dcbafda0a/",
-   "category": "спорт",
-   "description": "DEL2-Heimspiel der Düsseldorfer EG.",
-   "source": "DEG"
-  },
-  {
    "title": "DEG - Rosenheim",
    "date": "2026-11-17",
    "time": "19:30",
@@ -2916,6 +2767,34 @@
    "date": "2026-11-17",
    "time": "",
    "end_date": "2027-02-05"
+  },
+  {
+   "title": "Serkan Küçüközcü: Prologue",
+   "venue": "Anna Laudel",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://annalaudel.gallery/exhibitions/",
+   "category": "выставка",
+   "description": "Serkan Küçüközcüs Ausstellung „Prologue“ widmet sich den Themen Zeit, Erinnerung und Imagination.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-17",
+   "time": "",
+   "end_date": "2027-01-06"
+  },
+  {
+   "title": "Oğulcan Kuş: Make Sense",
+   "venue": "Anna Laudel",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://annalaudel.gallery/exhibitions/",
+   "category": "выставка",
+   "description": "Mit der Ausstellung „Make Sense“ präsentiert die Galerie Anna Laudel Arbeiten des Künstlers Oğulcan Kuş. Es ist seine zweite Einzelausstellung mit der Galerie und zugleich seine erste Präsentation in Deutschland.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-17",
+   "time": "",
+   "end_date": "2027-01-06"
   },
   {
    "title": "Der Glas-Chronist - Otfried Reichmann und \"seine Hött\"",
@@ -3015,6 +2894,7 @@
    "description": "Ein Stück über Mut und Freundschaft von Saša Stanišić Regie Carmen Schwarz",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf",
     "Visit Düsseldorf",
     "Visit Düsseldorf"
@@ -3261,6 +3141,25 @@
    "end_date": ""
   },
   {
+   "title": "Élisabeth Pion, Klavier",
+   "date": "2026-11-18",
+   "time": "20:00",
+   "end_date": "",
+   "venue": "Robert-Schumann-Saal",
+   "address": "Ehrenhof 4-5",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.kunstpalast.de/de/event/talente-entdecken-elisabeth-pion/?date=18.11.2026&time=20:00",
+   "category": "концерт",
+   "description": "Konzert in der Reihe Talente entdecken.",
+   "source": "Kunstpalast",
+   "horizon_days": 120,
+   "also_in": [
+    "Visit Düsseldorf",
+    "Visit Düsseldorf"
+   ]
+  },
+  {
    "title": "The Prodigy Düsseldorf Tickets",
    "date": "2026-11-18",
    "time": "20:00",
@@ -3277,24 +3176,6 @@
     "allevents: все",
     "allevents: концерты",
     "allevents: все",
-    "Visit Düsseldorf"
-   ]
-  },
-  {
-   "title": "Élisabeth Pion, Klavier",
-   "date": "2026-11-18",
-   "time": "20:00",
-   "end_date": "",
-   "venue": "Robert-Schumann-Saal",
-   "address": "Ehrenhof 4-5",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.kunstpalast.de/de/event/talente-entdecken-elisabeth-pion/?date=18.11.2026&time=20:00",
-   "category": "концерт",
-   "description": "Konzert in der Reihe Talente entdecken.",
-   "source": "Kunstpalast",
-   "horizon_days": 120,
-   "also_in": [
     "Visit Düsseldorf"
    ]
   },
@@ -3468,6 +3349,7 @@
    "also_in": [
     "Visit Düsseldorf",
     "Visit Düsseldorf",
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -3631,6 +3513,7 @@
    "also_in": [
     "Visit Düsseldorf",
     "Visit Düsseldorf",
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -3705,6 +3588,7 @@
    "description": "von Anton Tschechow Regie Barbara Frey",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf",
     "Visit Düsseldorf",
     "Visit Düsseldorf"
@@ -3878,6 +3762,23 @@
    ]
   },
   {
+   "title": "Strandpiraten on Ice 2026 – Newcomer Special",
+   "date": "2026-11-19",
+   "time": "",
+   "end_date": "2026-11-19",
+   "venue": "Winterwelt Kö-on-Ice",
+   "address": "Dusseldorf",
+   "locality": "Dusseldorf",
+   "price": "",
+   "url": "https://allevents.in/dusseldorf/strandpiraten-on-ice-2026-newcomer-special/200031046630741",
+   "category": "событие",
+   "description": "",
+   "source": "allevents: все",
+   "also_in": [
+    "allevents: все"
+   ]
+  },
+  {
    "title": "Friends not Formalities 02 – vernissage",
    "date": "2026-11-19",
    "time": "",
@@ -3946,6 +3847,20 @@
    "date": "2026-11-19",
    "time": "",
    "end_date": "2026-12-23"
+  },
+  {
+   "title": "Inge Schmidt: bis dann, plastische Stücke und Zeichnungen",
+   "venue": "basedonart",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://boa-basedonart.com/",
+   "category": "выставка",
+   "description": "Die Arbeiten von Inge Schmidt zeichnen sich durch eine außergewöhnliche Konzentration auf Material, Form und räumliche Präsenz aus.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-19",
+   "time": "",
+   "end_date": "2026-11-28"
   },
   {
    "title": "Taras Polataiko«. Auf der Suche nach dem alten Czernowitz",
@@ -4087,6 +4002,7 @@
    "description": "Ein Stück über Mut und Freundschaft von Saša Stanišić Regie Carmen Schwarz",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf",
     "Visit Düsseldorf",
     "Visit Düsseldorf"
@@ -4235,6 +4151,7 @@
    "description": "von Ingmar Bergman Regie Thorleifur Örn Arnarsson",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf",
     "Visit Düsseldorf",
     "Visit Düsseldorf"
@@ -4475,6 +4392,7 @@
    "source": "allevents: все",
    "also_in": [
     "allevents: все",
+    "allevents: концерты",
     "allevents: живая музыка"
    ]
   },
@@ -4589,6 +4507,20 @@
    "category": "вечеринка",
    "description": "jeden 3. Freitag",
    "source": "zakk"
+  },
+  {
+   "title": "Gianni Sammarro: \"à suivre\"",
+   "venue": "",
+   "address": "",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://www.visitduesseldorf.de/erleben/veranstaltungen/veranstaltungskalender",
+   "category": "выставка",
+   "description": "Im Showroom Tina Miyake werden vom 5. September bis zum 5. Dezember 2026 kleinformatige Aquarelle des Düsseldorfer Künstlers Gianni Sammarro ausgestellt.",
+   "source": "Visit Düsseldorf",
+   "date": "2026-11-20",
+   "time": "",
+   "end_date": "2026-12-05"
   },
   {
    "title": "The Winter Village",
@@ -5086,6 +5018,7 @@
    "also_in": [
     "Visit Düsseldorf",
     "Visit Düsseldorf",
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -5174,6 +5107,7 @@
    "source": "Kunstpalast",
    "horizon_days": 120,
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -5252,7 +5186,7 @@
    "address": "Bayreuther Straße  31, 40597, Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752963/details",
+   "url": "https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23883478/details",
    "category": "рынок",
    "description": "Der über die Stadtgrenzen bekannte Samstags-Trödelmarkt auf dem Schützenplatz erfreut sich seit Jahren großer Beliebtheit. Das ausgewogene Verhältnis von Neuware und Trödel abgerundet durch ein ausreichendes Gastronomieangebot lädt zum Bummeln und Verweilen ein. &",
    "source": "Блошиные рынки (MFT)"
@@ -5518,6 +5452,7 @@
    "source": "Kunstpalast",
    "horizon_days": 120,
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -5618,20 +5553,6 @@
    "date": "2026-11-22",
    "time": "18:00",
    "end_date": ""
-  },
-  {
-   "title": "DEL2: Düsseldorfer EG vs. Lausitzer Füchse",
-   "date": "2026-11-22",
-   "time": "18:30",
-   "end_date": "2026-11-22",
-   "venue": "PSD BANK DOME",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/427647c46e604d42f62b3ad6f55db223/",
-   "category": "спорт",
-   "description": "DEL2-Heimspiel der Düsseldorfer EG.",
-   "source": "DEG"
   },
   {
    "title": "DEG - Weißwasser",
@@ -5935,6 +5856,7 @@
    "source": "Kunstpalast",
    "horizon_days": 120,
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -6274,6 +6196,7 @@
    "also_in": [
     "Visit Düsseldorf",
     "Visit Düsseldorf",
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -6422,6 +6345,7 @@
    "source": "Schloss Benrath",
    "horizon_days": 21,
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf",
     "Visit Düsseldorf",
     "Visit Düsseldorf",
@@ -6615,6 +6539,7 @@
    "description": "von Alice Birch nach Federico García Lorca Regie Lucia Bihler",
    "source": "D'haus (Schauspielhaus)",
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf",
     "Visit Düsseldorf",
     "Visit Düsseldorf"
@@ -6987,6 +6912,7 @@
    "source": "Kunstpalast",
    "horizon_days": 120,
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -7503,6 +7429,7 @@
    "also_in": [
     "Visit Düsseldorf",
     "Visit Düsseldorf",
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -7699,23 +7626,6 @@
    ]
   },
   {
-   "title": "ZAUBERSALON RHEINLAND: SimSalaBim | Die Magische DinnerShow | Saison 26/27",
-   "date": "2026-11-28",
-   "time": "",
-   "end_date": "",
-   "venue": "Event-Theater Schwanenhöfe",
-   "address": "Erkrather Straße 234b, Düsseldorf",
-   "locality": "Düsseldorf",
-   "price": "6.95",
-   "url": "https://allevents.in/d%C3%BCsseldorf/zaubersalon-rheinland-simsalabim-die-magische-dinnershow-saison-26-27/100001990099318634",
-   "category": "событие",
-   "description": "",
-   "source": "allevents: все",
-   "also_in": [
-    "allevents: все"
-   ]
-  },
-  {
    "title": "90s only! Düsseldorfs größte 90er Party",
    "date": "2026-11-28",
    "time": "",
@@ -7741,7 +7651,7 @@
    "address": "Bayreuther Straße  31, 40597, Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752964/details",
+   "url": "https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23883479/details",
    "category": "рынок",
    "description": "Der über die Stadtgrenzen bekannte Samstags-Trödelmarkt auf dem Schützenplatz erfreut sich seit Jahren großer Beliebtheit. Das ausgewogene Verhältnis von Neuware und Trödel abgerundet durch ein ausreichendes Gastronomieangebot lädt zum Bummeln und Verweilen ein. &",
    "source": "Блошиные рынки (MFT)"
@@ -7900,11 +7810,10 @@
    "price": "",
    "url": "https://allevents.in/dusseldorf/verkaufsoffener-sonntag-in-düsseldorf-am-29112026/200030485090333",
    "category": "событие",
-   "description": "Am 29. November lädt außerdem ein verkaufsoffener Sonntag zum entspannten Geschenke-Shopping ein.",
+   "description": "Erster Advent, festliche Beleuchtung und von 13 bis 18 Uhr geöffnete Geschäfte: der verkaufsoffene Sonntag lädt ein zum flexiblen und entspannten Shoppen in der Düsseldorfer Innenstadt.",
    "source": "allevents: все",
    "also_in": [
     "allevents: все",
-    "Mr. Düsseldorf (RSS)",
     "Visit Düsseldorf"
    ]
   },
@@ -7997,20 +7906,6 @@
    "end_date": ""
   },
   {
-   "title": "KIEZFÜHRUNG MIT RESTAURANTBESUCH",
-   "date": "2026-11-29",
-   "time": "17:00",
-   "end_date": "2026-11-29",
-   "venue": "Vor dem Central",
-   "address": "Gustaf-Gründgens-Platz 1",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.dhaus.de/programm/spielplan/kiezfuehrung-mit-restaurantbesuch/3130/",
-   "category": "театр",
-   "description": "Geschichten vom KAP1 bis zum Worringer Platz",
-   "source": "D'haus (Schauspielhaus)"
-  },
-  {
    "title": "Daniel Ottensamer | Stephan Koncz | Christoph Traxler",
    "date": "2026-11-29",
    "time": "17:00",
@@ -8025,22 +7920,23 @@
    "source": "Kunstpalast",
    "horizon_days": 120,
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
   {
-   "title": "DEL2: Düsseldorfer EG vs. Starbulls Rosenheim",
+   "title": "KIEZFÜHRUNG MIT RESTAURANTBESUCH",
    "date": "2026-11-29",
    "time": "17:00",
    "end_date": "2026-11-29",
-   "venue": "PSD BANK DOME",
-   "address": "",
+   "venue": "Vor dem Central",
+   "address": "Gustaf-Gründgens-Platz 1",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/6dbb3c2d75b11ebda4540b683bc7514a/",
-   "category": "спорт",
-   "description": "DEL2-Heimspiel der Düsseldorfer EG.",
-   "source": "DEG"
+   "url": "https://www.dhaus.de/programm/spielplan/kiezfuehrung-mit-restaurantbesuch/3130/",
+   "category": "театр",
+   "description": "Geschichten vom KAP1 bis zum Worringer Platz",
+   "source": "D'haus (Schauspielhaus)"
   },
   {
    "title": "DEG - Bietigheim",
@@ -8346,6 +8242,7 @@
    "source": "Kunstpalast",
    "horizon_days": 120,
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -8390,20 +8287,6 @@
    "date": "2026-12-01",
    "time": "18:00",
    "end_date": ""
-  },
-  {
-   "title": "DEL2: Düsseldorfer EG vs. EV Landshut",
-   "date": "2026-12-01",
-   "time": "19:30",
-   "end_date": "2026-12-01",
-   "venue": "PSD BANK DOME",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/0d243cdfc2a44a61e318f1ec8763a9c6/",
-   "category": "спорт",
-   "description": "DEL2-Heimspiel der Düsseldorfer EG.",
-   "source": "DEG"
   },
   {
    "title": "DEG - Landshut",
@@ -9123,20 +9006,6 @@
    "end_date": ""
   },
   {
-   "title": "DEL2: Düsseldorfer EG vs. Eisbären Regensburg (Schoolsday)",
-   "date": "2026-12-04",
-   "time": "19:30",
-   "end_date": "2026-12-04",
-   "venue": "PSD BANK DOME",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/92eb8dadb42447eeb747807a5be1afc8/",
-   "category": "спорт",
-   "description": "DEL2-Heimspiel der Düsseldorfer EG als Schoolsday.",
-   "source": "DEG"
-  },
-  {
    "title": "DEG - Regensburg",
    "date": "2026-12-04",
    "time": "19:30",
@@ -9321,6 +9190,7 @@
    "source": "Kunstpalast",
    "horizon_days": 120,
    "also_in": [
+    "Visit Düsseldorf",
     "Visit Düsseldorf"
    ]
   },
@@ -9726,7 +9596,7 @@
    "address": "Bayreuther Straße  31, 40597, Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752965/details",
+   "url": "https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23883480/details",
    "category": "рынок",
    "description": "Der über die Stadtgrenzen bekannte Samstags-Trödelmarkt auf dem Schützenplatz erfreut sich seit Jahren großer Beliebtheit. Das ausgewogene Verhältnis von Neuware und Trödel abgerundet durch ein ausreichendes Gastronomieangebot lädt zum Bummeln und Verweilen ein. &",
    "source": "Блошиные рынки (MFT)"
@@ -10089,7 +9959,7 @@
    "address": "Bayreuther Straße  31, 40597, Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752966/details",
+   "url": "https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23883481/details",
    "category": "рынок",
    "description": "Der über die Stadtgrenzen bekannte Samstags-Trödelmarkt auf dem Schützenplatz erfreut sich seit Jahren großer Beliebtheit. Das ausgewogene Verhältnis von Neuware und Trödel abgerundet durch ein ausreichendes Gastronomieangebot lädt zum Bummeln und Verweilen ein. &",
    "source": "Блошиные рынки (MFT)"
@@ -10416,7 +10286,7 @@
    "address": "Bayreuther Straße  31, 40597, Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752967/details",
+   "url": "https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23883482/details",
    "category": "рынок",
    "description": "Der über die Stadtgrenzen bekannte Samstags-Trödelmarkt auf dem Schützenplatz erfreut sich seit Jahren großer Beliebtheit. Das ausgewogene Verhältnis von Neuware und Trödel abgerundet durch ein ausreichendes Gastronomieangebot lädt zum Bummeln und Verweilen ein. &",
    "source": "Блошиные рынки (MFT)"
@@ -10526,20 +10396,6 @@
    "horizon_days": 120
   },
   {
-   "title": "DEL2: Düsseldorfer EG vs. Memmingen",
-   "date": "2026-12-23",
-   "time": "19:30",
-   "end_date": "2026-12-23",
-   "venue": "PSD BANK DOME",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/3cfad10e8349a8886f1c81db44b87085/",
-   "category": "спорт",
-   "description": "DEL2-Heimspiel der Düsseldorfer EG.",
-   "source": "DEG"
-  },
-  {
    "title": "DEG - Memmingen",
    "date": "2026-12-23",
    "time": "19:30",
@@ -10601,6 +10457,20 @@
    "away": true
   },
   {
+   "title": "Trödelmarkt Düsseldorf Schützenplatz",
+   "date": "2026-12-26",
+   "time": "",
+   "end_date": "2026-12-26",
+   "venue": "Düsseldorf-Benrath Schützenplatz",
+   "address": "Bayreuther Straße  31, 40597, Düsseldorf",
+   "locality": "Düsseldorf",
+   "price": "",
+   "url": "https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23883483/details",
+   "category": "рынок",
+   "description": "Der über die Stadtgrenzen bekannte Samstags-Trödelmarkt auf dem Schützenplatz erfreut sich seit Jahren großer Beliebtheit. Das ausgewogene Verhältnis von Neuware und Trödel abgerundet durch ein ausreichendes Gastronomieangebot lädt zum Bummeln und Verweilen ein. &",
+   "source": "Блошиные рынки (MFT)"
+  },
+  {
    "title": "Sunday Running Club",
    "date": "2026-12-27",
    "time": "",
@@ -10613,20 +10483,6 @@
    "category": "спорт",
    "description": "Jeden Sonntag geht hier auch der „Sunday Running Club“ ab, bei dem du 5 km oder 10 km mitlaufen kannst.",
    "source": "Mr. Düsseldorf (RSS)"
-  },
-  {
-   "title": "DEL2: Düsseldorfer EG vs. EV Landshut",
-   "date": "2026-12-28",
-   "time": "19:30",
-   "end_date": "2026-12-28",
-   "venue": "PSD BANK DOME",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/94d53f2ca545c77db64be56819d731a0/",
-   "category": "спорт",
-   "description": "DEL2-Heimspiel der Düsseldorfer EG.",
-   "source": "DEG"
   },
   {
    "title": "DEG - Landshut",
@@ -10643,20 +10499,6 @@
    "source": "DEG iCal",
    "team": "DEG",
    "away": false
-  },
-  {
-   "title": "DEL2: Düsseldorfer EG vs. Eispiraten Crimmitschau",
-   "date": "2026-12-30",
-   "time": "19:30",
-   "end_date": "2026-12-30",
-   "venue": "PSD BANK DOME",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/44a044bacaa93076ad1507fd1f43d1c1/",
-   "category": "спорт",
-   "description": "DEL2-Heimspiel der Düsseldorfer EG.",
-   "source": "DEG"
   },
   {
    "title": "DEG - Crimmitschau",
@@ -10697,24 +10539,10 @@
    "address": "Bayreuther Straße  31, 40597, Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752969/details",
+   "url": "https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23883484/details",
    "category": "рынок",
    "description": "Der über die Stadtgrenzen bekannte Samstags-Trödelmarkt auf dem Schützenplatz erfreut sich seit Jahren großer Beliebtheit. Das ausgewogene Verhältnis von Neuware und Trödel abgerundet durch ein ausreichendes Gastronomieangebot lädt zum Bummeln und Verweilen ein. &",
    "source": "Блошиные рынки (MFT)"
-  },
-  {
-   "title": "DEL2: Düsseldorfer EG vs. Bad Nauheim",
-   "date": "2027-01-03",
-   "time": "17:00",
-   "end_date": "2027-01-03",
-   "venue": "PSD BANK DOME",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/d5653ca20c43de1dd286d455d821f98e/",
-   "category": "спорт",
-   "description": "DEL2-Heimspiel der Düsseldorfer EG.",
-   "source": "DEG"
   },
   {
    "title": "DEG - Weiden",
@@ -10745,34 +10573,6 @@
    "category": "спорт",
    "description": "Jeden Sonntag geht hier auch der „Sunday Running Club“ ab, bei dem du 5 km oder 10 km mitlaufen kannst.",
    "source": "Mr. Düsseldorf (RSS)"
-  },
-  {
-   "title": "Tischtennis Bundesliga: Borussia Düsseldorf vs. TTC OE Bad Homburg",
-   "date": "2027-01-05",
-   "time": "19:00",
-   "end_date": "2027-01-05",
-   "venue": "ARAG CenterCourt",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://borussia-duesseldorf.reservix.de/",
-   "category": "спорт",
-   "description": "Am 5. Januar um 19:00 Uhr empfängt der Rekordmeister das Team aus Bad Homburg im ARAG CenterCourt.",
-   "source": "Borussia Düsseldorf"
-  },
-  {
-   "title": "DEL2: Düsseldorfer EG vs. Dresdner Eislöwen",
-   "date": "2027-01-05",
-   "time": "19:30",
-   "end_date": "2027-01-05",
-   "venue": "PSD BANK DOME",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/fbbf8c8801ee3d21447f22f98f6aefbf/",
-   "category": "спорт",
-   "description": "DEL2-Heimspiel der Düsseldorfer EG.",
-   "source": "DEG"
   },
   {
    "title": "DEG - Dresden",
@@ -10858,7 +10658,7 @@
    "address": "Bayreuther Straße  31, 40597, Düsseldorf",
    "locality": "Düsseldorf",
    "price": "",
-   "url": "https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23752970/details",
+   "url": "https://meine-flohmarkt-termine.de/trodelmarkt-dusseldorf-schutzenplatz/23883485/details",
    "category": "рынок",
    "description": "Der über die Stadtgrenzen bekannte Samstags-Trödelmarkt auf dem Schützenplatz erfreut sich seit Jahren großer Beliebtheit. Das ausgewogene Verhältnis von Neuware und Trödel abgerundet durch ein ausreichendes Gastronomieangebot lädt zum Bummeln und Verweilen ein. &",
    "source": "Блошиные рынки (MFT)"
@@ -10891,20 +10691,6 @@
    "description": "Sporttag im Rahmen von GYM. Fit mit Kunst.",
    "source": "Kunstpalast",
    "horizon_days": 120
-  },
-  {
-   "title": "DEL2: Düsseldorfer EG vs. EHC Freiburg (Clubday)",
-   "date": "2027-01-10",
-   "time": "17:00",
-   "end_date": "2027-01-10",
-   "venue": "PSD BANK DOME",
-   "address": "",
-   "locality": "Düsseldorf",
-   "price": "",
-   "url": "https://www.deg-eishockey.de/gamecenter/9983b41f27cb562467f35fe167276a45/",
-   "category": "спорт",
-   "description": "DEL2-Heimspiel der Düsseldorfer EG als Clubday.",
-   "source": "DEG"
   },
   {
    "title": "DEG - Freiburg",
